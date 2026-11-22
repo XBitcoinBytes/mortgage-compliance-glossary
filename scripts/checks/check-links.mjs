@@ -6,6 +6,9 @@ const parts = JSON.parse(await readFile("src/data/parts.json", "utf8"));
 const urls = new Set();
 for (const c of citations) { urls.add(c.url); if (c.cfpbUrl) urls.add(c.cfpbUrl); }
 for (const p of parts) urls.add(p.url);
+const figures = JSON.parse(await readFile("src/data/figures.json", "utf8"));
+for (const f of figures) urls.add(f.url);
+for (const c of citations) if (c.interpUrl) urls.add(c.interpUrl);
 // Hosts that refuse scripted requests (401/403) but load in a browser. Re-verify by hand each release.
 const BOT_BLOCKED = new Set(["guide.freddiemac.com", "www.fema.gov", "www.rd.usda.gov", "singlefamily.fanniemae.com"]);
 const UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36";

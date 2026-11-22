@@ -10,6 +10,7 @@ import {
 } from "../lib/content";
 import { hrefFor, t } from "../lib/i18n";
 import { categoryMap } from "../data/categories";
+import figures from "../data/figures.json";
 
 interface Props {
   lang: Lang;
@@ -39,6 +40,7 @@ const kindLabel: Record<string, string> = {
 const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
 const pageUrl = new URL(hrefFor(lang, `/terms/${term.slug}`), origin).toString();
 const citeText = `${ui.siteName}, “${name},” ${ui.reviewed.toLowerCase()} ${term.reviewed}, ${pageUrl}`;
+const changing = figures.filter((f) => f.terms.includes(term.slug));
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
@@ -72,6 +74,12 @@ const jsonLd = {
     </p>
     {term.reviewFlag && <div class="flag-panel"><strong>{ui.flagged}.</strong> {term.reviewFlag}</div>}
 
+    {changing.length > 0 && (
+      <p class="figure-note">
+        {es ? "Este tema usa cifras que cambian. Cifra vigente: " : "This topic uses figures that change. Current figure: "}
+        {changing.map((f, i) => <>{i > 0 && " · "}<a href={hrefFor(lang, `/figures`) + `#${f.id}`}>{es ? f.es : f.en}</a></>)}
+      </p>
+    )}
     <section class="definition" id="definition" aria-labelledby="def-h">
       <h2 id="def-h">{ui.definition} <a class="anchor" href="#definition" aria-label={ui.sectionLink}>#</a></h2>
       <p>{definition}</p>

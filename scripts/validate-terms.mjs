@@ -115,6 +115,13 @@ for (const slug of trending.slugs ?? []) {
 }
 if (new Set(trending.slugs).size !== trending.slugs.length) fail("trending slugs repeat");
 
+const figures = JSON.parse(await readFile(path.join(root, "src/data/figures.json"), "utf8"));
+for (const figure of figures) {
+  for (const slug of figure.terms) if (!terms.has(slug)) fail(`figure ${figure.id} links missing term ${slug}`);
+  if (!/^https:\/\//.test(figure.url)) fail(`figure ${figure.id} needs an https source`);
+  if (/\$\s?\d/.test(`${figure.cadence} ${figure.esCadence}`)) fail(`figure ${figure.id} must not hard-code a dollar figure`);
+}
+
 if (errors.length) {
   console.error(`validation failed with ${errors.length} error(s):`);
   for (const error of errors.slice(0, 80)) console.error(`- ${error}`);
