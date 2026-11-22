@@ -59,6 +59,32 @@ ES = {
     "reverse-mortgage": ["HECM"],
 }
 
+# CFPB Spanish glossary equivalents where the site's Spanish headword differs
+# (found by scripts/checks/bilingual_check.py). Added as aliases only; whether to
+# switch the headword is for the native-speaker review.
+CFPB_ES = {
+    'ability-to-repay': ['Capacidad de reembolso'],
+    'cash-to-close': ['Dinero en efectivo para el cierre'],
+    'co-signer': ['Cofirmante'],
+    'credit-score': ['Puntaje crediticio', 'puntuación de crédito'],
+    'demand-feature': ['Característica de la demanda'],
+    'dual-tracking': ['Doble seguimiento (dual tracking)'],
+    'finance-charge': ['Cargo financiero'],
+    'fully-indexed-rate': ['Tasa completamente indexada'],
+    'housing-expense-ratio': ['Relación de gastos de vivienda'],
+    'installment-debt': ['Deuda en cuotas'],
+    'mortgage-payoff': ['Pago completo de la hipoteca'],
+    'power-of-attorney': ['Poder legal'],
+    'prepaid-interest': ['Pago anticipado de interés'],
+    'rate-lock': ['Tasa segura', 'bloqueo de tasa'],
+    'redlining': ['Prácticas discriminatorias'],
+    'reinstatement': ['Restitución'],
+    'rental-income': ['Ingresos del alquiler'],
+    'repayment-plan': ['Plan de pagos', 'plan de reembolso'],
+    'revolving-debt': ['Deuda renovable'],
+    'va-funding-fee': ['Tarifa de financiamiento del VA'],
+}
+
 
 def apply(doc):
     slug = doc["slug"]
@@ -69,7 +95,7 @@ def apply(doc):
     doc["aliases"] = en
     es = list(doc["es"]["aliases"])
     acronyms = [a for a in en if a.isupper() and 2 <= len(a) <= 6]
-    for alias in acronyms + ES.get(slug, []):
+    for alias in acronyms + ES.get(slug, []) + CFPB_ES.get(slug, []):
         if alias.lower() not in {a.lower() for a in es} and alias.lower() != doc["es"]["term"].lower():
             es.append(alias)
     doc["es"]["aliases"] = es

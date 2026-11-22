@@ -24,7 +24,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Liquidación de la hipoteca",
-    "aliases": [],
+    "aliases": [
+      "Pago completo de la hipoteca"
+    ],
     "definition": "Una liquidación de la hipoteca es el pago del monto completo exigido para satisfacer el préstamo. Después de la liquidación, el prestamista o el administrador debe liberar el gravamen y reembolsar cualquier depósito en garantía restante, y las primas del seguro hipotecario privado deben terminar. La ley estatal fija cómo se registra la liberación.",
     "details": "La cifra de liquidación viene del estado de liquidación según 12 CFR 1026.36. Una penalidad por pago anticipado, si el pagaré tiene una lícita, se incluye. El excedente del depósito en garantía después de la liquidación es dinero del prestatario. La terminación del PMI en la liquidación es práctica además de legal para los préstamos que ya pasaron las fechas de la HPA. El documento de liberación es una presentación estatal. Una demora puede nublar el título.",
     "complianceNotes": "Aplique la liquidación a la fecha del estado, registre la liberación y reembolse el depósito en garantía con prontitud. No conserve un saldo residual del depósito. Detenga el cobro del seguro hipotecario.",

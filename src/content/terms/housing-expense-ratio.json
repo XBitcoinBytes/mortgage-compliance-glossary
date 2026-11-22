@@ -29,7 +29,8 @@
   "es": {
     "term": "Relación de gasto de vivienda",
     "aliases": [
-      "relación frontal"
+      "relación frontal",
+      "Relación de gastos de vivienda"
     ],
     "definition": "La relación de gasto de vivienda compara el nuevo pago mensual de la vivienda con su ingreso mensual bruto. Se le llama relación frontal. Mira solo la vivienda, no los préstamos de automóvil ni las tarjetas.",
     "details": "El pago por lo general incluye capital, interés, impuestos, seguro y cuotas de la asociación. Fannie Mae enfatiza la relación deuda-ingreso total en B3-6-02 y describe el pago de vivienda en B3-6-03. La suscripción manual de la FHA todavía mira una relación de vivienda en el Manual HUD 4000.1. Una regla práctica vieja, como el 28 por ciento, no es una ley federal.",

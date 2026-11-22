@@ -31,7 +31,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Puntaje de crédito",
-    "aliases": [],
+    "aliases": [
+      "Puntaje crediticio",
+      "puntuación de crédito"
+    ],
     "definition": "Un puntaje de crédito es un número que un modelo produce a partir de la información de su informe de crédito. Los prestamistas lo usan como una parte de la decisión de riesgo. No es su ingreso, y no es una calificación que asigne el gobierno.",
     "details": "Fannie Mae B3-5.1-01 establece los requisitos generales de los puntajes de crédito, incluidos los modelos aceptables. El puntaje usado para el préstamo es el puntaje representativo según B3-5.1-02, que puede no ser el puntaje más alto de la página. Si un acreedor niega el crédito o toma otra acción adversa con base en un informe del consumidor, la Ley de Informes de Crédito Justos, 15 USC 1681m, exige información del puntaje y de la agencia en el aviso de acción adversa. Los avisos de precio basado en el riesgo son un deber distinto del Reglamento V.",
     "complianceNotes": "Use un puntaje elegible y el método de puntaje representativo de la guía. Si niega la solicitud, incluya la divulgación de puntaje exigida. No le prometa a un prestatario que pagar una tarjeta subirá el puntaje en una cantidad específica.",

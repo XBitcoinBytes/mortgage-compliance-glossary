@@ -23,7 +23,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Seguimiento dual",
-    "aliases": [],
+    "aliases": [
+      "Doble seguimiento (dual tracking)"
+    ],
     "definition": "El seguimiento dual significa avanzar una ejecución hipotecaria mientras todavía se revisa una solicitud completa de mitigación de pérdidas. El Reglamento X lo restringe. No prohíbe toda ejecución hipotecaria, y no se aplica antes de que la solicitud esté completa o fuera de las protecciones de la sección.",
     "details": "12 CFR 1024.41 limita las referencias, las mociones y las ventas mientras está pendiente una solicitud completa presentada a tiempo, y durante ciertos períodos de apelación. Si la solicitud está incompleta, el deber del administrador es decir qué falta. Si el prestatario pierde el plazo de la sección, las protecciones de la ejecución hipotecaria pueden no aplicarse. Lea el plazo antes de decirle a un prestatario que la venta no puede ocurrir.",
     "complianceNotes": "Marque el expediente de ejecución hipotecaria cuando una solicitud queda completa. No fije una fecha de venta dentro de una ventana prohibida. Reanude solo cuando la sección lo permite.",

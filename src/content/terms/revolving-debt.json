@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Deuda revolvente",
-    "aliases": [],
+    "aliases": [
+      "Deuda renovable"
+    ],
     "definition": "La deuda revolvente es una cuenta de la que usted puede disponer, pagar y volver a disponer, como una tarjeta de crédito o algunas líneas. Si el informe de crédito muestra un pago, por lo general se usa ese pago. Si muestra un saldo y ningún pago, la guía le dice al prestamista qué pago usar.",
     "details": "Fannie Mae B3-6-05 establece el pago que se usa cuando el informe no muestra uno. No invente un porcentaje del saldo. Lea la sección vigente. Una HELOC garantizada por la propiedad también forma parte del análisis de la relación combinada préstamo-valor, que es distinto de la prueba del pago mensual. Bajar una tarjeta antes del cierre puede cambiar el pago solo si se documenta el suplemento o el nuevo estado.",
     "complianceNotes": "No ingrese un pago de cero para una tarjeta que tiene saldo, salvo que la guía lo permita. Pida un suplemento de crédito cuando el prestatario paga la tarjeta y usted necesita el nuevo pago antes de los documentos.",

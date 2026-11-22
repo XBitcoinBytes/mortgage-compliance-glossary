@@ -25,7 +25,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Plan de pago",
-    "aliases": [],
+    "aliases": [
+      "Plan de pagos",
+      "plan de reembolso"
+    ],
     "definition": "Un plan de pago le permite ponerse al día pagando su cuota regular más un monto extra durante un tiempo indicado. Los términos del préstamo no cambian de manera permanente. Si usted completa el plan, se cura la mora. Si incumple el plan, el administrador puede volver a la revisión de mitigación de pérdidas o a la ejecución hipotecaria como permiten las reglas.",
     "details": "El plan es una opción del inversionista y de la administración revisada dentro del marco de 12 CFR 1024.41 cuando forma parte de una solicitud de mitigación de pérdidas. El monto extra debe ser un monto que el prestatario de verdad puede pagar. Un plan que falla de inmediato no ayuda a nadie y puede no cumplir las guías del inversionista.",
     "complianceNotes": "Ponga por escrito el plazo, el monto extra y la fecha de cura. No lo llame una modificación. Si el prestatario no puede pagarlo, revise la siguiente opción de la cascada.",

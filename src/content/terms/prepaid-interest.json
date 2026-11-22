@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Interés pagado por adelantado",
-    "aliases": [],
+    "aliases": [
+      "Pago anticipado de interés"
+    ],
     "definition": "El interés pagado por adelantado es el interés desde el día en que se desembolsa el préstamo hasta el día anterior al inicio de su primer período de pago. Se cobra en el cierre porque el interés hipotecario se paga por período vencido. Si la fecha de cierre se mueve, el monto cambia.",
     "details": "12 CFR 1026.37 lo coloca en la Sección F. 12 CFR 1026.19(e)(3)(iii) permite que cambie porque depende de la fecha de desembolso. El estimado igual tiene que hacerse de buena fe a partir de una fecha de cierre realista. Un aumento grande porque el acreedor se demoró sin una razón permitida no es automáticamente inofensivo.",
     "complianceNotes": "Estime el interés diario a partir de la tasa fijada y de una fecha de cierre real. Actualice la Sección F cuando cambia la fecha. Explíquele al prestatario por qué un cierre más tarde puede costar más interés aunque la tasa sea la misma.",

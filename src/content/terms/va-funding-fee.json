@@ -24,7 +24,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Cuota de financiamiento de VA",
-    "aliases": [],
+    "aliases": [
+      "Tarifa de financiamiento del VA"
+    ],
     "definition": "La cuota de financiamiento de VA apoya la garantía de préstamos de vivienda de VA. El porcentaje depende de si el préstamo es una compra o un refinanciamiento, del pago inicial y de si el veterano ha usado el beneficio antes. Los veteranos con cierta compensación por discapacidad están exentos. VA publica la tabla vigente. No cite un porcentaje de memoria.",
     "details": "El Folleto VA 26-7 y las tablas de la cuota de financiamiento de VA son las fuentes. La cuota puede financiarse. Financiarla no convierte por sí sola el préstamo en un refinanciamiento con retiro de efectivo. A un veterano exento no se le debe cobrar. El certificado y el estado de discapacidad deben estar en el expediente antes de que usted dispense la cuota.",
     "complianceNotes": "Revise la exención antes de divulgar una cuota. Use la tabla vigente para el tipo de préstamo. Muestre la cuota en la Estimación del préstamo si se cobra.",

@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Exclusión geográfica discriminatoria",
-    "aliases": [],
+    "aliases": [
+      "Prácticas discriminatorias"
+    ],
     "definition": "La exclusión geográfica discriminatoria es negar o desalentar el crédito en un área geográfica por la raza, el color o el origen nacional de las personas que viven allí, u otra característica protegida. Puede ser una negativa a prestar, una falta de mercadeo o un patrón de sucursales y de oficiales de préstamos. No es lo mismo que un corte escrito de puntaje de crédito aplicado en todas partes.",
     "details": "La Ley de Vivienda Justa y ECOA son las autoridades principales. Los examinadores comparan las solicitudes, las originaciones y el mercadeo con la demografía del área de evaluación, a menudo con datos de HMDA. Un prestamista puede atender un área amplia en el papel y todavía desalentar a solicitantes de vecindarios particulares. Esta entrada no describe cómo dirigirse a una comunidad o cómo evitarla.",
     "complianceNotes": "Revise las ubicaciones de sucursales, el mercadeo y las prácticas de excepción por brechas que siguen a la raza o al origen nacional. Documente razones legítimas de riesgo para cualquier límite geográfico. No dibuje un área de préstamos alrededor de la demografía.",
