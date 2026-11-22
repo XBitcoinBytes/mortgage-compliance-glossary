@@ -1,0 +1,35 @@
+{
+  "slug": "error-resolution",
+  "term": "Error resolution",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Error resolution is the servicer's duty to investigate a covered error and to correct it or explain why it believes there was no error. Covered errors include failing to accept a payment, imposing an improper fee, and failing to credit a payment the way the section describes.",
+  "details": "12 CFR 1024.35 is the procedure. The servicer generally acknowledges within five business days and responds within 30, with an extension the section allows. During the investigation the servicer may not furnish adverse information to a consumer reporting agency regarding a payment that is the subject of the notice, for the period the section states. A response that only says the account is correct, without the documents relied on, is weak.",
+  "complianceNotes": "Investigate the specific error, correct the account if it is confirmed, and send the explanation and the documents the section requires. Honor the credit-reporting limit during the review.",
+  "example": {
+    "setting": "Servicer's investigation and written response to a covered error",
+    "text": "A sample error might be an example $1,600 payment received on the 3rd and posted as late. Example figures. The cure is to apply it as of the receipt date if that is what the facts show."
+  },
+  "citations": [
+    "reg-1024-35"
+  ],
+  "related": [
+    "escrow-analysis",
+    "force-placed-insurance",
+    "notice-of-error",
+    "qualified-written-request",
+    "request-for-information"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Resolución de errores",
+    "aliases": [],
+    "definition": "La resolución de errores es el deber del administrador de investigar un error cubierto y de corregirlo o explicar por qué cree que no hubo error. Los errores cubiertos incluyen no aceptar un pago, imponer un cargo indebido y no acreditar un pago del modo que describe la sección.",
+    "details": "12 CFR 1024.35 es el procedimiento. El administrador por lo general acusa dentro de cinco días hábiles y responde dentro de 30, con una extensión que la sección permite. Durante la investigación el administrador no puede proporcionar información adversa a una agencia de informes del consumidor sobre un pago que es el objeto del aviso, durante el período que indica la sección. Una respuesta que solo dice que la cuenta está correcta, sin los documentos en los que se apoya, es débil.",
+    "complianceNotes": "Investigue el error específico, corrija la cuenta si se confirma y envíe la explicación y los documentos que exige la sección. Respete el límite de reporte de crédito durante la revisión.",
+    "example": {
+      "setting": "Investigación del administrador y respuesta por escrito a un error cubierto",
+      "text": "Un error de muestra podría ser un pago de ejemplo de $1,600 recibido el día 3 y registrado como tardío. Cifras de ejemplo. La corrección es aplicarlo a la fecha de recepción si eso es lo que muestran los hechos."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "ten-percent-tolerance",
+  "term": "10 percent tolerance",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The 10 percent tolerance is a cumulative limit, not a limit on each fee. Recording fees and the services the consumer can shop for, if the consumer uses a provider on the written list, may not increase by more than 10 percent in total. One fee can rise if another falls, as long as the group stays inside 10 percent.",
+  "details": "12 CFR 1026.19(e)(3)(ii) is the rule. The percentage is in the regulation. If the consumer picks a provider who is not on the written list, that service leaves the 10 percent group and can change without that limit. The creditor must have given the list for the shopping rule to work. Affiliate charges the consumer cannot shop for are not in this bucket.",
+  "complianceNotes": "Add the baseline fees and the final fees before you look at any single line. Document whether the provider was on the list. Cure the amount above 10 percent.",
+  "example": {
+    "setting": "Loan Estimate Sections C and E compared in total with the Closing Disclosure",
+    "text": "A sample group estimated at $2,000 that becomes $2,150 is a 7.5 percent increase and would be inside 10 percent. A jump to $2,300 would not. Example figures."
+  },
+  "citations": [
+    "reg-1026-19"
+  ],
+  "related": [
+    "changed-circumstance",
+    "faq-why-did-my-closing-costs-change",
+    "recording-fees",
+    "services-you-can-shop-for",
+    "tolerance-cure",
+    "written-list-of-providers",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tolerancia del 10 por ciento",
+    "aliases": [],
+    "definition": "La tolerancia del 10 por ciento es un límite acumulado, no un límite de cada cargo. Los cargos de registro y los servicios que el consumidor puede comparar, si el consumidor usa un proveedor de la lista escrita, no pueden aumentar más del 10 por ciento en total. Un cargo puede subir si otro baja, siempre que el grupo se mantenga dentro del 10 por ciento.",
+    "details": "12 CFR 1026.19(e)(3)(ii) es la regla. El porcentaje está en el reglamento. Si el consumidor elige un proveedor que no está en la lista escrita, ese servicio sale del grupo del 10 por ciento y puede cambiar sin ese límite. El acreedor debe haber dado la lista para que la regla de comparar funcione. Los cargos de un afiliado que el consumidor no puede comparar no están en este grupo.",
+    "complianceNotes": "Sume los cargos de la base y los cargos finales antes de mirar una sola línea. Documente si el proveedor estaba en la lista. Corrija el monto por encima del 10 por ciento.",
+    "example": {
+      "setting": "Secciones C y E de la Estimación del préstamo comparadas en total con la Divulgación del cierre",
+      "text": "Un grupo de muestra estimado en $2,000 que se vuelve $2,150 es un aumento del 7.5 por ciento y estaría dentro del 10 por ciento. Un salto a $2,300 no. Cifras de ejemplo."
+    }
+  }
+}

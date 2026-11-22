@@ -1,0 +1,37 @@
+{
+  "slug": "notice-of-error",
+  "term": "Notice of error",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A notice of error is a written notice to the servicer that asserts a covered mistake, such as a payment not applied or a fee that should not have been charged. The servicer must acknowledge it and investigate. The timelines are in Regulation X.",
+  "details": "12 CFR 1024.35 lists covered errors and generally requires acknowledgment within five business days and a response within 30 business days, with a possible extension the section describes. Those day counts are the regulatory text. Not every complaint is a covered error. A request only for information is a different letter under 1024.36. The older name qualified written request overlaps both ideas.",
+  "complianceNotes": "Log the receipt date, acknowledge, and respond in substance. If you need the extension, send it properly. Correct the account if the error is confirmed, including any late fee caused by the error.",
+  "example": {
+    "setting": "Written notice of error to the servicer asserting a covered error",
+    "text": "A sample notice might dispute an example $48 fee posted on the 3rd. The servicer's five-day acknowledgment and 30-day response are the regulatory clocks. Example figures for the fee."
+  },
+  "citations": [
+    "reg-1024-35"
+  ],
+  "related": [
+    "error-resolution",
+    "faq-what-is-a-mortgage-servicer",
+    "force-placed-insurance",
+    "mortgage-servicer",
+    "qualified-written-request",
+    "request-for-information",
+    "successor-in-interest"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aviso de error",
+    "aliases": [],
+    "definition": "Un aviso de error es un aviso por escrito al administrador que alega un error cubierto, como un pago no aplicado o un cargo que no debió cobrarse. El administrador debe acusarlo e investigarlo. Los plazos están en el Reglamento X.",
+    "details": "12 CFR 1024.35 enumera los errores cubiertos y por lo general exige el acuse dentro de cinco días hábiles y una respuesta dentro de 30 días hábiles, con una posible extensión que describe la sección. Esos conteos de días son el texto del reglamento. No toda queja es un error cubierto. Un pedido solo de información es una carta distinta según 1024.36. El nombre antiguo de solicitud escrita calificada se superpone a ambas ideas.",
+    "complianceNotes": "Registre la fecha de recepción, acuse y responda en sustancia. Si necesita la extensión, envíela correctamente. Corrija la cuenta si se confirma el error, incluido cualquier cargo por mora causado por el error.",
+    "example": {
+      "setting": "Aviso de error por escrito al administrador que alega un error cubierto",
+      "text": "Un aviso de muestra podría disputar un cargo de ejemplo de $48 registrado el día 3. El acuse de cinco días y la respuesta de 30 días del administrador son los relojes del reglamento. Cifras de ejemplo para el cargo."
+    }
+  }
+}

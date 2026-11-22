@@ -1,0 +1,35 @@
+{
+  "slug": "out-of-scope",
+  "term": "Out of Scope",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Out of Scope means Desktop Underwriter did not evaluate the casefile because it is outside what DU is built to assess. Selling Guide B3-2-08 describes the recommendation. The lender cannot treat it as an approval.",
+  "details": "The findings explain why the case is out of scope. The lender may need a different product, a data correction, or a path the guide allows outside DU. Inventing an Approve recommendation is not one of those paths. Ability to repay still applies if the creditor makes the loan another way.",
+  "complianceNotes": "Read the reason code. Correct bad data and resubmit only if the loan can fall within DU's scope. Otherwise follow the guide's alternative and do not deliver the loan to Fannie Mae on this finding.",
+  "example": {
+    "setting": "DU findings, recommendation Out of Scope",
+    "text": "A sample message might mark an example $150,000 loan Out of Scope because a required field is missing. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-08"
+  ],
+  "related": [
+    "approve-ineligible",
+    "automated-underwriting-system",
+    "desktop-underwriter",
+    "manual-underwriting",
+    "refer-with-caution"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Out of Scope",
+    "aliases": [],
+    "definition": "Out of Scope significa que Desktop Underwriter no evaluó el expediente porque está fuera de lo que DU está hecho para evaluar. La Selling Guide B3-2-08 describe la recomendación. El prestamista no puede tratarla como una aprobación.",
+    "details": "Los hallazgos explican por qué el caso está fuera de alcance. El prestamista puede necesitar otro producto, una corrección de datos o una vía que la guía permita fuera de DU. Inventar una recomendación Approve no es una de esas vías. La capacidad de pago igual se aplica si el acreedor hace el préstamo de otro modo.",
+    "complianceNotes": "Lea el código de la razón. Corrija los datos malos y vuelva a enviar solo si el préstamo puede caer dentro del alcance de DU. De lo contrario siga la alternativa de la guía y no entregue el préstamo a Fannie Mae con este hallazgo.",
+    "example": {
+      "setting": "Hallazgos de DU, recomendación Out of Scope",
+      "text": "Un mensaje de muestra puede marcar un préstamo de ejemplo de $150,000 como Out of Scope porque falta un campo exigido. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "appraisal-delivery",
+  "term": "Appraisal delivery",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "The creditor must give the applicant a copy of appraisals and other written valuations. The deadline is promptly upon completion, or three business days before consummation, whichever is earlier. The applicant may waive the timing, but must still receive the copy at or before consummation.",
+  "details": "12 CFR 1002.14 is the rule. It applies whether the loan is approved or denied. Promptly upon completion is its own branch. Waiting until three days before closing when the appraisal was finished weeks earlier can miss the rule. A waiver must be obtained as the section allows. Electronic delivery still needs the E-SIGN consent if it replaces a written copy.",
+  "complianceNotes": "Deliver the appraisal when it is completed and keep the proof. Do not wait for the borrower to request it. If there is a reconsideration, deliver the revised valuation too.",
+  "example": {
+    "setting": "Copy of the appraisal delivered to the applicant, with the delivery log",
+    "text": "A sample appraisal completed on the 1st might be emailed on the 2nd, well before an example closing on the 20th. The dates are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1002-14"
+  ],
+  "related": [
+    "appraisal",
+    "appraisal-independence-requirements",
+    "ecoa",
+    "faq-what-is-an-appraisal",
+    "hpml-appraisal",
+    "regulation-b",
+    "value-acceptance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Entrega de la tasación",
+    "aliases": [],
+    "definition": "El acreedor debe dar al solicitante una copia de las tasaciones y otras valoraciones escritas. El plazo es con prontitud al completarlas, o tres días hábiles antes de la consumación, lo que ocurra primero. El solicitante puede renunciar al plazo, pero igual debe recibir la copia en la consumación o antes.",
+    "details": "12 CFR 1002.14 es la regla. Se aplica tanto si el préstamo se aprueba como si se niega. Con prontitud al completar es su propia rama. Esperar hasta tres días antes del cierre cuando la tasación se terminó semanas antes puede incumplir la regla. Una renuncia debe obtenerse como la sección permite. La entrega electrónica igual necesita el consentimiento de E-SIGN si reemplaza una copia escrita.",
+    "complianceNotes": "Entregue la tasación cuando se completa y conserve la prueba. No espere a que el prestatario la pida. Si hay una reconsideración, entregue también la valoración revisada.",
+    "example": {
+      "setting": "Copia de la tasación entregada al solicitante, con el registro de entrega",
+      "text": "Una tasación de muestra terminada el día 1 podría enviarse por correo el día 2, mucho antes de un cierre de ejemplo el día 20. Las fechas son cifras de ejemplo. Cifras de ejemplo."
+    }
+  }
+}

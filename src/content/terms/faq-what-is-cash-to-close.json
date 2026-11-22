@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-cash-to-close",
+  "term": "What is cash to close?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "Cash to close is the amount you must bring, or sometimes the amount you receive, to finish the transaction. It includes the down payment and closing costs, minus credits, earnest money, and any other amounts the form subtracts. It is the bottom line, not just the down payment.",
+  "details": "12 CFR 1026.37 requires the table on the Loan Estimate. 12 CFR 1026.38 requires the comparison on the Closing Disclosure, and it should match the summaries on page 3. A seller credit or a lender credit lowers the number. A payoff of a debt at closing can raise it. The wire should match this figure after you verify the instructions.",
+  "complianceNotes": "Reconcile the table to page 3. Tell the borrower the final number before they send a wire. Verify wiring instructions by phone.",
+  "example": {
+    "setting": "Loan Estimate and Closing Disclosure, Calculating Cash to Close",
+    "text": "A sample table might show example cash to close of $22,750. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-38"
+  ],
+  "related": [
+    "cash-to-close",
+    "cash-to-close-calculation",
+    "closing-costs",
+    "down-payment",
+    "seller-credits"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es el efectivo para el cierre?",
+    "aliases": [],
+    "definition": "El efectivo para el cierre es el monto que usted debe llevar, o a veces el monto que recibe, para terminar la transacción. Incluye el pago inicial y los costos de cierre, menos los créditos, el dinero de arras y cualquier otra cantidad que el formulario resta. Es la línea final, no solo el pago inicial.",
+    "details": "12 CFR 1026.37 exige la tabla en la Estimación del préstamo. 12 CFR 1026.38 exige la comparación en la Divulgación del cierre, y debe coincidir con los resúmenes de la página 3. Un crédito del vendedor o un crédito del prestamista baja el número. La liquidación de una deuda en el cierre puede subirlo. La transferencia debe coincidir con esta cifra después de que usted verifica las instrucciones.",
+    "complianceNotes": "Concilie la tabla con la página 3. Dígale al prestatario el número final antes de que envíe una transferencia. Verifique las instrucciones de transferencia por teléfono.",
+    "example": {
+      "setting": "Estimación del préstamo y Divulgación del cierre, Cálculo del efectivo para el cierre",
+      "text": "Una tabla de muestra podría mostrar un efectivo para el cierre de ejemplo de $22,750. Cifras de ejemplo."
+    }
+  }
+}

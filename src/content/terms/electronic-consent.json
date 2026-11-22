@@ -1,0 +1,35 @@
+{
+  "slug": "electronic-consent",
+  "term": "Electronic consent",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Electronic consent is your agreement to receive required mortgage disclosures electronically, after you show you can open them. It is the E-SIGN step. It does not mean you have agreed to the loan or given intent to proceed.",
+  "details": "15 USC 7001 describes the consent, the right to paper, the hardware and software requirements, and withdrawal. A checkbox that says the consumer agrees to the loan is not this consent. The creditor should be able to show that the consumer consented before the electronic Loan Estimate or Closing Disclosure was used to satisfy a written-disclosure requirement.",
+  "complianceNotes": "Separate the consent event from intent to proceed in the system log. If consent fails, mail or hand the disclosure and use that delivery date for the clock. Do not backdate consent.",
+  "example": {
+    "setting": "E-sign consent screen stored with the disclosure log",
+    "text": "A sample audit trail might show consent completed on a phone at 9:02 a.m. and the Loan Estimate opened at 9:06 a.m. The times are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "usc-15-7001"
+  ],
+  "related": [
+    "closing-disclosure",
+    "e-sign-act",
+    "fee-worksheet",
+    "intent-to-proceed",
+    "loan-estimate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Consentimiento electrónico",
+    "aliases": [],
+    "definition": "El consentimiento electrónico es su acuerdo de recibir por vía electrónica las divulgaciones hipotecarias exigidas, después de mostrar que puede abrirlas. Es el paso de E-SIGN. No significa que usted aceptó el préstamo ni que dio intención de continuar.",
+    "details": "15 USC 7001 describe el consentimiento, el derecho al papel, los requisitos de equipo y programas, y el retiro. Una casilla que dice que el consumidor acepta el préstamo no es este consentimiento. El acreedor debe poder mostrar que el consumidor consintió antes de que la Estimación del préstamo o la Divulgación del cierre electrónicas se usaran para cumplir un requisito de divulgación escrita.",
+    "complianceNotes": "Separe en el registro del sistema el consentimiento de la intención de continuar. Si el consentimiento falla, envíe o entregue la divulgación en papel y use esa fecha de entrega para el plazo. No antedate el consentimiento.",
+    "example": {
+      "setting": "Pantalla de consentimiento de E-SIGN guardada con el registro de divulgaciones",
+      "text": "Un rastro de auditoría de muestra puede mostrar el consentimiento completado en un teléfono a las 9:02 a.m. y la Estimación del préstamo abierta a las 9:06 a.m. Las horas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

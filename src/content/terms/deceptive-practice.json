@@ -1,0 +1,38 @@
+{
+  "slug": "deceptive-practice",
+  "term": "Deceptive act or practice",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A deceptive act or practice is a representation, omission, or practice that misleads or is likely to mislead a consumer acting reasonably, and that is material. The standard comes from the Bureau's examination and enforcement materials under 12 USC 5531. It is not a numbered section of Regulation Z.",
+  "details": "Material means the information is likely to affect the consumer's choice. A fine-print correction does not cure a headline that is likely to mislead. Mortgage advertisements are also covered by Regulation Z trigger terms and by the MAP Rule, Regulation N. A practice can violate more than one of those. Do not invent a CFR section titled deceptive practices.",
+  "complianceNotes": "Review the net impression of the ad or the script, not only a footnote. Keep the approval of rate advertisements. If a claim cannot be proved from the rate sheet, do not say it.",
+  "example": {
+    "setting": "Advertisement or loan-officer script reviewed for a misleading representation",
+    "text": "A sample ad might promise an example payment of $1,200 on a $400,000 loan without saying the payment is interest-only. Example figures. The omission is the issue."
+  },
+  "citations": [
+    "usc-12-5531",
+    "cfpb-mortgage-resources"
+  ],
+  "related": [
+    "abusive-practice",
+    "map-rule",
+    "mortgage-advertising",
+    "trigger-terms",
+    "udaap",
+    "unfair-practice"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Acto o práctica engañosa",
+    "aliases": [],
+    "definition": "Un acto o práctica engañosa es una declaración, una omisión o una práctica que engaña o es probable que engañe a un consumidor que actúa de manera razonable, y que es importante. El estándar viene de los materiales de examen y de ejecución de la Oficina según 12 USC 5531. No es una sección numerada del Reglamento Z.",
+    "details": "Importante significa que la información es probable que afecte la elección del consumidor. Una corrección en letra pequeña no cura un titular que es probable que engañe. Los anuncios hipotecarios también están cubiertos por los términos desencadenantes del Reglamento Z y por la regla MAP, el Reglamento N. Una práctica puede violar más de una de esas normas. No invente una sección del CFR titulada prácticas engañosas.",
+    "complianceNotes": "Revise la impresión general del anuncio o del guion, no solo una nota al pie. Conserve la aprobación de los anuncios de tasas. Si una afirmación no se puede probar con la hoja de tasas, no la diga.",
+    "example": {
+      "setting": "Anuncio o guion del oficial de préstamos revisado por una declaración engañosa",
+      "text": "Un anuncio de muestra podría prometer un pago de ejemplo de $1,200 en un préstamo de $400,000 sin decir que el pago es solo de interés. Cifras de ejemplo. La omisión es el problema."
+    }
+  },
+  "reviewFlag": "The deception standard is drawn from CFPB examination and enforcement precedent under 12 USC 5531, not from a single CFR section. Confirm the current exam manual formulation before quoting elements in a procedure."
+}

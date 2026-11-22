@@ -1,0 +1,42 @@
+{
+  "slug": "housing-expense-ratio",
+  "term": "Housing expense ratio",
+  "aliases": [
+    "front-end ratio"
+  ],
+  "category": "underwriting",
+  "definition": "The housing expense ratio compares the new monthly housing payment with your gross monthly income. People call it the front-end ratio. It looks only at housing, not at car loans or credit cards.",
+  "details": "The payment generally includes principal, interest, taxes, insurance, and association dues. Fannie Mae emphasizes the total debt-to-income ratio in B3-6-02 and describes the housing payment in B3-6-03. FHA manual underwriting still looks at a housing ratio in HUD Handbook 4000.1. A old rule of thumb such as 28 percent is not a federal law.",
+  "complianceNotes": "Show the borrower which items are inside the housing payment. Do not quote a universal front-end cap. On FHA manual files, use the current handbook, not a conventional overlay, unless the creditor has documented an overlay.",
+  "example": {
+    "setting": "Underwriting worksheet, proposed housing payment over income",
+    "text": "A sample housing payment of $1,800 on example monthly income of $6,000 is a 30 percent housing ratio. Example figures, not a limit."
+  },
+  "citations": [
+    "fannie-b3-6-03",
+    "hud-4000-1"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "faq-what-is-dti",
+    "fha-loan",
+    "homeowners-association",
+    "manual-underwriting",
+    "pitia",
+    "stable-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Relación de gasto de vivienda",
+    "aliases": [
+      "relación frontal"
+    ],
+    "definition": "La relación de gasto de vivienda compara el nuevo pago mensual de la vivienda con su ingreso mensual bruto. Se le llama relación frontal. Mira solo la vivienda, no los préstamos de automóvil ni las tarjetas.",
+    "details": "El pago por lo general incluye capital, interés, impuestos, seguro y cuotas de la asociación. Fannie Mae enfatiza la relación deuda-ingreso total en B3-6-02 y describe el pago de vivienda en B3-6-03. La suscripción manual de la FHA todavía mira una relación de vivienda en el Manual HUD 4000.1. Una regla práctica vieja, como el 28 por ciento, no es una ley federal.",
+    "complianceNotes": "Muéstrele al prestatario qué partidas entran en el pago de vivienda. No cite un límite frontal universal. En expedientes manuales de la FHA, use el manual vigente, no un requisito adicional convencional, salvo que el acreedor haya documentado ese requisito.",
+    "example": {
+      "setting": "Hoja de suscripción, pago de vivienda propuesto sobre el ingreso",
+      "text": "Un pago de vivienda de muestra de $1,800 sobre un ingreso mensual de ejemplo de $6,000 es una relación de vivienda del 30 por ciento. Cifras de ejemplo, no un límite."
+    }
+  }
+}

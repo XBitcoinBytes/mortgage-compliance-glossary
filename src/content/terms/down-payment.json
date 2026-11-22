@@ -1,0 +1,52 @@
+{
+  "slug": "down-payment",
+  "term": "Down payment",
+  "aliases": [],
+  "category": "origination",
+  "definition": "The down payment is the part of the price you pay rather than borrow. A larger down payment lowers the loan-to-value ratio. There is no single legal down payment for every mortgage. Each program publishes its own minimum, and those minimums can change.",
+  "details": "On a conventional purchase, loan-to-value is the loan amount divided by the lower of price or value, under Fannie Mae B2-1.2-01. Mortgage insurance is commonly required when that ratio is above the guide's threshold. FHA minimum cash investment, VA down-payment practice, and USDA rules are in HUD 4000.1, the VA handbook, and USDA rules. Do not quote a single percentage as if it were permanent law.",
+  "complianceNotes": "Show the borrower cash to close, not only a percentage. Source the funds. Do not state FHA's minimum investment or a conventional 3 percent product as a number that cannot change. Point to the current handbook or guide.",
+  "example": {
+    "setting": "Loan Estimate, page 1, Sale Price and Loan Amount, and Closing Disclosure cash to close",
+    "text": "On an example $500,000 price with a $400,000 loan, the $100,000 difference is the down payment before credits and other costs. Example figures, not a required percentage."
+  },
+  "citations": [
+    "fannie-guide",
+    "hud-4000-1",
+    "va-pamphlet",
+    "fannie-b2-1-2-01"
+  ],
+  "related": [
+    "cash-to-close",
+    "down-payment-assistance",
+    "earnest-money",
+    "faq-can-i-use-gift-funds",
+    "faq-fha-vs-conventional",
+    "faq-what-if-the-appraisal-is-low",
+    "faq-what-is-a-down-payment",
+    "faq-what-is-cash-to-close",
+    "gift-funds",
+    "gift-letter",
+    "gift-of-equity",
+    "home-possible",
+    "homeready",
+    "interested-party-contributions",
+    "loan-to-value-ratio",
+    "primary-residence",
+    "private-mortgage-insurance",
+    "source-of-funds",
+    "trigger-terms"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pago inicial",
+    "aliases": [],
+    "definition": "El pago inicial es la parte del precio que usted paga en lugar de pedirla prestada. Un pago inicial mayor baja la relación préstamo-valor. No hay un solo pago inicial legal para toda hipoteca. Cada programa publica su propio mínimo, y esos mínimos pueden cambiar.",
+    "details": "En una compra convencional, la relación préstamo-valor es el monto del préstamo dividido entre el menor del precio o el valor, según Fannie Mae B2-1.2-01. El seguro hipotecario por lo general se exige cuando esa relación está por encima del umbral de la guía. La inversión mínima en efectivo de la FHA, la práctica de pago inicial de VA y las reglas de USDA están en HUD 4000.1, el manual de VA y las reglas de USDA. No cite un solo porcentaje como si fuera una ley permanente.",
+    "complianceNotes": "Muéstrele al prestatario el efectivo para el cierre, no solo un porcentaje. Documente el origen de los fondos. No presente la inversión mínima de la FHA ni un producto convencional del 3 por ciento como un número que no puede cambiar. Remita a la guía o al manual vigente.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, Precio de venta y Monto del préstamo, y efectivo para el cierre en la Divulgación del cierre",
+      "text": "En un precio de ejemplo de $500,000 con un préstamo de $400,000, la diferencia de $100,000 es el pago inicial antes de créditos y otros costos. Cifras de ejemplo, no un porcentaje exigido."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "loan-originator-compensation",
+  "term": "Loan originator compensation",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Loan originator compensation is what a loan originator is paid for originating a mortgage. Federal rules limit basing that pay on the terms of the loan, such as the rate or a higher-cost product. The amount of the loan can still affect pay.",
+  "details": "12 CFR 1026.36(d) prohibits compensation based on a term of a transaction, or a proxy for a term, other than the amount of credit extended. A loan originator may not be paid by both the consumer and another person in the same transaction. The rule covers individual originators and brokerage companies that are loan originators. It is separate from the SAFE Act license.",
+  "complianceNotes": "Test compensation plans against the term and proxy bans before they are used, including lead-source bonuses and product spiffs. Keep the plan, the agreement, and the calculation for the transaction. A charge shown in Section A is not the same record as the originator's pay.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section A, if a borrower-paid originator charge is imposed; compensation records in the creditor's compliance file",
+    "text": "On an example $300,000 loan, a creditor's plan might pay the originator 1.00 percent of the loan amount, $3,000, whether the note rate is 6.25 or 6.75 percent. Example figures, not a permitted pay grid beyond the rule."
+  },
+  "citations": [
+    "reg-1026-36",
+    "usc-15-1601"
+  ],
+  "related": [
+    "abusive-practice",
+    "anti-steering",
+    "borrower-paid-compensation",
+    "lender-paid-compensation",
+    "loan-originator-rule",
+    "mortgage-broker",
+    "mortgage-broker-compensation",
+    "mortgage-loan-originator",
+    "retail-lending",
+    "steering"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Compensación del originador del préstamo",
+    "aliases": [],
+    "definition": "La compensación del originador del préstamo es lo que se le paga a un originador por originar una hipoteca. Las reglas federales limitan basar ese pago en los términos del préstamo, como la tasa o un producto más caro. El monto del préstamo sí puede afectar el pago.",
+    "details": "12 CFR 1026.36(d) prohíbe la compensación basada en un término de la transacción, o en un indicador sustituto de un término, distinto del monto del crédito. Un originador no puede recibir pago del consumidor y de otra persona en la misma transacción. La regla cubre a originadores individuales y a corredores que son originadores. Es distinta de la licencia de la Ley SAFE.",
+    "complianceNotes": "Pruebe los planes de compensación contra las prohibiciones de términos e indicadores antes de usarlos, incluidos bonos por fuente de clientes y premios por producto. Conserve el plan, el acuerdo y el cálculo de la transacción. Un cargo de la Sección A no es el mismo registro que el pago del originador.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección A, si hay un cargo del originador pagado por el prestatario; registros de compensación en el expediente de cumplimiento",
+      "text": "En un préstamo de ejemplo de $300,000, el plan del acreedor podría pagar al originador el 1.00 por ciento del monto, $3,000, ya sea que la tasa del pagaré sea 6.25 o 6.75 por ciento. Cifras de ejemplo, no una tabla de pago más allá de la regla."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "faq-what-is-dti",
+  "term": "What is DTI?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "DTI is your debt-to-income ratio. It is your monthly housing payment plus other debts, divided by your gross monthly income. Lenders use it to judge whether the payment fits your income. There is no single legal maximum for every mortgage. The guide or the handbook for that program sets the limit, and automated systems can go higher with strong files.",
+  "details": "Fannie Mae B3-6-02 describes the ratio and says the maximum depends on the transaction and Desktop Underwriter. Do not tell every borrower the cap is 43 percent. That figure was tied to older qualified-mortgage rules and is not a universal current cutoff. The qualifying payment may be higher than the payment in the first year of an ARM or a buydown.",
+  "complianceNotes": "Use gross income the guide will accept and the qualifying PITIA. Do not omit student loans or a car payment. Recalculate when the rate changes.",
+  "example": {
+    "setting": "Underwriting worksheet, monthly debts divided by monthly income",
+    "text": "A sample borrower with example income of $6,000 and debts of $2,400 would have a DTI of 40 percent. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-02"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "housing-expense-ratio",
+    "pitia",
+    "qualifying-rate",
+    "stable-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es la relación deuda-ingreso?",
+    "aliases": [],
+    "definition": "La relación deuda-ingreso, o DTI, es su pago mensual de vivienda más otras deudas, dividido entre su ingreso mensual bruto. Los prestamistas la usan para juzgar si el pago cabe en su ingreso. No hay un máximo legal único para toda hipoteca. La guía o el manual de ese programa fija el límite, y los sistemas automatizados pueden ir más alto con expedientes fuertes.",
+    "details": "Fannie Mae B3-6-02 describe la relación y dice que el máximo depende de la transacción y de Desktop Underwriter. No le diga a todo prestatario que el tope es el 43 por ciento. Esa cifra estaba ligada a reglas antiguas de la hipoteca calificada y no es un corte universal vigente. El pago de calificación puede ser más alto que el pago del primer año de una ARM o de una reducción.",
+    "complianceNotes": "Use el ingreso bruto que la guía aceptará y el PITIA de calificación. No omita préstamos estudiantiles ni un pago de automóvil. Recalcule cuando cambia la tasa.",
+    "example": {
+      "setting": "Hoja de suscripción, deudas mensuales divididas entre el ingreso mensual",
+      "text": "Un prestatario de muestra con un ingreso de ejemplo de $6,000 y deudas de $2,400 tendría una relación del 40 por ciento. Cifras de ejemplo."
+    }
+  }
+}

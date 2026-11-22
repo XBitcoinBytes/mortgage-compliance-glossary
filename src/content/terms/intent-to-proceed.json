@@ -1,0 +1,43 @@
+{
+  "slug": "intent-to-proceed",
+  "term": "Intent to proceed",
+  "aliases": [
+    "ITP"
+  ],
+  "category": "origination",
+  "definition": "Intent to proceed is your signal, after you have the Loan Estimate, that you want the creditor to move ahead. Until you give that signal, the creditor generally cannot charge you anything except a bona fide and reasonable fee for a credit report.",
+  "details": "The restriction is in 12 CFR 1026.19(e)(2). The intent must come after the consumer receives the Loan Estimate. It can be oral, written, or electronic, and the creditor must document it. A fee worksheet signed before the Loan Estimate is not intent to proceed. Silence is not intent.",
+  "complianceNotes": "Record who gave the intent, when, and how, and keep that record with the Loan Estimate delivery evidence. Do not collect an appraisal fee, lock fee, or application fee before both receipt and intent are documented. The credit-report fee, if charged early, must be bona fide and reasonable.",
+  "example": {
+    "setting": "Loan Estimate, page 1, after the consumer indicates an intent to proceed in the origination log",
+    "text": "A sample contact log might show the Loan Estimate delivered on Tuesday and an emailed intent to proceed on Wednesday, after which the creditor orders an appraisal and collects an example appraisal fee of $550. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "cfpb-le"
+  ],
+  "related": [
+    "application-definition",
+    "credit-report-fee",
+    "e-sign-act",
+    "electronic-consent",
+    "fee-worksheet",
+    "loan-estimate",
+    "origination-charges",
+    "your-home-loan-toolkit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Intención de continuar",
+    "aliases": [
+      "ITP"
+    ],
+    "definition": "La intención de continuar es su aviso, después de tener la Estimación del préstamo, de que usted quiere que el acreedor siga adelante. Hasta que usted da ese aviso, el acreedor por lo general no puede cobrarle nada excepto un cargo de buena fe y razonable por el informe de crédito.",
+    "details": "La restricción está en 12 CFR 1026.19(e)(2). La intención debe llegar después de que el consumidor recibe la Estimación del préstamo. Puede ser oral, escrita o electrónica, y el acreedor debe documentarla. Una hoja de cargos firmada antes de la Estimación no es intención de continuar. El silencio no es intención.",
+    "complianceNotes": "Registre quién dio la intención, cuándo y cómo, y conserve ese registro con la prueba de entrega de la Estimación del préstamo. No cobre un cargo de tasación, de fijación o de solicitud antes de documentar la recepción y la intención. El cargo del informe de crédito, si se cobra antes, debe ser de buena fe y razonable.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, después de que el consumidor indica la intención de continuar en el registro de originación",
+      "text": "Un registro de muestra puede mostrar la Estimación del préstamo entregada el martes y una intención de continuar por correo el miércoles, después de lo cual el acreedor pide la tasación y cobra un cargo de tasación de ejemplo de $550. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "due-on-sale-clause",
+  "term": "Due-on-sale clause",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A due-on-sale clause lets the lender require the loan to be paid in full if the property is transferred. It is why many conventional loans are not assumable. It is a contract term. Federal law limits some enforcement. This page does not cite a section number for that statute because it is not in the glossary's citation catalog.",
+  "details": "The clause is in the note or the security instrument. Fannie Mae's guide expects it on conventional deliveries. An FHA or VA loan that the handbook says is assumable is a different contract. A transfer that triggers the clause can lead to acceleration if the lender enforces it. Family transfers and other situations may be treated differently. Confirm the current law before you advise a specific transfer.",
+  "complianceNotes": "Read the note before you tell a borrower the loan can be taken over. Do not waive a due-on-sale clause informally. Flag this topic for counsel when a transfer is planned.",
+  "example": {
+    "setting": "Conventional note or security instrument, due-on-sale clause",
+    "text": "A sample conventional note might make an example $260,000 balance due if the borrower deeds the home to a buyer without the lender's consent. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "practice-file"
+  ],
+  "related": [
+    "assumable-mortgage",
+    "assumption",
+    "conventional-loan",
+    "security-instrument"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cláusula de vencimiento por venta",
+    "aliases": [],
+    "definition": "Una cláusula de vencimiento por venta permite al prestamista exigir que el préstamo se pague por completo si la propiedad se transfiere. Es la razón por la que muchos préstamos convencionales no son asumibles. Es un término del contrato. La ley federal limita alguna ejecución. Esta página no cita un número de sección de esa ley porque no está en el catálogo de citas del glosario.",
+    "details": "La cláusula está en el pagaré o en el instrumento de garantía. La guía de Fannie Mae la espera en las entregas convencionales. Un préstamo FHA o VA que el manual dice que es asumible es un contrato distinto. Una transferencia que activa la cláusula puede llevar a la aceleración si el prestamista la ejecuta. Las transferencias familiares y otras situaciones pueden tratarse de modo distinto. Confirme la ley vigente antes de aconsejar una transferencia específica.",
+    "complianceNotes": "Lea el pagaré antes de decirle a un prestatario que el préstamo puede ser tomado. No renuncie informalmente a una cláusula de vencimiento por venta. Marque este tema para un asesor cuando se planea una transferencia.",
+    "example": {
+      "setting": "Pagaré convencional o instrumento de garantía, cláusula de vencimiento por venta",
+      "text": "Un pagaré convencional de muestra podría hacer exigible un saldo de ejemplo de $260,000 si el prestatario transfiere la vivienda a un comprador sin el consentimiento del prestamista. Cifras de ejemplo."
+    }
+  },
+  "reviewFlag": "Federal limits on due-on-sale enforcement are statutory. Confirm the current citation, often discussed as the Garn-St. Germain Act, before adding a section number."
+}

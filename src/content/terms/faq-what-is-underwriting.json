@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-underwriting",
+  "term": "What is underwriting?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "Underwriting is the lender's review of your credit, income, assets, and the property to decide whether to make the loan. An automated system may recommend approval. A person still checks the documents. Conditional approval means conditions remain.",
+  "details": "Fannie Mae B3-2-01 says the lender remains responsible for the data even when Desktop Underwriter approves the loan. Ability to repay under 12 CFR 1026.43 is a separate legal duty. Clear to close is an internal status after conditions are met. It is not the Closing Disclosure and not funding.",
+  "complianceNotes": "Explain conditions in plain words. Do not call a conditional approval a guarantee. Resubmit the automated system if income or the loan amount changes past its tolerances.",
+  "example": {
+    "setting": "Underwriting findings, automated or manual, before clear to close",
+    "text": "A sample findings report might conditionally approve an example $275,000 loan with six open items. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-01",
+    "reg-1026-43"
+  ],
+  "related": [
+    "ability-to-repay",
+    "clear-to-close",
+    "desktop-underwriter",
+    "manual-underwriting",
+    "underwriting-conditions"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es la suscripción?",
+    "aliases": [],
+    "definition": "La suscripción es la revisión del prestamista de su crédito, ingreso, activos y la propiedad para decidir si hace el préstamo. Un sistema automatizado puede recomendar la aprobación. Una persona igual revisa los documentos. Una aprobación condicional significa que quedan condiciones.",
+    "details": "Fannie Mae B3-2-01 dice que el prestamista sigue siendo responsable de los datos aunque Desktop Underwriter apruebe el préstamo. La capacidad de pago según 12 CFR 1026.43 es un deber legal distinto. La autorización para cerrar es un estado interno después de que se cumplen las condiciones. No es la Divulgación del cierre ni el desembolso.",
+    "complianceNotes": "Explique las condiciones en palabras claras. No llame garantía a una aprobación condicional. Vuelva a enviar el sistema automatizado si el ingreso o el monto del préstamo cambia más allá de sus tolerancias.",
+    "example": {
+      "setting": "Hallazgos de suscripción, automatizados o manuales, antes de la autorización para cerrar",
+      "text": "Un informe de hallazgos de muestra podría aprobar condicionalmente un préstamo de ejemplo de $275,000 con seis puntos abiertos. Cifras de ejemplo."
+    }
+  }
+}

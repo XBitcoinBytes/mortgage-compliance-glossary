@@ -1,0 +1,37 @@
+{
+  "slug": "qualified-written-request",
+  "term": "Qualified written request",
+  "aliases": [
+    "QWR"
+  ],
+  "category": "servicing",
+  "definition": "Qualified written request is the older RESPA name for a written inquiry to the servicer. Under the current mortgage servicing rule, the duties live in the notice-of-error and request-for-information sections. A letter that meets either section must be handled under that section even if it uses the old name.",
+  "details": "12 CFR 1024.35 and 1024.36 replaced the practical handling of the old qualified-written-request concept for covered loans. Staff should not reject a letter because it does not say QWR, and they should not ignore a letter that does. The content decides which section applies. Some loans and servicers have exemptions. Read the coverage rules.",
+  "complianceNotes": "Route the letter the day it arrives. If it alleges an error and asks for documents, run both clocks. Keep the response.",
+  "example": {
+    "setting": "A letter borrowers still call a QWR, handled today as a notice of error or a request for information",
+    "text": "A sample letter titled qualified written request might dispute an example escrow shortage of $240 and ask for the analysis. Example figures. It is both an error allegation and an information request."
+  },
+  "citations": [
+    "reg-1024-35",
+    "reg-1024-36"
+  ],
+  "related": [
+    "error-resolution",
+    "mortgage-servicer",
+    "notice-of-error",
+    "request-for-information"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Solicitud escrita calificada",
+    "aliases": [],
+    "definition": "Solicitud escrita calificada es el nombre antiguo de RESPA para una consulta por escrito al administrador. Bajo la regla vigente de administración hipotecaria, los deberes viven en las secciones del aviso de error y del pedido de información. Una carta que cumple cualquiera de las dos secciones debe manejarse según esa sección aunque use el nombre antiguo.",
+    "details": "12 CFR 1024.35 y 1024.36 reemplazaron el manejo práctico del antiguo concepto de solicitud escrita calificada para los préstamos cubiertos. El personal no debe rechazar una carta porque no dice QWR, y no debe ignorar una carta que sí lo dice. El contenido decide qué sección se aplica. Algunos préstamos y administradores tienen exenciones. Lea las reglas de cobertura.",
+    "complianceNotes": "Enrute la carta el día que llega. Si alega un error y pide documentos, ejecute ambos relojes. Conserve la respuesta.",
+    "example": {
+      "setting": "Una carta que los prestatarios todavía llaman QWR, manejada hoy como un aviso de error o un pedido de información",
+      "text": "Una carta de muestra titulada solicitud escrita calificada podría disputar un faltante de depósito en garantía de ejemplo de $240 y pedir el análisis. Cifras de ejemplo. Es tanto una alegación de error como un pedido de información."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "trigger-terms",
+  "term": "Trigger terms",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Trigger terms are specific credit terms in an advertisement that require additional disclosures. In closed-end credit, examples that Regulation Z treats as triggers include the amount or percentage of any down payment, the number of payments or the period of repayment, the amount of any payment, and the amount of any finance charge. The note rate by itself is not on that list.",
+  "details": "12 CFR 1026.24 states the triggers and the required additional disclosures, including the APR and other terms. Open-end credit, such as a HELOC, has its own advertising triggers in the same section. Do not invent extra trigger terms, and do not omit one of the examples above. A payment that is interest-only or bought down must not be advertised as the ordinary payment.",
+  "complianceNotes": "If the ad states a monthly payment, treat it as a trigger and add the required disclosures before it is posted. Have compliance review originator graphics.",
+  "example": {
+    "setting": "Advertisement that states a payment, down payment, or number of payments",
+    "text": "A sample post might say an example payment of $1,400 a month. That statement triggers more disclosures under 1026.24. Example figures."
+  },
+  "citations": [
+    "reg-1026-24"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "deceptive-practice",
+    "down-payment",
+    "finance-charge",
+    "map-rule",
+    "mortgage-advertising"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Términos desencadenantes",
+    "aliases": [],
+    "definition": "Los términos desencadenantes son términos específicos de crédito en un anuncio que exigen divulgaciones adicionales. En el crédito cerrado, ejemplos que el Reglamento Z trata como desencadenantes incluyen el monto o el porcentaje de cualquier pago inicial, el número de pagos o el período de pago, el monto de cualquier pago y el monto de cualquier cargo por financiamiento. La tasa del pagaré por sí sola no está en esa lista.",
+    "details": "12 CFR 1026.24 establece los desencadenantes y las divulgaciones adicionales exigidas, incluida la tasa porcentual anual y otros términos. El crédito abierto, como una HELOC, tiene sus propios desencadenantes de publicidad en la misma sección. No invente términos desencadenantes extra, y no omita uno de los ejemplos de arriba. Un pago que es solo de interés o que tiene una reducción temporal no debe anunciarse como el pago ordinario.",
+    "complianceNotes": "Si el anuncio indica un pago mensual, trátalo como un desencadenante y agregue las divulgaciones exigidas antes de publicarlo. Haga que cumplimiento revise los gráficos de los originadores.",
+    "example": {
+      "setting": "Anuncio que indica un pago, un pago inicial o un número de pagos",
+      "text": "Una publicación de muestra podría decir un pago de ejemplo de $1,400 al mes. Esa declaración activa más divulgaciones según 1026.24. Cifras de ejemplo."
+    }
+  }
+}

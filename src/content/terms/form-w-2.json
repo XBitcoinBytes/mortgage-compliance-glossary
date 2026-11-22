@@ -1,0 +1,42 @@
+{
+  "slug": "form-w-2",
+  "term": "Form W-2",
+  "aliases": [
+    "W-2"
+  ],
+  "category": "underwriting",
+  "definition": "Form W-2 is the annual wage statement your employer files with the IRS. Lenders use it to confirm last year's wages and to compare them with this year's pay stubs. It is not a tax return and it does not show self-employment profit.",
+  "details": "Fannie Mae's employment documentation standards in B3-3.2-01 include W-2s for wage income, and B3-3.1-02 addresses transcripts that can confirm them. A W-2 that does not match the employer's name on the application needs an explanation. Multiple W-2s can mean multiple jobs, each of which must meet the continuance test if the income is used.",
+  "complianceNotes": "Compare Social Security wages and Medicare wages with the pay stubs. If the borrower cannot find a W-2, a transcript may fill the gap when the guide allows it. Do not use a W-2 to qualify self-employment income.",
+  "example": {
+    "setting": "Income file, IRS Form W-2 for the years the guide requires",
+    "text": "A sample W-2 might show example wages of $62,400 from one employer. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-2-01",
+    "fannie-b3-3-1-02"
+  ],
+  "related": [
+    "bonus-overtime-commission",
+    "faq-what-documents-do-i-need",
+    "form-4506-c",
+    "pay-stub",
+    "stable-income",
+    "tax-returns",
+    "verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Formulario W-2",
+    "aliases": [
+      "W-2"
+    ],
+    "definition": "El Formulario W-2 es la declaración anual de salarios que su empleador presenta al IRS. Los prestamistas lo usan para confirmar los salarios del año pasado y compararlos con los talones de pago de este año. No es una declaración de impuestos y no muestra la ganancia del trabajo por cuenta propia.",
+    "details": "Los estándares de documentación del empleo de Fannie Mae en B3-3.2-01 incluyen los W-2 para el ingreso salarial, y B3-3.1-02 trata las transcripciones que pueden confirmarlos. Un W-2 que no coincide con el nombre del empleador en la solicitud necesita una explicación. Varios W-2 pueden significar varios empleos, y cada uno debe cumplir la prueba de continuidad si se usa el ingreso.",
+    "complianceNotes": "Compare los salarios del Seguro Social y de Medicare con los talones de pago. Si el prestatario no encuentra un W-2, una transcripción puede llenar el vacío cuando la guía lo permite. No use un W-2 para calificar ingreso de trabajo por cuenta propia.",
+    "example": {
+      "setting": "Expediente de ingresos, Formulario W-2 del IRS de los años que exige la guía",
+      "text": "Un W-2 de muestra puede mostrar salarios de ejemplo de $62,400 de un empleador. Cifras de ejemplo."
+    }
+  }
+}

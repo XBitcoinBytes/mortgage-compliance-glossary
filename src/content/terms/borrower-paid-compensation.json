@@ -1,0 +1,36 @@
+{
+  "slug": "borrower-paid-compensation",
+  "term": "Borrower-paid compensation",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Borrower-paid compensation is originator pay that the consumer pays, usually as a charge in Section A of the Loan Estimate. Choosing this method does not lift the ban on pay that varies with the rate or product.",
+  "details": "Under 12 CFR 1026.36(d), if the consumer pays the loan originator, another person may not pay that originator in connection with the same transaction. The charge is generally in the zero-tolerance category when it is a creditor or broker charge under 12 CFR 1026.19(e)(3)(i). The agreement should state the amount before the consumer is committed.",
+  "complianceNotes": "Do not collect a lender-paid commission on a file that already charges the consumer a broker or originator fee. Show the consumer charge in Section A and keep the compensation agreement. Retest the qualified-mortgage points-and-fees calculation when the charge is included.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section A: Origination Charges",
+    "text": "A sample Section A line might read Mortgage broker fee, $3,250, on an example $325,000 loan, with no separate lender-paid commission. Example figures."
+  },
+  "citations": [
+    "reg-1026-36",
+    "reg-1026-37"
+  ],
+  "related": [
+    "anti-steering",
+    "lender-paid-compensation",
+    "loan-originator-compensation",
+    "mortgage-broker-compensation",
+    "origination-charges"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Compensación pagada por el prestatario",
+    "aliases": [],
+    "definition": "La compensación pagada por el prestatario es el pago del originador que paga el consumidor, por lo general como un cargo en la Sección A de la Estimación del préstamo. Elegir este método no levanta la prohibición de un pago que varíe con la tasa o el producto.",
+    "details": "Según 12 CFR 1026.36(d), si el consumidor paga al originador, otra persona no puede pagar a ese originador en la misma transacción. El cargo por lo general está en la categoría de tolerancia cero cuando es un cargo del acreedor o del corredor según 12 CFR 1026.19(e)(3)(i). El acuerdo debe indicar el monto antes de que el consumidor quede obligado.",
+    "complianceNotes": "No cobre una comisión pagada por el prestamista en un expediente que ya cobra al consumidor un cargo del corredor o del originador. Muestre el cargo del consumidor en la Sección A y conserve el acuerdo de compensación. Vuelva a calcular los puntos y cargos de la hipoteca calificada cuando el cargo se incluye.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección A: Cargos por originación",
+      "text": "Una línea de muestra de la Sección A puede decir Cargo del corredor hipotecario, $3,250, sobre un préstamo de ejemplo de $325,000, sin una comisión aparte pagada por el prestamista. Cifras de ejemplo."
+    }
+  }
+}

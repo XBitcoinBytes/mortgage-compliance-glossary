@@ -1,0 +1,46 @@
+{
+  "slug": "letter-of-explanation",
+  "term": "Letter of explanation",
+  "aliases": [
+    "LOE"
+  ],
+  "category": "underwriting",
+  "definition": "A letter of explanation is your written account of a credit inquiry, a large deposit, a job gap, or an address difference. It tells the story. It does not replace the document the guide requires.",
+  "details": "Agency guides allow a borrower explanation as support. They still require the underlying evidence: a statement, a creditor letter, or an employment verification. A letter that contradicts the documents is a problem, not a cure. Occupancy explanations are sensitive because a false occupancy statement can be fraud.",
+  "complianceNotes": "Accept a letter only for what it can prove, and keep the document that proves the fact. Do not draft the borrower's letter for them in a way that hides a derogatory event.",
+  "example": {
+    "setting": "Underwriting file, borrower letter attached to the condition it claims to clear",
+    "text": "A sample letter might explain an example $8,000 deposit as a tax refund, with the refund transcript attached. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "practice-file"
+  ],
+  "related": [
+    "bank-statements",
+    "bankruptcy-seasoning",
+    "charge-off",
+    "collection-account",
+    "credit-inquiry",
+    "employment-gap",
+    "faq-what-are-underwriting-conditions",
+    "foreclosure-seasoning",
+    "large-deposit",
+    "underwriting-conditions",
+    "undisclosed-debt"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Carta de explicación",
+    "aliases": [
+      "LOE"
+    ],
+    "definition": "Una carta de explicación es su relato escrito de una consulta de crédito, un depósito grande, una laguna de empleo o una diferencia de dirección. Cuenta la historia. No reemplaza el documento que exige la guía.",
+    "details": "Las guías de las agencias permiten una explicación del prestatario como apoyo. Igual exigen la prueba de fondo: un estado de cuenta, una carta del acreedor o una verificación de empleo. Una carta que contradice los documentos es un problema, no una solución. Las explicaciones de ocupación son delicadas porque una declaración falsa de ocupación puede ser fraude.",
+    "complianceNotes": "Acepte una carta solo para lo que puede probar, y conserve el documento que prueba el hecho. No redacte la carta del prestatario de un modo que oculte un evento adverso.",
+    "example": {
+      "setting": "Expediente de suscripción, carta del prestatario unida a la condición que pretende levantar",
+      "text": "Una carta de muestra puede explicar un depósito de ejemplo de $8,000 como un reembolso de impuestos, con la transcripción del reembolso adjunta. Cifras de ejemplo."
+    }
+  }
+}

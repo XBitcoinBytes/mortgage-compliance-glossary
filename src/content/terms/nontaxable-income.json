@@ -1,0 +1,36 @@
+{
+  "slug": "nontaxable-income",
+  "term": "Nontaxable income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Nontaxable income is money you receive that is not subject to income tax, such as certain disability or public-assistance payments. Because you keep more of each dollar, agency guides may let the lender gross it up. The factor is in the guide. Do not assume a percentage.",
+  "details": "The Fannie Mae Selling Guide states when nontaxable income may be grossed up and what evidence shows it is nontaxable. Regulation B, 12 CFR 1002.6, prohibits discounting income because it comes from a public-assistance program, which is a different rule from the gross-up. Child support can be nontaxable and still needs the continuance documentation of its own section.",
+  "complianceNotes": "Gross up only with the guide's factor and only for income documented as nontaxable. Do not gross up wages. Keep the award letter.",
+  "example": {
+    "setting": "Income worksheet showing any gross-up of nontaxable income",
+    "text": "A sample nontaxable benefit of $1,000 a month might be grossed up only by the factor in the current guide. The $1,000 is an example figure. The factor is not stated here. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "fannie-guide",
+    "reg-1002-6"
+  ],
+  "related": [
+    "alimony-child-support",
+    "debt-to-income-ratio",
+    "public-assistance-income",
+    "stable-income",
+    "verification-of-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ingreso no gravable",
+    "aliases": [],
+    "definition": "El ingreso no gravable es dinero que usted recibe y que no está sujeto al impuesto sobre el ingreso, como ciertos pagos por discapacidad o de asistencia pública. Como usted conserva más de cada dólar, las guías de las agencias pueden permitir que el prestamista lo aumente. El factor está en la guía. No suponga un porcentaje.",
+    "details": "La Selling Guide de Fannie Mae establece cuándo el ingreso no gravable puede aumentarse y qué prueba muestra que no está gravado. El Reglamento B, 12 CFR 1002.6, prohíbe descontar el ingreso porque proviene de un programa de asistencia pública, lo que es una regla distinta del aumento. La pensión de menores puede no estar gravada y igual necesita la documentación de continuidad de su propia sección.",
+    "complianceNotes": "Aumente solo con el factor de la guía y solo para ingreso documentado como no gravable. No aumente salarios. Conserve la carta de concesión.",
+    "example": {
+      "setting": "Hoja de ingresos que muestra cualquier aumento del ingreso no gravable",
+      "text": "Un beneficio no gravable de muestra de $1,000 al mes podría aumentarse solo por el factor de la guía vigente. Los $1,000 son una cifra de ejemplo. El factor no se indica aquí. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

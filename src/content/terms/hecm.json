@@ -1,0 +1,39 @@
+{
+  "slug": "hecm",
+  "term": "HECM",
+  "aliases": [
+    "Home Equity Conversion Mortgage"
+  ],
+  "category": "loan-programs",
+  "definition": "A HECM is the Home Equity Conversion Mortgage, the FHA-insured reverse mortgage. Counseling is required. The amount you can receive depends on age, rates, and the home's value, using factors HUD publishes. Those factors and the lending limit change. Do not quote a current principal-limit factor here.",
+  "details": "12 USC 1715z-20 and 24 CFR Part 206 are the legal framework, and HUD 4000.1 and mortgagee letters supply the operating rules. The borrower must occupy the home. Taxes and insurance are obligations. Non-borrowing spouses have protections that must be read from the current rule, not summarized as an automatic right to stay without conditions.",
+  "complianceNotes": "Obtain the counseling certificate before proceeding. Use current principal-limit factors. Explain that the debt grows and that leaving the home can make the loan due.",
+  "example": {
+    "setting": "FHA HECM counseling certificate and 24 CFR Part 206 disclosures",
+    "text": "A sample HECM might be discussed on an example home value of $350,000. The available proceeds are not stated because the factor changes. Example figures for the value only."
+  },
+  "citations": [
+    "usc-12-1715z20",
+    "cfr-24-206",
+    "hud-4000-1"
+  ],
+  "related": [
+    "faq-what-is-a-reverse-mortgage",
+    "fha-loan",
+    "home-equity-loan",
+    "occupancy",
+    "reverse-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "HECM",
+    "aliases": [],
+    "definition": "Una HECM es la hipoteca de conversión del valor líquido de la vivienda, la hipoteca inversa asegurada por la FHA. Se exige consejería. El monto que usted puede recibir depende de la edad, las tasas y el valor de la vivienda, usando factores que publica HUD. Esos factores y el límite de préstamo cambian. No cite aquí un factor vigente del límite de capital.",
+    "details": "12 USC 1715z-20 y 24 CFR Parte 206 son el marco legal, y HUD 4000.1 y las cartas a los acreedores aportan las reglas operativas. El prestatario debe ocupar la vivienda. Los impuestos y el seguro son obligaciones. Los cónyuges que no solicitan tienen protecciones que deben leerse en la regla vigente, no resumirse como un derecho automático a quedarse sin condiciones.",
+    "complianceNotes": "Obtenga el certificado de consejería antes de continuar. Use los factores vigentes del límite de capital. Explique que la deuda crece y que dejar la vivienda puede hacer que el préstamo venza.",
+    "example": {
+      "setting": "Certificado de consejería de la HECM de la FHA y divulgaciones de 24 CFR Parte 206",
+      "text": "Una HECM de muestra podría discutirse sobre un valor de vivienda de ejemplo de $350,000. Los fondos disponibles no se indican porque el factor cambia. Cifras de ejemplo solo para el valor."
+    }
+  }
+}

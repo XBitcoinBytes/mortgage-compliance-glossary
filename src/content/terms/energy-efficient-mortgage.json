@@ -1,0 +1,39 @@
+{
+  "slug": "energy-efficient-mortgage",
+  "term": "Energy efficient mortgage",
+  "aliases": [
+    "EEM"
+  ],
+  "category": "loan-programs",
+  "definition": "An energy efficient mortgage finances energy improvements along with the home loan. FHA, VA, and conventional programs each have a version. The eligible improvements and the dollar caps are not the same. Use the program you are actually closing.",
+  "details": "HUD 4000.1 describes the FHA energy efficient mortgage. The VA handbook describes the VA version. Fannie Mae's guide describes any conventional energy feature it will accept. An energy report may be required. The extra funds are for the improvements, not unrestricted cash. Do not stack the caps from three agencies.",
+  "complianceNotes": "Name the agency and follow only that cap and that list of improvements. Document the energy report if the program requires it. Disburse the funds for the work.",
+  "example": {
+    "setting": "Energy improvement costs financed under the specific agency program",
+    "text": "A sample FHA energy package might add an example $6,000 of improvements. Example figures, not a cap."
+  },
+  "citations": [
+    "hud-4000-1",
+    "fannie-guide",
+    "va-pamphlet"
+  ],
+  "related": [
+    "appraisal",
+    "fha-203k",
+    "fha-loan",
+    "renovation-mortgage",
+    "va-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca de eficiencia energética",
+    "aliases": [],
+    "definition": "Una hipoteca de eficiencia energética financia mejoras de energía junto con el préstamo de la vivienda. La FHA, VA y los programas convencionales tienen cada uno una versión. Las mejoras elegibles y los topes en dólares no son los mismos. Use el programa que de verdad está cerrando.",
+    "details": "HUD 4000.1 describe la hipoteca de eficiencia energética de la FHA. El manual de VA describe la versión de VA. La guía de Fannie Mae describe cualquier característica de energía convencional que aceptará. Puede exigirse un informe de energía. Los fondos extra son para las mejoras, no efectivo irrestricto. No sume los topes de tres agencias.",
+    "complianceNotes": "Nombre la agencia y siga solo ese tope y esa lista de mejoras. Documente el informe de energía si el programa lo exige. Desembolse los fondos para el trabajo.",
+    "example": {
+      "setting": "Costos de mejoras de energía financiados según el programa específico de la agencia",
+      "text": "Un paquete de energía de la FHA de muestra podría agregar un ejemplo de $6,000 de mejoras. Cifras de ejemplo, no un tope."
+    }
+  }
+}

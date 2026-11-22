@@ -1,0 +1,37 @@
+{
+  "slug": "disparate-treatment",
+  "term": "Disparate treatment",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Disparate treatment means treating people differently because of a prohibited basis. It includes an overt policy and unequal treatment that is less obvious, such as helping one applicant document income and not helping another who is similarly situated. It does not require a written rule.",
+  "details": "Regulation B, 12 CFR 1002.4, and the Fair Housing Act both reach disparate treatment. Evidence can be emails, pricing exceptions, or a pattern in the files. A creditor's explanation must be the true reason and must not itself be discriminatory. Comparative file review is the usual exam technique.",
+  "complianceNotes": "Give similarly situated applicants the same assistance and the same exception criteria. If you deny one file for a large deposit and approve another, the difference needs a real reason in the file.",
+  "example": {
+    "setting": "Comparative file review of similarly situated applicants",
+    "text": "A sample comparison might show two example applications with the same debt ratio, only one of which received coaching on a gift letter. Example figures are not needed beyond a sample ratio of 40 percent used for both."
+  },
+  "citations": [
+    "reg-1002-4",
+    "usc-42-3605"
+  ],
+  "related": [
+    "disparate-impact",
+    "ecoa",
+    "fair-housing-act",
+    "fair-lending",
+    "redlining",
+    "steering"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Trato dispar",
+    "aliases": [],
+    "definition": "El trato dispar significa tratar a las personas de modo distinto por un motivo prohibido. Incluye una política abierta y un trato desigual menos obvio, como ayudar a un solicitante a documentar ingresos y no ayudar a otro que está en una situación similar. No exige una regla escrita.",
+    "details": "El Reglamento B, 12 CFR 1002.4, y la Ley de Vivienda Justa alcanzan el trato dispar. La prueba puede ser correos, excepciones de precio o un patrón en los expedientes. La explicación del acreedor debe ser la razón verdadera y no debe ser discriminatoria en sí. La revisión comparativa de expedientes es la técnica usual de examen.",
+    "complianceNotes": "Dé a los solicitantes en situación similar la misma ayuda y los mismos criterios de excepción. Si niega un expediente por un depósito grande y aprueba otro, la diferencia necesita una razón real en el expediente.",
+    "example": {
+      "setting": "Revisión comparativa de expedientes de solicitantes en situación similar",
+      "text": "Una comparación de muestra puede mostrar dos solicitudes de ejemplo con la misma relación de deudas, y solo una recibió ayuda con una carta de regalo. Las cifras de ejemplo no hacen falta más allá de una relación de muestra del 40 por ciento usada para ambas. Cifras de ejemplo."
+    }
+  }
+}

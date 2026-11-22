@@ -1,0 +1,37 @@
+{
+  "slug": "interest-only",
+  "term": "Interest-only",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "An interest-only period means the required payment covers interest and not principal, so the balance does not fall. When the period ends, the payment rises to cover principal. A qualified mortgage generally cannot have an interest-only period. The balance does not grow if the interest is paid in full. That growth is negative amortization, a different feature.",
+  "details": "12 CFR 1026.43 restricts interest-only features on qualified mortgages. 12 CFR 1026.37 requires the Loan Estimate to describe the product. Ability to repay requires the creditor to consider a payment that amortizes the loan, not only the interest-only payment. Non-QM loans may still be made if the creditor documents ability to repay. Agency guides generally do not treat interest-only as a standard QM delivery.",
+  "complianceNotes": "Disclose the interest-only period and the later payment. Qualify on the amortizing payment the rule requires. Do not mark the loan as a general qualified mortgage if it has this feature.",
+  "example": {
+    "setting": "Loan Estimate product line showing an interest-only period",
+    "text": "A sample interest-only payment of $1,500 on an example $300,000 loan would rise when principal payments begin. Example figures."
+  },
+  "citations": [
+    "reg-1026-43",
+    "reg-1026-37"
+  ],
+  "related": [
+    "balloon-payment",
+    "negative-amortization",
+    "non-qm",
+    "note-rate",
+    "qualified-mortgage",
+    "qualifying-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Solo interés",
+    "aliases": [],
+    "definition": "Un período de solo interés significa que el pago exigido cubre el interés y no el capital, así que el saldo no baja. Cuando el período termina, el pago sube para cubrir el capital. Una hipoteca calificada por lo general no puede tener un período de solo interés. El saldo no crece si el interés se paga por completo. Ese crecimiento es amortización negativa, una característica distinta.",
+    "details": "12 CFR 1026.43 restringe las características de solo interés en las hipotecas calificadas. 12 CFR 1026.37 exige que la Estimación del préstamo describa el producto. La capacidad de pago exige que el acreedor considere un pago que amortiza el préstamo, no solo el pago de solo interés. Los préstamos no QM igual pueden hacerse si el acreedor documenta la capacidad de pago. Las guías de las agencias por lo general no tratan el solo interés como una entrega QM estándar.",
+    "complianceNotes": "Divulgue el período de solo interés y el pago posterior. Califique con el pago amortizable que exige la regla. No marque el préstamo como una hipoteca calificada general si tiene esta característica.",
+    "example": {
+      "setting": "Línea de producto de la Estimación del préstamo que muestra un período de solo interés",
+      "text": "Un pago de solo interés de muestra de $1,500 sobre un préstamo de ejemplo de $300,000 subiría cuando empiecen los pagos de capital. Cifras de ejemplo."
+    }
+  }
+}

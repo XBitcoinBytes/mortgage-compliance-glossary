@@ -1,0 +1,39 @@
+{
+  "slug": "disbursement",
+  "term": "Disbursement",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Disbursement is the release of the loan funds. It may happen at signing or later. It is not the defined term consummation. Prepaid interest usually starts when the loan funds, not when the borrower first talked to the lender.",
+  "details": "Regulation Z defines consummation by state law in 12 CFR 1026.2. Investors and state good-funds laws control when money may move. A prior-to-funding condition must be clear before the wire. On a rescindable loan, funds should not be disbursed until the rescission period ends, except as 12 CFR 1026.23 allows.",
+  "complianceNotes": "Separate the signing date, the consummation date, and the disbursement date in the file. Do not tell the borrower the loan has funded because they signed.",
+  "example": {
+    "setting": "Funding wire, which may be the same day as signing or a later day",
+    "text": "A sample dry closing might disburse an example $255,000 two days after signing. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-2"
+  ],
+  "related": [
+    "closing-wire-fraud",
+    "consummation",
+    "dry-funding",
+    "per-diem-interest",
+    "prepaid-interest",
+    "prior-to-funding",
+    "settlement-agent",
+    "wet-settlement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Desembolso",
+    "aliases": [],
+    "definition": "El desembolso es la liberación de los fondos del préstamo. Puede ocurrir en la firma o después. No es el término definido de consumación. El interés pagado por adelantado por lo general empieza cuando se desembolsan los fondos, no cuando el prestatario habló por primera vez con el prestamista.",
+    "details": "El Reglamento Z define la consumación por la ley estatal en 12 CFR 1026.2. Los inversionistas y las leyes estatales de fondos disponibles controlan cuándo puede moverse el dinero. Una condición previa al desembolso debe estar resuelta antes de la transferencia. En un préstamo que se puede rescindir, los fondos no deben desembolsarse hasta que termine el período de rescisión, salvo lo que permite 12 CFR 1026.23.",
+    "complianceNotes": "Separe en el expediente la fecha de firma, la fecha de consumación y la fecha de desembolso. No le diga al prestatario que el préstamo se desembolsó porque firmó.",
+    "example": {
+      "setting": "Transferencia de fondos, que puede ser el mismo día de la firma o un día posterior",
+      "text": "Un cierre de muestra con desembolso posterior podría desembolsar un ejemplo de $255,000 dos días después de la firma. Cifras de ejemplo."
+    }
+  }
+}

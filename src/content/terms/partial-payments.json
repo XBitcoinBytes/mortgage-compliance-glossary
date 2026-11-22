@@ -1,0 +1,34 @@
+{
+  "slug": "partial-payments",
+  "term": "Partial payment policy",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The partial-payment disclosure tells you whether the servicer may accept a payment that is less than the full amount due, and how that payment will be applied. Accepting a partial payment is not a promise that the loan is current.",
+  "details": "12 CFR 1026.38 requires the disclosure of the servicer's partial-payment policy. The policy itself is usually in the note or the servicing practices. A partial payment held in suspense is not the same as a loss-mitigation agreement. Regulation X still governs how a servicer must respond if the borrower later asserts an error.",
+  "complianceNotes": "Disclose the actual policy, not a marketing sentence. Tell the borrower a short payment can still leave the loan delinquent. Do not treat a partial payment as a forbearance.",
+  "example": {
+    "setting": "Closing Disclosure, page 4 or the partial-payment disclosure, whether the servicer may accept a partial payment",
+    "text": "A sample disclosure might say the servicer may hold an example partial payment of $400 in suspense until a full payment is received. Example figures."
+  },
+  "citations": [
+    "reg-1026-38"
+  ],
+  "related": [
+    "closing-disclosure",
+    "delinquency",
+    "mortgage-servicer",
+    "periodic-statement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pagos parciales",
+    "aliases": [],
+    "definition": "La divulgación de pagos parciales le dice si el administrador puede aceptar un pago menor que el monto total debido, y cómo se aplicará ese pago. Aceptar un pago parcial no es una promesa de que el préstamo está al día.",
+    "details": "12 CFR 1026.38 exige la divulgación de la política de pagos parciales del administrador. La política en sí por lo general está en el pagaré o en las prácticas de administración. Un pago parcial retenido en suspenso no es lo mismo que un acuerdo de mitigación de pérdidas. El Reglamento X igual rige cómo debe responder un administrador si el prestatario después alega un error.",
+    "complianceNotes": "Divulgue la política real, no una frase de mercadeo. Dígale al prestatario que un pago corto igual puede dejar el préstamo en mora. No trate un pago parcial como una indulgencia.",
+    "example": {
+      "setting": "Divulgación del cierre, página 4 o la divulgación de pagos parciales, si el administrador puede aceptar un pago parcial",
+      "text": "Una divulgación de muestra podría decir que el administrador puede retener un pago parcial de ejemplo de $400 en suspenso hasta que se reciba un pago completo. Cifras de ejemplo."
+    }
+  }
+}

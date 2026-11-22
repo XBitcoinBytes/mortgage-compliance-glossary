@@ -1,0 +1,39 @@
+{
+  "slug": "prior-to-document",
+  "term": "Prior-to-document condition",
+  "aliases": [
+    "PTD"
+  ],
+  "category": "underwriting",
+  "definition": "A prior-to-document condition is industry shorthand for an item the lender wants cleared before the closing package is prepared. It is file language, not a term defined in Regulation Z. Typical items are income documents and the appraisal.",
+  "details": "The legal disclosures still run on their own clocks. Clearing prior-to-document conditions does not replace the Closing Disclosure waiting period. DU conditions in B3-2-11 may be labeled this way inside the lender's system. The label should match what the findings actually require.",
+  "complianceNotes": "Do not order documents while a prior-to-document income or collateral condition is open, unless the lender's procedure expressly allows a draft. Recheck the Loan Estimate tolerances if a condition changes a fee.",
+  "example": {
+    "setting": "Condition sheet, items marked prior to document, before the closing package is ordered",
+    "text": "A sample stack might mark the appraisal and an example $10,000 large-deposit source as prior to document. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "fannie-b3-2-11"
+  ],
+  "related": [
+    "clear-to-close",
+    "closing-package",
+    "conditional-approval",
+    "faq-what-are-underwriting-conditions",
+    "prior-to-funding",
+    "underwriting-conditions"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Condición previa a los documentos",
+    "aliases": [],
+    "definition": "Una condición previa a los documentos es jerga de la industria para un punto que el prestamista quiere resuelto antes de preparar el paquete de cierre. Es lenguaje del expediente, no un término definido en el Reglamento Z. Puntos típicos son los documentos de ingreso y la tasación.",
+    "details": "Las divulgaciones legales igual corren en sus propios plazos. Levantar condiciones previas a los documentos no reemplaza el período de espera de la Divulgación del cierre. Las condiciones de DU en B3-2-11 pueden etiquetarse así dentro del sistema del prestamista. La etiqueta debe coincidir con lo que los hallazgos de verdad exigen.",
+    "complianceNotes": "No pida documentos mientras una condición previa de ingreso o de garantía está abierta, salvo que el procedimiento del prestamista permita expresamente un borrador. Vuelva a revisar las tolerancias de la Estimación del préstamo si una condición cambia un cargo.",
+    "example": {
+      "setting": "Hoja de condiciones, puntos marcados como previos a los documentos, antes de pedir el paquete de cierre",
+      "text": "Una pila de muestra puede marcar la tasación y el origen de un depósito grande de ejemplo de $10,000 como previos a los documentos. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "customer-identification-program",
+  "term": "Customer identification program",
+  "aliases": [
+    "CIP"
+  ],
+  "category": "compliance",
+  "definition": "A customer identification program is the set of steps a financial institution uses to know who the customer is. Banks have a detailed CIP rule. Nonbank mortgage lenders should not assume that bank rule is their regulation. Their identification steps sit inside the FinCEN program for loan or finance companies and their own procedures.",
+  "details": "31 CFR Part 1029 is the mortgage-company AML framework. The bank CIP at 31 CFR 1020.220 is a bank rule and is not cited here as if it automatically bound every mortgage broker. Whatever procedure the company adopts should be strong enough to support the AML program and OFAC screening. This entry is flagged because nonbank identification details are easy to overstate.",
+  "complianceNotes": "Follow the company's written identification procedure and the Part 1029 program. Do not photocopy a bank CIP manual and call it the mortgage rule. Escalate a customer who will not provide identity information.",
+  "example": {
+    "setting": "Identity documentation collected at application, governed by the company's AML program",
+    "text": "A sample application file might contain a government photo ID checked against the URLA name on an example $200,000 loan. Example figures. The ID type is set by the company's procedure."
+  },
+  "citations": [
+    "cfr-31-1029",
+    "fincen"
+  ],
+  "related": [
+    "anti-money-laundering",
+    "bank-secrecy-act",
+    "ofac-screening",
+    "red-flags-rule",
+    "suspicious-activity-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Programa de identificación del cliente",
+    "aliases": [],
+    "definition": "Un programa de identificación del cliente es el conjunto de pasos que una institución financiera usa para saber quién es el cliente. Los bancos tienen una regla detallada de CIP. Los prestamistas hipotecarios no bancarios no deben suponer que esa regla bancaria es su reglamento. Sus pasos de identificación están dentro del programa de FinCEN para compañías de préstamos o de financiamiento y de sus propios procedimientos.",
+    "details": "31 CFR Parte 1029 es el marco contra el lavado de dinero de las empresas hipotecarias. El CIP bancario en 31 CFR 1020.220 es una regla de bancos y no se cita aquí como si obligara automáticamente a todo corredor hipotecario. El procedimiento que adopte la empresa debe ser lo bastante sólido para apoyar el programa contra el lavado de dinero y la revisión de OFAC. Esta entrada está marcada porque los detalles de identificación de las entidades no bancarias son fáciles de exagerar.",
+    "complianceNotes": "Siga el procedimiento escrito de identificación de la empresa y el programa de la Parte 1029. No fotocopie un manual de CIP bancario y llámelo la regla hipotecaria. Escale a un cliente que no proporciona información de identidad.",
+    "example": {
+      "setting": "Documentación de identidad recogida en la solicitud, regida por el programa contra el lavado de dinero de la empresa",
+      "text": "Un expediente de solicitud de muestra puede contener una identificación con foto del gobierno cotejada con el nombre de la URLA en un préstamo de ejemplo de $200,000. Cifras de ejemplo. El tipo de identificación lo fija el procedimiento de la empresa."
+    }
+  },
+  "reviewFlag": "Nonbank mortgage customer-identification duties should be confirmed against 31 CFR Part 1029 and counsel. Do not treat the bank CIP rule at 31 CFR 1020.220 as automatically applicable."
+}

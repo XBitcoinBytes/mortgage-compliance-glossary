@@ -1,0 +1,37 @@
+{
+  "slug": "mortgage-broker-compensation",
+  "term": "Mortgage broker compensation",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Mortgage broker compensation is what the broker is paid for arranging the loan. The consumer may pay it as a Section A charge, or the creditor may pay it. The broker may not be paid by both on the same loan, and the pay may not depend on the rate.",
+  "details": "12 CFR 1026.36(d) is the compensation rule, including the ban on dual compensation and on compensation based on a term of the transaction. If the consumer pays the broker, the charge is disclosed in Section A under 12 CFR 1026.37 and is generally zero-tolerance. The anti-steering provisions in 12 CFR 1026.36(e) address directing the consumer to a loan that increases the broker's pay.",
+  "complianceNotes": "Elect borrower-paid or lender-paid before disclosing, and do not switch in a way that collects both. Keep the agreement and the calculation. Present the required loan options if the anti-steering safe harbor is the control the creditor relies on.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section A, broker charge if borrower-paid; compensation agreement if lender-paid",
+    "text": "A sample borrower-paid file might show a broker charge of $4,000 in Section A on an example $250,000 loan and no lender-paid commission. Example figures."
+  },
+  "citations": [
+    "reg-1026-36",
+    "reg-1026-37"
+  ],
+  "related": [
+    "anti-steering",
+    "borrower-paid-compensation",
+    "lender-paid-compensation",
+    "loan-originator-compensation",
+    "mortgage-broker",
+    "origination-charges"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Compensación del corredor hipotecario",
+    "aliases": [],
+    "definition": "La compensación del corredor hipotecario es lo que se le paga al corredor por gestionar el préstamo. El consumidor puede pagarla como un cargo de la Sección A, o puede pagarla el acreedor. El corredor no puede recibir pago de ambos en el mismo préstamo, y el pago no puede depender de la tasa.",
+    "details": "12 CFR 1026.36(d) es la regla de compensación, incluida la prohibición de la compensación doble y de la compensación basada en un término de la transacción. Si el consumidor paga al corredor, el cargo se divulga en la Sección A según 12 CFR 1026.37 y por lo general tiene tolerancia cero. Las disposiciones contra la dirección indebida en 12 CFR 1026.36(e) tratan el dirigir al consumidor a un préstamo que aumenta el pago del corredor.",
+    "complianceNotes": "Elija pago del prestatario o pago del prestamista antes de divulgar, y no cambie de un modo que cobre ambos. Conserve el acuerdo y el cálculo. Presente las opciones de préstamo exigidas si el puerto seguro contra la dirección indebida es el control en el que se apoya el acreedor.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección A, cargo del corredor si lo paga el prestatario; acuerdo de compensación si lo paga el prestamista",
+      "text": "Un expediente de muestra pagado por el prestatario puede mostrar un cargo del corredor de $4,000 en la Sección A sobre un préstamo de ejemplo de $250,000 y ninguna comisión pagada por el prestamista. Cifras de ejemplo."
+    }
+  }
+}

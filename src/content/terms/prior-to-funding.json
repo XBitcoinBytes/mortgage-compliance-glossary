@@ -1,0 +1,39 @@
+{
+  "slug": "prior-to-funding",
+  "term": "Prior-to-funding condition",
+  "aliases": [
+    "PTF"
+  ],
+  "category": "underwriting",
+  "definition": "A prior-to-funding condition is industry shorthand for an item due before the lender sends the money. A verbal verification of employment and a final title update are common examples. Signing day can still happen while one of these remains open, if the lender's process allows it.",
+  "details": "This label is not in Regulation Z. Funding is not always the same day as consummation. The condition still has to be satisfied before disbursement if the approval says so. DU messages under B3-2-11 can be assigned this timing inside the lender's system.",
+  "complianceNotes": "Do not fund because the closing ceremony finished if a prior-to-funding condition is open. The funder should see the cleared item, not a promise that it will arrive.",
+  "example": {
+    "setting": "Condition sheet, items that must be cleared before the wire is sent",
+    "text": "A sample funding checklist might hold an example wire of $286,000 until the verbal verification dated the same day is in the file. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "fannie-b3-2-11"
+  ],
+  "related": [
+    "clear-to-close",
+    "disbursement",
+    "dry-funding",
+    "prior-to-document",
+    "underwriting-conditions",
+    "verbal-verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Condición previa al desembolso",
+    "aliases": [],
+    "definition": "Una condición previa al desembolso es jerga de la industria para un punto que vence antes de que el prestamista envíe el dinero. Una verificación verbal de empleo y una actualización final de título son ejemplos comunes. El día de la firma puede ocurrir mientras uno de estos puntos sigue abierto, si el proceso del prestamista lo permite.",
+    "details": "Esta etiqueta no está en el Reglamento Z. El desembolso no siempre es el mismo día que la consumación. La condición igual debe satisfacerse antes del desembolso si la aprobación lo dice. Los mensajes de DU según B3-2-11 pueden recibir este plazo dentro del sistema del prestamista.",
+    "complianceNotes": "No desembolse porque la ceremonia de cierre terminó si una condición previa al desembolso está abierta. Quien desembolsa debe ver el punto resuelto, no una promesa de que llegará.",
+    "example": {
+      "setting": "Hoja de condiciones, puntos que deben resolverse antes de enviar la transferencia",
+      "text": "Una lista de desembolso de muestra puede retener una transferencia de ejemplo de $286,000 hasta que la verificación verbal con fecha del mismo día esté en el expediente. Cifras de ejemplo."
+    }
+  }
+}

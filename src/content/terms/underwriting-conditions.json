@@ -1,0 +1,43 @@
+{
+  "slug": "underwriting-conditions",
+  "term": "Underwriting conditions",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Underwriting conditions are the items that must be documented or done before the lender will draw documents or fund the loan. They come from the automated findings or from the underwriter. A condition is not a suggestion.",
+  "details": "Fannie Mae B3-2-11 describes the DU Underwriting Findings report, including verification messages and approval conditions. Clearing a condition means the document in the file satisfies it, not that a processor marked it received. A prior-to-document condition and a prior-to-funding condition are industry timing labels, not separate federal categories.",
+  "complianceNotes": "Do not waive a DU message because the borrower is in a hurry. Match each cleared condition to a document. If new information appears, add a condition or resubmit rather than ignoring it.",
+  "example": {
+    "setting": "DU findings conditions list, or the manual underwriter's condition sheet",
+    "text": "A sample findings list might include conditions to document an example $6,000 gift and to obtain a verbal verification of employment. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-11",
+    "practice-file"
+  ],
+  "related": [
+    "approve-eligible",
+    "clear-to-close",
+    "conditional-approval",
+    "desktop-underwriter",
+    "faq-what-are-underwriting-conditions",
+    "faq-what-is-underwriting",
+    "letter-of-explanation",
+    "loan-processor",
+    "loan-product-advisor",
+    "prior-to-document",
+    "prior-to-funding",
+    "title-commitment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Condiciones de suscripción",
+    "aliases": [],
+    "definition": "Las condiciones de suscripción son los puntos que deben documentarse o hacerse antes de que el prestamista prepare documentos o desembolse el préstamo. Vienen de los hallazgos automatizados o del suscriptor. Una condición no es una sugerencia.",
+    "details": "Fannie Mae B3-2-11 describe el informe de hallazgos de DU, incluidos los mensajes de verificación y las condiciones de aprobación. Levantar una condición significa que el documento del expediente la satisface, no que un procesador la marcó como recibida. Una condición previa a los documentos y una condición previa al desembolso son etiquetas de tiempo de la industria, no categorías federales distintas.",
+    "complianceNotes": "No dispense un mensaje de DU porque el prestatario tiene prisa. Haga coincidir cada condición levantada con un documento. Si aparece información nueva, agregue una condición o vuelva a enviar en lugar de ignorarla.",
+    "example": {
+      "setting": "Lista de condiciones de los hallazgos de DU, o la hoja de condiciones del suscriptor manual",
+      "text": "Una lista de hallazgos de muestra puede incluir condiciones para documentar un regalo de ejemplo de $6,000 y para obtener una verificación verbal de empleo. Cifras de ejemplo."
+    }
+  }
+}

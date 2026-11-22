@@ -1,0 +1,35 @@
+{
+  "slug": "small-creditor",
+  "term": "Small creditor",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A small creditor is a Regulation Z category based on asset size and the number of originations, together with affiliate rules. Small-creditor status can open limited qualified-mortgage or escrow provisions. The numbers are adjusted or defined in the regulation. Do not use last year's asset number.",
+  "details": "12 CFR 1026.35 and 12 CFR 1026.43 contain the provisions that use small-creditor status, including certain escrow exemptions and certain qualified-mortgage paths. The CFPB publishes annual adjustments. A creditor that counts only its own loans and ignores affiliates can misclassify itself. Rural and underserved tests are separate where the rule uses them.",
+  "complianceNotes": "Recompute small-creditor status each year from the current thresholds before you rely on a special QM or an escrow exemption. Keep the asset and origination math.",
+  "example": {
+    "setting": "Small-creditor status worksheet before using a special QM or HPML escrow provision",
+    "text": "A sample creditor might test an example origination count against the current 1026.35 definition. The count is not stated here because it is defined in the rule. Example figures are not the threshold."
+  },
+  "citations": [
+    "reg-1026-35",
+    "reg-1026-43"
+  ],
+  "related": [
+    "ability-to-repay",
+    "higher-priced-mortgage-loan",
+    "hpml-escrow",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Acreedor pequeño",
+    "aliases": [],
+    "definition": "Un acreedor pequeño es una categoría del Reglamento Z basada en el tamaño de los activos y el número de originaciones, junto con reglas de afiliados. El estado de acreedor pequeño puede abrir disposiciones limitadas de hipoteca calificada o de depósito en garantía. Los números se ajustan o se definen en el reglamento. No use el número de activos del año pasado.",
+    "details": "12 CFR 1026.35 y 12 CFR 1026.43 contienen las disposiciones que usan el estado de acreedor pequeño, incluidas ciertas exenciones de depósito en garantía y ciertas vías de hipoteca calificada. La CFPB publica ajustes anuales. Un acreedor que cuenta solo sus propios préstamos e ignora a los afiliados puede clasificarse mal. Las pruebas de área rural y desatendida son separadas donde la regla las usa.",
+    "complianceNotes": "Recalcule el estado de acreedor pequeño cada año a partir de los umbrales vigentes antes de apoyarse en una QM especial o en una exención de depósito en garantía. Conserve el cálculo de activos y de originaciones.",
+    "example": {
+      "setting": "Hoja del estado de acreedor pequeño antes de usar una QM especial o una disposición de depósito en garantía de HPML",
+      "text": "Un acreedor de muestra podría probar un conteo de originaciones de ejemplo contra la definición vigente de 1026.35. El conteo no se indica aquí porque está definido en la regla. Las cifras de ejemplo no son el umbral. Cifras de ejemplo."
+    }
+  }
+}

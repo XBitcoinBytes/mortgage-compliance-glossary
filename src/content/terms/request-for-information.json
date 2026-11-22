@@ -1,0 +1,36 @@
+{
+  "slug": "request-for-information",
+  "term": "Request for information",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A request for information is a written request that the servicer provide information about your mortgage. It is not the same as a notice of error, although one letter can do both. The servicer must acknowledge and respond on the regulatory timeline.",
+  "details": "12 CFR 1024.36 states the duty, the acknowledgment, and the response time, with different treatment for some requests. The timelines are in the section. A request for a payoff may also implicate Regulation Z's payoff rule. The servicer may not charge a fee prohibited by the section for responding.",
+  "complianceNotes": "Separate information requests from error notices in the mailroom so each clock starts. Answer the question asked. Do not send only a payoff quote when the borrower asked for a payment history.",
+  "example": {
+    "setting": "Written request for information about the mortgage account",
+    "text": "A sample request might ask for the last example 12 months of payment history. Example figures for the period requested."
+  },
+  "citations": [
+    "reg-1024-36"
+  ],
+  "related": [
+    "error-resolution",
+    "mortgage-servicer",
+    "notice-of-error",
+    "payoff-statement",
+    "qualified-written-request",
+    "successor-in-interest"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pedido de información",
+    "aliases": [],
+    "definition": "Un pedido de información es un pedido por escrito de que el administrador proporcione información sobre su hipoteca. No es lo mismo que un aviso de error, aunque una carta puede hacer ambas cosas. El administrador debe acusar y responder en el plazo del reglamento.",
+    "details": "12 CFR 1024.36 establece el deber, el acuse y el tiempo de respuesta, con un tratamiento distinto para algunos pedidos. Los plazos están en la sección. Un pedido de liquidación también puede involucrar la regla de liquidación del Reglamento Z. El administrador no puede cobrar un cargo prohibido por la sección por responder.",
+    "complianceNotes": "Separe los pedidos de información de los avisos de error en la recepción de correo para que cada reloj empiece. Responda la pregunta hecha. No envíe solo una cotización de liquidación cuando el prestatario pidió un historial de pagos.",
+    "example": {
+      "setting": "Pedido por escrito de información sobre la cuenta hipotecaria",
+      "text": "Un pedido de muestra podría pedir el historial de pagos de los últimos 12 meses de ejemplo. Cifras de ejemplo para el período pedido."
+    }
+  }
+}

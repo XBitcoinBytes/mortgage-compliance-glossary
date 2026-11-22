@@ -1,0 +1,39 @@
+{
+  "slug": "va-irrrl",
+  "term": "VA IRRRL",
+  "aliases": [
+    "Interest Rate Reduction Refinance Loan"
+  ],
+  "category": "loan-programs",
+  "definition": "An IRRRL is a VA Interest Rate Reduction Refinance Loan. It refinances an existing VA loan with reduced documentation. It is not a cash-out refinance. The handbook requires a benefit to the borrower and has seasoning rules. Those seasoning numbers should be read from the current chapter, not memorized.",
+  "details": "VA Pamphlet 26-7, Chapter 6, compares IRRRLs with cash-out refinances. Funding-fee treatment and occupancy certifications are in that chapter. A new appraisal is not the same requirement as on a purchase. TRID disclosures still apply. Adding cash to the borrower can push the loan into the cash-out product.",
+  "complianceNotes": "Document the existing VA loan, the benefit, and the seasoning the chapter currently requires. Do not underwrite it as a cash-out. Disclose the funding fee or the exemption.",
+  "example": {
+    "setting": "VA Interest Rate Reduction Refinance Loan under Pamphlet 26-7, Chapter 6",
+    "text": "A sample IRRRL might lower an example rate from 6.75 percent to 6.00 percent. Example figures, not a required benefit formula."
+  },
+  "citations": [
+    "va-pamphlet"
+  ],
+  "related": [
+    "certificate-of-eligibility",
+    "fha-streamline-refinance",
+    "rate-and-term-refinance",
+    "va-cash-out-refinance",
+    "va-entitlement",
+    "va-funding-fee",
+    "va-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "IRRRL de VA",
+    "aliases": [],
+    "definition": "Un IRRRL es un préstamo de refinanciamiento para reducción de la tasa de interés de VA. Refinancia un préstamo VA existente con documentación reducida. No es un refinanciamiento con retiro de efectivo. El manual exige un beneficio para el prestatario y tiene reglas de antigüedad. Esos números de antigüedad deben leerse en el capítulo vigente, no memorizarse.",
+    "details": "El Folleto VA 26-7, capítulo 6, compara los IRRRL con los refinanciamientos con retiro de efectivo. El tratamiento de la cuota de financiamiento y las certificaciones de ocupación están en ese capítulo. Una tasación nueva no es el mismo requisito que en una compra. Las divulgaciones de TRID igual se aplican. Agregar efectivo al prestatario puede empujar el préstamo al producto con retiro de efectivo.",
+    "complianceNotes": "Documente el préstamo VA existente, el beneficio y la antigüedad que el capítulo exige ahora. No lo suscriba como un retiro de efectivo. Divulgue la cuota de financiamiento o la exención.",
+    "example": {
+      "setting": "Préstamo de refinanciamiento para reducción de la tasa de interés de VA según el Folleto 26-7, capítulo 6",
+      "text": "Un IRRRL de muestra podría bajar una tasa de ejemplo del 6.75 por ciento al 6.00 por ciento. Cifras de ejemplo, no una fórmula de beneficio exigida."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "qualifying-rate",
+  "term": "Qualifying rate",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "The qualifying rate is the interest rate used to calculate the payment that enters your debt ratio. On a fixed-rate loan it is usually the note rate. On an adjustable-rate loan or a temporary buydown, the guide may require a higher rate than the payment you will make in the first year.",
+  "details": "Fannie Mae B3-6-04 states qualifying-payment rules by product. Do not apply one formula, such as note rate plus two percent, to every ARM. The current guide and the product determine the rate. Ability to repay also requires the creditor to consider the payment using substantially equal monthly payments under 12 CFR 1026.43, which is related but not identical to the agency qualifying rate.",
+  "complianceNotes": "Show both the starting payment and the qualifying payment when they differ, so the borrower is not surprised. Use the qualifying payment in the ratio. Recalculate if the note rate changes at lock.",
+  "example": {
+    "setting": "Underwriting worksheet, rate used to calculate the qualifying payment, which may differ from the start rate",
+    "text": "A sample 5/6 ARM might have an example start rate of 5.75 percent and a qualifying rate taken from the current guide rather than from the first-year payment. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-04"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "debt-to-income-ratio",
+    "faq-what-is-dti",
+    "fixed-rate-mortgage",
+    "fully-indexed-rate",
+    "hybrid-arm",
+    "interest-only",
+    "note-rate",
+    "pitia",
+    "temporary-buydown"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tasa de calificación",
+    "aliases": [],
+    "definition": "La tasa de calificación es la tasa de interés usada para calcular el pago que entra en su relación de deudas. En un préstamo de tasa fija por lo general es la tasa del pagaré. En un préstamo de tasa ajustable o en una reducción temporal, la guía puede exigir una tasa más alta que el pago que usted hará el primer año.",
+    "details": "Fannie Mae B3-6-04 establece las reglas del pago de calificación por producto. No aplique una sola fórmula, como la tasa del pagaré más dos por ciento, a toda hipoteca de tasa ajustable. La guía vigente y el producto determinan la tasa. La capacidad de pago también exige que el acreedor considere el pago usando pagos mensuales sustancialmente iguales según 12 CFR 1026.43, lo que está relacionado pero no es idéntico a la tasa de calificación de la agencia.",
+    "complianceNotes": "Muestre tanto el pago inicial como el pago de calificación cuando difieren, para que el prestatario no se sorprenda. Use el pago de calificación en la relación. Recalcule si la tasa del pagaré cambia en la fijación.",
+    "example": {
+      "setting": "Hoja de suscripción, tasa usada para calcular el pago de calificación, que puede diferir de la tasa inicial",
+      "text": "Una ARM 5/6 de muestra puede tener una tasa inicial de ejemplo del 5.75 por ciento y una tasa de calificación tomada de la guía vigente y no del pago del primer año. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "nmls",
+  "term": "NMLS",
+  "aliases": [
+    "Nationwide Multistate Licensing System"
+  ],
+  "category": "origination",
+  "definition": "NMLS is the Nationwide Multistate Licensing System, the registry mortgage loan originators and their companies use for SAFE Act licensing and registration. NMLS keeps the record. It does not grant the state license.",
+  "details": "The SAFE Act, 12 USC 5101 and following, requires originators to be licensed or registered through NMLS. State agencies issue licenses for non-depository originators. Depository institutions register their originators. The public NMLS record shows the identifier, status, and employment history. The Loan Estimate identifies the loan originator and organization, including NMLS IDs where the form calls for them.",
+  "complianceNotes": "Confirm the originator's NMLS status is authorized in the property state before taking an application. A unique identifier on marketing must match the person who will actually take the application. Do not describe NMLS approval as a state license.",
+  "example": {
+    "setting": "Loan Estimate, page 3, or the application, NMLS ID of the loan originator and the organization",
+    "text": "A sample Loan Estimate signature area might list Loan originator NMLS ID 123456 and organization NMLS ID 654321. Those identifiers are example figures, not real licenses. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "nmls",
+    "usc-12-5101",
+    "practice-nmls"
+  ],
+  "related": [
+    "loan-officer",
+    "mortgage-broker",
+    "mortgage-loan-originator",
+    "safe-act",
+    "state-licensing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "NMLS",
+    "aliases": [
+      "Sistema Nacional de Licencias"
+    ],
+    "definition": "NMLS es el Sistema Nacional de Licencias Multiestatal, el registro que usan los originadores de préstamos hipotecarios y sus empresas para la licencia y el registro de la Ley SAFE. NMLS guarda el registro. No otorga la licencia estatal.",
+    "details": "La Ley SAFE, 12 USC 5101 y siguientes, exige que los originadores tengan licencia o estén registrados por medio de NMLS. Las agencias estatales otorgan las licencias de los originadores que no son de instituciones de depósito. Las instituciones de depósito registran a sus originadores. El registro público de NMLS muestra el identificador, el estado y el historial de empleo. La Estimación del préstamo identifica al originador y a la organización, incluidos los identificadores NMLS cuando el formulario los pide.",
+    "complianceNotes": "Confirme que el estado de NMLS del originador está autorizado en el estado de la propiedad antes de tomar una solicitud. Un identificador único en la publicidad debe coincidir con la persona que de verdad tomará la solicitud. No describa la aprobación de NMLS como una licencia estatal.",
+    "example": {
+      "setting": "Estimación del préstamo, página 3, o la solicitud, identificador NMLS del originador y de la organización",
+      "text": "El área de firmas de una Estimación del préstamo de muestra puede listar el identificador NMLS del originador 123456 y el de la organización 654321. Esos identificadores son cifras de ejemplo, no licencias reales. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

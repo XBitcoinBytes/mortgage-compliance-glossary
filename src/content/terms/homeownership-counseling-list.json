@@ -1,0 +1,36 @@
+{
+  "slug": "homeownership-counseling-list",
+  "term": "Homeownership counseling list",
+  "aliases": [],
+  "category": "origination",
+  "definition": "The homeownership counseling list is a written list of nearby HUD-approved housing counselors that the lender must give you shortly after you apply. It helps you find independent advice. It is not the Loan Estimate and it is not the toolkit.",
+  "details": "12 CFR 1024.20 requires the list for most federally related mortgage loans. The timing, the number of counselors, and the data source are in that section. High-cost mortgages and reverse mortgages have additional counseling rules of their own. Giving a generic national phone number without the required list does not complete the duty.",
+  "complianceNotes": "Generate the list from the current HUD data for the borrower's location and store it with the application date. Do not reuse a list from another borrower's file. Counseling required by HOEPA or the HECM rule is an additional step, not this list alone.",
+  "example": {
+    "setting": "Counseling-list disclosure in the origination file, separate from the Loan Estimate",
+    "text": "A sample list might name ten counseling agencies within an example search around the property ZIP code and be dated the day after application. The count and date are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1024-20"
+  ],
+  "related": [
+    "application-definition",
+    "high-cost-mortgage",
+    "hoepa",
+    "loan-estimate",
+    "reverse-mortgage",
+    "your-home-loan-toolkit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Lista de organizaciones de consejería de vivienda",
+    "aliases": [],
+    "definition": "La lista de consejería de vivienda es una lista escrita de consejeros de vivienda aprobados por HUD, cercanos a usted, que el prestamista debe darle poco después de que usted solicita. Le ayuda a encontrar orientación independiente. No es la Estimación del préstamo ni el conjunto de herramientas.",
+    "details": "12 CFR 1024.20 exige la lista para la mayoría de los préstamos hipotecarios relacionados con el gobierno federal. El plazo, el número de consejeros y la fuente de datos están en esa sección. Las hipotecas de alto costo y las hipotecas inversas tienen sus propias reglas adicionales de consejería. Dar un número nacional genérico sin la lista exigida no cumple el deber.",
+    "complianceNotes": "Genere la lista con los datos vigentes de HUD para la ubicación del prestatario y guárdela con la fecha de solicitud. No reutilice la lista de otro prestatario. La consejería exigida por HOEPA o por la regla de HECM es un paso adicional, no solo esta lista.",
+    "example": {
+      "setting": "Divulgación de la lista de consejería en el expediente de originación, separada de la Estimación del préstamo",
+      "text": "Una lista de muestra puede nombrar diez agencias de consejería dentro de una búsqueda de ejemplo alrededor del código postal de la propiedad y tener fecha del día siguiente a la solicitud. El número y la fecha son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

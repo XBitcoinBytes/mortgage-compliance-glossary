@@ -1,0 +1,38 @@
+{
+  "slug": "map-rule",
+  "term": "MAP Rule",
+  "aliases": [
+    "Regulation N",
+    "12 CFR 1014"
+  ],
+  "category": "compliance",
+  "definition": "The MAP Rule is the Mortgage Acts and Practices advertising rule, Regulation N, 12 CFR Part 1014. It prohibits material misrepresentations in commercial communications about mortgage credit products. It applies even when the communication does not use a Regulation Z trigger term.",
+  "details": "Part 1014 lists categories of claims that can be material misrepresentations, including claims about rates, payments, fees, and the consumer's ability to obtain the product. A communication can violate the MAP Rule and Regulation Z at the same time. The rule is about commercial communications, which include many online posts. It is not a license to make a claim that is technically true but presented in a misleading way.",
+  "complianceNotes": "Substantiate every rate, savings, and approval claim before it is published. Keep the backup. Do not rely on a footnote to fix a false headline.",
+  "example": {
+    "setting": "Commercial communication about a mortgage product, reviewed under Regulation N",
+    "text": "A sample claim of an example $200 a month savings would need the comparison that makes it true, or it should not run. Example figures."
+  },
+  "citations": [
+    "reg-1014"
+  ],
+  "related": [
+    "deceptive-practice",
+    "mortgage-advertising",
+    "note-rate",
+    "trigger-terms",
+    "udaap"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Regla MAP",
+    "aliases": [],
+    "definition": "La regla MAP es la regla de publicidad de la Ley de Prácticas Hipotecarias, el Reglamento N, 12 CFR Parte 1014. Prohíbe las declaraciones falsas importantes en las comunicaciones comerciales sobre productos de crédito hipotecario. Se aplica aunque la comunicación no use un término desencadenante del Reglamento Z.",
+    "details": "La Parte 1014 enumera categorías de afirmaciones que pueden ser declaraciones falsas importantes, incluidas afirmaciones sobre tasas, pagos, cargos y la capacidad del consumidor de obtener el producto. Una comunicación puede violar la regla MAP y el Reglamento Z al mismo tiempo. La regla trata las comunicaciones comerciales, que incluyen muchas publicaciones en línea. No es un permiso para hacer una afirmación que es técnicamente verdadera pero se presenta de manera engañosa.",
+    "complianceNotes": "Respalde toda afirmación de tasa, de ahorro y de aprobación antes de publicarla. Conserve el respaldo. No se apoye en una nota al pie para arreglar un titular falso.",
+    "example": {
+      "setting": "Comunicación comercial sobre un producto hipotecario, revisada según el Reglamento N",
+      "text": "Una afirmación de muestra de un ahorro de ejemplo de $200 al mes necesitaría la comparación que la hace verdadera, o no debería publicarse. Cifras de ejemplo."
+    }
+  }
+}

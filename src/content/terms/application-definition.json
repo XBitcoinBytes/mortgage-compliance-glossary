@@ -1,0 +1,46 @@
+{
+  "slug": "application-definition",
+  "term": "Application (six pieces)",
+  "aliases": [
+    "six pieces",
+    "TRID application"
+  ],
+  "category": "origination",
+  "definition": "For the Loan Estimate, an application exists when the creditor has six items: your name, your income, your Social Security number, the property address, an estimate of the property value, and the loan amount you want. A payment quote without those six items is not yet an application.",
+  "details": "The definition is in 12 CFR 1026.2(a)(3)(ii). Once the sixth item arrives, the creditor generally has three business days to deliver the Loan Estimate. Creditors may not hold a file in pre-qualification status to avoid the clock after the six items are in hand. The general business-day definition in 12 CFR 1026.2(a)(6) is the one used for this three-day period, not the rescission definition.",
+  "complianceNotes": "Log the date and time each of the six items is received, including a property address added later. A pre-approval without an address has not started the Loan Estimate clock. The counseling list and the toolkit have their own clocks and should not be confused with this one.",
+  "example": {
+    "setting": "Loan Estimate, page 1, the date issued, read against the application log",
+    "text": "A sample log might show income and a name on Monday and a property address on Wednesday, making Wednesday the application date, with the Loan Estimate due three general business days later. Example figures for the timeline only."
+  },
+  "citations": [
+    "reg-1026-2",
+    "reg-1026-19"
+  ],
+  "related": [
+    "business-day",
+    "faq-what-is-a-loan-estimate",
+    "homeownership-counseling-list",
+    "intent-to-proceed",
+    "loan-estimate",
+    "pre-approval",
+    "pre-qualification",
+    "trid",
+    "uniform-residential-loan-application",
+    "your-home-loan-toolkit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Solicitud (seis datos)",
+    "aliases": [
+      "seis datos"
+    ],
+    "definition": "Para la Estimación del préstamo, hay una solicitud cuando el acreedor tiene seis datos: su nombre, sus ingresos, su número de Seguro Social, la dirección de la propiedad, un estimado del valor y el monto del préstamo que usted quiere. Una cotización de pago sin esos seis datos todavía no es una solicitud.",
+    "details": "La definición está en 12 CFR 1026.2(a)(3)(ii). Cuando llega el sexto dato, el acreedor por lo general tiene tres días hábiles para entregar la Estimación del préstamo. El acreedor no puede dejar el expediente en precalificación para evitar el plazo después de tener los seis datos. El día hábil general de 12 CFR 1026.2(a)(6) es el que se usa para estos tres días, no la definición de rescisión.",
+    "complianceNotes": "Registre la fecha y la hora en que recibe cada uno de los seis datos, incluida una dirección que se agregue después. Una preaprobación sin dirección no ha iniciado el plazo de la Estimación del préstamo. La lista de consejería y el conjunto de herramientas tienen sus propios plazos.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, la fecha de emisión, leída junto con el registro de la solicitud",
+      "text": "Un registro de muestra puede mostrar el nombre y los ingresos el lunes y la dirección el miércoles, de modo que el miércoles es la fecha de solicitud y la Estimación del préstamo vence tres días hábiles generales después. Cifras de ejemplo solo para el calendario."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-an-arm",
+  "term": "What is an adjustable-rate mortgage?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "An adjustable-rate mortgage can change after an initial period. The new rate is an index plus a margin, limited by caps. Your payment can rise. The Loan Estimate shows the product and the caps. You also receive a CHARM booklet.",
+  "details": "12 CFR 1026.19(b) requires the booklet and early disclosures. 12 CFR 1026.37 requires the product description. Later adjustments require notices under 12 CFR 1026.20. The starting rate may be lower than the rate used to qualify you. A fixed-rate loan does not have this adjustment.",
+  "complianceNotes": "Give the booklet. Show a payment that can increase. Do not advertise only the start rate.",
+  "example": {
+    "setting": "Loan Estimate product line for an adjustable-rate mortgage and the CHARM booklet",
+    "text": "A sample 5/6 ARM might start at an example 5.75 percent. Example figures, not a quote."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-37"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "arm-adjustment-notice",
+    "arm-caps",
+    "fixed-rate-mortgage",
+    "hybrid-arm"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una hipoteca de tasa ajustable?",
+    "aliases": [],
+    "definition": "Una hipoteca de tasa ajustable puede cambiar después de un período inicial. La nueva tasa es un índice más un margen, limitada por topes. Su pago puede subir. La Estimación del préstamo muestra el producto y los topes. Usted también recibe un folleto CHARM.",
+    "details": "12 CFR 1026.19(b) exige el folleto y las divulgaciones tempranas. 12 CFR 1026.37 exige la descripción del producto. Los ajustes posteriores exigen avisos según 12 CFR 1026.20. La tasa inicial puede ser más baja que la tasa usada para calificarlo. Un préstamo de tasa fija no tiene este ajuste.",
+    "complianceNotes": "Dé el folleto. Muestre un pago que puede aumentar. No anuncie solo la tasa inicial.",
+    "example": {
+      "setting": "Línea de producto de la Estimación del préstamo para una hipoteca de tasa ajustable y el folleto CHARM",
+      "text": "Una ARM 5/6 de muestra podría empezar en un ejemplo del 5.75 por ciento. Cifras de ejemplo, no una cotización."
+    }
+  }
+}

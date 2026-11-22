@@ -1,0 +1,35 @@
+{
+  "slug": "faq-what-is-a-jumbo-loan",
+  "term": "What is a jumbo loan?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A jumbo loan is larger than the conforming loan limit for the county. Fannie Mae and Freddie Mac do not buy it under ordinary conforming rules. A bank or another investor sets the down payment and reserves. The dollar limit changes every year. Look it up at FHFA.",
+  "details": "FHFA publishes the baseline limit and higher limits in high-cost counties. A loan under the high-cost limit can still be conforming. Ability to repay and TRID still apply if the loan is a covered mortgage. Jumbo guidelines are not one federal rule.",
+  "complianceNotes": "Check the current county limit before you call a loan jumbo. Do not quote last year's number. Disclose it as the investor's product.",
+  "example": {
+    "setting": "Loan amount above the current FHFA conforming limit for the county",
+    "text": "A sample amount used only as an illustration, such as $1,100,000, is jumbo only if it exceeds the current FHFA cap. Example figures."
+  },
+  "citations": [
+    "fhfa-cll"
+  ],
+  "related": [
+    "conforming-loan",
+    "conforming-loan-limit",
+    "jumbo-loan",
+    "portfolio-loan",
+    "reserves"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es un préstamo jumbo?",
+    "aliases": [],
+    "definition": "Un préstamo jumbo es más grande que el límite de préstamo conforme del condado. Fannie Mae y Freddie Mac no lo compran bajo las reglas conformes ordinarias. Un banco u otro inversionista fija el pago inicial y las reservas. El límite en dólares cambia cada año. Búsquelo en la FHFA.",
+    "details": "La FHFA publica el límite base y límites más altos en condados de alto costo. Un préstamo bajo el límite de alto costo igual puede ser conforme. La capacidad de pago y TRID igual se aplican si el préstamo es una hipoteca cubierta. Las guías jumbo no son una sola regla federal.",
+    "complianceNotes": "Revise el límite vigente del condado antes de llamar jumbo a un préstamo. No cite el número del año pasado. Divúlguelo como el producto del inversionista.",
+    "example": {
+      "setting": "Monto del préstamo por encima del límite conforme vigente de la FHFA para el condado",
+      "text": "Un monto de muestra usado solo como ilustración, como $1,100,000, es jumbo solo si excede el tope vigente de la FHFA. Cifras de ejemplo."
+    }
+  }
+}

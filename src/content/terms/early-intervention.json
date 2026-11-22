@@ -1,0 +1,37 @@
+{
+  "slug": "early-intervention",
+  "term": "Early intervention",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Early intervention is the servicer's outreach soon after you miss payments. It includes trying to talk with you and sending a written notice about loss-mitigation options. The day counts are in Regulation X. The point is to start the conversation long before foreclosure.",
+  "details": "12 CFR 1024.39 generally requires live contact by the 36th day of delinquency and a written notice by the 45th day, with exemptions and modifications, including for some small servicers and certain borrowers. Those day counts are the regulatory text. The written notice must include the information the section requires, including how to contact personnel who can discuss loss mitigation.",
+  "complianceNotes": "Start the outreach on the delinquency calendar, not when someone remembers. Document the live-contact attempts. Send the written notice even if the phone attempt failed, unless an exemption applies.",
+  "example": {
+    "setting": "Live contact and written early-intervention notice after delinquency begins",
+    "text": "A sample file delinquent since the 1st might show a live-contact attempt on day 20 and the written notice on day 40, both inside the regulatory days. Example figures."
+  },
+  "citations": [
+    "reg-1024-39"
+  ],
+  "related": [
+    "continuity-of-contact",
+    "delinquency",
+    "delinquency-foreclosure-wait",
+    "faq-what-if-i-cannot-pay",
+    "loss-mitigation",
+    "mortgage-servicer",
+    "small-servicer"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Intervención temprana",
+    "aliases": [],
+    "definition": "La intervención temprana es el acercamiento del administrador poco después de que usted no hace pagos. Incluye intentar hablar con usted y enviar un aviso escrito sobre las opciones de mitigación de pérdidas. Los conteos de días están en el Reglamento X. El punto es empezar la conversación mucho antes de la ejecución hipotecaria.",
+    "details": "12 CFR 1024.39 por lo general exige un contacto en vivo para el día 36 de la mora y un aviso escrito para el día 45, con exenciones y modificaciones, incluidas para algunos administradores pequeños y ciertos prestatarios. Esos conteos de días son el texto del reglamento. El aviso escrito debe incluir la información que exige la sección, incluido cómo contactar al personal que puede hablar de mitigación de pérdidas.",
+    "complianceNotes": "Empiece el acercamiento en el calendario de la mora, no cuando alguien se acuerda. Documente los intentos de contacto en vivo. Envíe el aviso escrito aunque el intento telefónico haya fallado, salvo que se aplique una exención.",
+    "example": {
+      "setting": "Contacto en vivo y aviso escrito de intervención temprana después de que empieza la mora",
+      "text": "Un expediente de muestra en mora desde el día 1 podría mostrar un intento de contacto en vivo el día 20 y el aviso escrito el día 40, ambos dentro de los días del reglamento. Cifras de ejemplo."
+    }
+  }
+}

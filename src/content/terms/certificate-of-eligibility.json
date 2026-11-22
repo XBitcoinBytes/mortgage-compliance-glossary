@@ -1,0 +1,37 @@
+{
+  "slug": "certificate-of-eligibility",
+  "term": "Certificate of eligibility",
+  "aliases": [
+    "COE"
+  ],
+  "category": "loan-programs",
+  "definition": "The certificate of eligibility is VA's statement of the veteran's entitlement. The lender uses it to show the borrower may receive a VA-guaranteed loan and how much entitlement is available. It is not the loan approval.",
+  "details": "Chapter 2 of VA Pamphlet 26-7 explains how to obtain the certificate and what it tells the lender. Service records, a surviving-spouse claim, or a restoration request can be part of the file. A certificate does not replace residual-income underwriting or the occupancy rule.",
+  "complianceNotes": "Order the certificate early. Do not close a VA loan on a borrower's word that they are eligible. Match the name to the application.",
+  "example": {
+    "setting": "VA Certificate of Eligibility in the origination file",
+    "text": "A sample certificate might list an example entitlement status of available. Any dollar amount on a real certificate controls over a training example. Example figures are not printed as a current entitlement."
+  },
+  "citations": [
+    "va-pamphlet"
+  ],
+  "related": [
+    "scra",
+    "va-entitlement",
+    "va-funding-fee",
+    "va-irrrl",
+    "va-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Certificado de elegibilidad",
+    "aliases": [],
+    "definition": "El certificado de elegibilidad es la declaración de VA del derecho del veterano. El prestamista lo usa para mostrar que el prestatario puede recibir un préstamo garantizado por VA y cuánto derecho hay disponible. No es la aprobación del préstamo.",
+    "details": "El capítulo 2 del Folleto VA 26-7 explica cómo obtener el certificado y qué le dice al prestamista. Los registros de servicio, un reclamo de cónyuge sobreviviente o una solicitud de restauración pueden ser parte del expediente. Un certificado no reemplaza la suscripción del ingreso residual ni la regla de ocupación.",
+    "complianceNotes": "Pida el certificado temprano. No cierre un préstamo VA con la palabra del prestatario de que es elegible. Haga coincidir el nombre con la solicitud.",
+    "example": {
+      "setting": "Certificado de elegibilidad de VA en el expediente de originación",
+      "text": "Un certificado de muestra podría listar un estado de derecho de ejemplo de disponible. Cualquier monto en dólares de un certificado real manda sobre un ejemplo de capacitación. Las cifras de ejemplo no se imprimen como un derecho vigente. Cifras de ejemplo."
+    }
+  }
+}

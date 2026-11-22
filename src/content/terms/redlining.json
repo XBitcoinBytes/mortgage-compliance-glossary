@@ -1,0 +1,37 @@
+{
+  "slug": "redlining",
+  "term": "Redlining",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Redlining is denying or discouraging credit in a geographic area because of the race, color, or national origin of the people who live there, or another protected characteristic. It can be a refusal to lend, a failure to market, or a branch and loan-officer pattern. It is not the same as a written credit-score cutoff applied everywhere.",
+  "details": "The Fair Housing Act and ECOA are the main authorities. Examiners compare applications, originations, and marketing with the demographics of the assessment area, often using HMDA data. A lender can serve a wide area on paper and still discourage applicants from particular neighborhoods. This entry does not describe how to target or avoid a community.",
+  "complianceNotes": "Review branch locations, marketing, and exception practices for gaps that track race or national origin. Document legitimate risk reasons for any geographic limit. Do not draw a lending area around demographics.",
+  "example": {
+    "setting": "Lending-area and marketing maps reviewed against application patterns",
+    "text": "A sample review might compare an example of 400 applications inside a metro area with the census tracts where loan officers marketed. The count is an example figure, not a legal threshold. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "usc-42-3605",
+    "reg-1002-4"
+  ],
+  "related": [
+    "disparate-impact",
+    "disparate-treatment",
+    "fair-housing-act",
+    "fair-lending",
+    "hmda",
+    "steering"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Exclusión geográfica discriminatoria",
+    "aliases": [],
+    "definition": "La exclusión geográfica discriminatoria es negar o desalentar el crédito en un área geográfica por la raza, el color o el origen nacional de las personas que viven allí, u otra característica protegida. Puede ser una negativa a prestar, una falta de mercadeo o un patrón de sucursales y de oficiales de préstamos. No es lo mismo que un corte escrito de puntaje de crédito aplicado en todas partes.",
+    "details": "La Ley de Vivienda Justa y ECOA son las autoridades principales. Los examinadores comparan las solicitudes, las originaciones y el mercadeo con la demografía del área de evaluación, a menudo con datos de HMDA. Un prestamista puede atender un área amplia en el papel y todavía desalentar a solicitantes de vecindarios particulares. Esta entrada no describe cómo dirigirse a una comunidad o cómo evitarla.",
+    "complianceNotes": "Revise las ubicaciones de sucursales, el mercadeo y las prácticas de excepción por brechas que siguen a la raza o al origen nacional. Documente razones legítimas de riesgo para cualquier límite geográfico. No dibuje un área de préstamos alrededor de la demografía.",
+    "example": {
+      "setting": "Mapas del área de préstamos y de mercadeo revisados contra los patrones de solicitudes",
+      "text": "Una revisión de muestra podría comparar un ejemplo de 400 solicitudes dentro de un área metropolitana con los sectores censales donde los oficiales de préstamos hicieron mercadeo. El conteo es una cifra de ejemplo, no un umbral legal. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

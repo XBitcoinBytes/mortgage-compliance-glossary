@@ -1,0 +1,37 @@
+{
+  "slug": "force-placed-insurance",
+  "term": "Force-placed insurance",
+  "aliases": [
+    "lender-placed insurance"
+  ],
+  "category": "servicing",
+  "definition": "Force-placed insurance is hazard insurance the servicer buys when your homeowners policy lapses. It protects the lender's collateral. It is often more expensive and covers less than your own policy. It is not mortgage insurance and not flood insurance, though flood has its own placement rules.",
+  "details": "12 CFR 1024.37 requires notices before the servicer charges you, and it requires cancellation and a refund of overlapping premium when you provide proof of your own coverage. The servicer must have a reasonable basis to believe the policy lapsed. Charging for a period your policy actually covered is a notice-of-error issue.",
+  "complianceNotes": "Send the notices the section requires and bill only after that process. Cancel promptly when the borrower proves coverage. Do not force-place because a bill was misrouted if the policy is still in force.",
+  "example": {
+    "setting": "Force-placed insurance notices sent before the charge, and the policy cancelled when the borrower provides proof of coverage",
+    "text": "A sample force-placed charge might be an example $180 a month after the notices, refunded for the overlap when the borrower produces a policy. Example figures."
+  },
+  "citations": [
+    "reg-1024-37"
+  ],
+  "related": [
+    "error-resolution",
+    "escrow-account",
+    "homeowners-insurance",
+    "mortgage-servicer",
+    "notice-of-error"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Seguro impuesto por el administrador",
+    "aliases": [],
+    "definition": "El seguro impuesto por el administrador es el seguro de riesgos que el administrador compra cuando su póliza de la vivienda vence. Protege la garantía del prestamista. A menudo es más caro y cubre menos que su propia póliza. No es seguro hipotecario ni seguro de inundación, aunque la inundación tiene sus propias reglas de colocación.",
+    "details": "12 CFR 1024.37 exige avisos antes de que el administrador le cobre, y exige la cancelación y un reembolso de la prima que se superpone cuando usted presenta prueba de su propia cobertura. El administrador debe tener una base razonable para creer que la póliza venció. Cobrar por un período que su póliza de verdad cubrió es un tema de aviso de error.",
+    "complianceNotes": "Envíe los avisos que exige la sección y cobre solo después de ese proceso. Cancele con prontitud cuando el prestatario prueba la cobertura. No imponga un seguro porque una factura se extravió si la póliza sigue vigente.",
+    "example": {
+      "setting": "Avisos del seguro impuesto enviados antes del cargo, y la póliza cancelada cuando el prestatario presenta prueba de cobertura",
+      "text": "Un cargo de seguro impuesto de muestra podría ser un ejemplo de $180 al mes después de los avisos, reembolsado por la superposición cuando el prestatario presenta una póliza. Cifras de ejemplo."
+    }
+  }
+}

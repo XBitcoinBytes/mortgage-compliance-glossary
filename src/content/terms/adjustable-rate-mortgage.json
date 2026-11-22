@@ -1,0 +1,42 @@
+{
+  "slug": "adjustable-rate-mortgage",
+  "term": "Adjustable-rate mortgage",
+  "aliases": [
+    "ARM"
+  ],
+  "category": "loan-programs",
+  "definition": "An adjustable-rate mortgage is a loan whose interest rate can change after a period, based on an index plus a margin, and limited by caps. The payment can go up. The Loan Estimate names the product. A separate CHARM booklet is required for ARM applications.",
+  "details": "12 CFR 1026.19(b) requires the CHARM booklet and early ARM disclosures. 12 CFR 1026.20 requires notices before adjustments. 12 CFR 1026.37 shows the product, the caps, and whether the rate can increase. The index is in the note. LIBOR is not the current standard index for new notes. Qualifying may use a rate higher than the start rate. Read B3-6-04 for the agency method.",
+  "complianceNotes": "Give the booklet and disclose the caps before the borrower locks. Do not illustrate only the starting payment. Use a current index in the note.",
+  "example": {
+    "setting": "Loan Estimate, page 1, product line showing an adjustable rate, and the ARM disclosure",
+    "text": "A sample 5/6 ARM might start at an example 5.875 percent with caps described on the Loan Estimate. Example figures, not a quote."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-20"
+  ],
+  "related": [
+    "arm-adjustment-notice",
+    "arm-caps",
+    "arm-index",
+    "arm-margin",
+    "faq-what-is-an-arm",
+    "fixed-rate-mortgage",
+    "fully-indexed-rate",
+    "hybrid-arm",
+    "qualifying-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca de tasa ajustable",
+    "aliases": [],
+    "definition": "Una hipoteca de tasa ajustable es un préstamo cuya tasa de interés puede cambiar después de un período, con base en un índice más un margen, y limitada por topes. El pago puede subir. La Estimación del préstamo nombra el producto. Se exige un folleto CHARM separado para las solicitudes de ARM.",
+    "details": "12 CFR 1026.19(b) exige el folleto CHARM y las divulgaciones tempranas de la ARM. 12 CFR 1026.20 exige avisos antes de los ajustes. 12 CFR 1026.37 muestra el producto, los topes y si la tasa puede aumentar. El índice está en el pagaré. El LIBOR no es el índice estándar vigente para pagarés nuevos. La calificación puede usar una tasa más alta que la tasa inicial. Lea B3-6-04 para el método de la agencia.",
+    "complianceNotes": "Dé el folleto y divulgue los topes antes de que el prestatario fije. No ilustre solo el pago inicial. Use un índice vigente en el pagaré.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, línea de producto que muestra una tasa ajustable, y la divulgación de la ARM",
+      "text": "Una ARM 5/6 de muestra podría empezar en un ejemplo del 5.875 por ciento con topes descritos en la Estimación del préstamo. Cifras de ejemplo, no una cotización."
+    }
+  }
+}

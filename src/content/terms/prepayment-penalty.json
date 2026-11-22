@@ -1,0 +1,43 @@
+{
+  "slug": "prepayment-penalty",
+  "term": "Prepayment penalty",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A prepayment penalty is a charge for paying the loan off early. Many mortgages do not have one. If the Loan Estimate says yes, the form must describe the penalty. Adding one late in the process can reset the Closing Disclosure waiting period.",
+  "details": "Qualified mortgages may have a prepayment penalty only within the limits of 12 CFR 1026.43. High-cost mortgages have a stricter ban under the HOEPA rules. Adding a prepayment penalty is one of the three Closing Disclosure changes in 12 CFR 1026.19(f)(2) that require a new three-business-day wait. The Loan Estimate discloses whether the loan has a penalty under 12 CFR 1026.37.",
+  "complianceNotes": "Confirm the note and the Loan Estimate match. Do not add a penalty after the Closing Disclosure without restarting the wait. Test any penalty against the QM and HOEPA rules before you offer it.",
+  "example": {
+    "setting": "Loan Estimate, page 1, Loan Terms, Prepayment Penalty yes or no",
+    "text": "A sample Loan Terms table might say Prepayment Penalty: NO on an example 30-year fixed loan. If it said YES, the maximum penalty would have to be described from the note, not invented here. Example figures are not a penalty amount."
+  },
+  "citations": [
+    "reg-1026-43",
+    "reg-1026-19",
+    "reg-1026-37"
+  ],
+  "related": [
+    "balloon-payment",
+    "cd-waiting-period-resets",
+    "demand-feature",
+    "high-cost-mortgage",
+    "loan-estimate",
+    "mortgage-payoff",
+    "note-rate",
+    "payoff-statement",
+    "promissory-note",
+    "qualified-mortgage",
+    "rate-and-term-refinance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Penalidad por pago anticipado",
+    "aliases": [],
+    "definition": "Una penalidad por pago anticipado es un cargo por pagar el préstamo antes de tiempo. Muchas hipotecas no tienen una. Si la Estimación del préstamo dice que sí, el formulario debe describir la penalidad. Agregar una tarde en el proceso puede reiniciar el período de espera de la Divulgación del cierre.",
+    "details": "Las hipotecas calificadas pueden tener una penalidad por pago anticipado solo dentro de los límites de 12 CFR 1026.43. Las hipotecas de alto costo tienen una prohibición más estricta según las reglas de HOEPA. Agregar una penalidad por pago anticipado es uno de los tres cambios de la Divulgación del cierre en 12 CFR 1026.19(f)(2) que exigen una nueva espera de tres días hábiles. La Estimación del préstamo divulga si el préstamo tiene una penalidad según 12 CFR 1026.37.",
+    "complianceNotes": "Confirme que el pagaré y la Estimación del préstamo coinciden. No agregue una penalidad después de la Divulgación del cierre sin reiniciar la espera. Pruebe cualquier penalidad contra las reglas de QM y de HOEPA antes de ofrecerla.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, Términos del préstamo, Penalidad por pago anticipado sí o no",
+      "text": "Una tabla de términos del préstamo de muestra puede decir Penalidad por pago anticipado: NO en un préstamo fijo a 30 años de ejemplo. Si dijera SÍ, la penalidad máxima tendría que describirse desde el pagaré, no inventarse aquí. Las cifras de ejemplo no son un monto de penalidad. Cifras de ejemplo."
+    }
+  }
+}

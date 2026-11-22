@@ -1,0 +1,37 @@
+{
+  "slug": "pmi-borrower-cancellation",
+  "term": "Borrower-requested PMI cancellation",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "You may ask the servicer to cancel borrower-paid PMI on the cancellation date, which is when the principal balance is first scheduled to reach 80 percent of the original value. You must be current, have a good payment history as the statute defines it, and satisfy the other conditions in the law. A new appraisal does not automatically move that date.",
+  "details": "12 USC 4902(a) is the borrower-requested cancellation provision. Good payment history and current status are statutory conditions, not extras the servicer invented. The servicer may require evidence that the property value has not declined below original value, as the statute allows. Lender-paid mortgage insurance and FHA MIP are outside this request.",
+  "complianceNotes": "Tell the borrower the scheduled date and the conditions. Do not refuse a qualifying request, and do not grant one that skips the payment-history test. Return unearned premium as the Act requires.",
+  "example": {
+    "setting": "Borrower's written request to cancel PMI on the cancellation date",
+    "text": "A sample request at an example scheduled balance of $240,000 on a $300,000 original value is the 80 percent point, if the borrower is current and has the required history. Example figures."
+  },
+  "citations": [
+    "usc-12-4902"
+  ],
+  "related": [
+    "borrower-paid-mortgage-insurance",
+    "faq-can-i-cancel-pmi",
+    "faq-what-is-pmi",
+    "homeowners-protection-act",
+    "loan-to-value-ratio",
+    "pmi-automatic-termination",
+    "private-mortgage-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cancelación del PMI pedida por el prestatario",
+    "aliases": [],
+    "definition": "Usted puede pedir al administrador que cancele el PMI pagado por el prestatario en la fecha de cancelación, que es cuando el saldo de capital está programado por primera vez para llegar al 80 por ciento del valor original. Usted debe estar al día, tener un buen historial de pago como lo define la ley y cumplir las otras condiciones de la ley. Una tasación nueva no mueve automáticamente esa fecha.",
+    "details": "12 USC 4902(a) es la disposición de cancelación pedida por el prestatario. El buen historial de pago y el estado al día son condiciones de la ley, no extras que inventó el administrador. El administrador puede exigir prueba de que el valor de la propiedad no ha bajado del valor original, como la ley permite. El seguro hipotecario pagado por el prestamista y la MIP de la FHA están fuera de esta solicitud.",
+    "complianceNotes": "Dígale al prestatario la fecha programada y las condiciones. No rechace una solicitud que califica, y no conceda una que se salta la prueba del historial de pago. Devuelva la prima no ganada como exige la ley.",
+    "example": {
+      "setting": "Solicitud escrita del prestatario para cancelar el PMI en la fecha de cancelación",
+      "text": "Una solicitud de muestra con un saldo programado de ejemplo de $240,000 sobre un valor original de $300,000 es el punto del 80 por ciento, si el prestatario está al día y tiene el historial exigido. Cifras de ejemplo."
+    }
+  }
+}

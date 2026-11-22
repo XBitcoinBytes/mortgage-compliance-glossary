@@ -1,0 +1,44 @@
+{
+  "slug": "origination-charges",
+  "term": "Origination charges",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Origination charges are the lender and broker fees in Section A of the Loan Estimate. They include an origination fee, discount points, and a broker fee. They are the charges the creditor controls most directly.",
+  "details": "12 CFR 1026.37 places these charges in Section A. Under 12 CFR 1026.19(e)(3)(i), charges paid to the creditor or mortgage broker are generally in the zero-tolerance category: they may not increase from the Loan Estimate to the Closing Disclosure except as that section allows. A lender credit for a higher rate is disclosed with these charges, not added into them as a fee.",
+  "complianceNotes": "Price Section A before intent to proceed and do not add an underwriting or processing fee later to recover a lock-desk miss. Compare Section A on the Closing Disclosure line by line. Any increase needs a permitted revision or a cure.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section A: Origination Charges",
+    "text": "A sample Section A might list an origination fee of $1,095 and discount points of $1,800 on an example $360,000 loan. Example figures, not a rate sheet."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-19"
+  ],
+  "related": [
+    "borrower-paid-compensation",
+    "closing-costs",
+    "discount-points",
+    "faq-what-are-points",
+    "fee-worksheet",
+    "finance-charge",
+    "intent-to-proceed",
+    "lender-credits",
+    "loan-estimate",
+    "mortgage-broker-compensation",
+    "points-and-fees",
+    "retail-lending",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cargos por originación",
+    "aliases": [],
+    "definition": "Los cargos por originación son los cargos del prestamista y del corredor en la Sección A de la Estimación del préstamo. Incluyen una tarifa de originación, puntos de descuento y un cargo del corredor. Son los cargos que el acreedor controla de modo más directo.",
+    "details": "12 CFR 1026.37 coloca estos cargos en la Sección A. Según 12 CFR 1026.19(e)(3)(i), los cargos pagados al acreedor o al corredor por lo general están en tolerancia cero: no pueden aumentar de la Estimación del préstamo a la Divulgación del cierre, salvo lo que esa sección permite. Un crédito del prestamista por una tasa más alta se divulga junto con estos cargos, no se suma como un cargo más.",
+    "complianceNotes": "Fije la Sección A antes de la intención de continuar y no agregue después un cargo de suscripción o de procesamiento para recuperar un error de la mesa de fijación. Compare la Sección A de la Divulgación del cierre línea por línea. Cualquier aumento necesita una revisión permitida o una corrección.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección A: Cargos por originación",
+      "text": "Una Sección A de muestra puede listar una tarifa de originación de $1,095 y puntos de descuento de $1,800 sobre un préstamo de ejemplo de $360,000. Cifras de ejemplo, no una hoja de tasas."
+    }
+  }
+}

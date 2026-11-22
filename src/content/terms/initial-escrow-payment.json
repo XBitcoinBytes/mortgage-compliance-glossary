@@ -1,0 +1,39 @@
+{
+  "slug": "initial-escrow-payment",
+  "term": "Initial escrow payment at closing",
+  "aliases": [],
+  "category": "origination",
+  "definition": "The initial escrow payment is the deposit you make at closing to start the account the servicer will use to pay taxes and insurance. Section G of the Loan Estimate itemizes the months collected. It is not the same as the insurance premium in Section F.",
+  "details": "12 CFR 1026.37 requires Section G. The amount that may be collected is limited by the escrow accounting rules in Regulation X, 12 CFR 1024.17, including the aggregate adjustment and the cushion of up to one-sixth of the estimated annual disbursements. Collecting extra months for comfort, beyond that rule, is a RESPA problem. The aggregate adjustment often appears as a negative number that reduces the deposit.",
+  "complianceNotes": "Build Section G from the tax and insurance bills and the RESPA aggregate analysis, not from a flat two months if the analysis produces a different number. Show the aggregate adjustment. Do not call this deposit mortgage insurance.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section G: Initial Escrow Payment at Closing",
+    "text": "A sample Section G might collect an example $700 for taxes and $150 for insurance, then subtract an aggregate adjustment of $120. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1024-17"
+  ],
+  "related": [
+    "aggregate-adjustment",
+    "escrow-account",
+    "escrow-account-disclosure",
+    "escrow-cushion",
+    "faq-what-is-an-escrow-account",
+    "homeowners-insurance",
+    "no-tolerance-bucket",
+    "prepaids"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pago inicial de la cuenta de depósito en garantía",
+    "aliases": [],
+    "definition": "El pago inicial de la cuenta de depósito en garantía es el depósito que usted hace en el cierre para empezar la cuenta que el administrador usará para pagar impuestos y seguros. La Sección G de la Estimación del préstamo detalla los meses que se cobran. No es lo mismo que la prima del seguro en la Sección F.",
+    "details": "12 CFR 1026.37 exige la Sección G. La cantidad que se puede cobrar está limitada por las reglas de contabilidad del depósito en garantía del Reglamento X, 12 CFR 1024.17, incluido el ajuste agregado y el colchón de hasta un sexto de los desembolsos anuales estimados. Cobrar meses extra por comodidad, más allá de esa regla, es un problema de RESPA. El ajuste agregado a menudo aparece como un número negativo que reduce el depósito.",
+    "complianceNotes": "Arme la Sección G a partir de las facturas de impuestos y seguros y del análisis agregado de RESPA, no de dos meses fijos si el análisis produce otro número. Muestre el ajuste agregado. No llame a este depósito seguro hipotecario.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección G: Pago inicial de la cuenta de depósito en garantía en el cierre",
+      "text": "Una Sección G de muestra puede cobrar un ejemplo de $700 para impuestos y $150 para seguro, y luego restar un ajuste agregado de $120. Cifras de ejemplo."
+    }
+  }
+}

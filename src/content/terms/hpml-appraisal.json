@@ -1,0 +1,38 @@
+{
+  "slug": "hpml-appraisal",
+  "term": "HPML appraisal rule",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "The higher-priced mortgage appraisal rule generally requires a written appraisal by a certified or licensed appraiser who inspects the interior. Some purchases that are quick resales, often called flips, can require a second appraisal. The details, including which price increases trigger the second appraisal, are in the regulation.",
+  "details": "12 CFR 1026.35(c) is the appraisal rule. It has exemptions. A value-acceptance offer from Fannie Mae does not erase a Regulation Z appraisal requirement if the loan is a covered higher-priced mortgage and no exemption applies. The borrower still receives appraisal copies under Regulation B. Interior inspection and independence under 12 CFR 1026.42 still matter.",
+  "complianceNotes": "Do not rely on an appraisal waiver for an HPML until you confirm an exemption in 1026.35(c). If the seller bought recently, open the flip test and read the percentages from the section rather than from memory.",
+  "example": {
+    "setting": "Written appraisal required for a higher-priced mortgage, and a second appraisal if the flip rule applies",
+    "text": "A sample purchase might show a seller who bought the home recently and an example resale price that must be tested under 1026.35(c). Example figures are not the flip percentages. A sample appraised value of $310,000 only identifies the file."
+  },
+  "citations": [
+    "reg-1026-35",
+    "reg-1026-42"
+  ],
+  "related": [
+    "appraisal",
+    "appraisal-delivery",
+    "appraisal-independence-requirements",
+    "higher-priced-mortgage-loan",
+    "valuation-independence",
+    "value-acceptance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tasación de una HPML",
+    "aliases": [],
+    "definition": "La regla de tasación de la hipoteca de precio más alto por lo general exige una tasación escrita de un tasador certificado o con licencia que inspecciona el interior. Algunas compras que son reventas rápidas, a menudo llamadas flips, pueden exigir una segunda tasación. Los detalles, incluidos los aumentos de precio que activan la segunda tasación, están en el reglamento.",
+    "details": "12 CFR 1026.35(c) es la regla de tasación. Tiene exenciones. Una oferta de aceptación de valor de Fannie Mae no borra un requisito de tasación del Reglamento Z si el préstamo es una hipoteca de precio más alto cubierta y no se aplica una exención. El prestatario igual recibe copias de la tasación según el Reglamento B. La inspección interior y la independencia según 12 CFR 1026.42 igual importan.",
+    "complianceNotes": "No se apoye en una exención de tasación para una HPML hasta que confirme una exención en 1026.35(c). Si el vendedor compró hace poco, abra la prueba de reventa rápida y lea los porcentajes en la sección y no de memoria.",
+    "example": {
+      "setting": "Tasación escrita exigida para una hipoteca de precio más alto, y una segunda tasación si se aplica la regla de reventa rápida",
+      "text": "Una compra de muestra puede mostrar un vendedor que compró la vivienda hace poco y un precio de reventa de ejemplo que debe probarse según 1026.35(c). Las cifras de ejemplo no son los porcentajes de la reventa rápida. Un valor de tasación de muestra de $310,000 solo identifica el expediente. Cifras de ejemplo."
+    }
+  },
+  "reviewFlag": "The HPML flip thresholds are specific percentages in 12 CFR 1026.35(c). Confirm the current percentages before quoting them."
+}

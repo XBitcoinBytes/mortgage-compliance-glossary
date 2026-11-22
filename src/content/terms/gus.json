@@ -1,0 +1,40 @@
+{
+  "slug": "gus",
+  "term": "GUS",
+  "aliases": [
+    "Guaranteed Underwriting System"
+  ],
+  "category": "underwriting",
+  "definition": "GUS is the Guaranteed Underwriting System, USDA's automated system for the Section 502 guaranteed rural housing program. A GUS finding does not replace the income-limit or rural-area rules, and it is not a conventional AUS approval.",
+  "details": "7 CFR Part 3555 and HB-1-3555 govern the program and the use of GUS. Income limits, guarantee fees, and property eligibility change and should be read from the current USDA publications. A lender that overrides GUS must follow the handbook's manual path. Do not state a credit-score cutoff from memory.",
+  "complianceNotes": "Confirm the property is in an eligible rural area and that household income is calculated the USDA way before relying on the finding. Keep the GUS printout that matches the final loan.",
+  "example": {
+    "setting": "USDA file, GUS underwriting findings",
+    "text": "A sample GUS file might show an example loan of $210,000 with an accept finding and a condition to document income. Example figures, not an income limit."
+  },
+  "citations": [
+    "usda-hb",
+    "cfr-7-3555"
+  ],
+  "related": [
+    "automated-underwriting-system",
+    "debt-to-income-ratio",
+    "manual-underwriting",
+    "stable-income",
+    "usda-guaranteed-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "GUS",
+    "aliases": [
+      "Sistema de Suscripción Garantizada"
+    ],
+    "definition": "GUS es el Sistema de Suscripción Garantizada, el sistema automatizado de USDA para el programa garantizado de vivienda rural de la Sección 502. Un hallazgo de GUS no reemplaza las reglas de límite de ingresos o de área rural, y no es una aprobación de un sistema convencional.",
+    "details": "7 CFR Parte 3555 y HB-1-3555 rigen el programa y el uso de GUS. Los límites de ingresos, las cuotas de garantía y la elegibilidad de la propiedad cambian y deben leerse en las publicaciones vigentes de USDA. Un prestamista que anula a GUS debe seguir la vía manual del manual. No cite de memoria un corte de puntaje de crédito.",
+    "complianceNotes": "Confirme que la propiedad está en un área rural elegible y que el ingreso del hogar se calcula al modo de USDA antes de apoyarse en el hallazgo. Conserve la impresión de GUS que coincide con el préstamo final.",
+    "example": {
+      "setting": "Expediente USDA, hallazgos de suscripción de GUS",
+      "text": "Un expediente GUS de muestra puede mostrar un préstamo de ejemplo de $210,000 con un hallazgo de aceptación y una condición de documentar ingresos. Cifras de ejemplo, no un límite de ingresos."
+    }
+  }
+}

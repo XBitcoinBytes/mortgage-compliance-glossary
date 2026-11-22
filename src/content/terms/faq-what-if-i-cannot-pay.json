@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-if-i-cannot-pay",
+  "term": "What if I cannot make my mortgage payment?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "If you cannot pay, contact the servicer as soon as you know. You can apply for loss mitigation, which may include a forbearance, a repayment plan, or a modification. Foreclosure is not immediate. Federal rules generally bar the first foreclosure step until you are more than 120 days delinquent, with exceptions.",
+  "details": "12 CFR 1024.39 requires early contact. 12 CFR 1024.41 sets the application process and the 120-day limit in paragraph (f). The option you are offered depends on the investor. A forbearance does not forgive the missed payments. Housing counseling is available and is not the same as the servicer's review.",
+  "complianceNotes": "Start outreach by the regulatory day counts. Do not file the first foreclosure notice early. Evaluate a complete application before moving a sale forward.",
+  "example": {
+    "setting": "Early outreach and a loss-mitigation application before foreclosure",
+    "text": "A sample borrower who misses an example $1,600 payment should be contacted well before day 120. Example figures."
+  },
+  "citations": [
+    "reg-1024-39",
+    "reg-1024-41"
+  ],
+  "related": [
+    "delinquency",
+    "early-intervention",
+    "forbearance",
+    "foreclosure",
+    "loss-mitigation"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué pasa si no puedo hacer el pago de la hipoteca?",
+    "aliases": [],
+    "definition": "Si usted no puede pagar, contacte al administrador tan pronto como lo sepa. Usted puede solicitar mitigación de pérdidas, que puede incluir una indulgencia, un plan de pago o una modificación. La ejecución hipotecaria no es inmediata. Las reglas federales por lo general prohíben el primer paso de la ejecución hipotecaria hasta que usted tiene más de 120 días de mora, con excepciones.",
+    "details": "12 CFR 1024.39 exige un contacto temprano. 12 CFR 1024.41 fija el proceso de solicitud y el límite de 120 días en el párrafo (f). La opción que le ofrecen depende del inversionista. Una indulgencia no perdona los pagos no realizados. Hay consejería de vivienda disponible y no es lo mismo que la revisión del administrador.",
+    "complianceNotes": "Empiece el acercamiento en los conteos de días del reglamento. No presente el primer aviso de ejecución hipotecaria antes de tiempo. Evalúe una solicitud completa antes de avanzar una venta.",
+    "example": {
+      "setting": "Acercamiento temprano y una solicitud de mitigación de pérdidas antes de la ejecución hipotecaria",
+      "text": "Un prestatario de muestra que no hace un pago de ejemplo de $1,600 debe ser contactado mucho antes del día 120. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "unfair-practice",
+  "term": "Unfair act or practice",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "An unfair act or practice causes substantial injury to consumers, the injury is not reasonably avoidable, and it is not outweighed by benefits to consumers or to competition. That three-part test is in the statute. A practice is not unfair merely because a borrower dislikes the price.",
+  "details": "12 USC 5531(c) states the unfairness standard. Substantial injury is usually monetary harm. A consumer who was given a clear choice and the required disclosure may be able to avoid the injury. The benefits test looks at countervailing benefits. Do not add a fourth element. Mortgage servicing conduct, such as charging a fee the contract does not allow, is a common place the test is applied.",
+  "complianceNotes": "When you review a fee or a servicing practice, write down the injury, whether the consumer could avoid it, and any benefit. Do not label every complaint unfair. If the practice also violates Regulation X or Z, cite that rule too.",
+  "example": {
+    "setting": "Practice review under the statutory unfairness test",
+    "text": "A sample late fee of $45 imposed when the payment was received on time would be reviewed under the unfairness test and under the contract. Example figures."
+  },
+  "citations": [
+    "usc-12-5531"
+  ],
+  "related": [
+    "abusive-practice",
+    "cfpb",
+    "deceptive-practice",
+    "mortgage-advertising",
+    "udaap"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Acto o práctica injusta",
+    "aliases": [],
+    "definition": "Un acto o práctica injusta causa un daño sustancial a los consumidores, el daño no se puede evitar razonablemente y no queda compensado por beneficios para los consumidores o para la competencia. Esa prueba de tres partes está en la ley. Una práctica no es injusta solo porque a un prestatario no le gusta el precio.",
+    "details": "12 USC 5531(c) establece el estándar de injusticia. El daño sustancial por lo general es un daño monetario. Un consumidor que recibió una elección clara y la divulgación exigida puede evitar el daño. La prueba de beneficios mira los beneficios que compensan. No agregue un cuarto elemento. La conducta de administración hipotecaria, como cobrar un cargo que el contrato no permite, es un lugar común donde se aplica la prueba.",
+    "complianceNotes": "Cuando revise un cargo o una práctica de administración, escriba el daño, si el consumidor podía evitarlo y cualquier beneficio. No etiquete toda queja como injusta. Si la práctica también viola el Reglamento X o Z, cite esa regla también.",
+    "example": {
+      "setting": "Revisión de la práctica según la prueba legal de injusticia",
+      "text": "Un cargo por mora de muestra de $45 impuesto cuando el pago se recibió a tiempo se revisaría según la prueba de injusticia y según el contrato. Cifras de ejemplo."
+    }
+  }
+}

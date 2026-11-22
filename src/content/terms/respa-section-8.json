@@ -1,0 +1,39 @@
+{
+  "slug": "respa-section-8",
+  "term": "RESPA Section 8",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "RESPA Section 8 prohibits giving or receiving a thing of value for the referral of settlement-service business, and it prohibits splitting a charge except for services actually performed. A thank-you payment to a real-estate agent for sending a borrower is the classic violation.",
+  "details": "The statute is 12 USC 2607. The regulation is 12 CFR 1024.14. The thing of value is broad. A payment for a real service, priced at the market value of that service, is different from a payment for the referral. Affiliated business arrangements have a narrow permission in 1024.15. There is no safe harbor for a marketing agreement that is really a referral fee.",
+  "complianceNotes": "Do not pay for leads on a per-closed-loan basis unless counsel has reviewed a real-services agreement. Document the service. This entry does not explain how to disguise a referral fee.",
+  "example": {
+    "setting": "Any payment tied to a referral of title, appraisal, or other settlement business",
+    "text": "A sample prohibited payment might be an example $400 gift card to an agent for each referred closing. Example figures of a violation, not a suggestion."
+  },
+  "citations": [
+    "usc-12-2607",
+    "reg-1024-14"
+  ],
+  "related": [
+    "affiliated-business-arrangement",
+    "kickback",
+    "marketing-services-agreement",
+    "regulation-x",
+    "required-use",
+    "respa",
+    "settlement-service",
+    "thing-of-value"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Sección 8 de RESPA",
+    "aliases": [],
+    "definition": "La Sección 8 de RESPA prohíbe dar o recibir una cosa de valor por la referencia de un negocio de servicios de liquidación, y prohíbe dividir un cargo excepto por servicios realmente prestados. Un pago de agradecimiento a un agente de bienes raíces por enviar a un prestatario es la violación clásica.",
+    "details": "La ley es 12 USC 2607. El reglamento es 12 CFR 1024.14. La cosa de valor es amplia. Un pago por un servicio real, a precio de mercado de ese servicio, es distinto de un pago por la referencia. Los arreglos de negocios afiliados tienen un permiso estrecho en 1024.15. No hay un puerto seguro para un acuerdo de mercadeo que en realidad es un cargo por referencia.",
+    "complianceNotes": "No pague por clientes potenciales por cada préstamo cerrado salvo que un asesor haya revisado un acuerdo de servicios reales. Documente el servicio. Esta entrada no explica cómo disfrazar un cargo por referencia.",
+    "example": {
+      "setting": "Cualquier pago ligado a una referencia de título, tasación u otro negocio de liquidación",
+      "text": "Un pago prohibido de muestra podría ser una tarjeta de regalo de ejemplo de $400 a un agente por cada cierre referido. Cifras de ejemplo de una violación, no una sugerencia."
+    }
+  }
+}

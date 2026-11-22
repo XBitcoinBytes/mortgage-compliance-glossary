@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-title-insurance",
+  "term": "What is title insurance?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "Title insurance protects against covered problems in the ownership record, such as a forged deed. The lender's policy protects the lender and is required. The owner's policy protects you and, in many purchases, is optional. They are not the same policy.",
+  "details": "The premiums appear on the Loan Estimate under 12 CFR 1026.37. If you can shop for the title company, the fee is in Section C and the tolerance depends on whether you use a provider on the written list. State law sets the premium. There is no national federal rate. The owner's policy disclosure on a purchase has a specific TRID calculation.",
+  "complianceNotes": "Explain the two policies. Put the fee in the correct section. Do not tell the borrower the owner's policy is required by federal law.",
+  "example": {
+    "setting": "Loan Estimate title lines, lender's policy and optional owner's policy",
+    "text": "A sample lender's policy might be quoted at an example $1,200. Example figures, not a state-filed rate."
+  },
+  "citations": [
+    "reg-1026-37",
+    "practice-file"
+  ],
+  "related": [
+    "lenders-title-policy",
+    "owners-title-policy",
+    "services-you-can-shop-for",
+    "settlement-agent",
+    "title-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es el seguro de título?",
+    "aliases": [],
+    "definition": "El seguro de título protege contra problemas cubiertos en el registro de la propiedad, como una escritura falsificada. La póliza del prestamista protege al prestamista y se exige. La póliza del propietario lo protege a usted y, en muchas compras, es opcional. No son la misma póliza.",
+    "details": "Las primas aparecen en la Estimación del préstamo según 12 CFR 1026.37. Si usted puede comparar la compañía de título, el cargo está en la Sección C y la tolerancia depende de si usa un proveedor de la lista escrita. La ley estatal fija la prima. No hay una tarifa federal nacional. La divulgación de la póliza del propietario en una compra tiene un cálculo específico de TRID.",
+    "complianceNotes": "Explique las dos pólizas. Ponga el cargo en la sección correcta. No le diga al prestatario que la póliza del propietario la exige la ley federal.",
+    "example": {
+      "setting": "Líneas de título de la Estimación del préstamo, póliza del prestamista y póliza opcional del propietario",
+      "text": "Una póliza del prestamista de muestra podría cotizarse en un ejemplo de $1,200. Cifras de ejemplo, no una tarifa registrada en el estado."
+    }
+  }
+}

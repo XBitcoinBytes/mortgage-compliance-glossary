@@ -1,0 +1,37 @@
+{
+  "slug": "regulation-p",
+  "term": "Regulation P",
+  "aliases": [
+    "Reg P",
+    "12 CFR 1016"
+  ],
+  "category": "compliance",
+  "definition": "Regulation P is the CFPB's privacy regulation under the Gramm-Leach-Bliley Act, 12 CFR Part 1016. It requires a privacy notice and limits the reuse and redisclosure of nonpublic personal information, with the exceptions the regulation states.",
+  "details": "The regulation covers the initial notice and, unless an exception applies, an annual notice. There is a real exception from the annual notice for some institutions that do not share outside the permitted categories and have not changed their policies. Do not tell every mortgage company it must mail a full annual notice every year, and do not tell them none of them must. Read Part 1016.",
+  "complianceNotes": "Use the model notice or a notice that meets the content rules. Record delivery. Do not treat the Loan Estimate as the privacy notice.",
+  "example": {
+    "setting": "Initial privacy notice required by Regulation P",
+    "text": "A sample initial notice might be handed to the applicant with the example application. No price is disclosed on it. Example figures are limited to a sample delivery on day one of the file."
+  },
+  "citations": [
+    "reg-1016"
+  ],
+  "related": [
+    "cfpb",
+    "glba",
+    "privacy-notice",
+    "safeguards-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reglamento P",
+    "aliases": [],
+    "definition": "El Reglamento P es el reglamento de privacidad de la CFPB bajo la Ley Gramm-Leach-Bliley, 12 CFR Parte 1016. Exige un aviso de privacidad y limita la reutilización y la nueva divulgación de información personal no pública, con las excepciones que indica el reglamento.",
+    "details": "El reglamento cubre el aviso inicial y, salvo que se aplique una excepción, un aviso anual. Hay una excepción real del aviso anual para algunas instituciones que no comparten fuera de las categorías permitidas y no han cambiado sus políticas. No le diga a toda empresa hipotecaria que debe enviar un aviso anual completo cada año, y no le diga que ninguna debe hacerlo. Lea la Parte 1016.",
+    "complianceNotes": "Use el aviso modelo o un aviso que cumpla las reglas de contenido. Registre la entrega. No trate la Estimación del préstamo como el aviso de privacidad.",
+    "example": {
+      "setting": "Aviso de privacidad inicial exigido por el Reglamento P",
+      "text": "Un aviso inicial de muestra puede entregarse al solicitante con la solicitud de ejemplo. No se divulga un precio en él. Las cifras de ejemplo se limitan a una entrega de muestra el día uno del expediente. Cifras de ejemplo."
+    }
+  }
+}

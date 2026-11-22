@@ -1,0 +1,35 @@
+{
+  "slug": "record-retention",
+  "term": "Record retention",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Record retention is how long a creditor must keep application and disclosure records. The period depends on the regulation. This glossary does not state a number of months or years, because quoting the wrong period is a common error. The periods are in the sections.",
+  "details": "Regulation B, 12 CFR 1002.12, states how long application and notice records must be kept, and the period is not the same for every type of credit. Regulation C, 12 CFR 1003.5, addresses HMDA data retention. Other rules, including Regulation Z, have their own evidence expectations for disclosures. Read the section that applies to the document. Do not adopt a single three-year slogan for every paper.",
+  "complianceNotes": "Build the retention schedule from the current sections and apply it to electronic records as well as paper. A scanned Loan Estimate counts only if you can still read it and show when it was delivered.",
+  "example": {
+    "setting": "Record schedule citing the section that sets the retention period",
+    "text": "A sample schedule might assign an example application file to the period stated in 12 CFR 1002.12, without restating that period here. Example figures are not a retention term."
+  },
+  "citations": [
+    "reg-1002-12",
+    "reg-1003-5"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "hmda-lar",
+    "loan-estimate",
+    "regulation-b"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Conservación de registros",
+    "aliases": [],
+    "definition": "La conservación de registros es cuánto tiempo un acreedor debe guardar los registros de la solicitud y de las divulgaciones. El período depende del reglamento. Este glosario no indica un número de meses o de años, porque citar el período equivocado es un error común. Los períodos están en las secciones.",
+    "details": "El Reglamento B, 12 CFR 1002.12, establece cuánto tiempo deben guardarse los registros de la solicitud y de los avisos, y el período no es el mismo para todo tipo de crédito. El Reglamento C, 12 CFR 1003.5, trata la conservación de los datos de HMDA. Otras reglas, incluido el Reglamento Z, tienen sus propias expectativas de prueba para las divulgaciones. Lea la sección que se aplica al documento. No adopte un solo lema de tres años para todo papel.",
+    "complianceNotes": "Arme el calendario de conservación a partir de las secciones vigentes y aplíquelo a los registros electrónicos igual que al papel. Una Estimación del préstamo escaneada cuenta solo si usted todavía puede leerla y mostrar cuándo se entregó.",
+    "example": {
+      "setting": "Calendario de registros que cita la sección que fija el período de conservación",
+      "text": "Un calendario de muestra podría asignar un expediente de solicitud de ejemplo al período indicado en 12 CFR 1002.12, sin repetir ese período aquí. Las cifras de ejemplo no son un plazo de conservación. Cifras de ejemplo."
+    }
+  }
+}

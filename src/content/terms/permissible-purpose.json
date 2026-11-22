@@ -1,0 +1,36 @@
+{
+  "slug": "permissible-purpose",
+  "term": "Permissible purpose",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A permissible purpose is a reason listed in the Fair Credit Reporting Act for which a consumer report may be obtained. For a mortgage, the usual purpose is a credit transaction involving the consumer. Curiosity, a referral source's request, or a spouse who is not applying is not automatically a purpose.",
+  "details": "15 USC 1681b lists the purposes. A creditor with a permissible purpose may still have to make the adverse-action disclosures if it denies credit based on the report. Pulling a report before the consumer has asked for credit, or pulling a report on a person who only co-signed a different debt, needs its own analysis. Prescreening is a separate permissible purpose with its own rules.",
+  "complianceNotes": "Do not pull credit to quote a payment at an open house unless you have a purpose and the consumer's involvement the statute requires. Record the purpose. A credit-report fee still has to be bona fide if it is charged before intent to proceed.",
+  "example": {
+    "setting": "Documented permissible purpose before a consumer report is pulled",
+    "text": "A sample log might record a permissible-purpose pull for an example applicant seeking $280,000. Example figures."
+  },
+  "citations": [
+    "usc-15-1681b"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "co-borrower",
+    "credit-report-fee",
+    "fcra",
+    "regulation-v",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Propósito permitido",
+    "aliases": [],
+    "definition": "Un propósito permitido es una razón enumerada en la Ley de Informes de Crédito Justos por la cual se puede obtener un informe del consumidor. Para una hipoteca, el propósito usual es una transacción de crédito que involucra al consumidor. La curiosidad, el pedido de una fuente de referencias o un cónyuge que no está solicitando no es automáticamente un propósito.",
+    "details": "15 USC 1681b enumera los propósitos. Un acreedor con un propósito permitido igual puede tener que hacer las divulgaciones de acción adversa si niega el crédito con base en el informe. Obtener un informe antes de que el consumidor haya pedido crédito, u obtener un informe de una persona que solo firmó otra deuda, necesita su propio análisis. La preselección es un propósito permitido distinto con sus propias reglas.",
+    "complianceNotes": "No obtenga el crédito para cotizar un pago en una casa abierta salvo que tenga un propósito y la participación del consumidor que exige la ley. Registre el propósito. Un cargo por el informe de crédito igual tiene que ser de buena fe si se cobra antes de la intención de continuar.",
+    "example": {
+      "setting": "Propósito permitido documentado antes de obtener un informe del consumidor",
+      "text": "Un registro de muestra podría anotar una obtención con propósito permitido para un solicitante de ejemplo que busca $280,000. Cifras de ejemplo."
+    }
+  }
+}

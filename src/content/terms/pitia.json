@@ -1,0 +1,45 @@
+{
+  "slug": "pitia",
+  "term": "PITIA",
+  "aliases": [
+    "PITI"
+  ],
+  "category": "underwriting",
+  "definition": "PITIA is principal, interest, taxes, insurance, and association dues or similar assessments. It is the full monthly housing cost lenders use for the debt ratio and for counting months of reserves. Leaving out dues or mortgage insurance understates the payment.",
+  "details": "Fannie Mae B3-6-03 describes the monthly housing expense, and B3-6-04 describes the qualifying payment. The principal and interest portion uses the qualifying rate, which may not be the bought-down starting payment. Escrow items on the Loan Estimate are estimates of some of these costs, but the qualifying PITIA is an underwriting figure.",
+  "complianceNotes": "Build PITIA from the note payment, the tax bill, the insurance binder, mortgage insurance if any, and the HOA invoice. Use that figure for both the ratio and the reserve months.",
+  "example": {
+    "setting": "Underwriting worksheet, proposed monthly housing expense",
+    "text": "A sample PITIA might be example principal and interest of $1,700, taxes of $350, insurance of $120, and HOA dues of $80, totaling $2,250. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-03",
+    "fannie-b3-6-04"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "faq-what-is-dti",
+    "fixed-rate-mortgage",
+    "homeowners-association",
+    "homeowners-insurance",
+    "housing-expense-ratio",
+    "installment-debt",
+    "multiple-financed-properties",
+    "qualifying-rate",
+    "rental-income",
+    "reserves",
+    "residual-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "PITIA",
+    "aliases": [],
+    "definition": "PITIA es capital, interés, impuestos, seguro y cuotas de la asociación o cargos similares. Es el costo mensual completo de la vivienda que los prestamistas usan para la relación de deudas y para contar los meses de reservas. Dejar fuera las cuotas o el seguro hipotecario subestima el pago.",
+    "details": "Fannie Mae B3-6-03 describe el gasto mensual de vivienda, y B3-6-04 describe el pago de calificación. La parte de capital e interés usa la tasa de calificación, que puede no ser el pago inicial de una reducción temporal. Las partidas de depósito en garantía de la Estimación del préstamo son estimados de algunos de estos costos, pero el PITIA de calificación es una cifra de suscripción.",
+    "complianceNotes": "Arme el PITIA con el pago del pagaré, la factura de impuestos, el comprobante del seguro, el seguro hipotecario si lo hay y la factura de la asociación. Use esa cifra tanto para la relación como para los meses de reservas.",
+    "example": {
+      "setting": "Hoja de suscripción, gasto mensual de vivienda propuesto",
+      "text": "Un PITIA de muestra puede ser capital e interés de ejemplo de $1,700, impuestos de $350, seguro de $120 y cuotas de la asociación de $80, para un total de $2,250. Cifras de ejemplo."
+    }
+  }
+}

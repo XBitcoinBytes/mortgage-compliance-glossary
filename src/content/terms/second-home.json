@@ -1,0 +1,36 @@
+{
+  "slug": "second-home",
+  "term": "Second home",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A second home is a one-unit property you occupy for part of the year, not your main home and not a rental investment. The guide restricts how it may be rented and what kind of property qualifies. It is priced and reserved differently from a primary residence.",
+  "details": "The Fannie Mae Selling Guide states second-home requirements, including occupancy by the borrower, limits on rental, and reserve requirements that DU may set at a stated number of months for a second home. Read the current reserve rule in B3-4.1-01 rather than assuming it never changes. Gift rules also differ from a primary residence at higher loan-to-value ratios.",
+  "complianceNotes": "Test the property against the second-home definition before you price it that way. A home the borrower will rent full time is an investment property. Document reserves separately from the down payment.",
+  "example": {
+    "setting": "URLA occupancy marked second home, and the guide's second-home test",
+    "text": "A sample second-home file might require reserves equal to an example two months of a $2,200 payment, if that is what the current DU message requires. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "gift-funds",
+    "investment-property",
+    "multiple-financed-properties",
+    "occupancy",
+    "primary-residence",
+    "reserves"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Segunda vivienda",
+    "aliases": [],
+    "definition": "Una segunda vivienda es una propiedad de una unidad que usted ocupa parte del año, no su hogar principal y no una inversión de alquiler. La guía restringe cómo puede alquilarse y qué tipo de propiedad califica. Se cotiza y se reserva de modo distinto a una residencia principal.",
+    "details": "La Selling Guide de Fannie Mae establece los requisitos de la segunda vivienda, incluida la ocupación por el prestatario, los límites al alquiler y los requisitos de reservas que DU puede fijar en un número indicado de meses para una segunda vivienda. Lea la regla vigente de reservas en B3-4.1-01 en lugar de suponer que nunca cambia. Las reglas de regalos también difieren de una residencia principal en relaciones préstamo-valor más altas.",
+    "complianceNotes": "Pruebe la propiedad contra la definición de segunda vivienda antes de cotizarla así. Una vivienda que el prestatario alquilará a tiempo completo es una propiedad de inversión. Documente las reservas aparte del pago inicial.",
+    "example": {
+      "setting": "Ocupación de la URLA marcada como segunda vivienda, y la prueba de segunda vivienda de la guía",
+      "text": "Un expediente de segunda vivienda de muestra podría exigir reservas iguales a dos meses de ejemplo de un pago de $2,200, si eso es lo que exige el mensaje vigente de DU. Cifras de ejemplo."
+    }
+  }
+}

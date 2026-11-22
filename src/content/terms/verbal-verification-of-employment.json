@@ -1,0 +1,39 @@
+{
+  "slug": "verbal-verification-of-employment",
+  "term": "Verbal verification of employment",
+  "aliases": [
+    "VVOE"
+  ],
+  "category": "underwriting",
+  "definition": "A verbal verification of employment is a phone or electronic check, close to closing, that you are still employed. It does not measure your income by itself. It confirms the job has not ended since the pay stubs were collected.",
+  "details": "Fannie Mae B3-3.1-04 states the timing and the method, and it treats self-employed borrowers differently from wage earners. The timing is guide text and can be revised, so the file should follow the current section rather than a remembered number of days. The person who completes it should record the employer's phone number from an independent source, not only from the application.",
+  "complianceNotes": "Order the verbal check inside the guide's window and re-order it if closing slips. A verification that says the borrower resigned is a reason to stop, not a form to file and ignore.",
+  "example": {
+    "setting": "Verbal verification of employment form dated close to the note date",
+    "text": "A sample form might show a call on the day before an example closing, confirming active employment and a base pay the stubs already showed as $28 an hour. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-1-04"
+  ],
+  "related": [
+    "clear-to-close",
+    "pay-stub",
+    "prior-to-funding",
+    "self-employment-income",
+    "verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Verificación verbal de empleo",
+    "aliases": [
+      "VVOE"
+    ],
+    "definition": "Una verificación verbal de empleo es una comprobación por teléfono o electrónica, cerca del cierre, de que usted sigue empleado. No mide sus ingresos por sí sola. Confirma que el empleo no terminó desde que se recogieron los talones de pago.",
+    "details": "Fannie Mae B3-3.1-04 establece el plazo y el método, y trata a los prestatarios por cuenta propia de modo distinto a los asalariados. El plazo es texto de la guía y puede revisarse, así que el expediente debe seguir la sección vigente y no un número de días recordado. Quien la completa debe registrar el teléfono del empleador desde una fuente independiente, no solo desde la solicitud.",
+    "complianceNotes": "Pida la verificación verbal dentro de la ventana de la guía y vuelva a pedirla si el cierre se atrasa. Una verificación que dice que el prestatario renunció es una razón para detenerse, no un formulario para archivar e ignorar.",
+    "example": {
+      "setting": "Formulario de verificación verbal de empleo con fecha cercana a la fecha del pagaré",
+      "text": "Un formulario de muestra puede mostrar una llamada el día antes de un cierre de ejemplo, que confirma el empleo activo y un pago base que los talones ya mostraban como $28 por hora. Cifras de ejemplo."
+    }
+  }
+}

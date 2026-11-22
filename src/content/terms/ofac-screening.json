@@ -1,0 +1,37 @@
+{
+  "slug": "ofac-screening",
+  "term": "OFAC screening",
+  "aliases": [
+    "OFAC"
+  ],
+  "category": "compliance",
+  "definition": "OFAC screening checks the people and companies in a transaction against sanctions lists maintained by the Treasury Department's Office of Foreign Assets Control. A possible match has to be resolved before you close. It is not a credit-score review.",
+  "details": "OFAC administers economic sanctions. The lists and the matching guidance are on the Treasury site. A true match can prohibit the transaction. A false positive, such as a common name, still needs a documented resolution. There is no mortgage-specific safe harbor that says a lender may ignore a hit.",
+  "complianceNotes": "Screen borrowers and relevant parties before closing and keep the result. Escalate a possible match. Do not tell staff to clear a hit because the closing is scheduled.",
+  "example": {
+    "setting": "OFAC screening result on the borrower and other parties before closing",
+    "text": "A sample screening log might show no match on an example borrower file numbered 1008. The file number is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "ofac"
+  ],
+  "related": [
+    "anti-money-laundering",
+    "bank-secrecy-act",
+    "customer-identification-program",
+    "red-flags-rule",
+    "suspicious-activity-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Revisión de OFAC",
+    "aliases": [],
+    "definition": "La revisión de OFAC comprueba a las personas y empresas de una transacción contra las listas de sanciones que mantiene la Oficina de Control de Activos Extranjeros del Departamento del Tesoro. Una posible coincidencia tiene que resolverse antes de cerrar. No es una revisión del puntaje de crédito.",
+    "details": "OFAC administra sanciones económicas. Las listas y la orientación de coincidencias están en el sitio del Tesoro. Una coincidencia verdadera puede prohibir la transacción. Un falso positivo, como un nombre común, igual necesita una resolución documentada. No hay un puerto seguro específico de hipotecas que diga que un prestamista puede ignorar un hallazgo.",
+    "complianceNotes": "Revise a los prestatarios y a las partes relevantes antes del cierre y conserve el resultado. Escale una posible coincidencia. No le diga al personal que levante un hallazgo porque el cierre está programado.",
+    "example": {
+      "setting": "Resultado de la revisión de OFAC del prestatario y de otras partes antes del cierre",
+      "text": "Un registro de revisión de muestra puede mostrar que no hay coincidencia en un expediente de prestatario de ejemplo numerado 1008. El número de expediente es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "portfolio-loan",
+  "term": "Portfolio loan",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A portfolio loan is a mortgage the lender keeps on its own books. The lender can use its own guidelines. If the loan is a covered mortgage, ability to repay still applies. Keeping the loan does not erase Regulation Z.",
+  "details": "12 CFR 1026.43 applies to covered portfolio loans, including the qualified-mortgage options that may be available to some small creditors. A portfolio jumbo is still subject to TRID if it is a covered closed-end loan. The lender's overlay can be tighter or looser than the Selling Guide. Looser does not mean undocumented.",
+  "complianceNotes": "Disclose it as the portfolio product it is. Complete ATR even if you will not sell the loan. Do not tell the borrower that federal mortgage rules do not apply because the bank is keeping the loan.",
+  "example": {
+    "setting": "Loan the lender keeps rather than sells to Fannie Mae, Freddie Mac, or a Ginnie Mae pool",
+    "text": "A sample portfolio loan of an example $900,000 might stay on the lender's books with a full ATR file. Example figures."
+  },
+  "citations": [
+    "reg-1026-43",
+    "practice-file"
+  ],
+  "related": [
+    "ability-to-repay",
+    "conventional-loan",
+    "faq-what-is-a-jumbo-loan",
+    "jumbo-loan",
+    "non-qm",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Préstamo de cartera",
+    "aliases": [],
+    "definition": "Un préstamo de cartera es una hipoteca que el prestamista conserva en sus propios libros. El prestamista puede usar sus propias guías. Si el préstamo es una hipoteca cubierta, la capacidad de pago igual se aplica. Conservar el préstamo no borra el Reglamento Z.",
+    "details": "12 CFR 1026.43 se aplica a los préstamos de cartera cubiertos, incluidas las opciones de hipoteca calificada que pueden estar disponibles para algunos acreedores pequeños. Un jumbo de cartera igual está sujeto a TRID si es un préstamo de crédito cerrado cubierto. El requisito del prestamista puede ser más estricto o más flexible que la Selling Guide. Más flexible no significa sin documentos.",
+    "complianceNotes": "Divúlguelo como el producto de cartera que es. Complete la capacidad de pago aunque no venderá el préstamo. No le diga al prestatario que las reglas hipotecarias federales no se aplican porque el banco conserva el préstamo.",
+    "example": {
+      "setting": "Préstamo que el prestamista conserva en lugar de venderlo a Fannie Mae, Freddie Mac o un grupo de Ginnie Mae",
+      "text": "Un préstamo de cartera de muestra de un ejemplo de $900,000 podría quedarse en los libros del prestamista con un expediente completo de capacidad de pago. Cifras de ejemplo."
+    }
+  }
+}

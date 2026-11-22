@@ -1,0 +1,37 @@
+{
+  "slug": "non-qm",
+  "term": "Non-qualified mortgage",
+  "aliases": [
+    "non-qualified mortgage"
+  ],
+  "category": "loan-programs",
+  "definition": "A non-QM loan is a covered mortgage that does not meet the qualified-mortgage definition. It can still be legal if the creditor makes a reasonable, good-faith determination of ability to repay and verifies the information. It does not get the QM safe harbor.",
+  "details": "12 CFR 1026.43(c) is the ability-to-repay duty. 1026.43(e) is the qualified-mortgage definition. Interest-only, many balloons, and loans over the points-and-fees cap are common reasons a loan is non-QM. Bank-statement and debt-service-coverage products are investor designs. They do not repeal the verification duty if the loan is a covered transaction. Agency delivery is generally unavailable.",
+  "complianceNotes": "Document the eight ATR factors with third-party records. Do not label the loan QM. Price and disclose it as the non-QM product it is.",
+  "example": {
+    "setting": "ATR worksheet for a covered loan that is not a qualified mortgage",
+    "text": "A sample non-QM file might use an example 24 months of deposits to support income and still keep the ATR worksheet. Example figures, not a substitute for the regulation."
+  },
+  "citations": [
+    "reg-1026-43"
+  ],
+  "related": [
+    "ability-to-repay",
+    "balloon-payment",
+    "interest-only",
+    "portfolio-loan",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca no calificada",
+    "aliases": [],
+    "definition": "Un préstamo no QM es una hipoteca cubierta que no cumple la definición de hipoteca calificada. Igual puede ser legal si el acreedor hace una determinación razonable y de buena fe de la capacidad de pago y verifica la información. No obtiene el puerto seguro de la QM.",
+    "details": "12 CFR 1026.43(c) es el deber de capacidad de pago. 1026.43(e) es la definición de hipoteca calificada. El solo interés, muchos pagos globales y los préstamos por encima del tope de puntos y cargos son razones comunes de que un préstamo sea no QM. Los productos de estados de cuenta y de cobertura del servicio de la deuda son diseños del inversionista. No derogan el deber de verificación si el préstamo es una transacción cubierta. La entrega a las agencias por lo general no está disponible.",
+    "complianceNotes": "Documente los ocho factores de capacidad de pago con registros de terceros. No etiquete el préstamo como QM. Cotícelo y divulguelo como el producto no QM que es.",
+    "example": {
+      "setting": "Hoja de capacidad de pago para un préstamo cubierto que no es una hipoteca calificada",
+      "text": "Un expediente no QM de muestra podría usar un ejemplo de 24 meses de depósitos para apoyar el ingreso y todavía conservar la hoja de capacidad de pago. Cifras de ejemplo, no un sustituto del reglamento."
+    }
+  }
+}

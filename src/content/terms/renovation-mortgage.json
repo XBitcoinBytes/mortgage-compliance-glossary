@@ -1,0 +1,36 @@
+{
+  "slug": "renovation-mortgage",
+  "term": "Renovation mortgage",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A renovation mortgage finances the home and the repairs in one loan. FHA's version is the 203(k). Fannie Mae's version includes HomeStyle. The eligible repairs, the inspections, and the holdback are different. Do not mix the programs.",
+  "details": "Use HUD 4000.1 for an FHA 203(k) and the Fannie Mae Selling Guide for a HomeStyle renovation. The as-completed value is often what the loan-to-value uses, subject to the guide. Repair funds are disbursed as work is done. They are not given to the borrower as unrestricted cash.",
+  "complianceNotes": "Name the program on the approval. Inspect before each draw. Do not apply 203(k) consultant rules to a conventional renovation unless that program requires them.",
+  "example": {
+    "setting": "Renovation loan that includes repair costs, under the specific program guide",
+    "text": "A sample renovation might include an example $40,000 of repairs in the loan amount, released in draws. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "hud-4000-1"
+  ],
+  "related": [
+    "appraisal",
+    "construction-to-permanent",
+    "energy-efficient-mortgage",
+    "fha-203k",
+    "homeowners-association"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Préstamo de renovación",
+    "aliases": [],
+    "definition": "Una hipoteca de renovación financia la vivienda y las reparaciones en un solo préstamo. La versión de la FHA es el 203(k). La versión de Fannie Mae incluye HomeStyle. Las reparaciones elegibles, las inspecciones y la retención son distintas. No mezcle los programas.",
+    "details": "Use HUD 4000.1 para un 203(k) de la FHA y la Selling Guide de Fannie Mae para una renovación HomeStyle. El valor como terminado es a menudo lo que usa la relación préstamo-valor, sujeto a la guía. Los fondos de reparación se desembolsan a medida que se hace el trabajo. No se le dan al prestatario como efectivo irrestricto.",
+    "complianceNotes": "Nombre el programa en la aprobación. Inspeccione antes de cada desembolso. No aplique las reglas del consultor del 203(k) a una renovación convencional salvo que ese programa las exija.",
+    "example": {
+      "setting": "Préstamo de renovación que incluye costos de reparación, según la guía del programa específico",
+      "text": "Una renovación de muestra podría incluir un ejemplo de $40,000 de reparaciones en el monto del préstamo, liberadas en desembolsos. Cifras de ejemplo."
+    }
+  }
+}

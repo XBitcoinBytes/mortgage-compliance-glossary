@@ -1,0 +1,43 @@
+{
+  "slug": "regulation-b",
+  "term": "Regulation B",
+  "aliases": [
+    "Reg B",
+    "12 CFR 1002"
+  ],
+  "category": "compliance",
+  "definition": "Regulation B is the ECOA regulation, 12 CFR Part 1002. It tells creditors what they may ask, how they must evaluate income, when they may require a signature, how fast they must notify the applicant, how long they must keep records, and when they must deliver an appraisal.",
+  "details": "Section 1002.4 is the discrimination rule. Section 1002.6 covers evaluation, including public assistance and child support. Section 1002.7 covers signatures. Section 1002.9 is notifications, generally within 30 days after a completed application. Section 1002.13 is monitoring information. Section 1002.14 is appraisal delivery. Use the section that fits the fact.",
+  "complianceNotes": "A completed application for the 30-day notice is not the same six-item concept as a TRID application. Track both clocks. Deliver appraisals on the 1002.14 clock even when the loan is approved.",
+  "example": {
+    "setting": "Regulation B notices and the application file, 12 CFR Part 1002",
+    "text": "A sample timeline might show a completed example application on the 1st and an adverse-action notice on the 20th, inside the 30 days of 12 CFR 1002.9. The dates are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1002"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "alimony-child-support",
+    "appraisal-delivery",
+    "cfpb",
+    "community-property",
+    "demographic-information",
+    "ecoa",
+    "non-borrowing-spouse",
+    "public-assistance-income",
+    "record-retention"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reglamento B",
+    "aliases": [],
+    "definition": "El Reglamento B es el reglamento de ECOA, 12 CFR Parte 1002. Les dice a los acreedores qué pueden preguntar, cómo deben evaluar el ingreso, cuándo pueden exigir una firma, qué tan rápido deben notificar al solicitante, cuánto tiempo deben guardar registros y cuándo deben entregar una tasación.",
+    "details": "La sección 1002.4 es la regla de discriminación. La sección 1002.6 cubre la evaluación, incluida la asistencia pública y la pensión de menores. La sección 1002.7 cubre las firmas. La sección 1002.9 son las notificaciones, por lo general dentro de 30 días después de una solicitud completa. La sección 1002.13 es la información de monitoreo. La sección 1002.14 es la entrega de la tasación. Use la sección que corresponde al hecho.",
+    "complianceNotes": "Una solicitud completa para el aviso de 30 días no es el mismo concepto de seis datos que una solicitud de TRID. Controle ambos plazos. Entregue las tasaciones en el plazo de 1002.14 aunque el préstamo se apruebe.",
+    "example": {
+      "setting": "Avisos del Reglamento B y el expediente de solicitud, 12 CFR Parte 1002",
+      "text": "Una línea de tiempo de muestra puede mostrar una solicitud completa de ejemplo el día 1 y un aviso de acción adversa el día 20, dentro de los 30 días de 12 CFR 1002.9. Las fechas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

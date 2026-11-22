@@ -1,0 +1,36 @@
+{
+  "slug": "bonus-overtime-commission",
+  "term": "Bonus, overtime, and commission income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Bonus, overtime, and commission income can count if there is a history of receiving it and a reason to expect it to continue. A single large check is not a history. The guide, not a two-year slogan, states the documentation.",
+  "details": "Fannie Mae B3-3.3-02 covers these income types. Unreimbursed employee expenses and a declining trend can reduce the amount. The lender calculates a monthly average from the documented history. Do not describe a universal two-year average as a statute. Follow the section, including any shorter history it allows.",
+  "complianceNotes": "Separate base pay from variable pay on the worksheet. If the trend is down, do not average in the older higher year without the guide's instruction. Obtain the employer's confirmation when the section asks for it.",
+  "example": {
+    "setting": "Income worksheet for bonus, overtime, or commission, with the history the guide requires",
+    "text": "A sample borrower might have example base pay of $4,000 and average monthly overtime of $350 over the documented history. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-3-02"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "employment-gap",
+    "form-w-2",
+    "income-calculator",
+    "pay-stub",
+    "stable-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ingreso por bono, tiempo extra y comisión",
+    "aliases": [],
+    "definition": "El ingreso por bono, tiempo extra y comisión puede contar si hay un historial de recibirlo y una razón para esperar que continúe. Un solo cheque grande no es un historial. La guía, no un lema de dos años, establece la documentación.",
+    "details": "Fannie Mae B3-3.3-02 cubre estos tipos de ingreso. Los gastos de empleado no reembolsados y una tendencia a la baja pueden reducir el monto. El prestamista calcula un promedio mensual a partir del historial documentado. No describa un promedio universal de dos años como una ley. Siga la sección, incluido cualquier historial más corto que permita.",
+    "complianceNotes": "Separe el pago base del pago variable en la hoja. Si la tendencia es a la baja, no promedie el año antiguo más alto sin la instrucción de la guía. Obtenga la confirmación del empleador cuando la sección la pide.",
+    "example": {
+      "setting": "Hoja de ingresos por bono, tiempo extra o comisión, con el historial que exige la guía",
+      "text": "Un prestatario de muestra puede tener un pago base de ejemplo de $4,000 y un tiempo extra mensual promedio de $350 durante el historial documentado. Cifras de ejemplo."
+    }
+  }
+}

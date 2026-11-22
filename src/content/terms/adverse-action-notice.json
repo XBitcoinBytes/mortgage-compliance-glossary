@@ -1,0 +1,41 @@
+{
+  "slug": "adverse-action-notice",
+  "term": "Adverse action notice",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "An adverse-action notice is the written notice that tells an applicant the creditor's decision, the reasons or the right to request them, and the ECOA notice. If a consumer report was used, the Fair Credit Reporting Act adds the agency and score information. The notice is generally due within 30 days after a completed application.",
+  "details": "12 CFR 1002.9 states the timing and content, including counteroffers and incomplete applications. A completed application for this notice is defined in Regulation B. It is not the six TRID items. 15 USC 1681m adds the credit-score and agency content when the action is based on a consumer report. A file that goes quiet can still be an adverse action.",
+  "complianceNotes": "Send the notice on time, with specific reasons, not a generic code that does not match the file. Include the FCRA content when a report was used. Do not wait for the borrower to ask.",
+  "example": {
+    "setting": "Adverse-action notice sent after a denial or unaccepted counteroffer",
+    "text": "A sample notice might be mailed 18 days after an example completed application, citing debt ratio and credit history. The 18 days are an example figure inside the 30-day rule. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1002-9",
+    "usc-15-1681m"
+  ],
+  "related": [
+    "conditional-approval",
+    "credit-score",
+    "ecoa",
+    "fcra",
+    "permissible-purpose",
+    "record-retention",
+    "refer-with-caution",
+    "regulation-b",
+    "regulation-v",
+    "risk-based-pricing-notice"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aviso de acción adversa",
+    "aliases": [],
+    "definition": "Un aviso de acción adversa es el aviso escrito que le dice al solicitante la decisión del acreedor, las razones o el derecho a pedirlas, y el aviso de ECOA. Si se usó un informe del consumidor, la Ley de Informes de Crédito Justos agrega la información de la agencia y del puntaje. El aviso por lo general vence dentro de los 30 días después de una solicitud completa.",
+    "details": "12 CFR 1002.9 establece el plazo y el contenido, incluidas las contraofertas y las solicitudes incompletas. Una solicitud completa para este aviso se define en el Reglamento B. No son los seis datos de TRID. 15 USC 1681m agrega el contenido del puntaje de crédito y de la agencia cuando la acción se basa en un informe del consumidor. Un expediente que se queda en silencio igual puede ser una acción adversa.",
+    "complianceNotes": "Envíe el aviso a tiempo, con razones específicas, no un código genérico que no coincide con el expediente. Incluya el contenido de la FCRA cuando se usó un informe. No espere a que el prestatario pregunte.",
+    "example": {
+      "setting": "Aviso de acción adversa enviado después de una denegación o de una contraoferta no aceptada",
+      "text": "Un aviso de muestra podría enviarse por correo 18 días después de una solicitud completa de ejemplo, citando la relación de deudas y el historial de crédito. Los 18 días son una cifra de ejemplo dentro de la regla de 30 días. Cifras de ejemplo."
+    }
+  }
+}

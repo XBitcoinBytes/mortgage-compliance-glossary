@@ -1,0 +1,36 @@
+{
+  "slug": "asset-documentation",
+  "term": "Asset documentation",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Asset documentation is the paper that proves the money for closing and the reserves. Bank statements, a verification of deposit, retirement-account statements, and gift evidence are common pieces. A screenshot of a balance without the account history is usually not enough.",
+  "details": "The Fannie Mae Selling Guide sets acceptable asset types and documents. B3-4.1-01 defines which of those assets can count as reserves after funds to close are subtracted. Large deposits, gifts, and borrowed funds each have additional rules. Stocks and retirement funds may be discounted for reserves when the guide says so. Read the discount from the section.",
+  "complianceNotes": "Collect all pages for the full period. Source what the guide flags. Subtract cash to close before you announce reserve months to the borrower.",
+  "example": {
+    "setting": "Asset stack: statements or verifications supporting funds to close and reserves",
+    "text": "A sample asset stack might document an example $46,000 in a checking account, of which $30,000 is needed to close. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "fannie-b3-4-1-01"
+  ],
+  "related": [
+    "bank-statements",
+    "large-deposit",
+    "reserves",
+    "source-of-funds",
+    "verification-of-deposit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Documentación de activos",
+    "aliases": [],
+    "definition": "La documentación de activos es el papel que prueba el dinero para el cierre y las reservas. Los estados de cuenta, una verificación de depósitos, los estados de cuentas de retiro y la prueba del regalo son piezas comunes. Una captura de un saldo sin el historial de la cuenta por lo general no basta.",
+    "details": "La Selling Guide de Fannie Mae establece los tipos de activos y los documentos aceptables. B3-4.1-01 define cuáles de esos activos pueden contar como reservas después de restar los fondos para el cierre. Los depósitos grandes, los regalos y los fondos prestados tienen cada uno reglas adicionales. Las acciones y los fondos de retiro pueden descontarse para las reservas cuando la guía lo dice. Lea el descuento en la sección.",
+    "complianceNotes": "Recoja todas las páginas del período completo. Documente el origen de lo que la guía marca. Reste el efectivo para el cierre antes de anunciarle al prestatario los meses de reservas.",
+    "example": {
+      "setting": "Paquete de activos: estados o verificaciones que respaldan los fondos para el cierre y las reservas",
+      "text": "Un paquete de activos de muestra puede documentar un ejemplo de $46,000 en una cuenta de cheques, de los cuales $30,000 se necesitan para el cierre. Cifras de ejemplo."
+    }
+  }
+}

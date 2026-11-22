@@ -1,0 +1,44 @@
+{
+  "slug": "verification-of-employment",
+  "term": "Verification of employment",
+  "aliases": [
+    "VOE"
+  ],
+  "category": "underwriting",
+  "definition": "A verification of employment confirms that you work where you say you work and what you earn. It can be a form the employer completes or the pay stubs, W-2s, and other documents the guide lists. It supports the income used to qualify you.",
+  "details": "Fannie Mae B3-3.1-01 states the general income standard, and B3-3.2-01 states employment documentation standards. A written verification does not replace the closer verbal verification when the guide requires both. Third-party verification services can stand in for paper when the DU validation service or the guide allows them.",
+  "complianceNotes": "Match the employer, the pay rate, and the year-to-date figures to the application. Explain gaps the guide treats as material. Do not calculate income from a verification that conflicts with the pay stub.",
+  "example": {
+    "setting": "Underwriting file, written verification of employment or the pay stubs and W-2s the guide accepts",
+    "text": "A sample written verification might show example base pay of $3,200 semi-monthly and a start date two years earlier. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-2-01",
+    "fannie-b3-3-1-01"
+  ],
+  "related": [
+    "du-validation-service",
+    "employment-gap",
+    "faq-what-documents-do-i-need",
+    "form-w-2",
+    "loan-processor",
+    "pay-stub",
+    "stable-income",
+    "verbal-verification-of-employment",
+    "verification-of-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Verificación de empleo",
+    "aliases": [
+      "VOE"
+    ],
+    "definition": "Una verificación de empleo confirma que usted trabaja donde dice que trabaja y cuánto gana. Puede ser un formulario que completa el empleador o los talones de pago, los W-2 y otros documentos que enumera la guía. Respalda el ingreso usado para calificarlo.",
+    "details": "Fannie Mae B3-3.1-01 establece el estándar general de ingresos, y B3-3.2-01 establece los estándares de documentación del empleo. Una verificación escrita no reemplaza la verificación verbal cercana al cierre cuando la guía exige ambas. Los servicios de verificación de terceros pueden sustituir el papel cuando el servicio de validación de DU o la guía lo permiten.",
+    "complianceNotes": "Haga coincidir el empleador, la tasa de pago y las cifras del año a la fecha con la solicitud. Explique las lagunas que la guía trata como importantes. No calcule el ingreso a partir de una verificación que contradice el talón de pago.",
+    "example": {
+      "setting": "Expediente de suscripción, verificación escrita de empleo o los talones de pago y los W-2 que la guía acepta",
+      "text": "Una verificación escrita de muestra puede mostrar un pago base de ejemplo de $3,200 quincenal y una fecha de inicio de dos años antes. Cifras de ejemplo."
+    }
+  }
+}

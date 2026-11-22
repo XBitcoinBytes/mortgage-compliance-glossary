@@ -1,0 +1,34 @@
+{
+  "slug": "per-diem-interest",
+  "term": "Per diem interest",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Per-diem interest is one day's interest on the loan. Prepaid interest is that daily amount multiplied by the number of days until the first payment period. The day-count method, such as 365 or 360, should match the note.",
+  "details": "The Loan Estimate discloses the resulting prepaid interest in Section F under 12 CFR 1026.37. A mismatch between a 360-day quote and a 365-day note changes the cash to close. The amount is allowed to vary with the closing date under the tolerance rule, but the math itself should be reproducible from the rate and the amount.",
+  "complianceNotes": "Show the borrower the daily amount and the day count. Recalculate when the note rate or the funding date changes. Do not round in a way the borrower cannot follow.",
+  "example": {
+    "setting": "Section F per-diem calculation: rate times loan amount divided by the day count, times the number of days",
+    "text": "On an example $360,000 loan at 6.5 percent on a 365-day year, one day of interest is about $64.11. Twelve days would be about $769. Example figures."
+  },
+  "citations": [
+    "reg-1026-37"
+  ],
+  "related": [
+    "disbursement",
+    "note-rate",
+    "prepaid-interest",
+    "prepaids"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Interés diario",
+    "aliases": [],
+    "definition": "El interés diario es el interés de un día sobre el préstamo. El interés pagado por adelantado es ese monto diario multiplicado por el número de días hasta el primer período de pago. El método de conteo de días, como 365 o 360, debe coincidir con el pagaré.",
+    "details": "La Estimación del préstamo divulga el interés pagado por adelantado resultante en la Sección F según 12 CFR 1026.37. Una diferencia entre una cotización de 360 días y un pagaré de 365 días cambia el efectivo para el cierre. El monto puede variar con la fecha de cierre según la regla de tolerancia, pero la matemática en sí debe poder reproducirse a partir de la tasa y del monto.",
+    "complianceNotes": "Muéstrele al prestatario el monto diario y el conteo de días. Recalcule cuando cambia la tasa del pagaré o la fecha de desembolso. No redondee de un modo que el prestatario no pueda seguir.",
+    "example": {
+      "setting": "Cálculo del interés diario de la Sección F: tasa por monto del préstamo dividido entre el conteo de días, por el número de días",
+      "text": "En un préstamo de ejemplo de $360,000 al 6.5 por ciento en un año de 365 días, un día de interés es aproximadamente $64.11. Doce días serían aproximadamente $769. Cifras de ejemplo."
+    }
+  }
+}

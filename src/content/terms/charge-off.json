@@ -1,0 +1,36 @@
+{
+  "slug": "charge-off",
+  "term": "Charge-off",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A charge-off means the creditor wrote the debt off its books as a loss. You may still owe it, and a collector may still pursue it. A charge-off is a derogatory event. It is not the same thing as a bankruptcy discharge.",
+  "details": "Fannie Mae B3-5.3-07 addresses significant derogatory credit, and the liability sections address whether any payment is included in the ratio. Waiting periods after a charge-off, if the guide has them, should be read from the current topic. Paying a charge-off at closing can be required, prohibited, or neutral depending on the program. Do not assume it must always be paid or that paying it always helps the score before funding.",
+  "complianceNotes": "Identify the balance, the date, and whether a collector now reports the same debt. Avoid double-counting one debt as both a charge-off and a collection. Document the program decision.",
+  "example": {
+    "setting": "Credit report, charge-off status on a tradeline",
+    "text": "A sample tradeline might show an example $2,250 charge-off from three years ago with a zero scheduled payment. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "fannie-b3-5-3-07"
+  ],
+  "related": [
+    "bankruptcy-seasoning",
+    "collection-account",
+    "debt-to-income-ratio",
+    "letter-of-explanation",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Castigo contable",
+    "aliases": [],
+    "definition": "Un castigo contable significa que el acreedor dio de baja la deuda en sus libros como una pérdida. Usted puede seguir debiéndola, y un cobrador puede seguir exigiéndola. Un castigo es un evento adverso. No es lo mismo que una descarga de quiebra.",
+    "details": "Fannie Mae B3-5.3-07 trata el crédito adverso significativo, y las secciones de pasivos tratan si algún pago se incluye en la relación. Los períodos de espera después de un castigo, si la guía los tiene, deben leerse en el tema vigente. Pagar un castigo en el cierre puede ser exigido, prohibido o neutro según el programa. No suponga que siempre debe pagarse o que pagarlo siempre ayuda al puntaje antes del desembolso.",
+    "complianceNotes": "Identifique el saldo, la fecha y si un cobrador ahora reporta la misma deuda. Evite contar dos veces una deuda como castigo y como cobranza. Documente la decisión del programa.",
+    "example": {
+      "setting": "Informe de crédito, estado de castigo en una línea",
+      "text": "Una línea de muestra puede mostrar un castigo de ejemplo de $2,250 de hace tres años con un pago programado de cero. Cifras de ejemplo."
+    }
+  }
+}

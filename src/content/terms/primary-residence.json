@@ -1,0 +1,37 @@
+{
+  "slug": "primary-residence",
+  "term": "Primary residence",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A primary residence is the home you will occupy as your main home. Agency guides give it the most favorable down payment and mortgage-insurance options, and they expect you to move in within the period the guide states. That period is guide text and can change.",
+  "details": "The Selling Guide defines principal-residence eligibility, including the expectation of occupancy. Gift funds are generally allowed on a principal residence in situations where they are not allowed on an investment property. A borrower who already claims another home as primary must explain the move. FHA and VA have their own occupancy rules in their handbooks.",
+  "complianceNotes": "Document intent to occupy and any other owned home. Do not use primary-residence pricing for a property the borrower will not occupy. Read the current occupancy timeline from the guide.",
+  "example": {
+    "setting": "URLA occupancy section marked primary residence",
+    "text": "A sample declaration might state the borrower will occupy an example $295,000 home as a primary residence. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "down-payment",
+    "gift-funds",
+    "investment-property",
+    "non-occupant-co-borrower",
+    "occupancy",
+    "occupancy-misrepresentation",
+    "second-home"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Residencia principal",
+    "aliases": [],
+    "definition": "Una residencia principal es la vivienda que usted ocupará como su hogar principal. Las guías de las agencias le dan las opciones más favorables de pago inicial y de seguro hipotecario, y esperan que usted se mude dentro del período que indica la guía. Ese período es texto de la guía y puede cambiar.",
+    "details": "La Selling Guide define la elegibilidad de la residencia principal, incluida la expectativa de ocupación. Los fondos de regalo por lo general se permiten en una residencia principal en situaciones en las que no se permiten en una propiedad de inversión. Un prestatario que ya declara otra vivienda como principal debe explicar la mudanza. La FHA y VA tienen sus propias reglas de ocupación en sus manuales.",
+    "complianceNotes": "Documente la intención de ocupar y cualquier otra vivienda en propiedad. No use el precio de residencia principal para una propiedad que el prestatario no ocupará. Lea el plazo de ocupación vigente en la guía.",
+    "example": {
+      "setting": "Sección de ocupación de la URLA marcada como residencia principal",
+      "text": "Una declaración de muestra puede indicar que el prestatario ocupará una vivienda de ejemplo de $295,000 como residencia principal. Cifras de ejemplo."
+    }
+  }
+}

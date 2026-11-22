@@ -1,0 +1,38 @@
+{
+  "slug": "lender-paid-compensation",
+  "term": "Lender-paid compensation",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Lender-paid compensation is originator pay that the creditor pays, often from the price of the loan rather than from a separate borrower fee. The originator still may not be paid based on the rate or other terms, apart from loan amount.",
+  "details": "12 CFR 1026.36(d) allows the creditor to pay the originator and forbids the consumer from also paying that originator on the same loan. A higher rate that produces a lender credit is a loan term. The originator's pay may not increase because that credit, or the rate that produced it, is larger. The credit itself is disclosed under 12 CFR 1026.37.",
+  "complianceNotes": "Separate the originator's compensation calculation from the lender credit shown to the consumer. A plan that pays more when the rate is higher is a term-based plan. Document which compensation method was selected before the Loan Estimate is issued.",
+  "example": {
+    "setting": "Creditor compensation records; Loan Estimate, page 2, lender credits if the price includes a credit",
+    "text": "On an example loan, the creditor might pay the originator a flat $2,800 and show the consumer a lender credit of $1,500 in exchange for a higher note rate. The two numbers are not the same thing. Example figures."
+  },
+  "citations": [
+    "reg-1026-36",
+    "reg-1026-37"
+  ],
+  "related": [
+    "anti-steering",
+    "borrower-paid-compensation",
+    "lender-credits",
+    "loan-originator-compensation",
+    "mortgage-broker",
+    "mortgage-broker-compensation",
+    "wholesale-lending"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Compensación pagada por el prestamista",
+    "aliases": [],
+    "definition": "La compensación pagada por el prestamista es el pago del originador que paga el acreedor, a menudo desde el precio del préstamo y no desde un cargo aparte del prestatario. El originador igual no puede recibir un pago basado en la tasa u otros términos, aparte del monto del préstamo.",
+    "details": "12 CFR 1026.36(d) permite que el acreedor pague al originador y prohíbe que el consumidor también pague a ese originador en el mismo préstamo. Una tasa más alta que produce un crédito del prestamista es un término del préstamo. El pago del originador no puede aumentar porque ese crédito, o la tasa que lo produjo, sea mayor. El crédito se divulga según 12 CFR 1026.37.",
+    "complianceNotes": "Separe el cálculo de la compensación del originador del crédito del prestamista que se muestra al consumidor. Un plan que paga más cuando la tasa es más alta está basado en un término. Documente qué método se eligió antes de emitir la Estimación del préstamo.",
+    "example": {
+      "setting": "Registros de compensación del acreedor; Estimación del préstamo, página 2, créditos del prestamista si el precio incluye un crédito",
+      "text": "En un préstamo de ejemplo, el acreedor podría pagar al originador $2,800 fijos y mostrar al consumidor un crédito del prestamista de $1,500 a cambio de una tasa del pagaré más alta. Los dos números no son lo mismo. Cifras de ejemplo."
+    }
+  }
+}

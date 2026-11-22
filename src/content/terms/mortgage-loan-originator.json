@@ -1,0 +1,43 @@
+{
+  "slug": "mortgage-loan-originator",
+  "term": "Mortgage loan originator",
+  "aliases": [
+    "MLO"
+  ],
+  "category": "origination",
+  "definition": "A mortgage loan originator is a person who, for compensation or gain, takes a mortgage application or offers or negotiates the terms of a mortgage. The job title does not control. The work does.",
+  "details": "Regulation Z defines the term in 12 CFR 1026.36, and the SAFE Act uses a parallel definition for licensing. Employees who only perform clerical tasks, underwriting, or processing may be outside the definition if they do not take applications or negotiate terms. A broker company can be a loan originator, and so can an individual. Compensation and steering rules apply to both.",
+  "complianceNotes": "Map each person who talks to the applicant against the definition before they quote a rate. The person named on the Loan Estimate should be the originator responsible for the file. Licensing and the compensation rule are separate duties.",
+  "example": {
+    "setting": "Loan Estimate, page 3, Contact Information, Loan Originator and NMLS ID",
+    "text": "A sample contact block might name Jordan Lee, NMLS ID 100200, as loan originator on an example $280,000 purchase. The identifier is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026-36",
+    "usc-12-5101"
+  ],
+  "related": [
+    "loan-officer",
+    "loan-originator-compensation",
+    "loan-originator-rule",
+    "loan-processor",
+    "mortgage-broker",
+    "nmls",
+    "safe-act",
+    "state-licensing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Originador del préstamo",
+    "aliases": [
+      "MLO"
+    ],
+    "definition": "Un originador del préstamo es una persona que, a cambio de compensación o ganancia, toma una solicitud hipotecaria u ofrece o negocia los términos de una hipoteca. El título del puesto no manda. Manda el trabajo.",
+    "details": "El Reglamento Z define el término en 12 CFR 1026.36, y la Ley SAFE usa una definición paralela para las licencias. Los empleados que solo hacen tareas administrativas, suscripción o procesamiento pueden quedar fuera de la definición si no toman solicitudes ni negocian términos. Una empresa de corretaje puede ser originador, y también una persona. Las reglas de compensación y de dirección indebida se aplican a ambos.",
+    "complianceNotes": "Compare a cada persona que habla con el solicitante con la definición antes de que cotice una tasa. La persona nombrada en la Estimación del préstamo debe ser el originador responsable del expediente. La licencia y la regla de compensación son deberes separados.",
+    "example": {
+      "setting": "Estimación del préstamo, página 3, Información de contacto, Originador del préstamo e identificador NMLS",
+      "text": "Un bloque de contacto de muestra puede nombrar a Jordan Lee, identificador NMLS 100200, como originador en una compra de ejemplo de $280,000. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "student-loans",
+  "term": "Student loan payment",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Student loan payments count in the debt ratio. Income-driven payments, deferred loans, and loans with a zero reported payment have special guide treatments. The lender may not ignore a student loan because the borrower is not paying it today.",
+  "details": "Fannie Mae B3-6-05 states which payment to use for student loans, including when the report shows a payment and when it does not. Do not invent a percentage of the balance. Income-driven documentation must match the guide. FHA and other programs use their own handbooks. A forgiveness application that is not yet complete does not remove the debt.",
+  "complianceNotes": "Print the payment evidence the guide requires, such as the credit report or the income-driven statement. Recalculate the ratio if the correct payment is higher than the one first used. Do not omit a deferred loan.",
+  "example": {
+    "setting": "Credit report student-loan tradeline and the payment used to qualify",
+    "text": "A sample report might show an example student-loan balance of $28,000 and a $0 scheduled payment. The qualifying payment is the one in the current section, not zero by default. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-05"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "faq-which-debts-count-in-dti",
+    "installment-debt",
+    "manual-underwriting",
+    "revolving-debt",
+    "stable-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pago de préstamo estudiantil",
+    "aliases": [],
+    "definition": "Los pagos de préstamos estudiantiles cuentan en la relación de deudas. Los pagos según el ingreso, los préstamos en aplazamiento y los préstamos con un pago reportado de cero tienen tratamientos especiales en la guía. El prestamista no puede ignorar un préstamo estudiantil porque el prestatario no lo está pagando hoy.",
+    "details": "Fannie Mae B3-6-05 establece qué pago usar para los préstamos estudiantiles, incluido cuándo el informe muestra un pago y cuándo no. No invente un porcentaje del saldo. La documentación del plan según el ingreso debe coincidir con la guía. La FHA y otros programas usan sus propios manuales. Una solicitud de condonación que todavía no está completa no elimina la deuda.",
+    "complianceNotes": "Imprima la prueba de pago que exige la guía, como el informe de crédito o el estado del plan según el ingreso. Recalcule la relación si el pago correcto es mayor que el que se usó primero. No omita un préstamo en aplazamiento.",
+    "example": {
+      "setting": "Línea de préstamo estudiantil del informe de crédito y el pago usado para calificar",
+      "text": "Un informe de muestra puede mostrar un saldo de ejemplo de préstamo estudiantil de $28,000 y un pago programado de $0. El pago de calificación es el de la sección vigente, no cero por defecto. Cifras de ejemplo."
+    }
+  }
+}

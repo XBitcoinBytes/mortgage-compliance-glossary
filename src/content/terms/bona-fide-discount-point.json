@@ -1,0 +1,38 @@
+{
+  "slug": "bona-fide-discount-point",
+  "term": "Bona fide discount point",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A bona fide discount point is a point that truly buys down the rate, under the tests in Regulation Z, and that may be left out of the qualified-mortgage and high-cost points-and-fees calculation. Not every charge labeled a point qualifies.",
+  "details": "The exclusion is in 12 CFR 1026.32(b), and the qualified-mortgage cap uses that definition through 12 CFR 1026.43. The dollar thresholds that decide which percentage cap applies are adjusted periodically. Do not rely on last year's cutoff. The starting rate, the rate reduction, and whether the points are bona fide all have to be documented. Average-prime-offer comparisons in the rule should be read from the current section.",
+  "complianceNotes": "Run the exclusion only with the pricing evidence that shows the rate reduction the points purchased. If the points fail the test, include them in points and fees. Flag files near the cap for a second calculation.",
+  "example": {
+    "setting": "Pricing worksheet and Loan Estimate, page 2, Section A, points line, tested in the points-and-fees calculation",
+    "text": "On an example $240,000 loan, a creditor might test whether $2,400 of points, 1.00 percent, buys a rate reduction that the current section treats as bona fide. Example figures, not the regulatory cap."
+  },
+  "citations": [
+    "reg-1026-32",
+    "reg-1026-43"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "discount-points",
+    "faq-what-are-points",
+    "hoepa",
+    "points-and-fees",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Punto de descuento de buena fe",
+    "aliases": [],
+    "definition": "Un punto de descuento de buena fe es un punto que de verdad compra una tasa más baja, según las pruebas del Reglamento Z, y que puede quedar fuera del cálculo de puntos y cargos de la hipoteca calificada y del préstamo de alto costo. No todo cargo llamado punto califica.",
+    "details": "La exclusión está en 12 CFR 1026.32(b), y el límite de la hipoteca calificada usa esa definición por medio de 12 CFR 1026.43. Los umbrales en dólares que deciden qué porcentaje se aplica se ajustan periódicamente. No se apoye en el corte del año pasado. La tasa inicial, la reducción de la tasa y si los puntos son de buena fe deben documentarse. Las comparaciones con la oferta preferente promedio deben leerse en la sección vigente.",
+    "complianceNotes": "Aplique la exclusión solo con la prueba de precio que muestra la reducción de tasa que compraron los puntos. Si los puntos no pasan la prueba, inclúyalos en los puntos y cargos. Marque los expedientes cerca del límite para un segundo cálculo.",
+    "example": {
+      "setting": "Hoja de precio y Estimación del préstamo, página 2, Sección A, línea de puntos, probada en el cálculo de puntos y cargos",
+      "text": "En un préstamo de ejemplo de $240,000, un acreedor podría probar si $2,400 de puntos, el 1.00 por ciento, compran una reducción de tasa que la sección vigente trata como de buena fe. Cifras de ejemplo, no el límite del reglamento."
+    }
+  },
+  "reviewFlag": "The bona fide discount-point exclusion math is detailed and has been amended. Confirm the current text of 12 CFR 1026.32(b) before relying on a particular exclusion percentage."
+}

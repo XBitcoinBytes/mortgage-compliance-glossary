@@ -1,0 +1,38 @@
+{
+  "slug": "confirm-receipt",
+  "term": "Confirm receipt",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The signature on the Closing Disclosure confirms that you received it. It does not mean you accept the loan, agree the numbers are correct, or waive a right to cancel. You can sign the receipt and still ask about an error, and you can refuse to sign the note.",
+  "details": "The CFPB's Closing Disclosure form and 12 CFR 1026.38 include the confirm-receipt statement. Receipt still matters for the three-business-day wait. If the consumer will not sign the receipt, the creditor should use another way to prove delivery, such as a courier record, and should not treat refusal to sign the receipt as a waiver of the wait.",
+  "complianceNotes": "Explain the signature in plain words before the borrower signs. Do not say the signature locks them into the loan. Keep a copy of the signed receipt or other proof of delivery.",
+  "example": {
+    "setting": "Closing Disclosure signature line stating the consumer confirms receipt",
+    "text": "A sample receipt might be signed at 4:00 p.m. on a Tuesday for a Closing Disclosure the borrower is holding. The time is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026-38",
+    "cfpb-cd"
+  ],
+  "related": [
+    "closing-disclosure",
+    "closing-package",
+    "consummation",
+    "faq-can-i-cancel-after-closing",
+    "faq-what-is-a-closing-disclosure",
+    "right-of-rescission",
+    "three-business-day-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Confirmación de recepción",
+    "aliases": [],
+    "definition": "La firma en la Divulgación del cierre confirma que usted la recibió. No significa que acepta el préstamo, que está de acuerdo con que los números son correctos o que renuncia a un derecho a cancelar. Usted puede firmar el recibo y todavía preguntar por un error, y puede negarse a firmar el pagaré.",
+    "details": "El formulario de la Divulgación del cierre de la CFPB y 12 CFR 1026.38 incluyen la declaración de confirmación de recepción. La recepción igual importa para la espera de tres días hábiles. Si el consumidor no firma el recibo, el acreedor debe usar otra forma de probar la entrega, como un registro de mensajería, y no debe tratar la negativa a firmar el recibo como una renuncia a la espera.",
+    "complianceNotes": "Explique la firma en palabras claras antes de que el prestatario firme. No diga que la firma los ata al préstamo. Conserve una copia del recibo firmado u otra prueba de entrega.",
+    "example": {
+      "setting": "Línea de firma de la Divulgación del cierre que indica que el consumidor confirma la recepción",
+      "text": "Un recibo de muestra podría firmarse a las 4:00 p.m. de un martes para una Divulgación del cierre que el prestatario tiene en la mano. La hora es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

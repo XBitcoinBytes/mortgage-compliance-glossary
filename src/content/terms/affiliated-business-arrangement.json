@@ -1,0 +1,39 @@
+{
+  "slug": "affiliated-business-arrangement",
+  "term": "Affiliated business arrangement",
+  "aliases": [
+    "AfBA"
+  ],
+  "category": "compliance",
+  "definition": "An affiliated business arrangement is a relationship in which the person referring a settlement service has an ownership or other affiliate relationship with the provider. RESPA allows a return on that ownership only if the disclosure is given, the consumer is not required to use the affiliate, and the only thing of value received is a legitimate return on ownership.",
+  "details": "12 CFR 1024.15 states the disclosure, the timing, and the conditions. A sham arrangement that pays for referrals and does not provide real services fails the rule even if a disclosure form was signed. Required use of the affiliate is generally prohibited, with the narrow exceptions in the section. The disclosure does not authorize a kickback.",
+  "complianceNotes": "Give the AfBA disclosure when the referral is made and keep the signed copy. Do not require the affiliate. Confirm the payment is a real return on ownership, not a per-loan referral fee.",
+  "example": {
+    "setting": "Affiliated business arrangement disclosure given with the referral",
+    "text": "A sample disclosure might identify an affiliated title company and an example ownership interest, without a required-use box checked. Any ownership percentage in training materials is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1024-15"
+  ],
+  "related": [
+    "kickback",
+    "marketing-services-agreement",
+    "required-use",
+    "respa-section-8",
+    "settlement-service",
+    "thing-of-value",
+    "title-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Arreglo de negocio afiliado",
+    "aliases": [],
+    "definition": "Un arreglo de negocio afiliado es una relación en la que la persona que refiere un servicio de liquidación tiene una propiedad u otra relación de afiliación con el proveedor. RESPA permite un rendimiento sobre esa propiedad solo si se da la divulgación, no se exige al consumidor usar el afiliado y lo único de valor que se recibe es un rendimiento legítimo sobre la propiedad.",
+    "details": "12 CFR 1024.15 establece la divulgación, el plazo y las condiciones. Un arreglo simulado que paga por referencias y no presta servicios reales incumple la regla aunque se haya firmado un formulario de divulgación. El uso obligatorio del afiliado por lo general está prohibido, con las excepciones estrechas de la sección. La divulgación no autoriza una comisión por referencia.",
+    "complianceNotes": "Dé la divulgación del arreglo cuando se hace la referencia y conserve la copia firmada. No exija el afiliado. Confirme que el pago es un rendimiento real sobre la propiedad, no un cargo por referencia por cada préstamo.",
+    "example": {
+      "setting": "Divulgación del arreglo de negocio afiliado entregada con la referencia",
+      "text": "Una divulgación de muestra podría identificar una compañía de título afiliada y una participación de propiedad de ejemplo, sin una casilla de uso obligatorio marcada. Cualquier porcentaje de propiedad en materiales de capacitación es una cifra de ejemplo. Cifras de ejemplo."
+    }
+  }
+}

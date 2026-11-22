@@ -1,0 +1,38 @@
+{
+  "slug": "rate-lock-extension",
+  "term": "Rate lock extension",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A rate lock extension continues a lock past its original expiration, usually for a fee or a price adjustment. It is a contract change. It does not by itself give the creditor a right to issue a revised Loan Estimate.",
+  "details": "Revised estimates are allowed only for the reasons in 12 CFR 1026.19(e)(3)(iv). An extension the creditor offers because its own lock expired is often a creditor-caused delay, which the rule treats differently from a changed circumstance outside the creditor's control. Read the section before increasing fees. The new expiration still has to be disclosed if the rate-lock information on the Loan Estimate changes.",
+  "complianceNotes": "Put the extension agreement, the fee, and the new expiration in the file before documents are drawn. If a fee is added, test it against the tolerance buckets. Do not assume an extension is a changed circumstance.",
+  "example": {
+    "setting": "Lock confirmation in the origination file, and Loan Estimate, page 1, Rate Lock expiration if a revised disclosure is issued",
+    "text": "A sample extension might add seven days to a lock and charge an example fee of $250 on a $400,000 loan, shown later in Section A if the creditor imposes it. Example figures, not a required price."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-37",
+    "practice-file"
+  ],
+  "related": [
+    "changed-circumstance",
+    "faq-what-is-a-rate-lock",
+    "float-down",
+    "rate-lock",
+    "rate-lock-confirmation",
+    "revised-loan-estimate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Extensión de la fijación de la tasa",
+    "aliases": [],
+    "definition": "Una extensión de la fijación continúa una fijación después de su vencimiento original, por lo general a cambio de un cargo o un ajuste de precio. Es un cambio del contrato. Por sí sola no da al acreedor derecho a emitir una Estimación del préstamo revisada.",
+    "details": "Las estimaciones revisadas solo se permiten por las razones de 12 CFR 1026.19(e)(3)(iv). Una extensión que el acreedor ofrece porque su propia fijación venció suele ser una demora causada por el acreedor, y la regla la trata de modo distinto a una circunstancia cambiada fuera de su control. Lea la sección antes de aumentar cargos. El nuevo vencimiento debe divulgarse si cambia la información de fijación de la Estimación del préstamo.",
+    "complianceNotes": "Incluya en el expediente el acuerdo de extensión, el cargo y el nuevo vencimiento antes de preparar los documentos. Si se agrega un cargo, pruébelo contra los grupos de tolerancia. No suponga que una extensión es una circunstancia cambiada.",
+    "example": {
+      "setting": "Confirmación de fijación en el expediente, y Estimación del préstamo, página 1, vencimiento de la fijación si se emite una divulgación revisada",
+      "text": "Una extensión de muestra puede agregar siete días a una fijación y cobrar un cargo de ejemplo de $250 sobre un préstamo de $400,000, mostrado después en la Sección A si el acreedor lo impone. Cifras de ejemplo, no un precio obligatorio."
+    }
+  }
+}

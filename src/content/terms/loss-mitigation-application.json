@@ -1,0 +1,36 @@
+{
+  "slug": "loss-mitigation-application",
+  "term": "Loss mitigation application",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A loss-mitigation application is the package you send the servicer to be reviewed for an alternative to foreclosure. When it is complete, deadlines and foreclosure protections start. An incomplete package gets a notice of what is missing. The acknowledgment timing is in the regulation.",
+  "details": "12 CFR 1024.41 generally requires acknowledgment within five business days and, for a complete application, an evaluation within 30 days, with exceptions in the section. Those day counts are the regulatory text. A servicer must tell the borrower what documents are missing. Foreclosure referrals and sales are restricted once the application is complete in the window the section describes.",
+  "complianceNotes": "Date-stamp the package, send the five-day acknowledgment, and list missing items specifically. Do not call an application complete and then ask for a new form that restarts the borrower's clock unfairly.",
+  "example": {
+    "setting": "Borrower's loss-mitigation application, complete or incomplete, and the acknowledgment",
+    "text": "A sample acknowledgment on day four might say an example application is incomplete for lack of a profit-and-loss statement. Example figures for the day count inside the five-day rule."
+  },
+  "citations": [
+    "reg-1024-41"
+  ],
+  "related": [
+    "continuity-of-contact",
+    "dual-tracking",
+    "forbearance",
+    "loan-modification",
+    "loss-mitigation",
+    "loss-mitigation-appeal"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Solicitud de mitigación de pérdidas",
+    "aliases": [],
+    "definition": "Una solicitud de mitigación de pérdidas es el paquete que usted envía al administrador para que lo revisen por una alternativa a la ejecución hipotecaria. Cuando está completa, empiezan los plazos y las protecciones de la ejecución hipotecaria. Un paquete incompleto recibe un aviso de lo que falta. El plazo del acuse está en el reglamento.",
+    "details": "12 CFR 1024.41 por lo general exige el acuse dentro de cinco días hábiles y, para una solicitud completa, una evaluación dentro de 30 días, con excepciones en la sección. Esos conteos de días son el texto del reglamento. Un administrador debe decirle al prestatario qué documentos faltan. Las referencias y las ventas de ejecución hipotecaria se restringen una vez que la solicitud está completa en la ventana que describe la sección.",
+    "complianceNotes": "Feche el paquete, envíe el acuse de cinco días y liste los puntos que faltan de manera específica. No llame completa una solicitud y luego pida un formulario nuevo que reinicia el reloj del prestatario de manera injusta.",
+    "example": {
+      "setting": "Solicitud de mitigación de pérdidas del prestatario, completa o incompleta, y el acuse",
+      "text": "Un acuse de muestra el día cuatro podría decir que una solicitud de ejemplo está incompleta por falta de un estado de resultados. Cifras de ejemplo para el conteo de días dentro de la regla de cinco días."
+    }
+  }
+}

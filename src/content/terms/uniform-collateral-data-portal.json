@@ -1,0 +1,40 @@
+{
+  "slug": "uniform-collateral-data-portal",
+  "term": "Uniform Collateral Data Portal",
+  "aliases": [
+    "UCDP"
+  ],
+  "category": "underwriting",
+  "definition": "The Uniform Collateral Data Portal is the shared place lenders upload appraisal data for Fannie Mae and Freddie Mac. A successful upload is a delivery step. It is not an appraisal waiver and it does not mean the agencies agree with the value.",
+  "details": "The selling guides require submission of eligible appraisals through the portal before sale, with a submission status the lender can evidence. The portal checks data format. The lender still reviews the appraisal for credibility and for compliance with independence rules.",
+  "complianceNotes": "Save the successful submission report. If the portal rejects the file, fix the data and resubmit before funding or delivery, as the investor requires. Do not deliver on a failed status.",
+  "example": {
+    "setting": "UCDP submission certificate in the collateral file",
+    "text": "A sample certificate might show a successful submission for an example appraisal dated the 12th of the month. The date is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "fannie-guide",
+    "freddie-guide"
+  ],
+  "related": [
+    "appraisal",
+    "fannie-mae",
+    "freddie-mac",
+    "uniform-appraisal-dataset",
+    "value-acceptance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Portal uniforme de datos de garantía",
+    "aliases": [
+      "UCDP"
+    ],
+    "definition": "El Portal uniforme de datos de garantía es el lugar compartido donde los prestamistas cargan los datos de tasación para Fannie Mae y Freddie Mac. Una carga exitosa es un paso de entrega. No es una exención de tasación y no significa que las agencias estén de acuerdo con el valor.",
+    "details": "Las guías de venta exigen el envío de las tasaciones elegibles por el portal antes de la venta, con un estado de envío que el prestamista pueda probar. El portal revisa el formato de los datos. El prestamista igual revisa la tasación en cuanto a credibilidad y al cumplimiento de las reglas de independencia.",
+    "complianceNotes": "Guarde el informe de envío exitoso. Si el portal rechaza el archivo, corrija los datos y vuelva a enviar antes del desembolso o la entrega, como exija el inversionista. No entregue con un estado fallido.",
+    "example": {
+      "setting": "Certificado de envío del UCDP en el expediente de garantía",
+      "text": "Un certificado de muestra puede mostrar un envío exitoso de una tasación de ejemplo con fecha el día 12 del mes. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

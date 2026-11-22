@@ -1,0 +1,43 @@
+{
+  "slug": "co-borrower",
+  "term": "Co-borrower",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A co-borrower applies with you and signs the note. Their income, assets, and debts are part of the loan decision. They are obligated to repay. A co-borrower is not just a reference and not automatically a co-owner of the house.",
+  "details": "The URLA collects each borrower's information. Regulation B, 12 CFR 1002.7, limits when a creditor may require a spouse's signature. Adding a co-borrower can help income and can also add debts and a lower credit score. For more than one borrower, the representative credit score is selected under the agency guide, not by averaging everyone.",
+  "complianceNotes": "List every obligor on the application and the note. Do not require a spouse to apply solely because of marital status. Document whether the co-borrower will occupy. Occupancy changes gift, reserve, and pricing rules.",
+  "example": {
+    "setting": "Uniform Residential Loan Application, Section 1, additional borrower, and the note signature block",
+    "text": "A sample application might add a co-borrower with example monthly income of $4,800 and a car payment of $310, both counted in the file's debt ratio. Example figures."
+  },
+  "citations": [
+    "fannie-urla",
+    "reg-1002-7"
+  ],
+  "related": [
+    "authorized-user",
+    "co-signer",
+    "community-property",
+    "credit-score",
+    "debt-to-income-ratio",
+    "faq-cosigner-vs-coborrower",
+    "non-borrowing-spouse",
+    "non-occupant-co-borrower",
+    "permissible-purpose",
+    "power-of-attorney",
+    "representative-credit-score",
+    "uniform-residential-loan-application"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Coprestatario",
+    "aliases": [],
+    "definition": "Un coprestatario solicita con usted y firma el pagaré. Sus ingresos, activos y deudas forman parte de la decisión del préstamo. Está obligado a pagar. Un coprestatario no es solo una referencia y no es automáticamente copropietario de la casa.",
+    "details": "La URLA recoge la información de cada prestatario. El Reglamento B, 12 CFR 1002.7, limita cuándo un acreedor puede exigir la firma del cónyuge. Agregar un coprestatario puede ayudar con los ingresos y también puede agregar deudas y un puntaje de crédito más bajo. Cuando hay más de un prestatario, el puntaje representativo se elige según la guía de la agencia, no promediando a todos.",
+    "complianceNotes": "Incluya a todo obligado en la solicitud y en el pagaré. No exija que un cónyuge solicite solo por su estado civil. Documente si el coprestatario ocupará la vivienda. La ocupación cambia las reglas de regalos, reservas y precio.",
+    "example": {
+      "setting": "Solicitud uniforme de préstamo residencial, Sección 1, prestatario adicional, y el bloque de firma del pagaré",
+      "text": "Una solicitud de muestra puede agregar un coprestatario con ingresos mensuales de ejemplo de $4,800 y un pago de automóvil de $310, ambos contados en la relación de deudas del expediente. Cifras de ejemplo."
+    }
+  }
+}

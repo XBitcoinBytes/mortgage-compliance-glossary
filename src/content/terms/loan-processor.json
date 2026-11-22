@@ -1,0 +1,37 @@
+{
+  "slug": "loan-processor",
+  "term": "Loan processor",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A loan processor collects documents, orders verifications, and keeps the file moving after the application is taken. Processing is support work. It becomes loan-originator work if the person takes the application or negotiates the rate or terms for pay.",
+  "details": "The SAFE Act and 12 CFR 1026.36 define a loan originator by activity. Whether a processor needs a license depends on whether that activity is present, and on state law. It is not accurate to say processors are never licensed, or that they always are. Clerical updates at a loan officer's direction are the core of the processing role.",
+  "complianceNotes": "Write job descriptions so processors do not quote prices or take applications. If they do, license them and include them in the compensation rule. Conditions the processor clears still have to match what the underwriter asked for.",
+  "example": {
+    "setting": "Loan file task list: document collection, not the Loan Estimate contact block unless the processor is also the originator",
+    "text": "A sample condition log might show a processor uploading two pay stubs and a $4,200 bank statement for an example file, without authority to change the rate. Example figures."
+  },
+  "citations": [
+    "usc-12-5104",
+    "reg-1026-36",
+    "practice-file"
+  ],
+  "related": [
+    "loan-officer",
+    "mortgage-loan-originator",
+    "safe-act",
+    "underwriting-conditions",
+    "verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Procesador de préstamos",
+    "aliases": [],
+    "definition": "Un procesador de préstamos reúne documentos, pide verificaciones y mantiene el expediente en movimiento después de que se toma la solicitud. El procesamiento es trabajo de apoyo. Se vuelve trabajo de originador si la persona toma la solicitud o negocia la tasa o los términos a cambio de pago.",
+    "details": "La Ley SAFE y 12 CFR 1026.36 definen al originador por la actividad. Si un procesador necesita licencia depende de si esa actividad está presente, y de la ley estatal. No es exacto decir que los procesadores nunca tienen licencia, o que siempre la tienen. Las actualizaciones administrativas bajo la dirección de un oficial de préstamos son el núcleo del puesto.",
+    "complianceNotes": "Redacte las descripciones de puesto para que los procesadores no coticen precios ni tomen solicitudes. Si lo hacen, dénles licencia e inclúyalos en la regla de compensación. Las condiciones que el procesador levanta igual deben coincidir con lo que pidió el suscriptor.",
+    "example": {
+      "setting": "Lista de tareas del expediente: recolección de documentos, no el bloque de contacto de la Estimación del préstamo salvo que el procesador también sea el originador",
+      "text": "Un registro de condiciones de muestra puede mostrar a un procesador cargando dos talones de pago y un estado de cuenta de $4,200 para un expediente de ejemplo, sin autoridad para cambiar la tasa. Cifras de ejemplo."
+    }
+  }
+}

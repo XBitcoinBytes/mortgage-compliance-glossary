@@ -1,0 +1,35 @@
+{
+  "slug": "gift-of-equity",
+  "term": "Gift of equity",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A gift of equity is value the seller gives the buyer, usually a relative, by selling below the value or crediting equity. It is not cash in a bank account. Fannie Mae B3-4.3-05 says a gift of equity may not be used as reserves.",
+  "details": "The guide requires a gift letter and treats the equity as a credit in the transaction, not as seasoned cash. The loan-to-value ratio still uses the guide's value rules. A gift of equity from a seller is also an interested-party issue that must be tested against contribution limits when the donor is not an acceptable gift donor under the gift section. Read both B3-4.3-04 and B3-4.3-05.",
+  "complianceNotes": "Do not count the equity as reserves or as cash to close in the bank. Show it on the contract and the Closing Disclosure. Confirm the donor is acceptable.",
+  "example": {
+    "setting": "Purchase contract gift-of-equity addendum and the CD seller credit or price adjustment",
+    "text": "A sample parent might sell a home appraised at an example $300,000 to a child for $250,000, a $50,000 gift of equity. Example figures."
+  },
+  "citations": [
+    "fannie-b3-4-3-05"
+  ],
+  "related": [
+    "down-payment",
+    "gift-funds",
+    "gift-letter",
+    "loan-to-value-ratio",
+    "purchase-agreement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Regalo de plusvalía",
+    "aliases": [],
+    "definition": "Un regalo de plusvalía es valor que el vendedor da al comprador, por lo general un familiar, al vender por debajo del valor o al acreditar plusvalía. No es efectivo en una cuenta bancaria. Fannie Mae B3-4.3-05 dice que un regalo de plusvalía no puede usarse como reservas.",
+    "details": "La guía exige una carta de regalo y trata la plusvalía como un crédito en la transacción, no como efectivo con antigüedad. La relación préstamo-valor igual usa las reglas de valor de la guía. Un regalo de plusvalía de un vendedor también es un tema de parte interesada que debe probarse contra los límites de aportación cuando el donante no es un donante de regalo aceptable según la sección de regalos. Lea tanto B3-4.3-04 como B3-4.3-05.",
+    "complianceNotes": "No cuente la plusvalía como reservas ni como efectivo para el cierre en el banco. Muéstrela en el contrato y en la Divulgación del cierre. Confirme que el donante es aceptable.",
+    "example": {
+      "setting": "Anexo de regalo de plusvalía del contrato de compra y el crédito del vendedor o el ajuste de precio en la Divulgación del cierre",
+      "text": "Un padre de muestra podría vender una vivienda tasada en un ejemplo de $300,000 a un hijo por $250,000, un regalo de plusvalía de $50,000. Cifras de ejemplo."
+    }
+  }
+}

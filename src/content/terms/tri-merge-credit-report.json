@@ -1,0 +1,47 @@
+{
+  "slug": "tri-merge-credit-report",
+  "term": "Tri-merge credit report",
+  "aliases": [
+    "tri-merge"
+  ],
+  "category": "underwriting",
+  "definition": "A tri-merge credit report combines your credit history from Experian, Equifax, and TransUnion into one report for the lender. It is the report conventional underwriting usually requires. Pulling it requires a permissible purpose under the Fair Credit Reporting Act.",
+  "details": "Fannie Mae B3-5.2-01 states credit-report requirements. 15 USC 1681b lists permissible purposes, including a credit transaction involving the consumer. The report shows tradelines, public records, and inquiries. The representative score is selected from the scores on this report under a separate guide section. A one-bureau report is not a substitute unless the guide expressly allows it.",
+  "complianceNotes": "Pull the report only after you have a permissible purpose, and give the adverse-action disclosures if you deny credit based on it. Refresh the report if it expires under the guide before closing. Investigate inquiries that suggest new debt.",
+  "example": {
+    "setting": "Credit file, tri-merge report from Experian, Equifax, and TransUnion",
+    "text": "A sample tri-merge might show three example scores of 702, 716, and 729 and a $6,400 credit-card balance. Example figures."
+  },
+  "citations": [
+    "fannie-b3-5-2-01",
+    "usc-15-1681b"
+  ],
+  "related": [
+    "authorized-user",
+    "bankruptcy-seasoning",
+    "charge-off",
+    "collection-account",
+    "credit-inquiry",
+    "credit-report-fee",
+    "credit-score",
+    "fcra",
+    "permissible-purpose",
+    "representative-credit-score",
+    "tradeline",
+    "undisclosed-debt"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Informe de crédito de tres agencias",
+    "aliases": [
+      "informe de tres agencias"
+    ],
+    "definition": "Un informe de crédito de tres agencias combina su historial de Experian, Equifax y TransUnion en un solo informe para el prestamista. Es el informe que la suscripción convencional por lo general exige. Obtenerlo requiere un propósito permitido según la Ley de Informes de Crédito Justos.",
+    "details": "Fannie Mae B3-5.2-01 establece los requisitos del informe de crédito. 15 USC 1681b enumera los propósitos permitidos, incluida una transacción de crédito que involucra al consumidor. El informe muestra líneas de crédito, registros públicos y consultas. El puntaje representativo se elige de los puntajes de este informe según una sección distinta de la guía. Un informe de una sola agencia no es un sustituto, salvo que la guía lo permita expresamente.",
+    "complianceNotes": "Obtenga el informe solo después de tener un propósito permitido, y dé las divulgaciones de acción adversa si niega el crédito con base en él. Actualice el informe si vence según la guía antes del cierre. Investigue las consultas que sugieren una deuda nueva.",
+    "example": {
+      "setting": "Expediente de crédito, informe tri-merge de Experian, Equifax y TransUnion",
+      "text": "Un informe de muestra de tres agencias puede mostrar tres puntajes de ejemplo de 702, 716 y 729 y un saldo de tarjeta de $6,400. Cifras de ejemplo."
+    }
+  }
+}

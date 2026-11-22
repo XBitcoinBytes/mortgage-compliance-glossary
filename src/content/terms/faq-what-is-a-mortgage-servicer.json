@@ -1,0 +1,35 @@
+{
+  "slug": "faq-what-is-a-mortgage-servicer",
+  "term": "What is a mortgage servicer?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "The servicer is the company that collects your payment, manages escrow, and answers questions. The owner of the loan may be an investor. When servicing transfers, you get notices and a period in which a payment sent to the old company on time is not late.",
+  "details": "Regulation X, 12 CFR Part 1024, is the servicing rulebook: transfers, errors, information requests, escrow, force-placed insurance, and loss mitigation. Periodic statements are required by 12 CFR 1026.41 unless an exemption applies. You send a notice of error to the servicer, not to Fannie Mae or the CFPB, although you may also complain to the CFPB.",
+  "complianceNotes": "Use the address on the latest statement. Apply the transfer protections. Respond to error notices on the regulatory clock.",
+  "example": {
+    "setting": "Monthly statement showing the company you pay, which may not be the original lender",
+    "text": "A sample statement might show an example payment of $1,720 due to a servicer the borrower did not apply with. Example figures."
+  },
+  "citations": [
+    "reg-1024"
+  ],
+  "related": [
+    "escrow-account",
+    "mortgage-servicer",
+    "notice-of-error",
+    "periodic-statement",
+    "servicing-transfer"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es un administrador del préstamo?",
+    "aliases": [],
+    "definition": "El administrador es la empresa que cobra su pago, maneja el depósito en garantía y responde preguntas. El dueño del préstamo puede ser un inversionista. Cuando la administración se transfiere, usted recibe avisos y un período en el que un pago enviado a tiempo a la empresa anterior no es tardío.",
+    "details": "El Reglamento X, 12 CFR Parte 1024, es el manual de administración: transferencias, errores, pedidos de información, depósito en garantía, seguro impuesto y mitigación de pérdidas. Los estados de cuenta periódicos los exige 12 CFR 1026.41 salvo que se aplique una exención. Usted envía un aviso de error al administrador, no a Fannie Mae ni a la CFPB, aunque también puede quejarse ante la CFPB.",
+    "complianceNotes": "Use la dirección del último estado de cuenta. Aplique las protecciones de la transferencia. Responda los avisos de error en el reloj del reglamento.",
+    "example": {
+      "setting": "Estado de cuenta mensual que muestra la empresa a la que usted paga, que puede no ser el prestamista original",
+      "text": "Un estado de cuenta de muestra podría mostrar un pago de ejemplo de $1,720 debido a un administrador con el que el prestatario no solicitó. Cifras de ejemplo."
+    }
+  }
+}

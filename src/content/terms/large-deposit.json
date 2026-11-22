@@ -1,0 +1,38 @@
+{
+  "slug": "large-deposit",
+  "term": "Large deposit",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A large deposit is a deposit that stands out against your normal income and that the guide says the lender must explain. The point is to see whether the money is a gift, a loan, or something else that changes the file. The size that counts is defined in the guide, not by a fixed federal dollar amount.",
+  "details": "The Fannie Mae Selling Guide tells the lender when a deposit must be sourced and what documentation is acceptable. An unsourced deposit generally cannot be used for funds to close. A deposit that is actually a loan may have a payment that belongs in the debt ratio, or it may be ineligible. Do not invent a percentage threshold. Read the current section.",
+  "complianceNotes": "Flag deposits that are large relative to income and obtain the paper before clear to close. Do not tell the borrower to move the money and reprint a statement to hide the deposit.",
+  "example": {
+    "setting": "Bank statement, a deposit flagged for sourcing on the asset worksheet",
+    "text": "A sample statement might show an example payroll deposit of $2,200 and a separate $12,000 deposit that the underwriter sources to a gift. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "asset-documentation",
+    "bank-statements",
+    "gift-funds",
+    "gift-letter",
+    "letter-of-explanation",
+    "seasoned-funds",
+    "source-of-funds",
+    "verification-of-deposit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Depósito grande",
+    "aliases": [],
+    "definition": "Un depósito grande es un depósito que destaca frente a su ingreso normal y que la guía dice que el prestamista debe explicar. El punto es ver si el dinero es un regalo, un préstamo u otra cosa que cambia el expediente. El tamaño que cuenta está definido en la guía, no por un monto federal fijo.",
+    "details": "La Selling Guide de Fannie Mae le dice al prestamista cuándo debe documentarse el origen de un depósito y qué documentación es aceptable. Un depósito sin origen por lo general no puede usarse para los fondos del cierre. Un depósito que en realidad es un préstamo puede tener un pago que pertenece a la relación de deudas, o puede no ser elegible. No invente un umbral de porcentaje. Lea la sección vigente.",
+    "complianceNotes": "Marque los depósitos que son grandes en relación con el ingreso y obtenga el papel antes de autorizar el cierre. No le diga al prestatario que mueva el dinero y reimprima un estado para ocultar el depósito.",
+    "example": {
+      "setting": "Estado de cuenta, un depósito marcado para documentar su origen en la hoja de activos",
+      "text": "Un estado de muestra puede mostrar un depósito de nómina de ejemplo de $2,200 y un depósito aparte de $12,000 que el suscriptor documenta como un regalo. Cifras de ejemplo."
+    }
+  }
+}

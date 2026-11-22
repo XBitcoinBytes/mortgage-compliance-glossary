@@ -1,0 +1,34 @@
+{
+  "slug": "red-flags-rule",
+  "term": "Red Flags Rule",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "The Red Flags Rule requires creditors and financial institutions that offer covered accounts to maintain a written identity-theft prevention program. A mortgage loan can be a covered account. The rule is 16 CFR Part 681. It is not the same as an OFAC screen or an AML program, though a company may coordinate them.",
+  "details": "Part 681 requires the program to detect, prevent, and mitigate identity theft in connection with covered accounts. Red flags include altered documents, an address that does not match, and a credit report that contains a fraud alert. The program should say what staff do when a flag appears. Ignoring a fraud alert because the closing is scheduled is the failure mode.",
+  "complianceNotes": "Adopt the written program if the rule applies, train the people who see the documents, and record how flags were cleared. Do not fund over an unresolved fraud alert.",
+  "example": {
+    "setting": "Identity-theft prevention program for covered accounts",
+    "text": "A sample flag might be an example credit report with a fraud alert and an address that does not match the URLA. No dollar threshold applies. Example figures are not the point. A sample loan number of 88 only identifies the file."
+  },
+  "citations": [
+    "cfr-16-681"
+  ],
+  "related": [
+    "anti-money-laundering",
+    "customer-identification-program",
+    "fcra",
+    "ofac-screening"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Regla de señales de alerta",
+    "aliases": [],
+    "definition": "La Regla de señales de alerta exige a los acreedores y a las instituciones financieras que ofrecen cuentas cubiertas mantener un programa escrito de prevención del robo de identidad. Un préstamo hipotecario puede ser una cuenta cubierta. La regla es 16 CFR Parte 681. No es lo mismo que una revisión de OFAC o un programa contra el lavado de dinero, aunque una empresa puede coordinarlos.",
+    "details": "La Parte 681 exige que el programa detecte, prevenga y mitigue el robo de identidad en relación con las cuentas cubiertas. Las señales de alerta incluyen documentos alterados, una dirección que no coincide y un informe de crédito que contiene una alerta de fraude. El programa debe decir qué hace el personal cuando aparece una señal. Ignorar una alerta de fraude porque el cierre está programado es el modo de falla.",
+    "complianceNotes": "Adopte el programa escrito si la regla se aplica, capacite a las personas que ven los documentos y registre cómo se resolvieron las señales. No desembolse por encima de una alerta de fraude no resuelta.",
+    "example": {
+      "setting": "Programa de prevención del robo de identidad para cuentas cubiertas",
+      "text": "Una señal de muestra podría ser un informe de crédito de ejemplo con una alerta de fraude y una dirección que no coincide con la URLA. No se aplica un umbral en dólares. Las cifras de ejemplo no son el punto. Un número de préstamo de muestra de 88 solo identifica el expediente. Cifras de ejemplo."
+    }
+  }
+}

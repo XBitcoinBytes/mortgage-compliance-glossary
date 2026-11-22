@@ -1,0 +1,40 @@
+{
+  "slug": "tila",
+  "term": "Truth in Lending Act",
+  "aliases": [
+    "Truth in Lending Act",
+    "TILA"
+  ],
+  "category": "compliance",
+  "definition": "The Truth in Lending Act is the federal statute that requires creditors to disclose the cost of consumer credit, including the finance charge and the annual percentage rate. For most closed-end mortgages, those disclosures now appear on the Loan Estimate and the Closing Disclosure.",
+  "details": "The statute begins at 15 USC 1601. Ability to repay is at 15 USC 1639c, and HOEPA's high-cost provisions are in 15 USC 1639. Regulation Z, 12 CFR Part 1026, is the implementing regulation. TILA is not RESPA. RESPA covers settlement services, kickbacks, escrow, and servicing. A file can violate one statute and not the other.",
+  "complianceNotes": "When a question is about the APR, the finance charge, rescission, advertising, or ability to repay, start with Regulation Z. When it is about a referral fee or a servicing error, start with Regulation X.",
+  "example": {
+    "setting": "Loan Estimate and Closing Disclosure finance-charge and APR disclosures, which implement TILA",
+    "text": "A sample Closing Disclosure loan-calculations section might show an example finance charge and an example APR of 6.82 percent on a note rate of 6.50 percent. Example figures, not a market quote."
+  },
+  "citations": [
+    "usc-15-1601",
+    "reg-1026"
+  ],
+  "related": [
+    "ability-to-repay",
+    "annual-percentage-rate",
+    "dodd-frank-act",
+    "finance-charge",
+    "regulation-z",
+    "trid"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley de Veracidad en los Préstamos",
+    "aliases": [],
+    "definition": "La Ley de Veracidad en los Préstamos es la ley federal que exige a los acreedores divulgar el costo del crédito al consumidor, incluido el cargo por financiamiento y la tasa porcentual anual. Para la mayoría de las hipotecas de crédito cerrado, esas divulgaciones aparecen ahora en la Estimación del préstamo y en la Divulgación del cierre.",
+    "details": "La ley empieza en 15 USC 1601. La capacidad de pago está en 15 USC 1639c, y las disposiciones de alto costo de HOEPA están en 15 USC 1639. El Reglamento Z, 12 CFR Parte 1026, es el reglamento que la aplica. TILA no es RESPA. RESPA cubre los servicios de liquidación, las comisiones, el depósito en garantía y la administración. Un expediente puede violar una ley y no la otra.",
+    "complianceNotes": "Cuando la pregunta es sobre la tasa porcentual anual, el cargo por financiamiento, la rescisión, la publicidad o la capacidad de pago, empiece por el Reglamento Z. Cuando es sobre un cargo por referencia o un error de administración, empiece por el Reglamento X.",
+    "example": {
+      "setting": "Divulgaciones del cargo por financiamiento y de la tasa porcentual anual en la Estimación del préstamo y la Divulgación del cierre, que aplican TILA",
+      "text": "Una sección de cálculos del préstamo de una Divulgación del cierre de muestra puede mostrar un cargo por financiamiento de ejemplo y una tasa porcentual anual de ejemplo del 6.82 por ciento sobre una tasa del pagaré del 6.50 por ciento. Cifras de ejemplo, no una cotización de mercado."
+    }
+  }
+}

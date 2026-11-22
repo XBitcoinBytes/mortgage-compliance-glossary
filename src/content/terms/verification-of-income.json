@@ -1,0 +1,45 @@
+{
+  "slug": "verification-of-income",
+  "term": "Verification of income",
+  "aliases": [
+    "VOI"
+  ],
+  "category": "underwriting",
+  "definition": "Verification of income is the proof of the earnings the lender uses to qualify you. Pay stubs, W-2s, tax returns, and third-party reports are common proof. Stated income without documents is not enough for a qualified mortgage or a typical agency loan.",
+  "details": "Ability to repay under 12 CFR 1026.43 requires the creditor to consider and verify current or reasonably expected income or assets. Fannie Mae B3-3.1-01 adds the standard that income be stable, documented, and expected to continue. The document set depends on the income type. A DU validation message can replace some paper only when the message says so.",
+  "complianceNotes": "Tie every dollar of qualifying income to a document. Do not average bonus income if the guide requires a history you do not have. If validation fails, fall back to the full paper file.",
+  "example": {
+    "setting": "Income worksheet tied to pay stubs, W-2s, or transcripts",
+    "text": "A sample income worksheet might verify example base income of $5,400 a month from two pay stubs and last year's W-2. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-1-01",
+    "reg-1026-43"
+  ],
+  "related": [
+    "ability-to-repay",
+    "du-validation-service",
+    "faq-what-is-preapproval",
+    "form-4506-c",
+    "nontaxable-income",
+    "pay-stub",
+    "public-assistance-income",
+    "stable-income",
+    "tax-returns",
+    "verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Verificación de ingresos",
+    "aliases": [
+      "VOI"
+    ],
+    "definition": "La verificación de ingresos es la prueba de las ganancias que el prestamista usa para calificarlo. Los talones de pago, los W-2, las declaraciones de impuestos y los informes de terceros son pruebas comunes. El ingreso declarado sin documentos no basta para una hipoteca calificada ni para un préstamo típico de agencia.",
+    "details": "La capacidad de pago según 12 CFR 1026.43 exige que el acreedor considere y verifique el ingreso o los activos actuales o razonablemente esperados. Fannie Mae B3-3.1-01 agrega el estándar de que el ingreso sea estable, esté documentado y se espere que continúe. El conjunto de documentos depende del tipo de ingreso. Un mensaje de validación de DU puede reemplazar algún papel solo cuando el mensaje lo dice.",
+    "complianceNotes": "Ate cada dólar del ingreso de calificación a un documento. No promedie el ingreso por bonos si la guía exige un historial que usted no tiene. Si la validación falla, vuelva al expediente completo en papel.",
+    "example": {
+      "setting": "Hoja de ingresos ligada a talones de pago, W-2 o transcripciones",
+      "text": "Una hoja de ingresos de muestra puede verificar un ingreso base de ejemplo de $5,400 al mes a partir de dos talones de pago y el W-2 del año pasado. Cifras de ejemplo."
+    }
+  }
+}

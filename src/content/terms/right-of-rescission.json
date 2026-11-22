@@ -1,0 +1,40 @@
+{
+  "slug": "right-of-rescission",
+  "term": "Right of rescission",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "The right of rescission lets each person with an ownership interest cancel certain loans on a principal dwelling until midnight of the third business day after the later of consummation, delivery of the material disclosures, or delivery of the rescission notice. Purchase loans are generally not rescindable. Many refinances and closed-end home-equity loans are.",
+  "details": "12 CFR 1026.23 states who may rescind, which transactions are exempt, and the three-business-day period. Use the specific business-day definition: all calendar days except Sundays and federal legal holidays. Each consumer with an ownership interest gets the notice. Waivers are tightly limited to bona fide personal financial emergencies. Funding before the rescission period ends, when the right applies, is a serious violation.",
+  "complianceNotes": "Do not give a rescission notice on a purchase and do not omit it on a covered refinance. Count three specific business days and do not fund early. A signature on the Closing Disclosure does not waive the right.",
+  "example": {
+    "setting": "Notice of Right to Cancel in a rescindable refinance file, not in a purchase file",
+    "text": "A sample refinance might be consummated on a Monday, with rescission open until midnight of the following Thursday if there is no federal holiday. The days are example figures for the count. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026-23"
+  ],
+  "related": [
+    "business-day",
+    "cash-out-refinance",
+    "confirm-receipt",
+    "consummation",
+    "faq-can-i-cancel-after-closing",
+    "faq-what-is-a-heloc",
+    "faq-what-is-the-three-day-rule",
+    "heloc",
+    "home-equity-loan",
+    "three-business-day-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Derecho de rescisión",
+    "aliases": [],
+    "definition": "El derecho de rescisión permite que cada persona con un interés de propiedad cancele ciertos préstamos sobre una vivienda principal hasta la medianoche del tercer día hábil después de lo último entre la consumación, la entrega de las divulgaciones materiales o la entrega del aviso de rescisión. Los préstamos de compra por lo general no se pueden rescindir. Muchos refinanciamientos y préstamos de valor líquido de crédito cerrado sí.",
+    "details": "12 CFR 1026.23 establece quién puede rescindir, qué transacciones están exentas y el período de tres días hábiles. Use la definición específica de día hábil: todos los días del calendario excepto los domingos y los feriados legales federales. Cada consumidor con un interés de propiedad recibe el aviso. Las renuncias están muy limitadas a emergencias financieras personales de buena fe. Desembolsar antes de que termine el período de rescisión, cuando el derecho se aplica, es una violación grave.",
+    "complianceNotes": "No dé un aviso de rescisión en una compra y no lo omita en un refinanciamiento cubierto. Cuente tres días hábiles específicos y no desembolse antes. Una firma en la Divulgación del cierre no renuncia al derecho.",
+    "example": {
+      "setting": "Aviso del derecho a cancelar en un expediente de refinanciamiento que se puede rescindir, no en un expediente de compra",
+      "text": "Un refinanciamiento de muestra podría consumarse un lunes, con la rescisión abierta hasta la medianoche del jueves siguiente si no hay un feriado federal. Los días son cifras de ejemplo para el conteo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

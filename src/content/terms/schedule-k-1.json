@@ -1,0 +1,36 @@
+{
+  "slug": "schedule-k-1",
+  "term": "Schedule K-1 income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A Schedule K-1 reports your share of a partnership or S corporation. Whether that income can qualify you depends on your ownership percentage, your access to the money, and the history the guide requires. Ordinary wages on a W-2 from the same company are a separate calculation.",
+  "details": "Fannie Mae's self-employment section, B3-3.5, and the K-1 topic address ownership thresholds and when business returns are required. Do not invent the ownership percentage that changes the analysis. Read the current topic. Distributions that are not documented as stable may not be qualifying income even if they appear on the K-1.",
+  "complianceNotes": "Identify the percentage before you calculate. Obtain business returns when the ownership level requires them. Do not add K-1 income on top of a W-2 that already paid the same earnings.",
+  "example": {
+    "setting": "Schedule K-1 and the ownership analysis for the partnership or S corporation",
+    "text": "A sample K-1 might show an example ordinary income allocation of $40,000 to a 15 percent owner. Whether business returns are required depends on the current topic. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-5",
+    "fannie-guide"
+  ],
+  "related": [
+    "form-4506-c",
+    "schedule-c",
+    "self-employment-income",
+    "stable-income",
+    "tax-returns"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Anexo K-1",
+    "aliases": [],
+    "definition": "Un Anexo K-1 reporta su parte de una sociedad o de una corporación S. Si ese ingreso puede calificarlo depende de su porcentaje de propiedad, de su acceso al dinero y del historial que exige la guía. Los salarios ordinarios en un W-2 de la misma empresa son un cálculo distinto.",
+    "details": "La sección de trabajo por cuenta propia de Fannie Mae, B3-3.5, y el tema del K-1 tratan los umbrales de propiedad y cuándo se exigen las declaraciones del negocio. No invente el porcentaje de propiedad que cambia el análisis. Lea el tema vigente. Las distribuciones que no están documentadas como estables pueden no ser ingreso de calificación aunque aparezcan en el K-1.",
+    "complianceNotes": "Identifique el porcentaje antes de calcular. Obtenga las declaraciones del negocio cuando el nivel de propiedad las exige. No sume ingreso del K-1 encima de un W-2 que ya pagó las mismas ganancias.",
+    "example": {
+      "setting": "Anexo K-1 y el análisis de propiedad de la sociedad o la corporación S",
+      "text": "Un K-1 de muestra puede mostrar una asignación de ingreso ordinario de ejemplo de $40,000 a un dueño del 15 por ciento. Si se exigen las declaraciones del negocio depende del tema vigente. Cifras de ejemplo."
+    }
+  }
+}

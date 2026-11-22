@@ -1,0 +1,36 @@
+{
+  "slug": "cd-waiting-period-resets",
+  "term": "Closing Disclosure waiting-period reset",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Only three changes require a new three-business-day wait after a Closing Disclosure: the APR becomes inaccurate under the regulation, the loan product changes, or a prepayment penalty is added. Other corrections can require a new Closing Disclosure without restarting the wait. Not every fee change resets the clock.",
+  "details": "12 CFR 1026.19(f)(2)(ii) lists those three events. APR accuracy is measured under 12 CFR 1026.22. A product change means the product disclosed, such as from a fixed rate to an ARM, not a small pricing tweak. Adding a prepayment penalty is the third event. A tolerance cure is handled under the cure provision and does not, by itself, reset the wait.",
+  "complianceNotes": "Before you postpone a closing, identify which of the three events occurred. If none did, correct the form on the schedule the section allows and keep the original consummation date if the consumer already had the three days.",
+  "example": {
+    "setting": "Corrected Closing Disclosure and a new three-business-day count, only if a reset event occurred",
+    "text": "A sample APR that moves from an example 6.61 percent to 6.90 percent might become inaccurate and reset the wait. Whether it is inaccurate is the test in 1026.22. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-22"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "closing-disclosure",
+    "prepayment-penalty",
+    "three-business-day-rule",
+    "tolerance-cure"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reinicio de la espera de la Divulgación del cierre",
+    "aliases": [],
+    "definition": "Solo tres cambios exigen una nueva espera de tres días hábiles después de una Divulgación del cierre: la tasa porcentual anual se vuelve inexacta según el reglamento, cambia el producto del préstamo o se agrega una penalidad por pago anticipado. Otras correcciones pueden exigir una nueva Divulgación del cierre sin reiniciar la espera. No todo cambio de un cargo reinicia el reloj.",
+    "details": "12 CFR 1026.19(f)(2)(ii) enumera esos tres eventos. La exactitud de la tasa porcentual anual se mide según 12 CFR 1026.22. Un cambio de producto significa el producto divulgado, como pasar de una tasa fija a una ARM, no un ajuste pequeño de precio. Agregar una penalidad por pago anticipado es el tercer evento. Una corrección de tolerancia se maneja según la disposición de corrección y no reinicia la espera por sí sola.",
+    "complianceNotes": "Antes de posponer un cierre, identifique cuál de los tres eventos ocurrió. Si ninguno ocurrió, corrija el formulario en el calendario que permite la sección y conserve la fecha original de consumación si el consumidor ya tuvo los tres días.",
+    "example": {
+      "setting": "Divulgación del cierre corregida y un nuevo conteo de tres días hábiles, solo si ocurrió un evento de reinicio",
+      "text": "Una tasa porcentual anual de muestra que pasa de un ejemplo del 6.61 por ciento al 6.90 por ciento podría volverse inexacta y reiniciar la espera. Si es inexacta es la prueba de 1026.22. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "fcra",
+  "term": "Fair Credit Reporting Act",
+  "aliases": [
+    "Fair Credit Reporting Act",
+    "FCRA"
+  ],
+  "category": "compliance",
+  "definition": "The Fair Credit Reporting Act governs consumer reports. A lender may pull a mortgage credit report only for a permissible purpose, and if the report leads to a denial or other adverse action, the lender must give the disclosures the Act requires, including the score and the agency in the situations the statute lists.",
+  "details": "The statute begins at 15 USC 1681. Permissible purposes are in 15 USC 1681b. Duties of users who take adverse action are in 15 USC 1681m. Regulation V, 12 CFR Part 1022, includes the risk-based pricing notice. A permissible purpose for a credit transaction is not permission to pull a report on a person who is only a reference.",
+  "complianceNotes": "Document the purpose before the pull. If you deny based on the report, include the FCRA content in the adverse-action notice, not only the ECOA reasons. Do not pull a spouse's report without a purpose.",
+  "example": {
+    "setting": "Credit-report pull and any adverse-action notice that cites the consumer-reporting agency",
+    "text": "A sample credit invoice might show an example $32 tri-merge fee tied to a permissible-purpose pull on an applicant. Example figures."
+  },
+  "citations": [
+    "usc-15-1681",
+    "usc-15-1681b",
+    "usc-15-1681m"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "credit-score",
+    "permissible-purpose",
+    "red-flags-rule",
+    "regulation-v",
+    "risk-based-pricing-notice",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley de Informes de Crédito Justos",
+    "aliases": [],
+    "definition": "La Ley de Informes de Crédito Justos rige los informes del consumidor. Un prestamista puede obtener un informe de crédito hipotecario solo con un propósito permitido, y si el informe lleva a una denegación u otra acción adversa, el prestamista debe dar las divulgaciones que la ley exige, incluido el puntaje y la agencia en las situaciones que enumera la ley.",
+    "details": "La ley empieza en 15 USC 1681. Los propósitos permitidos están en 15 USC 1681b. Los deberes de los usuarios que toman una acción adversa están en 15 USC 1681m. El Reglamento V, 12 CFR Parte 1022, incluye el aviso de precio basado en el riesgo. Un propósito permitido para una transacción de crédito no es permiso para obtener un informe de una persona que es solo una referencia.",
+    "complianceNotes": "Documente el propósito antes de obtener el informe. Si niega con base en el informe, incluya el contenido de la FCRA en el aviso de acción adversa, no solo las razones de ECOA. No obtenga el informe de un cónyuge sin un propósito.",
+    "example": {
+      "setting": "Obtención del informe de crédito y cualquier aviso de acción adversa que cita a la agencia de informes del consumidor",
+      "text": "Una factura de crédito de muestra puede mostrar un cargo de ejemplo de $32 por un informe de tres agencias ligado a una obtención con propósito permitido de un solicitante. Cifras de ejemplo."
+    }
+  }
+}

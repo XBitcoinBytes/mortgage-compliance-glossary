@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-an-escrow-account",
+  "term": "What is an escrow account?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "An escrow account is money the servicer holds to pay your property taxes and insurance. Part of each mortgage payment goes into it. It is not your down payment and not earnest money. The servicer sends you an analysis each year.",
+  "details": "12 CFR 1024.17 limits the cushion to one-sixth of the estimated annual disbursements, about two months, and requires the annual analysis. The Loan Estimate says whether the loan will have an escrow account. Some higher-priced loans must have one. If there is no escrow, you still have to pay the taxes and insurance yourself.",
+  "complianceNotes": "Set the account from real bills. Explain that the payment can change after the annual analysis even if the note rate is fixed.",
+  "example": {
+    "setting": "Loan Estimate page 1 escrow indicator and the monthly escrow portion of the payment",
+    "text": "A sample payment might include an example escrow of $390 for taxes and insurance. Example figures."
+  },
+  "citations": [
+    "reg-1024-17",
+    "reg-1026-37"
+  ],
+  "related": [
+    "escrow-account",
+    "escrow-analysis",
+    "escrow-cushion",
+    "homeowners-insurance",
+    "initial-escrow-payment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una cuenta de depósito en garantía?",
+    "aliases": [],
+    "definition": "Una cuenta de depósito en garantía es dinero que el administrador guarda para pagar sus impuestos de la propiedad y el seguro. Parte de cada pago hipotecario entra en ella. No es su pago inicial ni el dinero de arras. El administrador le envía un análisis cada año.",
+    "details": "12 CFR 1024.17 limita el colchón a un sexto de los desembolsos anuales estimados, cerca de dos meses, y exige el análisis anual. La Estimación del préstamo dice si el préstamo tendrá una cuenta de depósito en garantía. Algunos préstamos de precio más alto deben tener una. Si no hay depósito en garantía, usted igual tiene que pagar los impuestos y el seguro por su cuenta.",
+    "complianceNotes": "Establezca la cuenta a partir de facturas reales. Explique que el pago puede cambiar después del análisis anual aunque la tasa del pagaré sea fija.",
+    "example": {
+      "setting": "Indicador de depósito en garantía en la página 1 de la Estimación del préstamo y la parte mensual del pago",
+      "text": "Un pago de muestra podría incluir un depósito en garantía de ejemplo de $390 para impuestos y seguro. Cifras de ejemplo."
+    }
+  }
+}

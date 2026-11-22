@@ -1,0 +1,35 @@
+{
+  "slug": "survey",
+  "term": "Survey",
+  "aliases": [],
+  "category": "closing",
+  "definition": "A survey is a measurement of the property's boundaries and the location of improvements. Lenders and title companies use it to see encroachments and easements. It is not an appraisal and not a home inspection.",
+  "details": "If the lender requires a survey and lets the consumer shop, the fee is a Section C charge under 12 CFR 1026.37 and the tolerance depends on the provider list. Some title policies insure without a new survey and take exception to matters a survey would show. State practice varies. There is no federal requirement that every purchase include a survey.",
+  "complianceNotes": "Order the survey early if title or the lender requires it. Do not describe it to the borrower as the appraisal. Put the fee in the correct TRID section.",
+  "example": {
+    "setting": "Survey invoice, often a shoppable service in Section C, and the title exceptions it clears",
+    "text": "A sample survey fee might be an example $475 in Section C. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-37"
+  ],
+  "related": [
+    "appraisal",
+    "closing-costs",
+    "services-you-can-shop-for",
+    "title-commitment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Estudio de mensura",
+    "aliases": [],
+    "definition": "Un estudio de mensura es una medición de los linderos de la propiedad y de la ubicación de las mejoras. Los prestamistas y las compañías de título lo usan para ver invasiones y servidumbres. No es una tasación y no es una inspección de la casa.",
+    "details": "Si el prestamista exige un estudio y deja que el consumidor compare, el cargo es un cargo de la Sección C según 12 CFR 1026.37 y la tolerancia depende de la lista de proveedores. Algunas pólizas de título aseguran sin un estudio nuevo y toman excepción a los asuntos que un estudio mostraría. La práctica estatal varía. No hay un requisito federal de que toda compra incluya un estudio.",
+    "complianceNotes": "Pida el estudio temprano si el título o el prestamista lo exige. No se lo describa al prestatario como la tasación. Ponga el cargo en la sección correcta de TRID.",
+    "example": {
+      "setting": "Factura del estudio, a menudo un servicio comparable en la Sección C, y las excepciones de título que aclara",
+      "text": "Un cargo de estudio de muestra podría ser un ejemplo de $475 en la Sección C. Cifras de ejemplo."
+    }
+  }
+}

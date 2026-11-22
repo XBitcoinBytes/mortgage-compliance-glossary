@@ -1,0 +1,37 @@
+{
+  "slug": "schedule-c",
+  "term": "Schedule C income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Schedule C is the IRS form a sole proprietor uses to report business profit or loss on the personal tax return. Lenders start the self-employment calculation there. Deposits in the business account are not a substitute for the Schedule C.",
+  "details": "Fannie Mae section B3-3.5 explains which Schedule C lines are income and which expenses may be added back, such as depreciation, when the section allows it. A loss reduces qualifying income. The transcript from Form 4506-C should support the return. A year-to-date profit-and-loss statement does not replace the return unless the guide's exception is met.",
+  "complianceNotes": "Use both years when the guide requires a history, and analyze a decline. Do not add back an expense the section does not list. Compare the transcript before clear to close.",
+  "example": {
+    "setting": "Form 1040 Schedule C and the self-employment cash-flow worksheet",
+    "text": "A sample Schedule C might show example net profit of $52,000 before the guide's add-backs. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-5"
+  ],
+  "related": [
+    "form-4506-c",
+    "income-calculator",
+    "rental-income",
+    "schedule-k-1",
+    "self-employment-income",
+    "stable-income",
+    "tax-returns"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Anexo C",
+    "aliases": [],
+    "definition": "El Anexo C es el formulario del IRS que un empresario individual usa para reportar la ganancia o la pérdida del negocio en la declaración personal. Los prestamistas empiezan el cálculo del trabajo por cuenta propia allí. Los depósitos en la cuenta del negocio no sustituyen al Anexo C.",
+    "details": "La sección B3-3.5 de Fannie Mae explica qué líneas del Anexo C son ingreso y qué gastos pueden reincorporarse, como la depreciación, cuando la sección lo permite. Una pérdida reduce el ingreso de calificación. La transcripción del Formulario 4506-C debe respaldar la declaración. Un estado de resultados del año a la fecha no reemplaza la declaración, salvo que se cumpla la excepción de la guía.",
+    "complianceNotes": "Use ambos años cuando la guía exige un historial, y analice una baja. No reincorpore un gasto que la sección no enumera. Compare la transcripción antes de autorizar el cierre.",
+    "example": {
+      "setting": "Formulario 1040 Anexo C y la hoja de flujo de efectivo del trabajo por cuenta propia",
+      "text": "Un Anexo C de muestra puede mostrar una ganancia neta de ejemplo de $52,000 antes de las reincorporaciones de la guía. Cifras de ejemplo."
+    }
+  }
+}

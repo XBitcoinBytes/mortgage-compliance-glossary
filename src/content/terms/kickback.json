@@ -1,0 +1,36 @@
+{
+  "slug": "kickback",
+  "term": "Kickback",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A kickback, in mortgage compliance, is a thing of value given or received for referring settlement-service business. It is illegal under RESPA Section 8 even when the borrower still got a loan and even when the fee was disclosed. The word covers cash, gifts, free rent, and other benefits.",
+  "details": "12 CFR 1024.14 and 12 USC 2607 are the authorities. The violation is the exchange for the referral, not a particular job title. A bona fide salary for an employee who does not refer business in exchange for extra pay is different. This glossary does not describe structures that try to hide a referral payment inside a marketing invoice.",
+  "complianceNotes": "Refuse payments tied to the number of referrals. Escalate a proposed marketing deal to compliance before it is signed. Keep the analysis of what service, if any, was actually performed.",
+  "example": {
+    "setting": "Payment or benefit given for referring settlement-service business",
+    "text": "A sample benefit of an example $1,000 sponsorship paid only when loans close would be treated as a referral payment. Example figures of what not to do."
+  },
+  "citations": [
+    "reg-1024-14",
+    "usc-12-2607"
+  ],
+  "related": [
+    "affiliated-business-arrangement",
+    "marketing-services-agreement",
+    "respa-section-8",
+    "settlement-service",
+    "thing-of-value"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Comisión por referencia",
+    "aliases": [],
+    "definition": "Una comisión por referencia, en el cumplimiento hipotecario, es una cosa de valor dada o recibida por referir un negocio de servicios de liquidación. Es ilegal según la Sección 8 de RESPA aunque el prestatario igual obtuvo un préstamo y aunque el cargo se divulgó. La palabra cubre efectivo, regalos, renta gratis y otros beneficios.",
+    "details": "12 CFR 1024.14 y 12 USC 2607 son las autoridades. La violación es el intercambio por la referencia, no un título de puesto particular. Un salario de buena fe para un empleado que no refiere negocios a cambio de un pago extra es distinto. Este glosario no describe estructuras que intentan ocultar un pago por referencia dentro de una factura de mercadeo.",
+    "complianceNotes": "Rechace los pagos ligados al número de referencias. Escale un acuerdo de mercadeo propuesto a cumplimiento antes de firmarlo. Conserve el análisis de qué servicio, si alguno, se prestó de verdad.",
+    "example": {
+      "setting": "Pago o beneficio dado por referir un negocio de servicios de liquidación",
+      "text": "Un beneficio de muestra de un patrocinio de ejemplo de $1,000 pagado solo cuando los préstamos cierran se trataría como un pago por referencia. Cifras de ejemplo de lo que no se debe hacer."
+    }
+  }
+}

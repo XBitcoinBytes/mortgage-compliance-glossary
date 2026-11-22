@@ -1,0 +1,50 @@
+{
+  "slug": "loss-mitigation",
+  "term": "Loss mitigation",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Loss mitigation is the set of options that can avoid foreclosure, such as a forbearance, a repayment plan, a modification, or a short sale. The procedure for reviewing an application is federal. The offer you actually get depends on the investor, which may be Fannie Mae, Freddie Mac, FHA, VA, USDA, or a private owner.",
+  "details": "12 CFR 1024.41 sets the application, acknowledgment, evaluation, and appeal framework, and it limits foreclosure steps while a complete application is being reviewed. It does not require a particular modification. The investor's guide states the waterfall. A servicer that offers an option the investor did not authorize, or that ignores a complete application, has two different problems.",
+  "complianceNotes": "Acknowledge and evaluate on the section's timeline. Do not dual-track a foreclosure against a complete application. Tell the borrower which investor's program was reviewed.",
+  "example": {
+    "setting": "Loss-mitigation application and the investor's waterfall, evaluated under Regulation X timing",
+    "text": "A sample review might offer a repayment plan of an example extra $150 a month, or deny it and send the reasons 1024.41 requires. Example figures."
+  },
+  "citations": [
+    "reg-1024-41"
+  ],
+  "related": [
+    "continuity-of-contact",
+    "deed-in-lieu",
+    "delinquency-foreclosure-wait",
+    "dual-tracking",
+    "early-intervention",
+    "faq-what-if-i-cannot-pay",
+    "faq-what-is-forbearance",
+    "forbearance",
+    "foreclosure",
+    "loan-modification",
+    "loss-mitigation-application",
+    "mortgage-servicer",
+    "partial-claim",
+    "payment-deferral",
+    "regulation-x",
+    "reinstatement",
+    "repayment-plan",
+    "short-sale",
+    "small-servicer",
+    "successor-in-interest"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Mitigación de pérdidas",
+    "aliases": [],
+    "definition": "La mitigación de pérdidas es el conjunto de opciones que pueden evitar la ejecución hipotecaria, como una indulgencia, un plan de pago, una modificación o una venta en corto. El procedimiento para revisar una solicitud es federal. La oferta que usted de verdad recibe depende del inversionista, que puede ser Fannie Mae, Freddie Mac, la FHA, VA, USDA o un dueño privado.",
+    "details": "12 CFR 1024.41 fija el marco de la solicitud, el acuse, la evaluación y la apelación, y limita los pasos de ejecución hipotecaria mientras se revisa una solicitud completa. No exige una modificación particular. La guía del inversionista establece la cascada. Un administrador que ofrece una opción que el inversionista no autorizó, o que ignora una solicitud completa, tiene dos problemas distintos.",
+    "complianceNotes": "Acuse y evalúe en el plazo de la sección. No lleve en paralelo una ejecución hipotecaria contra una solicitud completa. Dígale al prestatario qué programa del inversionista se revisó.",
+    "example": {
+      "setting": "Solicitud de mitigación de pérdidas y la cascada del inversionista, evaluada según los plazos del Reglamento X",
+      "text": "Una revisión de muestra podría ofrecer un plan de pago de un extra de ejemplo de $150 al mes, o negarlo y enviar las razones que exige 1024.41. Cifras de ejemplo."
+    }
+  }
+}

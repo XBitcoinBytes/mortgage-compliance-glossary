@@ -1,0 +1,35 @@
+{
+  "slug": "faq-can-i-use-gift-funds",
+  "term": "Can I use gift money for the down payment?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "You can often use a gift for the down payment or closing costs if the donor is someone the guide accepts, usually a relative, and if you document the gift. The money must be a gift, not a loan. Investment-property purchases generally cannot use gift funds for the down payment.",
+  "details": "Fannie Mae B3-4.3-04 states acceptable donors, the gift letter, and proof the funds were transferred. A minimum borrower contribution can still be required at higher loan-to-value ratios. The donor's bank statement may be needed to source a large deposit. Cash handed over without a paper trail is not acceptable.",
+  "complianceNotes": "Get the letter and the transfer record before closing. Do not accept a gift the borrower must repay. Do not use gift funds on an investment property for the borrower's contribution.",
+  "example": {
+    "setting": "Gift letter and the donor's transfer into the borrower's account",
+    "text": "A sample gift letter might document an example $15,000 gift from a parent. Example figures."
+  },
+  "citations": [
+    "fannie-b3-4-3-04"
+  ],
+  "related": [
+    "down-payment",
+    "gift-funds",
+    "gift-letter",
+    "investment-property",
+    "source-of-funds"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Puedo usar dinero de regalo para el pago inicial?",
+    "aliases": [],
+    "definition": "Usted a menudo puede usar un regalo para el pago inicial o los costos de cierre si el donante es alguien que la guía acepta, por lo general un familiar, y si usted documenta el regalo. El dinero debe ser un regalo, no un préstamo. Las compras de propiedades de inversión por lo general no pueden usar fondos de regalo para el pago inicial.",
+    "details": "Fannie Mae B3-4.3-04 establece los donantes aceptables, la carta de regalo y la prueba de que los fondos se transfirieron. Igual puede exigirse una aportación mínima del prestatario en relaciones préstamo-valor más altas. Puede necesitarse el estado de cuenta del donante para documentar el origen de un depósito grande. El efectivo entregado sin un rastro de papeles no es aceptable.",
+    "complianceNotes": "Obtenga la carta y el registro de la transferencia antes del cierre. No acepte un regalo que el prestatario debe devolver. No use fondos de regalo en una propiedad de inversión para la aportación del prestatario.",
+    "example": {
+      "setting": "Carta de regalo y la transferencia del donante a la cuenta del prestatario",
+      "text": "Una carta de regalo de muestra podría documentar un regalo de ejemplo de $15,000 de un padre. Cifras de ejemplo."
+    }
+  }
+}

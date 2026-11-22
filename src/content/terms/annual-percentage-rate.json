@@ -1,0 +1,50 @@
+{
+  "slug": "annual-percentage-rate",
+  "term": "Annual percentage rate",
+  "aliases": [
+    "APR"
+  ],
+  "category": "compliance",
+  "definition": "The annual percentage rate, or APR, is the cost of the loan expressed as a yearly rate. It includes the interest rate and certain finance charges, such as points. It is almost always higher than the note rate. It is not the rate in your promissory note and it is not the payment.",
+  "details": "12 CFR 1026.22 states how the APR is determined. The Closing Disclosure shows it in the loan calculations under 12 CFR 1026.38. An APR that becomes inaccurate is one of the three events that can reset the three-business-day Closing Disclosure wait under 12 CFR 1026.19(f)(2). The APR is also the rate used in the higher-priced and high-cost tests. A tolerance for accuracy is in the regulation. Do not invent one.",
+  "complianceNotes": "Recalculate the APR when points, lender credits, or the rate change. Compare it with the note rate before you explain the form to the borrower. If the APR moves past the accuracy tolerance, restart the Closing Disclosure wait.",
+  "example": {
+    "setting": "Loan Estimate, page 3, Comparisons, APR; Closing Disclosure, page 5, Loan Calculations",
+    "text": "A sample Loan Estimate might show a note rate of 6.500 percent and an APR of 6.712 percent on an example $300,000 loan with points. Example figures."
+  },
+  "citations": [
+    "reg-1026-22",
+    "reg-1026-38",
+    "cfpb-cd"
+  ],
+  "related": [
+    "amount-financed",
+    "bona-fide-discount-point",
+    "cd-waiting-period-resets",
+    "comparisons-table",
+    "discount-points",
+    "faq-apr-vs-interest-rate",
+    "finance-charge",
+    "higher-priced-mortgage-loan",
+    "hoepa",
+    "loan-calculations",
+    "mortgage-advertising",
+    "note-rate",
+    "qm-safe-harbor",
+    "tila",
+    "total-interest-percentage",
+    "trigger-terms"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tasa porcentual anual",
+    "aliases": [],
+    "definition": "La tasa porcentual anual, o APR, es el costo del préstamo expresado como una tasa anual. Incluye la tasa de interés y ciertos cargos por financiamiento, como los puntos. Casi siempre es más alta que la tasa del pagaré. No es la tasa de su pagaré y no es el pago.",
+    "details": "12 CFR 1026.22 establece cómo se determina la tasa porcentual anual. La Divulgación del cierre la muestra en los cálculos del préstamo según 12 CFR 1026.38. Una tasa porcentual anual que se vuelve inexacta es uno de los tres eventos que pueden reiniciar la espera de tres días hábiles de la Divulgación del cierre según 12 CFR 1026.19(f)(2). La tasa porcentual anual también es la tasa usada en las pruebas de precio más alto y de alto costo. Una tolerancia de exactitud está en el reglamento. No invente una.",
+    "complianceNotes": "Recalcule la tasa porcentual anual cuando cambian los puntos, los créditos del prestamista o la tasa. Compárela con la tasa del pagaré antes de explicar el formulario al prestatario. Si la tasa porcentual anual se mueve más allá de la tolerancia de exactitud, reinicie la espera de la Divulgación del cierre.",
+    "example": {
+      "setting": "Estimación del préstamo, página 3, Comparaciones, APR; Divulgación del cierre, página 5, Cálculos del préstamo",
+      "text": "Una Estimación del préstamo de muestra puede mostrar una tasa del pagaré del 6.500 por ciento y una tasa porcentual anual del 6.712 por ciento en un préstamo de ejemplo de $300,000 con puntos. Cifras de ejemplo."
+    }
+  }
+}

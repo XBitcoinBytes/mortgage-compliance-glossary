@@ -1,0 +1,38 @@
+{
+  "slug": "respa",
+  "term": "RESPA",
+  "aliases": [
+    "Real Estate Settlement Procedures Act"
+  ],
+  "category": "compliance",
+  "definition": "RESPA is the Real Estate Settlement Procedures Act. It covers settlement services on many home mortgages, including the ban on kickbacks, affiliated-business disclosures, escrow accounts, and mortgage servicing. The disclosure forms for most closed-end loans moved to Regulation Z, but RESPA did not go away.",
+  "details": "The statute starts at 12 USC 2601. Section 8, 12 USC 2607, is the kickback prohibition. Regulation X, 12 CFR Part 1024, implements RESPA. Subpart C of Regulation X is the servicing rule: transfers, errors, information requests, force-placed insurance, and loss mitigation. Escrow accounting is 12 CFR 1024.17.",
+  "complianceNotes": "Do not look in RESPA for the APR or the right to cancel. Do not look in TILA for whether a marketing payment is a kickback. Use the statute that matches the conduct.",
+  "example": {
+    "setting": "Settlement-service charges on the Loan Estimate, and the servicing file governed by RESPA",
+    "text": "A sample servicing file might show an annual escrow analysis required by Regulation X on an example account with a $200 surplus. Example figures."
+  },
+  "citations": [
+    "usc-12-2601",
+    "reg-1024"
+  ],
+  "related": [
+    "escrow-account",
+    "mortgage-servicer",
+    "regulation-x",
+    "respa-section-8",
+    "trid"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "RESPA",
+    "aliases": [],
+    "definition": "RESPA es la Ley de Procedimientos de Liquidación de Bienes Raíces. Cubre los servicios de liquidación en muchas hipotecas de vivienda, incluida la prohibición de comisiones, las divulgaciones de negocios afiliados, las cuentas de depósito en garantía y la administración hipotecaria. Los formularios de divulgación de la mayoría de los préstamos de crédito cerrado pasaron al Reglamento Z, pero RESPA no desapareció.",
+    "details": "La ley empieza en 12 USC 2601. La Sección 8, 12 USC 2607, es la prohibición de comisiones. El Reglamento X, 12 CFR Parte 1024, aplica RESPA. El subparte C del Reglamento X es la regla de administración: transferencias, errores, pedidos de información, seguro impuesto y mitigación de pérdidas. La contabilidad del depósito en garantía es 12 CFR 1024.17.",
+    "complianceNotes": "No busque en RESPA la tasa porcentual anual ni el derecho a cancelar. No busque en TILA si un pago de mercadeo es una comisión por referencia. Use la ley que corresponde a la conducta.",
+    "example": {
+      "setting": "Cargos por servicios de liquidación en la Estimación del préstamo, y el expediente de administración regido por RESPA",
+      "text": "Un expediente de administración de muestra puede mostrar un análisis anual del depósito en garantía exigido por el Reglamento X en una cuenta de ejemplo con un excedente de $200. Cifras de ejemplo."
+    }
+  }
+}

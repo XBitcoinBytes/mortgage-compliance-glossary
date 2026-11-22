@@ -1,0 +1,36 @@
+{
+  "slug": "multiple-financed-properties",
+  "term": "Multiple financed properties",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "If you already have other financed properties, the guide can limit how many you may have and can require extra reserves when the new loan is a second home or an investment property. The numeric cap and the reserve formula are in the Selling Guide and should be read there.",
+  "details": "Fannie Mae B3-4.1-01 includes the reserve calculation tied to the number of financed properties. The guide also states which properties count, including properties owned by certain entities. A primary residence the borrower is selling may be treated differently from one they are keeping. Do not quote a property-count cap from memory.",
+  "complianceNotes": "Complete the real-estate schedule and count every financed property the guide includes. Calculate additional reserves before you promise the rate. Resubmit DU if the count was wrong.",
+  "example": {
+    "setting": "Schedule of real estate owned and the reserve calculation for other financed properties",
+    "text": "A sample borrower with an example four other financed properties might owe additional reserves under the current formula. The count is an example figure, not the cap. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "fannie-b3-4-1-01",
+    "fannie-guide"
+  ],
+  "related": [
+    "investment-property",
+    "pitia",
+    "rental-income",
+    "reserves",
+    "second-home"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Varias propiedades financiadas",
+    "aliases": [],
+    "definition": "Si usted ya tiene otras propiedades financiadas, la guía puede limitar cuántas puede tener y puede exigir reservas extra cuando el nuevo préstamo es una segunda vivienda o una propiedad de inversión. El límite numérico y la fórmula de reservas están en la Selling Guide y deben leerse allí.",
+    "details": "Fannie Mae B3-4.1-01 incluye el cálculo de reservas ligado al número de propiedades financiadas. La guía también indica qué propiedades cuentan, incluidas propiedades de ciertas entidades. Una residencia principal que el prestatario está vendiendo puede tratarse de modo distinto a una que conserva. No cite de memoria un límite de número de propiedades.",
+    "complianceNotes": "Complete la lista de inmuebles y cuente cada propiedad financiada que la guía incluye. Calcule las reservas adicionales antes de prometer la tasa. Vuelva a enviar a DU si el conteo estaba mal.",
+    "example": {
+      "setting": "Lista de inmuebles en propiedad y el cálculo de reservas para otras propiedades financiadas",
+      "text": "Un prestatario de muestra con cuatro otras propiedades financiadas de ejemplo podría deber reservas adicionales según la fórmula vigente. El conteo es una cifra de ejemplo, no el límite. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "du-validation-service",
+  "term": "DU validation service",
+  "aliases": [
+    "Day 1 Certainty"
+  ],
+  "category": "underwriting",
+  "definition": "The DU validation service lets Fannie Mae electronically validate income, employment, or assets so some paper documents are not required. The market has called this Day 1 Certainty. Validation is optional, message by message. If the message is not present, the full documents are still required.",
+  "details": "Selling Guide B3-2-02 describes the service and the reports that may be used. A validation message lists what was validated and what documentation is no longer required. It does not validate a different employer or a later pay change. If employment changes or the report expires under the section, the lender falls back to standard documentation.",
+  "complianceNotes": "Print the validation message and follow it exactly. Do not skip a W-2 because a different file was validated. Revalidate or collect paper if the close is outside the message's window.",
+  "example": {
+    "setting": "DU findings, validation messages that replace listed documents",
+    "text": "A sample message might validate example base income of $5,200 a month and waive the pay stubs that message lists. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-02"
+  ],
+  "related": [
+    "bank-statements",
+    "desktop-underwriter",
+    "pay-stub",
+    "verification-of-employment",
+    "verification-of-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Servicio de validación de DU",
+    "aliases": [],
+    "definition": "El servicio de validación de DU permite que Fannie Mae valide electrónicamente ingresos, empleo o activos para que algunos documentos en papel no se exijan. El mercado lo ha llamado Day 1 Certainty. La validación es opcional, mensaje por mensaje. Si el mensaje no está, los documentos completos igual se exigen.",
+    "details": "La Selling Guide B3-2-02 describe el servicio y los informes que pueden usarse. Un mensaje de validación enumera qué se validó y qué documentación ya no se exige. No valida un empleador distinto ni un cambio de pago posterior. Si el empleo cambia o el informe vence según la sección, el prestamista vuelve a la documentación estándar.",
+    "complianceNotes": "Imprima el mensaje de validación y sígalo exactamente. No omita un W-2 porque otro expediente fue validado. Vuelva a validar o recoja papel si el cierre queda fuera de la ventana del mensaje.",
+    "example": {
+      "setting": "Hallazgos de DU, mensajes de validación que reemplazan documentos listados",
+      "text": "Un mensaje de muestra puede validar un ingreso base de ejemplo de $5,200 al mes y dispensar los talones de pago que ese mensaje enumera. Cifras de ejemplo."
+    }
+  }
+}

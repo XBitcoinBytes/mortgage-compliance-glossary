@@ -1,0 +1,38 @@
+{
+  "slug": "fixed-rate-mortgage",
+  "term": "Fixed-rate mortgage",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A fixed-rate mortgage keeps the same note rate for the full term. The principal and interest payment does not change because of an index. The total monthly payment can still change if taxes, insurance, or mortgage insurance change.",
+  "details": "The Loan Estimate identifies a fixed-rate product under 12 CFR 1026.37. There is no ARM adjustment notice. The qualifying payment is generally the note payment plus taxes, insurance, and mortgage insurance. A temporary buydown can make the early payment lower than the note payment. That subsidy is not a fixed rate at the reduced level.",
+  "complianceNotes": "Disclose fixed rate only if the note rate cannot change. Explain that escrow can still move the total payment. Do not call a hybrid ARM fixed because the first years do not adjust.",
+  "example": {
+    "setting": "Loan Estimate, page 1, product described as fixed rate",
+    "text": "A sample 30-year fixed note at an example 6.25 percent would keep that rate for the term. Example figures."
+  },
+  "citations": [
+    "reg-1026-37"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "faq-what-is-an-arm",
+    "hybrid-arm",
+    "loan-estimate",
+    "note-rate",
+    "pitia",
+    "qualifying-rate",
+    "temporary-buydown"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca de tasa fija",
+    "aliases": [],
+    "definition": "Una hipoteca de tasa fija mantiene la misma tasa del pagaré por todo el plazo. El pago de capital e interés no cambia por un índice. El pago mensual total igual puede cambiar si cambian los impuestos, el seguro o el seguro hipotecario.",
+    "details": "La Estimación del préstamo identifica un producto de tasa fija según 12 CFR 1026.37. No hay aviso de ajuste de ARM. El pago de calificación por lo general es el pago del pagaré más impuestos, seguro y seguro hipotecario. Una reducción temporal puede hacer que el pago inicial sea menor que el pago del pagaré. Ese subsidio no es una tasa fija al nivel reducido.",
+    "complianceNotes": "Divulgue tasa fija solo si la tasa del pagaré no puede cambiar. Explique que el depósito en garantía igual puede mover el pago total. No llame fija a una ARM híbrida porque los primeros años no se ajustan.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, producto descrito como tasa fija",
+      "text": "Un pagaré fijo a 30 años de muestra a un ejemplo del 6.25 por ciento mantendría esa tasa por el plazo. Cifras de ejemplo."
+    }
+  }
+}

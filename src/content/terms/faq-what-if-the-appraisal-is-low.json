@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-if-the-appraisal-is-low",
+  "term": "What if the appraisal is lower than the price?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "If the appraisal is lower than the price, the lender bases the loan on the lower value. You may pay the difference in cash, renegotiate the price, or, if the contract allows, cancel. The lender does not have to lend the original amount.",
+  "details": "Loan-to-value under the Fannie Mae guide uses the lower of price or appraised value on a purchase. A reconsideration of value is a request to look at additional comparable sales. It is not an instruction to hit the contract price. Appraisal independence still applies. The contract's appraisal contingency, if you have one, is what lets you walk away.",
+  "complianceNotes": "Tell the borrower the new loan amount and the extra cash, and the contract deadline. Do not promise the value will be raised. Do not contact the appraiser with a target.",
+  "example": {
+    "setting": "Appraisal below the contract price, and the choices in the purchase contract",
+    "text": "A sample price of $400,000 and an example appraised value of $380,000 would leave a $20,000 gap if the loan stays at the same percentage. Example figures."
+  },
+  "citations": [
+    "fannie-b2-1-2-01",
+    "practice-file"
+  ],
+  "related": [
+    "appraisal",
+    "down-payment",
+    "loan-to-value-ratio",
+    "purchase-agreement",
+    "value-acceptance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué pasa si la tasación es menor que el precio?",
+    "aliases": [],
+    "definition": "Si la tasación es menor que el precio, el prestamista basa el préstamo en el valor menor. Usted puede pagar la diferencia en efectivo, renegociar el precio o, si el contrato lo permite, cancelar. El prestamista no tiene que prestar el monto original.",
+    "details": "La relación préstamo-valor según la guía de Fannie Mae usa el menor entre el precio y el valor de tasación en una compra. Una reconsideración del valor es un pedido de mirar ventas comparables adicionales. No es una instrucción de alcanzar el precio del contrato. La independencia de la tasación igual se aplica. La contingencia de tasación del contrato, si usted la tiene, es lo que le permite retirarse.",
+    "complianceNotes": "Dígale al prestatario el nuevo monto del préstamo y el efectivo extra, y el plazo del contrato. No prometa que el valor se subirá. No contacte al tasador con un objetivo.",
+    "example": {
+      "setting": "Tasación por debajo del precio del contrato, y las opciones del contrato de compra",
+      "text": "Un precio de muestra de $400,000 y un valor de tasación de ejemplo de $380,000 dejarían una brecha de $20,000 si el préstamo se mantiene en el mismo porcentaje. Cifras de ejemplo."
+    }
+  }
+}

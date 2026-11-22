@@ -1,0 +1,39 @@
+{
+  "slug": "regulation-x",
+  "term": "Regulation X",
+  "aliases": [
+    "Reg X",
+    "12 CFR 1024"
+  ],
+  "category": "compliance",
+  "definition": "Regulation X is the CFPB's RESPA regulation, 12 CFR Part 1024. It is the rule for kickbacks, affiliated business arrangements, escrow accounts, and the servicing standards that apply after the loan is sold or boarded.",
+  "details": "Key sections include 1024.14 on kickbacks, 1024.15 on affiliated businesses, 1024.17 on escrow, 1024.33 on transfers, 1024.35 and 1024.36 on errors and information requests, 1024.37 on force-placed insurance, and 1024.39 through 1024.41 on early intervention, contact, and loss mitigation. Small servicers have some exemptions defined elsewhere. Read the section before you assume an exemption.",
+  "complianceNotes": "Map each servicing complaint to a section: a payment dispute may be a notice of error, a request for a payoff history may be a request for information, and a foreclosure timeline question may be 1024.41. Do not answer all of them with one generic letter.",
+  "example": {
+    "setting": "Regulation X servicing and escrow procedures, 12 CFR Part 1024",
+    "text": "A sample error notice might challenge an example $75 late fee. The dollar amount is an example figure. The response clock is the one in 12 CFR 1024.35. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1024"
+  ],
+  "related": [
+    "cfpb",
+    "escrow-account",
+    "loss-mitigation",
+    "mortgage-servicer",
+    "respa",
+    "respa-section-8"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reglamento X",
+    "aliases": [],
+    "definition": "El Reglamento X es el reglamento de RESPA de la CFPB, 12 CFR Parte 1024. Es la regla de las comisiones, los arreglos de negocios afiliados, las cuentas de depósito en garantía y los estándares de administración que se aplican después de que el préstamo se vende o se transfiere.",
+    "details": "Las secciones clave incluyen 1024.14 sobre comisiones, 1024.15 sobre negocios afiliados, 1024.17 sobre depósito en garantía, 1024.33 sobre transferencias, 1024.35 y 1024.36 sobre errores y pedidos de información, 1024.37 sobre seguro impuesto, y 1024.39 a 1024.41 sobre intervención temprana, contacto y mitigación de pérdidas. Los administradores pequeños tienen algunas exenciones definidas en otro lugar. Lea la sección antes de suponer una exención.",
+    "complianceNotes": "Asigne cada queja de administración a una sección: una disputa de pago puede ser un aviso de error, un pedido del historial de liquidación puede ser un pedido de información, y una pregunta de plazo de ejecución hipotecaria puede ser 1024.41. No responda todas con una sola carta genérica.",
+    "example": {
+      "setting": "Procedimientos de administración y de depósito en garantía del Reglamento X, 12 CFR Parte 1024",
+      "text": "Un aviso de error de muestra puede cuestionar un cargo por mora de ejemplo de $75. El monto es una cifra de ejemplo. El plazo de respuesta es el de 12 CFR 1024.35. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

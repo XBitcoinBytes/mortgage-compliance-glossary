@@ -1,0 +1,39 @@
+{
+  "slug": "uniform-appraisal-dataset",
+  "term": "Uniform Appraisal Dataset",
+  "aliases": [
+    "UAD"
+  ],
+  "category": "underwriting",
+  "definition": "The Uniform Appraisal Dataset is the standard set of fields and definitions Fannie Mae and Freddie Mac require in appraisal data. It lets the agencies read appraisals in a consistent electronic format. It is not itself an appraisal.",
+  "details": "The dataset is part of the agencies' appraisal standards in their selling guides. Lenders submit the data through the Uniform Collateral Data Portal. Errors in the standardized fields can cause the submission to fail even when the narrative looks complete. The dataset does not replace appraisal independence or the decision to accept value.",
+  "complianceNotes": "Clear portal messages before delivery. Do not change a standardized field to force a value. Keep the successful submission report with the appraisal.",
+  "example": {
+    "setting": "Appraisal report, standardized data fields submitted with the form",
+    "text": "A sample portal rejection might flag a missing condition rating on an example appraisal of a $250,000 property. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "freddie-guide"
+  ],
+  "related": [
+    "appraisal",
+    "desktop-underwriter",
+    "uniform-collateral-data-portal",
+    "value-acceptance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Conjunto uniforme de datos de tasación",
+    "aliases": [
+      "UAD"
+    ],
+    "definition": "El Conjunto uniforme de datos de tasación es el conjunto estándar de campos y definiciones que Fannie Mae y Freddie Mac exigen en los datos de la tasación. Permite a las agencias leer las tasaciones en un formato electrónico consistente. No es en sí una tasación.",
+    "details": "El conjunto de datos es parte de los estándares de tasación de las agencias en sus guías de venta. Los prestamistas envían los datos por el Portal uniforme de datos de garantía. Los errores en los campos estandarizados pueden hacer que el envío falle aunque la narrativa parezca completa. El conjunto de datos no reemplaza la independencia de la tasación ni la decisión de aceptar el valor.",
+    "complianceNotes": "Resuelva los mensajes del portal antes de la entrega. No cambie un campo estandarizado para forzar un valor. Conserve el informe de envío exitoso con la tasación.",
+    "example": {
+      "setting": "Informe de tasación, campos de datos estandarizados enviados con el formulario",
+      "text": "Un rechazo de muestra del portal puede marcar una calificación de condición faltante en una tasación de ejemplo de una propiedad de $250,000. Cifras de ejemplo."
+    }
+  }
+}

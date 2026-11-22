@@ -1,0 +1,42 @@
+{
+  "slug": "higher-priced-mortgage-loan",
+  "term": "Higher-priced mortgage loan",
+  "aliases": [
+    "HPML"
+  ],
+  "category": "compliance",
+  "definition": "A higher-priced mortgage loan is a closed-end mortgage whose annual percentage rate exceeds the average prime offer rate by the margin Regulation Z sets. It is a price category. It is not, by itself, a high-cost HOEPA loan.",
+  "details": "12 CFR 1026.35(a) sets the spreads: generally 1.5 percentage points for a first lien, 2.5 percentage points for a jumbo first lien, and 3.5 percentage points for a subordinate lien. Those spreads are in the regulatory text and the definition has been amended, so confirm the current subsection. A higher-priced loan can trigger escrow and appraisal rules and, if it is also a qualified mortgage, a rebuttable presumption rather than a safe harbor.",
+  "complianceNotes": "Run the spread on the final APR. Do not confuse the test with HOEPA. If the loan is higher-priced, open the escrow and appraisal checklists.",
+  "example": {
+    "setting": "APR-to-APOR spread worksheet for the higher-priced test",
+    "text": "A sample first-lien APR might be compared with APOR on an example $260,000 loan. Whether 1.5 percentage points is the right spread depends on lien and loan size under the current 1026.35(a). Example figures for the loan amount."
+  },
+  "citations": [
+    "reg-1026-35"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "general-qualified-mortgage",
+    "high-cost-mortgage",
+    "hoepa",
+    "hpml-appraisal",
+    "hpml-escrow",
+    "qm-safe-harbor",
+    "rebuttable-presumption",
+    "small-creditor"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca de precio más alto",
+    "aliases": [],
+    "definition": "Una hipoteca de precio más alto es una hipoteca de crédito cerrado cuya tasa porcentual anual excede la tasa de oferta preferente promedio por el margen que fija el Reglamento Z. Es una categoría de precio. No es, por sí sola, un préstamo de alto costo de HOEPA.",
+    "details": "12 CFR 1026.35(a) fija los diferenciales: por lo general 1.5 puntos porcentuales para un primer gravamen, 2.5 puntos porcentuales para un primer gravamen jumbo y 3.5 puntos porcentuales para un gravamen subordinado. Esos diferenciales están en el texto del reglamento y la definición ha sido modificada, así que confirme la subsección vigente. Un préstamo de precio más alto puede activar reglas de depósito en garantía y de tasación y, si también es una hipoteca calificada, una presunción refutable en lugar de un puerto seguro.",
+    "complianceNotes": "Ejecute el diferencial sobre la tasa porcentual anual final. No confunda la prueba con HOEPA. Si el préstamo es de precio más alto, abra las listas de depósito en garantía y de tasación.",
+    "example": {
+      "setting": "Hoja del diferencial entre la tasa porcentual anual y el APOR para la prueba de precio más alto",
+      "text": "Una tasa porcentual anual de muestra de un primer gravamen podría compararse con el APOR en un préstamo de ejemplo de $260,000. Si 1.5 puntos porcentuales es el diferencial correcto depende del gravamen y del tamaño del préstamo según el 1026.35(a) vigente. Cifras de ejemplo para el monto del préstamo."
+    }
+  },
+  "reviewFlag": "Confirm the current APR spreads in 12 CFR 1026.35(a) before relying on the 1.5, 2.5, and 3.5 percentage-point figures in training materials."
+}

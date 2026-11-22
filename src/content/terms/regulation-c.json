@@ -1,0 +1,40 @@
+{
+  "slug": "regulation-c",
+  "term": "Regulation C",
+  "aliases": [
+    "Reg C",
+    "12 CFR 1003"
+  ],
+  "category": "compliance",
+  "definition": "Regulation C is the HMDA regulation, 12 CFR Part 1003. It tells a covered institution which applications and loans to report and which data fields to collect, including the demographic information used for monitoring.",
+  "details": "Section 1003.2 defines covered transactions. Section 1003.4 lists the data. Section 1003.5 states disclosure and reporting, including the annual submission schedule. Institutional coverage thresholds are in the regulation and have changed over time. Read the current section before you decide a lender is exempt. The data are not a credit decision.",
+  "complianceNotes": "Reconcile the LAR to the origination system before filing. Correct known errors. Do not let production staff use the demographic fields to set a rate.",
+  "example": {
+    "setting": "HMDA data collection under 12 CFR Part 1003",
+    "text": "A sample data field might show an example loan amount of $410,000 and an action taken of originated. Example figures."
+  },
+  "citations": [
+    "reg-1003",
+    "reg-1003-4",
+    "reg-1003-5"
+  ],
+  "related": [
+    "demographic-information",
+    "ecoa",
+    "fair-lending",
+    "hmda",
+    "hmda-lar"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reglamento C",
+    "aliases": [],
+    "definition": "El Reglamento C es el reglamento de HMDA, 12 CFR Parte 1003. Le dice a una institución cubierta qué solicitudes y préstamos reportar y qué campos de datos recopilar, incluida la información demográfica usada para el monitoreo.",
+    "details": "La sección 1003.2 define las transacciones cubiertas. La sección 1003.4 enumera los datos. La sección 1003.5 establece la divulgación y el reporte, incluido el calendario de presentación anual. Los umbrales de cobertura institucional están en el reglamento y han cambiado con el tiempo. Lea la sección vigente antes de decidir que un prestamista está exento. Los datos no son una decisión de crédito.",
+    "complianceNotes": "Concilie el registro con el sistema de originación antes de presentar. Corrija los errores conocidos. No deje que el personal de producción use los campos demográficos para fijar una tasa.",
+    "example": {
+      "setting": "Recopilación de datos de HMDA según 12 CFR Parte 1003",
+      "text": "Un campo de datos de muestra puede mostrar un monto de préstamo de ejemplo de $410,000 y una acción de originado. Cifras de ejemplo."
+    }
+  }
+}

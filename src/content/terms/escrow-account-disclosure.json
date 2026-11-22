@@ -1,0 +1,36 @@
+{
+  "slug": "escrow-account-disclosure",
+  "term": "Escrow account disclosure",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The Loan Estimate says whether your loan will have an escrow account for taxes and insurance. A separate initial escrow disclosure lists the charges the servicer expects to pay from that account in the first year. One is a TRID statement. The other is a RESPA escrow statement.",
+  "details": "12 CFR 1026.37 requires the Loan Estimate to state whether there will be an escrow account. 12 CFR 1024.17 requires the escrow accounting disclosures, including the initial statement. An HPML may be required to have an escrow under 12 CFR 1026.35. Waiving escrow when the rule requires one is not a borrower convenience.",
+  "complianceNotes": "Make the Loan Estimate escrow answer match the note and the initial escrow statement. Give the RESPA statement. Do not use the word escrow for earnest money and for taxes in the same sentence without explaining.",
+  "example": {
+    "setting": "Loan Estimate, page 1, projected payments and the escrow statement, and the initial escrow disclosure",
+    "text": "A sample Loan Estimate might show an example monthly escrow of $420 for taxes and insurance. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1024-17"
+  ],
+  "related": [
+    "escrow-account",
+    "escrow-waiver",
+    "hpml-escrow",
+    "initial-escrow-payment",
+    "loan-estimate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Divulgación de la cuenta de depósito en garantía",
+    "aliases": [],
+    "definition": "La Estimación del préstamo dice si su préstamo tendrá una cuenta de depósito en garantía para impuestos y seguro. Una divulgación inicial separada del depósito enumera los cargos que el administrador espera pagar desde esa cuenta en el primer año. Una es una declaración de TRID. La otra es una declaración de depósito en garantía de RESPA.",
+    "details": "12 CFR 1026.37 exige que la Estimación del préstamo indique si habrá una cuenta de depósito en garantía. 12 CFR 1024.17 exige las divulgaciones de contabilidad del depósito, incluida la declaración inicial. Una HPML puede estar obligada a tener un depósito en garantía según 12 CFR 1026.35. Renunciar al depósito cuando la regla exige uno no es una conveniencia del prestatario.",
+    "complianceNotes": "Haga que la respuesta sobre el depósito en garantía de la Estimación del préstamo coincida con el pagaré y con la declaración inicial del depósito. Dé la declaración de RESPA. No use la palabra depósito en garantía para el dinero de arras y para los impuestos en la misma frase sin explicar.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, pagos proyectados y la declaración de depósito en garantía, y la divulgación inicial del depósito",
+      "text": "Una Estimación del préstamo de muestra podría mostrar un depósito en garantía mensual de ejemplo de $420 para impuestos y seguro. Cifras de ejemplo."
+    }
+  }
+}

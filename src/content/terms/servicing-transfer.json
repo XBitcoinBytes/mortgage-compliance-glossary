@@ -1,0 +1,36 @@
+{
+  "slug": "servicing-transfer",
+  "term": "Servicing transfer",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A servicing transfer moves the right to collect your payments from one servicer to another. Your loan terms do not change because the servicer changes. You should receive notices from the old servicer and the new one. For a period the rule specifies, a payment sent to the old servicer on time cannot be treated as late.",
+  "details": "12 CFR 1024.33 requires the notices and the payment protection. The exact day counts for the notices and for the protection are in that section. This entry does not restate them, so the file is checked against the current text. The new servicer must also honor pending loss-mitigation information as the section and 1024.41 require.",
+  "complianceNotes": "Send notices on the section's schedule and apply on-time payments made to the old servicer during the protected period. Do not charge a late fee for those payments. Transfer the escrow balance and any pending application.",
+  "example": {
+    "setting": "Goodbye and hello notices when servicing moves to a new company",
+    "text": "A sample transfer might move an example loan with a $1,600 payment from one servicer to another. Example figures. The notice dates must match 1024.33."
+  },
+  "citations": [
+    "reg-1024-33"
+  ],
+  "related": [
+    "escrow-account",
+    "faq-what-is-a-mortgage-servicer",
+    "mortgage-servicer",
+    "payment-during-transfer",
+    "periodic-statement",
+    "servicing-transfer-notices"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Transferencia de la administración",
+    "aliases": [],
+    "definition": "Una transferencia de la administración mueve el derecho de cobrar sus pagos de un administrador a otro. Los términos de su préstamo no cambian porque cambia el administrador. Usted debe recibir avisos del administrador anterior y del nuevo. Durante un período que especifica la regla, un pago enviado a tiempo al administrador anterior no puede tratarse como tardío.",
+    "details": "12 CFR 1024.33 exige los avisos y la protección del pago. Los conteos exactos de días de los avisos y de la protección están en esa sección. Esta entrada no los repite, para que el expediente se revise contra el texto vigente. El nuevo administrador también debe respetar la información pendiente de mitigación de pérdidas como exigen esa sección y 1024.41.",
+    "complianceNotes": "Envíe los avisos en el calendario de la sección y aplique los pagos a tiempo hechos al administrador anterior durante el período protegido. No cobre un cargo por mora por esos pagos. Transfiera el saldo del depósito en garantía y cualquier solicitud pendiente.",
+    "example": {
+      "setting": "Avisos de despedida y de bienvenida cuando la administración pasa a una nueva empresa",
+      "text": "Una transferencia de muestra podría mover un préstamo de ejemplo con un pago de $1,600 de un administrador a otro. Cifras de ejemplo. Las fechas de los avisos deben coincidir con 1024.33."
+    }
+  }
+}

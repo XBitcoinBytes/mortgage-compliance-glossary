@@ -1,0 +1,40 @@
+{
+  "slug": "hoepa",
+  "term": "HOEPA",
+  "aliases": [
+    "Home Ownership and Equity Protection Act"
+  ],
+  "category": "compliance",
+  "definition": "HOEPA is the Home Ownership and Equity Protection Act. It adds restrictions to mortgages that are high-cost because of the rate or the points and fees. It is not the same test as a higher-priced mortgage loan, and it is not the qualified-mortgage test.",
+  "details": "The coverage tests and the extra restrictions are in 12 CFR 1026.32 and 1026.34, implementing 15 USC 1639. Coverage uses an APR test and a points-and-fees test. The dollar amounts in those tests are adjusted. Do not publish this year's numbers from memory. A high-cost mortgage has counseling, disclosure, and prohibited-term consequences that a merely higher-priced loan does not.",
+  "complianceNotes": "Run the HOEPA test before you lock a high-fee or high-rate loan. If the loan is covered, follow 1026.34, including counseling, and do not use a standard QM checklist as a substitute.",
+  "example": {
+    "setting": "High-cost mortgage coverage test under HOEPA, kept with the rate sheet",
+    "text": "A sample high-fee loan of $120,000 might be tested under both the APR trigger and the points-and-fees trigger in the current 12 CFR 1026.32. Example figures for the loan amount only. The triggers are not restated here because they adjust."
+  },
+  "citations": [
+    "reg-1026-32",
+    "reg-1026-34",
+    "usc-15-1639"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "bona-fide-discount-point",
+    "high-cost-mortgage",
+    "higher-priced-mortgage-loan",
+    "homeownership-counseling-list",
+    "points-and-fees"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "HOEPA",
+    "aliases": [],
+    "definition": "HOEPA es la Ley de Protección de la Propiedad de la Vivienda y el Patrimonio. Agrega restricciones a las hipotecas que son de alto costo por la tasa o por los puntos y cargos. No es la misma prueba que una hipoteca de precio más alto, y no es la prueba de la hipoteca calificada.",
+    "details": "Las pruebas de cobertura y las restricciones extra están en 12 CFR 1026.32 y 1026.34, que aplican 15 USC 1639. La cobertura usa una prueba de tasa porcentual anual y una prueba de puntos y cargos. Los montos en dólares de esas pruebas se ajustan. No publique los números de este año de memoria. Una hipoteca de alto costo tiene consecuencias de consejería, divulgación y términos prohibidos que un préstamo solo de precio más alto no tiene.",
+    "complianceNotes": "Ejecute la prueba de HOEPA antes de fijar un préstamo de cargos altos o de tasa alta. Si el préstamo está cubierto, siga 1026.34, incluida la consejería, y no use una lista estándar de QM como sustituto.",
+    "example": {
+      "setting": "Prueba de cobertura de hipoteca de alto costo según HOEPA, guardada con la hoja de tasas",
+      "text": "Un préstamo de cargos altos de muestra de $120,000 podría probarse bajo el disparador de la tasa porcentual anual y el de puntos y cargos en el 12 CFR 1026.32 vigente. Cifras de ejemplo solo para el monto del préstamo. Los disparadores no se repiten aquí porque se ajustan."
+    }
+  }
+}

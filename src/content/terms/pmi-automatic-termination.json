@@ -1,0 +1,36 @@
+{
+  "slug": "pmi-automatic-termination",
+  "term": "Automatic PMI termination",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Automatic termination ends borrower-paid PMI on the termination date even if you do not ask, if you are current. That date is based on the principal balance reaching 78 percent of original value on the amortization schedule. If you are not current, termination waits until you are.",
+  "details": "12 USC 4902(b) is automatic termination. The statute also provides a final termination at the midpoint of the amortization period for loans that have not already terminated, with the conditions in the text. The servicer must stop charging premiums and must return unearned premium. Being delinquent on the termination date delays the end. It does not cancel the right forever.",
+  "complianceNotes": "Track the scheduled 78 percent date and the borrower's status. Terminate when the conditions are met. Do not keep charging PMI past final termination. Do not apply this schedule to FHA MIP.",
+  "example": {
+    "setting": "Servicer's automatic termination of PMI at the statutory termination date if the borrower is current",
+    "text": "A sample schedule might reach an example 78 percent of a $250,000 original value at a balance of $195,000. Example figures illustrating the statutory percentage."
+  },
+  "citations": [
+    "usc-12-4902"
+  ],
+  "related": [
+    "borrower-paid-mortgage-insurance",
+    "faq-can-i-cancel-pmi",
+    "homeowners-protection-act",
+    "mortgage-payoff",
+    "pmi-borrower-cancellation",
+    "private-mortgage-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Terminación automática del PMI",
+    "aliases": [],
+    "definition": "La terminación automática acaba el PMI pagado por el prestatario en la fecha de terminación aunque usted no lo pida, si usted está al día. Esa fecha se basa en que el saldo de capital llegue al 78 por ciento del valor original en el calendario de amortización. Si usted no está al día, la terminación espera hasta que lo esté.",
+    "details": "12 USC 4902(b) es la terminación automática. La ley también prevé una terminación final en el punto medio del período de amortización para los préstamos que todavía no terminaron, con las condiciones del texto. El administrador debe dejar de cobrar primas y debe devolver la prima no ganada. Estar en mora en la fecha de terminación retrasa el fin. No cancela el derecho para siempre.",
+    "complianceNotes": "Controle la fecha programada del 78 por ciento y el estado del prestatario. Termine cuando se cumplen las condiciones. No siga cobrando PMI después de la terminación final. No aplique este calendario a la MIP de la FHA.",
+    "example": {
+      "setting": "Terminación automática del PMI por el administrador en la fecha legal de terminación si el prestatario está al día",
+      "text": "Un calendario de muestra podría llegar a un ejemplo del 78 por ciento de un valor original de $250,000 en un saldo de $195,000. Cifras de ejemplo que ilustran el porcentaje de la ley."
+    }
+  }
+}

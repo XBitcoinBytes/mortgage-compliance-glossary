@@ -1,0 +1,36 @@
+{
+  "slug": "subordinate-financing",
+  "term": "Subordinate financing",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Subordinate financing is another loan secured by the same home that is paid after the first mortgage, such as a home-equity loan or a down-payment assistance lien. It is included in the combined loan-to-value ratio. It can also add a payment to the debt ratio.",
+  "details": "Fannie Mae B2-1.2-01 explains how subordinate balances enter CLTV and how a HELOC limit enters HCLTV. The payment is generally included under B3-6-05 unless the guide allows otherwise. A silent second that is not disclosed is a fraud problem as well as a ratio problem. Community seconds have additional rules.",
+  "complianceNotes": "Collect every subordinate note before underwriting. Enter the balance, the limit, and the payment in the AUS. Disclose the second on the application.",
+  "example": {
+    "setting": "Second-lien note and the CLTV calculation on the transmittal",
+    "text": "A sample first mortgage of $280,000 plus an example $15,000 assistance lien on a $350,000 value changes both cash to close and the CLTV. Example figures."
+  },
+  "citations": [
+    "fannie-b2-1-2-01"
+  ],
+  "related": [
+    "combined-loan-to-value",
+    "community-seconds",
+    "down-payment-assistance",
+    "hcltv",
+    "heloc",
+    "home-equity-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Financiamiento subordinado",
+    "aliases": [],
+    "definition": "El financiamiento subordinado es otro préstamo garantizado por la misma vivienda que se paga después de la primera hipoteca, como un préstamo sobre el valor líquido o un gravamen de asistencia para el pago inicial. Se incluye en la relación combinada préstamo-valor. También puede agregar un pago a la relación de deudas.",
+    "details": "Fannie Mae B2-1.2-01 explica cómo los saldos subordinados entran en la CLTV y cómo el límite de una HELOC entra en la HCLTV. El pago por lo general se incluye según B3-6-05, salvo que la guía permita otra cosa. Un segundo oculto que no se divulga es un problema de fraude además de un problema de relación. Los segundos comunitarios tienen reglas adicionales.",
+    "complianceNotes": "Recoja todo pagaré subordinado antes de la suscripción. Ingrese el saldo, el límite y el pago en el sistema automatizado. Divulgue el segundo en la solicitud.",
+    "example": {
+      "setting": "Pagaré del segundo gravamen y el cálculo de la CLTV en la transmisión",
+      "text": "Una primera hipoteca de muestra de $280,000 más un gravamen de asistencia de ejemplo de $15,000 sobre un valor de $350,000 cambia tanto el efectivo para el cierre como la CLTV. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "usda-annual-fee",
+  "term": "USDA annual fee",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "The USDA annual fee is a charge collected with the monthly payment for the life the program requires. It is similar in feel to FHA annual MIP and different in the rate. The rate changes. Do not promise that it cancels at 80 percent loan-to-value.",
+  "details": "HB-1-3555 and 7 CFR Part 3555 describe the annual fee. It is not private mortgage insurance and not the Homeowners Protection Act product. The servicer collects it. A payoff stops future fees. The percentage in effect at closing should match the disclosure.",
+  "complianceNotes": "Disclose the annual fee in the monthly payment. Use the current rate. Do not label it PMI on the Loan Estimate.",
+  "example": {
+    "setting": "Annual USDA fee collected with the monthly payment",
+    "text": "A sample payment might include an example annual-fee portion of $60. Example figures, not the current USDA percentage."
+  },
+  "citations": [
+    "usda-hb",
+    "cfr-7-3555"
+  ],
+  "related": [
+    "escrow-account",
+    "fha-mip",
+    "usda-guarantee-fee",
+    "usda-guaranteed-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cuota anual de USDA",
+    "aliases": [],
+    "definition": "La cuota anual de USDA es un cargo que se cobra con el pago mensual durante el tiempo que exige el programa. Se siente parecida a la MIP anual de la FHA y es distinta en la tasa. La tasa cambia. No prometa que se cancela al 80 por ciento de relación préstamo-valor.",
+    "details": "HB-1-3555 y 7 CFR Parte 3555 describen la cuota anual. No es seguro hipotecario privado ni el producto de la Ley de Protección de los Propietarios. El administrador la cobra. Una liquidación detiene las cuotas futuras. El porcentaje vigente en el cierre debe coincidir con la divulgación.",
+    "complianceNotes": "Divulgue la cuota anual en el pago mensual. Use la tasa vigente. No la etiquete como PMI en la Estimación del préstamo.",
+    "example": {
+      "setting": "Cuota anual de USDA cobrada con el pago mensual",
+      "text": "Un pago de muestra podría incluir una parte de cuota anual de ejemplo de $60. Cifras de ejemplo, no el porcentaje vigente de USDA."
+    }
+  }
+}

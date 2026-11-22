@@ -1,0 +1,39 @@
+{
+  "slug": "revised-loan-estimate",
+  "term": "Revised Loan Estimate",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A revised Loan Estimate is a new Loan Estimate the creditor may issue only for reasons the rule allows, such as a changed circumstance or a borrower-requested change. It replaces the charges it is permitted to reset. It is not a fresh start for every fee.",
+  "details": "12 CFR 1026.19(e)(3)(iv) lists the reasons, including changed circumstances, borrower-requested changes, and rate locks in the situations the section describes. Timing is generally three business days from receiving the information. The creditor may not provide a revised Loan Estimate on or after the date it provides the Closing Disclosure. Technical errors and tolerance cures are handled on the Closing Disclosure side, not by quietly reprinting the Loan Estimate.",
+  "complianceNotes": "Store the reason code, the supporting document, and both versions of the form. If the Closing Disclosure has already gone out, do not issue a Loan Estimate to reset a fee. Compare the revised charges with the final Closing Disclosure for any increase that still exceeds tolerance.",
+  "example": {
+    "setting": "Revised Loan Estimate, page 1, Date Issued, and the record of why it was issued",
+    "text": "A sample revision might change the loan amount from an example $300,000 to $312,000 after a contract addendum and reset only the charges the rule ties to that change. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-37"
+  ],
+  "related": [
+    "changed-circumstance",
+    "closing-disclosure",
+    "faq-why-did-my-closing-costs-change",
+    "loan-estimate",
+    "rate-lock",
+    "rate-lock-extension",
+    "tolerance-cure",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Estimación del préstamo revisada",
+    "aliases": [],
+    "definition": "Una Estimación del préstamo revisada es una nueva Estimación del préstamo que el acreedor puede emitir solo por razones que la regla permite, como una circunstancia cambiada o un cambio pedido por el prestatario. Reemplaza los cargos que tiene permitido reajustar. No es un comienzo nuevo para todos los cargos.",
+    "details": "12 CFR 1026.19(e)(3)(iv) enumera las razones, incluidas las circunstancias cambiadas, los cambios pedidos por el prestatario y las fijaciones de tasa en las situaciones que describe la sección. El plazo por lo general es de tres días hábiles desde que se recibe la información. El acreedor no puede dar una Estimación del préstamo revisada en la fecha en que da la Divulgación del cierre o después. Los errores técnicos y las correcciones de tolerancia se manejan del lado de la Divulgación del cierre, no reimprimiendo la Estimación del préstamo en silencio.",
+    "complianceNotes": "Guarde el código de la razón, el documento de apoyo y ambas versiones del formulario. Si la Divulgación del cierre ya salió, no emita una Estimación del préstamo para reajustar un cargo. Compare los cargos revisados con la Divulgación del cierre final para cualquier aumento que igual exceda la tolerancia.",
+    "example": {
+      "setting": "Estimación del préstamo revisada, página 1, Fecha de emisión, y el registro de por qué se emitió",
+      "text": "Una revisión de muestra puede cambiar el monto del préstamo de un ejemplo de $300,000 a $312,000 después de un anexo del contrato y reajustar solo los cargos que la regla ata a ese cambio. Cifras de ejemplo."
+    }
+  }
+}

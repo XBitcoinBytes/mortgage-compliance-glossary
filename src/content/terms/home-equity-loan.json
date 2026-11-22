@@ -1,0 +1,40 @@
+{
+  "slug": "home-equity-loan",
+  "term": "Home equity loan",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A home equity loan is a closed-end second mortgage for a fixed amount. You receive the money once and repay it on a schedule. It is not a HELOC. Because it is closed-end and secured by a home, TRID generally applies, and a right to cancel often applies when the home is your principal dwelling.",
+  "details": "12 CFR 1026.19 requires the Loan Estimate and Closing Disclosure for covered closed-end loans. 12 CFR 1026.23 provides rescission for many non-purchase closed-end loans on a principal dwelling. The new second lien counts in the combined loan-to-value ratio of any first mortgage. Do not use HELOC disclosures for this product.",
+  "complianceNotes": "Issue TRID forms, give the rescission notices, and do not fund until the rescission period ends. Include the payment in any first-mortgage debt ratio if both loans close together.",
+  "example": {
+    "setting": "Closed-end second mortgage disclosed on a Loan Estimate, with rescission if it is on a principal dwelling",
+    "text": "A sample second mortgage of an example $30,000 would show a Loan Estimate and a three-business-day rescission. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-23"
+  ],
+  "related": [
+    "cash-out-refinance",
+    "combined-loan-to-value",
+    "faq-what-is-a-heloc",
+    "hcltv",
+    "hecm",
+    "heloc",
+    "reverse-mortgage",
+    "right-of-rescission",
+    "subordinate-financing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Préstamo sobre el valor líquido",
+    "aliases": [],
+    "definition": "Un préstamo sobre el valor líquido es una segunda hipoteca de crédito cerrado por un monto fijo. Usted recibe el dinero una vez y lo paga en un calendario. No es una HELOC. Como es de crédito cerrado y está garantizado por una vivienda, TRID por lo general se aplica, y un derecho a cancelar a menudo se aplica cuando la vivienda es su residencia principal.",
+    "details": "12 CFR 1026.19 exige la Estimación del préstamo y la Divulgación del cierre para los préstamos de crédito cerrado cubiertos. 12 CFR 1026.23 prevé la rescisión para muchos préstamos de crédito cerrado que no son de compra sobre una vivienda principal. El nuevo segundo gravamen cuenta en la relación combinada préstamo-valor de cualquier primera hipoteca. No use divulgaciones de HELOC para este producto.",
+    "complianceNotes": "Emita los formularios de TRID, dé los avisos de rescisión y no desembolse hasta que termine el período de rescisión. Incluya el pago en cualquier relación de deudas de la primera hipoteca si ambos préstamos cierran juntos.",
+    "example": {
+      "setting": "Segunda hipoteca de crédito cerrado divulgada en una Estimación del préstamo, con rescisión si está sobre una vivienda principal",
+      "text": "Una segunda hipoteca de muestra de un ejemplo de $30,000 mostraría una Estimación del préstamo y una rescisión de tres días hábiles. Cifras de ejemplo."
+    }
+  }
+}

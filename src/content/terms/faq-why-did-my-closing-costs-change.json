@@ -1,0 +1,35 @@
+{
+  "slug": "faq-why-did-my-closing-costs-change",
+  "term": "Why did my closing costs change?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "Closing costs change when a fact changes, such as the closing date, the taxes, or a provider you chose, or when a charge was estimated in a bucket that is allowed to move. Some charges cannot increase at all. If they do, the lender generally must pay the difference.",
+  "details": "12 CFR 1026.19(e) sets zero tolerance, the 10 percent cumulative bucket, and the charges that may change. A changed circumstance can reset an estimate if the creditor acts in time. A cure under 1026.19(f)(2)(v) is generally made at consummation or within 60 days after. Not every increase restarts the three-day Closing Disclosure wait.",
+  "complianceNotes": "Show the borrower which line moved and which bucket it is in. Cure a violation. Do not reprint the Loan Estimate after the Closing Disclosure has been issued.",
+  "example": {
+    "setting": "Loan Estimate compared with the Closing Disclosure, fee by fee",
+    "text": "A sample lender fee that rises by an example $250 in Section A generally must be cured. Example figures."
+  },
+  "citations": [
+    "reg-1026-19"
+  ],
+  "related": [
+    "changed-circumstance",
+    "revised-loan-estimate",
+    "ten-percent-tolerance",
+    "tolerance-cure",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Por qué cambiaron mis costos de cierre?",
+    "aliases": [],
+    "definition": "Los costos de cierre cambian cuando cambia un hecho, como la fecha de cierre, los impuestos o un proveedor que usted eligió, o cuando un cargo se estimó en un grupo que puede moverse. Algunos cargos no pueden aumentar en absoluto. Si aumentan, el prestamista por lo general debe pagar la diferencia.",
+    "details": "12 CFR 1026.19(e) fija la tolerancia cero, el grupo acumulado del 10 por ciento y los cargos que pueden cambiar. Una circunstancia cambiada puede reajustar un estimado si el acreedor actúa a tiempo. Una corrección según 1026.19(f)(2)(v) por lo general se hace en la consumación o dentro de los 60 días posteriores. No todo aumento reinicia la espera de tres días de la Divulgación del cierre.",
+    "complianceNotes": "Muéstrele al prestatario qué línea se movió y en qué grupo está. Corrija una violación. No reimprima la Estimación del préstamo después de que se emitió la Divulgación del cierre.",
+    "example": {
+      "setting": "Estimación del préstamo comparada con la Divulgación del cierre, cargo por cargo",
+      "text": "Una tarifa del prestamista de muestra que sube un ejemplo de $250 en la Sección A por lo general debe corregirse. Cifras de ejemplo."
+    }
+  }
+}

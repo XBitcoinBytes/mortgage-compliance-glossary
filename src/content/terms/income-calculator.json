@@ -1,0 +1,35 @@
+{
+  "slug": "income-calculator",
+  "term": "Income Calculator",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "The Income Calculator is a Fannie Mae tool that calculates certain income types in the way the Selling Guide requires. Using it is optional unless a lender's own procedure requires it. The output is support for the income figure. It is not a DU recommendation.",
+  "details": "Selling Guide B3-3.1-03 describes the calculator and the conditions for relying on it. The user still enters accurate tax returns or other source documents. A calculator result that conflicts with the tax return is a reason to stop. The tool does not cover every income type.",
+  "complianceNotes": "Save the output and the source documents. Do not type a rounded number into DU that the calculator did not produce if you are relying on the tool. If you do not use the tool, document the manual calculation under the same guide sections.",
+  "example": {
+    "setting": "Fannie Mae Income Calculator output stored with the income worksheet",
+    "text": "A sample calculator output might show example monthly self-employment income of $3,410. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-1-03"
+  ],
+  "related": [
+    "bonus-overtime-commission",
+    "desktop-underwriter",
+    "schedule-c",
+    "self-employment-income",
+    "stable-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Calculadora de ingresos",
+    "aliases": [],
+    "definition": "La Calculadora de ingresos es una herramienta de Fannie Mae que calcula ciertos tipos de ingreso del modo que exige la Selling Guide. Usarla es opcional, salvo que el procedimiento del propio prestamista la exija. El resultado apoya la cifra de ingreso. No es una recomendación de DU.",
+    "details": "La Selling Guide B3-3.1-03 describe la calculadora y las condiciones para apoyarse en ella. El usuario igual ingresa declaraciones de impuestos exactas u otros documentos fuente. Un resultado de la calculadora que contradice la declaración de impuestos es una razón para detenerse. La herramienta no cubre todo tipo de ingreso.",
+    "complianceNotes": "Guarde el resultado y los documentos fuente. No escriba en DU un número redondeado que la calculadora no produjo si usted se está apoyando en la herramienta. Si no usa la herramienta, documente el cálculo manual según las mismas secciones de la guía.",
+    "example": {
+      "setting": "Resultado de la Calculadora de ingresos de Fannie Mae guardado con la hoja de ingresos",
+      "text": "Un resultado de muestra de la calculadora puede mostrar un ingreso mensual de trabajo por cuenta propia de ejemplo de $3,410. Cifras de ejemplo."
+    }
+  }
+}

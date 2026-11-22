@@ -1,0 +1,37 @@
+{
+  "slug": "prorations",
+  "term": "Prorations",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Prorations divide taxes, association dues, or rents between the buyer and the seller for the part of the period each one owns the property. They are contract and local-custom items. They change cash to close. They are not a TRID tolerance category by that name.",
+  "details": "12 CFR 1026.38 shows prorations in the summaries of transactions. A tax proration can be a credit to the buyer or to the seller depending on whether the tax was already paid. The annual escrow deposit in Section G is a different collection. Do not count the same tax both as a proration and as an extra prepaid without looking at the bills.",
+  "complianceNotes": "Use the title company's proration and the contract. Explain a credit that reduces cash to close so the borrower does not think it is a lender gift.",
+  "example": {
+    "setting": "Closing Disclosure, page 3, prorations of taxes, dues, or rents",
+    "text": "A sample tax proration might credit the buyer an example $640 for the seller's share of the current period. Example figures."
+  },
+  "citations": [
+    "reg-1026-38",
+    "practice-file"
+  ],
+  "related": [
+    "cash-to-close",
+    "closing-disclosure",
+    "prepaid-interest",
+    "purchase-agreement",
+    "seller-closing-disclosure",
+    "seller-credits"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Prorrateos",
+    "aliases": [],
+    "definition": "Los prorrateos dividen impuestos, cuotas de la asociación o rentas entre el comprador y el vendedor por la parte del período en que cada uno es dueño de la propiedad. Son partidas del contrato y de la costumbre local. Cambian el efectivo para el cierre. No son una categoría de tolerancia de TRID con ese nombre.",
+    "details": "12 CFR 1026.38 muestra los prorrateos en los resúmenes de transacciones. Un prorrateo de impuestos puede ser un crédito al comprador o al vendedor según si el impuesto ya se pagó. El depósito anual en la cuenta de depósito en garantía de la Sección G es un cobro distinto. No cuente el mismo impuesto como un prorrateo y como un prepago extra sin mirar las facturas.",
+    "complianceNotes": "Use el prorrateo de la compañía de título y el contrato. Explique un crédito que reduce el efectivo para el cierre para que el prestatario no piense que es un regalo del prestamista.",
+    "example": {
+      "setting": "Divulgación del cierre, página 3, prorrateos de impuestos, cuotas o rentas",
+      "text": "Un prorrateo de impuestos de muestra podría acreditar al comprador un ejemplo de $640 por la parte del vendedor del período actual. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "closing-wire-fraud",
+  "term": "Closing wire fraud",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Closing wire fraud is a crime in which someone impersonates the settlement agent or the lender and sends fake wiring instructions. The buyer's money goes to the criminal. The defense is to verify any wiring instruction by a phone number you look up yourself, not by a number in the email.",
+  "details": "This is a security practice, not a TRID rule. The CFPB and other agencies warn consumers about it. The Closing Disclosure states the cash to close, but the wiring instructions usually come from the settlement agent. A last-minute email that changes the bank is the usual scheme. This entry does not describe how the fraud is carried out beyond that warning.",
+  "complianceNotes": "Tell every borrower to call the settlement agent at a number from the agent's website or from the Closing Disclosure they already trust, before sending money. Do not confirm wires by replying to the email that contained the instructions.",
+  "example": {
+    "setting": "Wiring instructions for cash to close, verified by a phone call to a known number",
+    "text": "A sample genuine cash to close of $32,000 should be wired only after that phone verification. Example figures. Any account number in a training story should be treated as fake."
+  },
+  "citations": [
+    "practice-cfpb",
+    "cfpb-owning"
+  ],
+  "related": [
+    "cash-to-close",
+    "closing-disclosure",
+    "disbursement",
+    "faq-how-do-i-avoid-wire-fraud",
+    "settlement-agent"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Fraude de transferencia en el cierre",
+    "aliases": [],
+    "definition": "El fraude de transferencia en el cierre es un delito en el que alguien se hace pasar por el agente de liquidación o el prestamista y envía instrucciones de transferencia falsas. El dinero del comprador va al delincuente. La defensa es verificar cualquier instrucción de transferencia con un teléfono que usted busca por su cuenta, no con un número del correo electrónico.",
+    "details": "Esta es una práctica de seguridad, no una regla de TRID. La CFPB y otras agencias advierten a los consumidores. La Divulgación del cierre indica el efectivo para el cierre, pero las instrucciones de transferencia por lo general vienen del agente de liquidación. Un correo de último minuto que cambia el banco es el esquema usual. Esta entrada no describe cómo se lleva a cabo el fraude más allá de esa advertencia.",
+    "complianceNotes": "Dígale a cada prestatario que llame al agente de liquidación a un número del sitio del agente o de la Divulgación del cierre en la que ya confía, antes de enviar dinero. No confirme transferencias respondiendo al correo que contenía las instrucciones.",
+    "example": {
+      "setting": "Instrucciones de transferencia del efectivo para el cierre, verificadas por una llamada a un número conocido",
+      "text": "Un efectivo para el cierre genuino de muestra de $32,000 debe transferirse solo después de esa verificación por teléfono. Cifras de ejemplo. Cualquier número de cuenta en una historia de capacitación debe tratarse como falso."
+    }
+  }
+}

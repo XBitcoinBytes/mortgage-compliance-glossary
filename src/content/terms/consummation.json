@@ -1,0 +1,42 @@
+{
+  "slug": "consummation",
+  "term": "Consummation",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Consummation is the moment you become contractually obligated on the loan. State law decides when that happens. It is often the day you sign the note, but it is not always the day the loan funds or the day the deed is recorded.",
+  "details": "12 CFR 1026.2 defines consummation by reference to state law, not by the settlement appointment. The Closing Disclosure waiting period in 12 CFR 1026.19(f) is counted to consummation, not to a walk-through or a recording date. In a dry-funding state, signing and disbursement can fall on different days. Rescission, where it applies, also runs from consummation.",
+  "complianceNotes": "Ask counsel or the title partner which act creates the obligation in that state, and count the Closing Disclosure wait to that day. Do not schedule consummation on the third business day if the consumer will not have received the Closing Disclosure in time.",
+  "example": {
+    "setting": "Note date and the Closing Disclosure, page 1, Closing Information, compared with the date the note is signed",
+    "text": "A sample file might have the Closing Disclosure received on Monday, consummation by signing the note on Thursday, and disbursement on Friday under a dry-funding practice. The days are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026-2",
+    "reg-1026-19"
+  ],
+  "related": [
+    "closing-disclosure",
+    "confirm-receipt",
+    "disbursement",
+    "dry-funding",
+    "final-walkthrough",
+    "prepaid-interest",
+    "promissory-note",
+    "right-of-rescission",
+    "settlement-agent",
+    "three-business-day-rule",
+    "wet-settlement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Consumación",
+    "aliases": [],
+    "definition": "La consumación es el momento en que usted queda contractualmente obligado en el préstamo. La ley estatal decide cuándo ocurre. A menudo es el día en que usted firma el pagaré, pero no siempre es el día en que se desembolsan los fondos o el día en que se registra la escritura.",
+    "details": "12 CFR 1026.2 define la consumación por referencia a la ley estatal, no por la cita de liquidación. El período de espera de la Divulgación del cierre en 12 CFR 1026.19(f) se cuenta hasta la consumación, no hasta una inspección final o una fecha de registro. En un estado de desembolso posterior, la firma y el desembolso pueden caer en días distintos. La rescisión, cuando se aplica, también corre desde la consumación.",
+    "complianceNotes": "Pregunte al asesor o al socio de título qué acto crea la obligación en ese estado, y cuente la espera de la Divulgación del cierre hasta ese día. No programe la consumación en el tercer día hábil si el consumidor no habrá recibido la Divulgación del cierre a tiempo.",
+    "example": {
+      "setting": "Fecha del pagaré y Divulgación del cierre, página 1, Información del cierre, comparadas con la fecha en que se firma el pagaré",
+      "text": "Un expediente de muestra puede tener la Divulgación del cierre recibida el lunes, la consumación al firmar el pagaré el jueves y el desembolso el viernes según una práctica de desembolso posterior. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

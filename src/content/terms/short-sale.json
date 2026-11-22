@@ -1,0 +1,37 @@
+{
+  "slug": "short-sale",
+  "term": "Short sale",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A short sale is a sale of the home for less than the amount owed, with the investor's approval. The investor may forgive the remaining debt or may not. The approval letter controls. A short sale is an alternative to foreclosure. It is not a right you can force.",
+  "details": "Agency and FHA guides state the documentation, the hardship, and the borrower's contribution, if any. 12 CFR 1024.41 includes short sales among loss-mitigation options for purposes of the application rules. A later mortgage may have a waiting period under the new lender's seasoning rules. The deficiency, if not waived in writing, can still be collected as state law allows.",
+  "complianceNotes": "Get the approval before the closing of the sale. Do not tell the borrower the deficiency is forgiven unless the letter says so. Report the sale accurately.",
+  "example": {
+    "setting": "Investor approval of a sale for less than the amount owed",
+    "text": "A sample approval might allow a sale at an example $240,000 against a payoff of $270,000. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "hud-4000-1",
+    "reg-1024-41"
+  ],
+  "related": [
+    "deed-in-lieu",
+    "foreclosure",
+    "foreclosure-seasoning",
+    "loan-modification",
+    "loss-mitigation"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Venta en corto",
+    "aliases": [],
+    "definition": "Una venta en corto es una venta de la vivienda por menos del monto debido, con la aprobación del inversionista. El inversionista puede condonar la deuda restante o no. La carta de aprobación manda. Una venta en corto es una alternativa a la ejecución hipotecaria. No es un derecho que usted puede forzar.",
+    "details": "Las guías de las agencias y de la FHA establecen la documentación, la dificultad económica y la aportación del prestatario, si la hay. 12 CFR 1024.41 incluye las ventas en corto entre las opciones de mitigación de pérdidas para los fines de las reglas de la solicitud. Una hipoteca posterior puede tener un período de espera según las reglas de antigüedad del nuevo prestamista. La deficiencia, si no se condona por escrito, igual puede cobrarse como permite la ley estatal.",
+    "complianceNotes": "Obtenga la aprobación antes del cierre de la venta. No le diga al prestatario que la deficiencia está condonada salvo que la carta lo diga. Reporte la venta con exactitud.",
+    "example": {
+      "setting": "Aprobación del inversionista de una venta por menos del monto debido",
+      "text": "Una aprobación de muestra podría permitir una venta a un ejemplo de $240,000 contra una liquidación de $270,000. Cifras de ejemplo."
+    }
+  }
+}

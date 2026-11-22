@@ -1,0 +1,36 @@
+{
+  "slug": "public-assistance-income",
+  "term": "Public assistance income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Public assistance income includes benefits from a public program. A creditor may not refuse to count it, or discount it, because of where it comes from. The lender may still ask for the documents that show the amount and whether it will continue.",
+  "details": "Regulation B, 12 CFR 1002.6, prohibits discrimination because some or all of the income comes from public assistance. Fannie Mae B3-3.4-12 states the documentation and continuance analysis. Benefits with a defined end date need the continuance evidence in the income section. Nontaxable benefits may be grossed up only under the guide's gross-up rule.",
+  "complianceNotes": "Train staff not to steer a borrower away from using lawful public assistance. Collect the award letter and count the income if it meets the continuance test. Do not add an overlay that excludes a benefit type the guide accepts.",
+  "example": {
+    "setting": "Award letter for public assistance used as qualifying income",
+    "text": "A sample award letter might show an example benefit of $850 a month with no stated end date. Example figures."
+  },
+  "citations": [
+    "reg-1002-6",
+    "fannie-b3-3-4-12"
+  ],
+  "related": [
+    "fair-lending",
+    "nontaxable-income",
+    "regulation-b",
+    "stable-income",
+    "verification-of-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ingreso de asistencia pública",
+    "aliases": [],
+    "definition": "El ingreso de asistencia pública incluye beneficios de un programa público. Un acreedor no puede negarse a contarlo, ni descontarlo, por su origen. El prestamista igual puede pedir los documentos que muestran el monto y si continuará.",
+    "details": "El Reglamento B, 12 CFR 1002.6, prohíbe la discriminación porque parte o todo el ingreso proviene de asistencia pública. Fannie Mae B3-3.4-12 establece la documentación y el análisis de continuidad. Los beneficios con una fecha de término definida necesitan la prueba de continuidad de la sección de ingresos. Los beneficios no gravables pueden aumentarse solo según la regla de aumento de la guía.",
+    "complianceNotes": "Capacite al personal para que no aleje a un prestatario de usar asistencia pública lícita. Recoja la carta de concesión y cuente el ingreso si cumple la prueba de continuidad. No agregue un requisito adicional que excluya un tipo de beneficio que la guía acepta.",
+    "example": {
+      "setting": "Carta de concesión de asistencia pública usada como ingreso de calificación",
+      "text": "Una carta de concesión de muestra puede mostrar un beneficio de ejemplo de $850 al mes sin fecha de término indicada. Cifras de ejemplo."
+    }
+  }
+}

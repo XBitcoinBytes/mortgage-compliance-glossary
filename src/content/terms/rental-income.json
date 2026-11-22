@@ -1,0 +1,36 @@
+{
+  "slug": "rental-income",
+  "term": "Rental income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Rental income is rent from a property you own, sometimes including a unit in the home you are buying. Lenders do not count the full rent. They subtract expenses the way the guide requires, which may include a vacancy factor. The factor is in the guide, not in a universal percentage you should memorize.",
+  "details": "The Fannie Mae Selling Guide distinguishes rental income on the subject property from income on other real estate, and it distinguishes tax-return history from a lease on a new rental. Schedule E depreciation may be added back when the guide says so. PITIA on the rental is part of the math. A lease that is above market does not automatically increase qualifying income.",
+  "complianceNotes": "Use the guide's worksheet for the property type. Do not add gross rent to wage income. Document the lease and the tax return that applies.",
+  "example": {
+    "setting": "Rental income worksheet, Schedule E or lease, net of the guide's adjustments",
+    "text": "A sample Schedule E might show example gross rent of $1,800 and a net qualifying amount after the guide's adjustments. Example figures. The net amount is not stated here because it depends on the worksheet."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "investment-property",
+    "multiple-financed-properties",
+    "pitia",
+    "schedule-c",
+    "tax-returns"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ingreso de alquiler",
+    "aliases": [],
+    "definition": "El ingreso de alquiler es la renta de una propiedad que usted posee, a veces incluida una unidad en la vivienda que está comprando. Los prestamistas no cuentan la renta completa. Restan gastos del modo que exige la guía, lo que puede incluir un factor de vacancia. El factor está en la guía, no en un porcentaje universal que usted deba memorizar.",
+    "details": "La Selling Guide de Fannie Mae distingue el ingreso de alquiler de la propiedad del ingreso de otros inmuebles, y distingue el historial de la declaración de impuestos de un contrato en un alquiler nuevo. La depreciación del Anexo E puede reincorporarse cuando la guía lo dice. El PITIA del alquiler es parte del cálculo. Un contrato por encima del mercado no aumenta automáticamente el ingreso de calificación.",
+    "complianceNotes": "Use la hoja de la guía para el tipo de propiedad. No sume la renta bruta al ingreso salarial. Documente el contrato y la declaración de impuestos que correspondan.",
+    "example": {
+      "setting": "Hoja de ingreso de alquiler, Anexo E o contrato, neto de los ajustes de la guía",
+      "text": "Un Anexo E de muestra puede mostrar una renta bruta de ejemplo de $1,800 y un monto neto de calificación después de los ajustes de la guía. Cifras de ejemplo. El monto neto no se indica aquí porque depende de la hoja."
+    }
+  }
+}

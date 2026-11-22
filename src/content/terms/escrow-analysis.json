@@ -1,0 +1,37 @@
+{
+  "slug": "escrow-analysis",
+  "term": "Escrow analysis",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "An escrow analysis is the servicer's yearly review of the account. It estimates the taxes and insurance that will be paid, sets the new monthly escrow payment, and tells you whether there is a shortage or a surplus. You should receive the statement.",
+  "details": "12 CFR 1024.17 requires the annual analysis and describes the projection, the cushion, and the treatment of shortages and surpluses. A shortage can be collected over 12 months or, in the cases the section allows, in a lump sum. A surplus at or above the section's refund threshold is refunded. Do not invent a different refund amount. Read the section. The longstanding regulatory text uses a surplus of $50 or more as the refund point. Confirm the current sentence before you rely on that figure.",
+  "complianceNotes": "Run the analysis on schedule and mail the statement. Use actual bills, not last decade's tax. Offer the installment option for a shortage when the section requires it.",
+  "example": {
+    "setting": "Annual escrow analysis statement sent to the borrower",
+    "text": "A sample analysis might raise an example escrow payment from $380 to $430 after a tax increase, with a shortage spread over 12 months. Example figures."
+  },
+  "citations": [
+    "reg-1024-17"
+  ],
+  "related": [
+    "error-resolution",
+    "escrow-account",
+    "escrow-cushion",
+    "escrow-shortage",
+    "escrow-surplus",
+    "faq-what-is-an-escrow-account",
+    "periodic-statement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Análisis de la cuenta de depósito en garantía",
+    "aliases": [],
+    "definition": "Un análisis de la cuenta de depósito en garantía es la revisión anual del administrador de la cuenta. Estima los impuestos y el seguro que se pagarán, fija el nuevo pago mensual del depósito y le dice si hay un faltante o un excedente. Usted debe recibir el estado.",
+    "details": "12 CFR 1024.17 exige el análisis anual y describe la proyección, el colchón y el tratamiento de los faltantes y los excedentes. Un faltante puede cobrarse en 12 meses o, en los casos que permite la sección, en un solo pago. Un excedente igual o superior al umbral de reembolso de la sección se reembolsa. No invente un monto de reembolso distinto. Lea la sección. El texto reglamentario de larga data usa un excedente de $50 o más como el punto de reembolso. Confirme la frase vigente antes de apoyarse en esa cifra.",
+    "complianceNotes": "Ejecute el análisis en el calendario y envíe el estado. Use facturas reales, no el impuesto de la década pasada. Ofrezca la opción de cuotas para un faltante cuando la sección lo exige.",
+    "example": {
+      "setting": "Estado del análisis anual del depósito en garantía enviado al prestatario",
+      "text": "Un análisis de muestra podría subir un pago de depósito en garantía de ejemplo de $380 a $430 después de un aumento de impuestos, con un faltante repartido en 12 meses. Cifras de ejemplo."
+    }
+  }
+}

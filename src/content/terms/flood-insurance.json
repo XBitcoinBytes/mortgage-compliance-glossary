@@ -1,0 +1,36 @@
+{
+  "slug": "flood-insurance",
+  "term": "Flood insurance",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Flood insurance is the coverage federal law requires on many loans secured by a building in a Special Flood Hazard Area. Homeowners insurance does not replace it. The premium depends on the map, the elevation, and the NFIP or private policy, and it changes. Do not quote a current premium as if it were fixed.",
+  "details": "42 USC 4012a requires flood insurance on designated loans and sets the coverage framework. FEMA administers the National Flood Insurance Program. If the determination shows the improvements are in a special flood hazard area, the lender generally may not fund without evidence of insurance. Escrow of flood premiums is required in the circumstances the flood rules state. A private policy must meet the statutory standards if it is accepted.",
+  "complianceNotes": "Match the determination, the policy, and the mortgagee clause before funding. Do not waive flood insurance because the borrower has never seen water. Escrow when the rule requires it.",
+  "example": {
+    "setting": "Closing Disclosure flood premium, and the flood policy when the determination is in a special flood hazard area",
+    "text": "A sample policy might show an example annual premium of $1,050 for a building in Zone AE. Example figures, not an NFIP rate."
+  },
+  "citations": [
+    "usc-42-4012a",
+    "fema-flood"
+  ],
+  "related": [
+    "closing-disclosure",
+    "escrow-account",
+    "flood-determination",
+    "homeowners-insurance",
+    "special-flood-hazard-area"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Seguro contra inundaciones",
+    "aliases": [],
+    "definition": "El seguro contra inundaciones es la cobertura que la ley federal exige en muchos préstamos garantizados por un edificio en una zona especial de riesgo de inundación. El seguro de la vivienda no lo reemplaza. La prima depende del mapa, la elevación y la póliza del NFIP o privada, y cambia. No cite una prima vigente como si fuera fija.",
+    "details": "42 USC 4012a exige seguro de inundación en los préstamos designados y fija el marco de cobertura. FEMA administra el Programa Nacional de Seguro de Inundación. Si la determinación muestra que las mejoras están en una zona especial de riesgo de inundación, el prestamista por lo general no puede desembolsar sin prueba del seguro. El depósito en garantía de las primas de inundación se exige en las circunstancias que indican las reglas de inundación. Una póliza privada debe cumplir los estándares de la ley si se acepta.",
+    "complianceNotes": "Haga coincidir la determinación, la póliza y la cláusula del acreedor hipotecario antes del desembolso. No dispense el seguro de inundación porque el prestatario nunca ha visto agua. Ponga la prima en depósito en garantía cuando la regla lo exige.",
+    "example": {
+      "setting": "Prima de inundación en la Divulgación del cierre, y la póliza de inundación cuando la determinación está en una zona especial de riesgo de inundación",
+      "text": "Una póliza de muestra puede mostrar una prima anual de ejemplo de $1,050 para un edificio en la Zona AE. Cifras de ejemplo, no una tarifa del NFIP."
+    }
+  }
+}

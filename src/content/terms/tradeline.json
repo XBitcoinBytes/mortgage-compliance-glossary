@@ -1,0 +1,36 @@
+{
+  "slug": "tradeline",
+  "term": "Tradeline",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A tradeline is one account on your credit report, such as a credit card, a car loan, or a student loan. Lenders read tradelines for payment history and for whether you have enough credit experience. An authorized-user account is a tradeline, but it is not the same as your own debt.",
+  "details": "Fannie Mae's credit-history sections, including B3-5.2-01, use tradelines to judge depth of credit and to identify debts that belong in the ratio. Nontraditional credit is a separate path when the borrower does not have the traditional tradelines the guide expects. Authorized-user tradelines have their own rules in B3-5.3-06.",
+  "complianceNotes": "Count open debts in the ratio even if you hope to pay them off, unless the guide's payoff rule is met and documented. Do not ignore a tradeline because the payment is small.",
+  "example": {
+    "setting": "Credit report, tradeline section",
+    "text": "A sample report might show four tradelines, including an example car loan with a $415 payment and a card with a $2,200 balance. Example figures."
+  },
+  "citations": [
+    "fannie-b3-5-2-01",
+    "fannie-guide"
+  ],
+  "related": [
+    "authorized-user",
+    "credit-score",
+    "installment-debt",
+    "revolving-debt",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Línea de crédito",
+    "aliases": [],
+    "definition": "Una línea de crédito es una cuenta en su informe de crédito, como una tarjeta, un préstamo de automóvil o un préstamo estudiantil. Los prestamistas leen las líneas por el historial de pago y por si usted tiene suficiente experiencia de crédito. Una cuenta de usuario autorizado es una línea, pero no es lo mismo que su propia deuda.",
+    "details": "Las secciones de historial de crédito de Fannie Mae, incluida B3-5.2-01, usan las líneas para juzgar la profundidad del crédito y para identificar deudas que pertenecen a la relación. El crédito no tradicional es una vía distinta cuando el prestatario no tiene las líneas tradicionales que espera la guía. Las líneas de usuario autorizado tienen sus propias reglas en B3-5.3-06.",
+    "complianceNotes": "Cuente las deudas abiertas en la relación aunque espere pagarlas, salvo que se cumpla y se documente la regla de la guía para deudas pagadas. No ignore una línea porque el pago es pequeño.",
+    "example": {
+      "setting": "Informe de crédito, sección de líneas de crédito",
+      "text": "Un informe de muestra puede mostrar cuatro líneas, incluido un préstamo de automóvil de ejemplo con un pago de $415 y una tarjeta con un saldo de $2,200. Cifras de ejemplo."
+    }
+  }
+}

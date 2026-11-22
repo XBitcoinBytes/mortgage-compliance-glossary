@@ -1,0 +1,36 @@
+{
+  "slug": "debts-paid-at-closing",
+  "term": "Debts paid at closing",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A debt paid off at or before closing can be left out of the debt ratio if the guide's conditions are met, including proof it will be paid and proof of where the money comes from. A promise to pay it later is not enough.",
+  "details": "Fannie Mae B3-6-07 states the conditions, including source of funds. Paying a debt with a new unsecured loan can add a new payment. Paying it from gift funds or from cash-out proceeds has to fit both this section and the refinance rules. The payoff should appear on the Closing Disclosure when it is paid at closing.",
+  "complianceNotes": "Show the payoff on the disclosure and remove the payment from the ratio only after the source is documented. Resubmit the AUS if the debts used in the findings still include it.",
+  "example": {
+    "setting": "Closing Disclosure, payoffs and payments, and the debt worksheet omitting those debts",
+    "text": "A sample file might pay off an example $6,500 car loan at closing from verified cash, then omit its $310 payment from the ratio. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-07"
+  ],
+  "related": [
+    "cash-to-close",
+    "closing-disclosure",
+    "debt-to-income-ratio",
+    "faq-which-debts-count-in-dti",
+    "installment-debt",
+    "source-of-funds"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Deudas pagadas en el cierre",
+    "aliases": [],
+    "definition": "Una deuda pagada en el cierre o antes puede dejarse fuera de la relación de deudas si se cumplen las condiciones de la guía, incluida la prueba de que se pagará y la prueba de dónde sale el dinero. Una promesa de pagarla después no basta.",
+    "details": "Fannie Mae B3-6-07 establece las condiciones, incluido el origen de los fondos. Pagar una deuda con un préstamo nuevo sin garantía puede agregar un pago nuevo. Pagarla con fondos de regalo o con el producto de un retiro de efectivo tiene que caber tanto en esta sección como en las reglas de refinanciamiento. La liquidación debe aparecer en la Divulgación del cierre cuando se paga en el cierre.",
+    "complianceNotes": "Muestre la liquidación en la divulgación y quite el pago de la relación solo después de documentar el origen. Vuelva a enviar el sistema automatizado si las deudas usadas en los hallazgos todavía la incluyen.",
+    "example": {
+      "setting": "Divulgación del cierre, liquidaciones y pagos, y la hoja de deudas que omite esas deudas",
+      "text": "Un expediente de muestra podría liquidar un préstamo de automóvil de ejemplo de $6,500 en el cierre con efectivo verificado, y luego omitir su pago de $310 de la relación. Cifras de ejemplo."
+    }
+  }
+}

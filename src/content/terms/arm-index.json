@@ -1,0 +1,36 @@
+{
+  "slug": "arm-index",
+  "term": "ARM index",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "The ARM index is the published rate the note uses when the interest rate adjusts. The new rate starts from the index plus the margin, then the caps apply. For new loans, the index should be a current one named in the note. LIBOR is not the standard index for new mortgage notes.",
+  "details": "Regulation Z requires the index to be disclosed and beyond the creditor's control in the way 12 CFR 1026.20 and the ARM rules describe. The lookback is the date the index is read before the change. Replacement of legacy LIBOR notes is a servicing project with its own notices. Do not originate a new note on LIBOR.",
+  "complianceNotes": "Name the index on the note and in the ARM disclosure. Keep a source for the published value. Do not let the creditor set the index.",
+  "example": {
+    "setting": "Note, index description, and the Loan Estimate ARM disclosures",
+    "text": "A sample note might use a SOFR-based index at an example value of 4.20 percent before the margin is added. Example figures, not a current index print."
+  },
+  "citations": [
+    "reg-1026-20",
+    "reg-1026-37"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "arm-adjustment-notice",
+    "arm-caps",
+    "arm-margin",
+    "fully-indexed-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Índice de la ARM",
+    "aliases": [],
+    "definition": "El índice de la ARM es la tasa publicada que usa el pagaré cuando la tasa de interés se ajusta. La nueva tasa empieza por el índice más el margen, y luego se aplican los topes. Para préstamos nuevos, el índice debe ser uno vigente nombrado en el pagaré. El LIBOR no es el índice estándar para pagarés hipotecarios nuevos.",
+    "details": "El Reglamento Z exige que el índice se divulgue y esté fuera del control del acreedor del modo que describen 12 CFR 1026.20 y las reglas de la ARM. El período de referencia es la fecha en que se lee el índice antes del cambio. El reemplazo de pagarés antiguos de LIBOR es un proyecto de administración con sus propios avisos. No origine un pagaré nuevo en LIBOR.",
+    "complianceNotes": "Nombre el índice en el pagaré y en la divulgación de la ARM. Conserve una fuente del valor publicado. No deje que el acreedor fije el índice.",
+    "example": {
+      "setting": "Pagaré, descripción del índice, y las divulgaciones de la ARM en la Estimación del préstamo",
+      "text": "Un pagaré de muestra podría usar un índice basado en SOFR a un valor de ejemplo del 4.20 por ciento antes de sumar el margen. Cifras de ejemplo, no una impresión vigente del índice."
+    }
+  }
+}

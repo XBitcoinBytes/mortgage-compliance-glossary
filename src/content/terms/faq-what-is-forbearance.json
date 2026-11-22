@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-forbearance",
+  "term": "What is forbearance?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A forbearance temporarily reduces or pauses your payments. It does not erase them. When it ends, the missed amount is repaid through a plan, a deferral, a modification, or another option the investor allows. Get the agreement in writing.",
+  "details": "12 CFR 1024.41 is the review procedure. The product terms come from the investor guide. Interest can keep accruing. A pandemic program that has ended should not be offered as if it were open. Credit reporting should match the agreement.",
+  "complianceNotes": "State the dates and the exit. Do not say the debt is forgiven. Do not leave the end of the forbearance unwritten.",
+  "example": {
+    "setting": "Written forbearance agreement that pauses or reduces payments for a stated time",
+    "text": "A sample agreement might pause an example $1,700 payment for three months. The $5,100 is still owed. Example figures."
+  },
+  "citations": [
+    "reg-1024-41",
+    "fannie-guide"
+  ],
+  "related": [
+    "delinquency",
+    "forbearance",
+    "loan-modification",
+    "loss-mitigation",
+    "repayment-plan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una indulgencia?",
+    "aliases": [],
+    "definition": "Una indulgencia reduce o pausa temporalmente sus pagos. No los borra. Cuando termina, el monto no pagado se devuelve por un plan, un aplazamiento, una modificación u otra opción que el inversionista permite. Obtenga el acuerdo por escrito.",
+    "details": "12 CFR 1024.41 es el procedimiento de revisión. Los términos del producto vienen de la guía del inversionista. El interés puede seguir acumulándose. Un programa de la pandemia que terminó no debe ofrecerse como si estuviera abierto. El reporte de crédito debe coincidir con el acuerdo.",
+    "complianceNotes": "Indique las fechas y la salida. No diga que la deuda está perdonada. No deje sin escribir el fin de la indulgencia.",
+    "example": {
+      "setting": "Acuerdo de indulgencia por escrito que pausa o reduce los pagos por un tiempo indicado",
+      "text": "Un acuerdo de muestra podría pausar un pago de ejemplo de $1,700 durante tres meses. Los $5,100 igual se deben. Cifras de ejemplo."
+    }
+  }
+}

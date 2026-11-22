@@ -1,0 +1,36 @@
+{
+  "slug": "employment-gap",
+  "term": "Employment gap",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "An employment gap is a break in your work history. A short break may need only an explanation. A longer break, or a break before variable income, can keep that income from being used until the guide's history is rebuilt. There is no single maximum gap in a statute.",
+  "details": "Fannie Mae's income sections, including B3-3.1-01 and the employment-income topics, tell the lender how to treat a gap for the income type being used. A gap explained by school, military service, or a documented family reason is still judged against the income rule. The borrower should explain the gap. The explanation does not create income.",
+  "complianceNotes": "Compare the application history with the W-2s and the verification. If the gap makes the income unstable, do not use it. Do not invent a 30-day safe harbor.",
+  "example": {
+    "setting": "URLA employment history and any letter explaining a break",
+    "text": "A sample application might show a four-month example gap between two employers, explained by a documented move. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-1-01",
+    "fannie-guide"
+  ],
+  "related": [
+    "bonus-overtime-commission",
+    "letter-of-explanation",
+    "pay-stub",
+    "stable-income",
+    "verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Laguna de empleo",
+    "aliases": [],
+    "definition": "Una laguna de empleo es una interrupción en su historial de trabajo. Una interrupción corta puede necesitar solo una explicación. Una interrupción más larga, o una interrupción antes de ingreso variable, puede impedir que ese ingreso se use hasta que se reconstruya el historial de la guía. No hay una laguna máxima única en una ley.",
+    "details": "Las secciones de ingreso de Fannie Mae, incluidas B3-3.1-01 y los temas de ingreso del empleo, le dicen al prestamista cómo tratar una laguna para el tipo de ingreso que se usa. Una laguna explicada por estudios, servicio militar o una razón familiar documentada igual se juzga contra la regla de ingreso. El prestatario debe explicar la laguna. La explicación no crea ingreso.",
+    "complianceNotes": "Compare el historial de la solicitud con los W-2 y la verificación. Si la laguna hace que el ingreso sea inestable, no lo use. No invente un puerto seguro de 30 días.",
+    "example": {
+      "setting": "Historial de empleo de la URLA y cualquier carta que explique una interrupción",
+      "text": "Una solicitud de muestra puede mostrar una laguna de ejemplo de cuatro meses entre dos empleadores, explicada por una mudanza documentada. Cifras de ejemplo."
+    }
+  }
+}

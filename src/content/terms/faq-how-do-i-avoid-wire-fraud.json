@@ -1,0 +1,35 @@
+{
+  "slug": "faq-how-do-i-avoid-wire-fraud",
+  "term": "How do I avoid wire fraud at closing?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "Call the settlement agent at a phone number you look up yourself before you wire money. Do not rely on wiring instructions that arrive only by email, especially if they change at the last minute. Criminals send fake instructions that look real.",
+  "details": "This is a security practice the CFPB and other agencies warn about. The Closing Disclosure tells you the amount. The settlement agent tells you where to send it. Those are different documents. Confirm the amount and the bank with the agent by phone. This page does not describe how the fraud is built.",
+  "complianceNotes": "Tell every borrower this before the wire. Do not confirm instructions by replying to the email that contained them. If money is sent to the wrong place, contact the bank immediately.",
+  "example": {
+    "setting": "Phone call to a known number before any wire of cash to close",
+    "text": "A sample genuine cash to close of an example $24,000 should be wired only after that call. Example figures."
+  },
+  "citations": [
+    "practice-cfpb",
+    "cfpb-owning"
+  ],
+  "related": [
+    "cash-to-close",
+    "closing-disclosure",
+    "closing-wire-fraud",
+    "settlement-agent"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Cómo evito el fraude de transferencia en el cierre?",
+    "aliases": [],
+    "definition": "Llame al agente de liquidación a un teléfono que usted busca por su cuenta antes de transferir dinero. No se apoye en instrucciones de transferencia que llegan solo por correo electrónico, especialmente si cambian en el último minuto. Los delincuentes envían instrucciones falsas que parecen reales.",
+    "details": "Esta es una práctica de seguridad sobre la que advierten la CFPB y otras agencias. La Divulgación del cierre le dice el monto. El agente de liquidación le dice a dónde enviarlo. Son documentos distintos. Confirme el monto y el banco con el agente por teléfono. Esta página no describe cómo se arma el fraude.",
+    "complianceNotes": "Dígale esto a cada prestatario antes de la transferencia. No confirme instrucciones respondiendo al correo que las contenía. Si el dinero se envía al lugar equivocado, contacte al banco de inmediato.",
+    "example": {
+      "setting": "Llamada a un número conocido antes de cualquier transferencia del efectivo para el cierre",
+      "text": "Un efectivo genuino para el cierre de muestra de un ejemplo de $24,000 debe transferirse solo después de esa llamada. Cifras de ejemplo."
+    }
+  }
+}

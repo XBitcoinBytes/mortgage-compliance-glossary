@@ -1,0 +1,43 @@
+{
+  "slug": "three-business-day-rule",
+  "term": "Three-business-day rule",
+  "aliases": [],
+  "category": "closing",
+  "definition": "People say three-day rule for three different clocks. The Loan Estimate is due three general business days after application. The Closing Disclosure must be received at least three specific business days before consummation. The right to cancel, when it applies, also runs for three specific business days. They are not the same count.",
+  "details": "12 CFR 1026.19(e) is the Loan Estimate clock and uses the general business-day definition in 12 CFR 1026.2(a)(6). 12 CFR 1026.19(f) is the Closing Disclosure clock and uses the specific definition: every day except Sundays and federal legal holidays. 12 CFR 1026.23 uses that same specific definition for rescission. A Saturday can count for the Closing Disclosure even if the office is closed. A purchase generally has no rescission period.",
+  "complianceNotes": "Label which clock you are counting in the file. Do not schedule a purchase closing three days after signing as if rescission applied. Do not count Closing Disclosure days with the office-open calendar.",
+  "example": {
+    "setting": "Disclosure calendar separating the Loan Estimate clock, the Closing Disclosure clock, and rescission",
+    "text": "A sample week with no federal holiday might put application on Monday, the Loan Estimate on Thursday, and a separate Closing Disclosure wait that includes a Saturday. Example figures for the calendar only."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-23",
+    "reg-1026-2"
+  ],
+  "related": [
+    "business-day",
+    "cd-waiting-period-resets",
+    "closing-disclosure",
+    "confirm-receipt",
+    "consummation",
+    "faq-can-i-cancel-after-closing",
+    "faq-what-is-a-closing-disclosure",
+    "faq-what-is-a-loan-estimate",
+    "faq-what-is-the-three-day-rule",
+    "loan-estimate",
+    "right-of-rescission"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Regla de tres días hábiles",
+    "aliases": [],
+    "definition": "La gente dice regla de tres días para tres relojes distintos. La Estimación del préstamo vence tres días hábiles generales después de la solicitud. La Divulgación del cierre debe recibirse al menos tres días hábiles específicos antes de la consumación. El derecho a cancelar, cuando se aplica, también corre por tres días hábiles específicos. No es el mismo conteo.",
+    "details": "12 CFR 1026.19(e) es el reloj de la Estimación del préstamo y usa la definición general de día hábil en 12 CFR 1026.2(a)(6). 12 CFR 1026.19(f) es el reloj de la Divulgación del cierre y usa la definición específica: cada día excepto los domingos y los feriados legales federales. 12 CFR 1026.23 usa esa misma definición específica para la rescisión. Un sábado puede contar para la Divulgación del cierre aunque la oficina esté cerrada. Una compra por lo general no tiene período de rescisión.",
+    "complianceNotes": "Etiquete qué reloj está contando en el expediente. No programe el cierre de una compra tres días después de la firma como si se aplicara la rescisión. No cuente los días de la Divulgación del cierre con el calendario de oficina abierta.",
+    "example": {
+      "setting": "Calendario de divulgación que separa el reloj de la Estimación del préstamo, el de la Divulgación del cierre y la rescisión",
+      "text": "Una semana de muestra sin feriado federal podría poner la solicitud el lunes, la Estimación del préstamo el jueves, y una espera distinta de la Divulgación del cierre que incluye un sábado. Cifras de ejemplo solo para el calendario."
+    }
+  }
+}

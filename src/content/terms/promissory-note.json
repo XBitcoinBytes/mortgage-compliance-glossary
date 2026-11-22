@@ -1,0 +1,39 @@
+{
+  "slug": "promissory-note",
+  "term": "Promissory note",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The promissory note is your signed promise to repay the loan. It states the amount, the interest rate, the payment, and whether there is a prepayment penalty. The interest rate in the note is the note rate. It is not the APR.",
+  "details": "The Loan Estimate's interest rate under 12 CFR 1026.37 should match the note. A different rate is a disclosure error and may require a new Closing Disclosure if the APR becomes inaccurate or the product changes. The note, not the Closing Disclosure, is the contract you sue or get sued on. Consummation is often the signing of the note, if state law says that is when you become obligated.",
+  "complianceNotes": "Read the note rate, the payment, and the prepayment section against the Closing Disclosure before signing. Do not rely on the APR line as the note rate.",
+  "example": {
+    "setting": "Promissory note, interest rate and payment, compared with Loan Estimate page 1",
+    "text": "A sample note might promise to repay an example $325,000 at 6.375 percent. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-37"
+  ],
+  "related": [
+    "acceleration",
+    "closing-package",
+    "co-signer",
+    "consummation",
+    "note-rate",
+    "power-of-attorney",
+    "prepayment-penalty",
+    "security-instrument"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pagaré",
+    "aliases": [],
+    "definition": "El pagaré es su promesa firmada de pagar el préstamo. Indica el monto, la tasa de interés, el pago y si hay una penalidad por pago anticipado. La tasa de interés del pagaré es la tasa del pagaré. No es la tasa porcentual anual.",
+    "details": "La tasa de interés de la Estimación del préstamo según 12 CFR 1026.37 debe coincidir con el pagaré. Una tasa distinta es un error de divulgación y puede exigir una nueva Divulgación del cierre si la tasa porcentual anual se vuelve inexacta o cambia el producto. El pagaré, no la Divulgación del cierre, es el contrato por el que se demanda. La consumación a menudo es la firma del pagaré, si la ley estatal dice que entonces usted queda obligado.",
+    "complianceNotes": "Lea la tasa del pagaré, el pago y la sección de pago anticipado contra la Divulgación del cierre antes de firmar. No se apoye en la línea de la tasa porcentual anual como la tasa del pagaré.",
+    "example": {
+      "setting": "Pagaré, tasa de interés y pago, comparados con la página 1 de la Estimación del préstamo",
+      "text": "Un pagaré de muestra podría prometer pagar un ejemplo de $325,000 al 6.375 por ciento. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "marketing-services-agreement",
+  "term": "Marketing services agreement",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A marketing services agreement is a contract to pay for actual marketing, such as a measurable advertising placement. Under RESPA it becomes a problem when the payment tracks referrals rather than the fair value of real services. There is no regulation that blesses these agreements as a class.",
+  "details": "12 CFR 1024.14 is the rule. The CFPB has brought cases where marketing agreements were used to pay for referrals. A lawful agreement, if one exists on the facts, pays for services that are actually performed, at a price that reflects those services, and not for a quota of leads or closings. This entry is flagged because the safe path is fact-specific and there is no CFR safe harbor.",
+  "complianceNotes": "Do not sign a per-closing marketing deal. Have counsel review the services, the price, and the tracking. Keep proof the service was performed. This page does not provide a template for hiding a referral fee.",
+  "example": {
+    "setting": "Marketing contract reviewed for whether it pays for services or for referrals",
+    "text": "A sample contract paying an example $300 per closed loan for a logo on a website would be treated as a referral payment until the services were proved. Example figures of a risk, not a model."
+  },
+  "citations": [
+    "reg-1024-14",
+    "cfpb-mortgage-resources"
+  ],
+  "related": [
+    "affiliated-business-arrangement",
+    "kickback",
+    "mortgage-advertising",
+    "respa-section-8",
+    "thing-of-value"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Acuerdo de servicios de mercadeo",
+    "aliases": [],
+    "definition": "Un acuerdo de servicios de mercadeo es un contrato para pagar mercadeo real, como una colocación publicitaria medible. Según RESPA se vuelve un problema cuando el pago sigue a las referencias y no al valor justo de servicios reales. No hay un reglamento que bendiga estos acuerdos como clase.",
+    "details": "12 CFR 1024.14 es la regla. La CFPB ha presentado casos en los que los acuerdos de mercadeo se usaron para pagar referencias. Un acuerdo lícito, si existe según los hechos, paga por servicios que de verdad se prestan, a un precio que refleja esos servicios, y no por una cuota de clientes potenciales o de cierres. Esta entrada está marcada porque la vía segura depende de los hechos y no hay un puerto seguro en el CFR.",
+    "complianceNotes": "No firme un acuerdo de mercadeo por cada cierre. Haga que un asesor revise los servicios, el precio y el seguimiento. Conserve la prueba de que el servicio se prestó. Esta página no proporciona una plantilla para ocultar un cargo por referencia.",
+    "example": {
+      "setting": "Contrato de mercadeo revisado para ver si paga por servicios o por referencias",
+      "text": "Un contrato de muestra que paga un ejemplo de $300 por préstamo cerrado por un logotipo en un sitio web se trataría como un pago por referencia hasta que se probaran los servicios. Cifras de ejemplo de un riesgo, no un modelo."
+    }
+  },
+  "reviewFlag": "Marketing services agreements have no regulatory safe harbor. Counsel should review any proposed agreement against 12 CFR 1024.14 and current CFPB enforcement."
+}

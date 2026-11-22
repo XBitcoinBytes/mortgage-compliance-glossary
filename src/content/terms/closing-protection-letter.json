@@ -1,0 +1,35 @@
+{
+  "slug": "closing-protection-letter",
+  "term": "Closing protection letter",
+  "aliases": [],
+  "category": "closing",
+  "definition": "A closing protection letter is a title underwriter's letter that covers certain misdeeds of the settlement agent, such as not following the lender's instructions. It protects the party named in the letter, often the lender. It is not the title policy.",
+  "details": "The fee, when charged, is a settlement service on the Loan Estimate. Its section and tolerance follow whether the consumer can shop for the provider. State law and the title underwriter decide whether a letter is available to the buyer. There is no federal requirement that every closing include one.",
+  "complianceNotes": "If the lender requires the letter, disclose the fee in the correct section and obtain the letter before funding. Do not describe it to the borrower as owner's title insurance.",
+  "example": {
+    "setting": "Closing protection letter fee on the Loan Estimate, often with title charges",
+    "text": "A sample letter fee might be an example $50 in Section C. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-37"
+  ],
+  "related": [
+    "lenders-title-policy",
+    "services-you-can-shop-for",
+    "settlement-agent",
+    "title-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Carta de protección del cierre",
+    "aliases": [],
+    "definition": "Una carta de protección del cierre es una carta de la aseguradora de título que cubre ciertos actos indebidos del agente de liquidación, como no seguir las instrucciones del prestamista. Protege a la parte nombrada en la carta, a menudo al prestamista. No es la póliza de título.",
+    "details": "El cargo, cuando se cobra, es un servicio de liquidación en la Estimación del préstamo. Su sección y su tolerancia siguen si el consumidor puede comparar al proveedor. La ley estatal y la aseguradora de título deciden si hay una carta disponible para el comprador. No hay un requisito federal de que todo cierre incluya una.",
+    "complianceNotes": "Si el prestamista exige la carta, divulgue el cargo en la sección correcta y obtenga la carta antes del desembolso. No se la describa al prestatario como seguro de título del propietario.",
+    "example": {
+      "setting": "Cargo de la carta de protección del cierre en la Estimación del préstamo, a menudo con los cargos de título",
+      "text": "Un cargo de carta de muestra podría ser un ejemplo de $50 en la Sección C. Cifras de ejemplo."
+    }
+  }
+}

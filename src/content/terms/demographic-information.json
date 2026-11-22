@@ -1,0 +1,37 @@
+{
+  "slug": "demographic-information",
+  "term": "Demographic information",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Demographic information for mortgage monitoring includes ethnicity, race, and sex. Creditors collect it on covered applications so the government can monitor lending. Collecting it is required in the cases the regulations name. Using it to make the credit decision is forbidden.",
+  "details": "Regulation B, 12 CFR 1002.13, is the monitoring-information rule. Regulation C, 12 CFR 1003.4, includes the HMDA demographic fields. If the applicant does not provide the information in a face-to-face or video application, the creditor may have to note it based on visual observation or surname, as the current section requires. Read the current instruction. Do not guess when the section says not to.",
+  "complianceNotes": "Collect the data on the form provided, store it apart from the credit decision, and train underwriters not to open it to set a price. Report it accurately on the LAR.",
+  "example": {
+    "setting": "URLA demographic information section, collected for monitoring",
+    "text": "A sample URLA demographic section might be completed by the applicant and stored with an example application number 445. The number is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1002-13",
+    "reg-1003-4"
+  ],
+  "related": [
+    "ecoa",
+    "fair-lending",
+    "hmda",
+    "hmda-lar",
+    "regulation-b",
+    "regulation-c"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Información demográfica",
+    "aliases": [],
+    "definition": "La información demográfica para el monitoreo hipotecario incluye etnia, raza y sexo. Los acreedores la recogen en las solicitudes cubiertas para que el gobierno pueda monitorear el crédito. Recogerla es obligatorio en los casos que nombran los reglamentos. Usarla para tomar la decisión de crédito está prohibido.",
+    "details": "El Reglamento B, 12 CFR 1002.13, es la regla de información de monitoreo. El Reglamento C, 12 CFR 1003.4, incluye los campos demográficos de HMDA. Si el solicitante no proporciona la información en una solicitud cara a cara o por video, el acreedor puede tener que anotarla con base en la observación visual o el apellido, como exige la sección vigente. Lea la instrucción vigente. No adivine cuando la sección dice que no lo haga.",
+    "complianceNotes": "Recoja los datos en el formulario previsto, guárdelos aparte de la decisión de crédito y capacite a los suscriptores para que no los abran para fijar un precio. Repórtelos con exactitud en el registro.",
+    "example": {
+      "setting": "Sección de información demográfica de la URLA, recogida para monitoreo",
+      "text": "Una sección demográfica de una URLA de muestra puede ser completada por el solicitante y guardada con un número de solicitud de ejemplo 445. El número es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

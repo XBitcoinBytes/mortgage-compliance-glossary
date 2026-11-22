@@ -1,0 +1,37 @@
+{
+  "slug": "non-borrowing-spouse",
+  "term": "Non-borrowing spouse",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A non-borrowing spouse is a husband or wife who is not applying for the loan and does not sign the note. The creditor generally cannot require that spouse's signature just because the couple is married. In a community-property state, that spouse's debts can still be included.",
+  "details": "12 CFR 1002.7 limits required signatures of a spouse or other person. The agency guides add the community-property debt search. Title practice may still need a signature on the security instrument to clear a marital interest, which is not the same as making the spouse personally liable on the note. Document why any signature was required.",
+  "complianceNotes": "Do not add the spouse as a borrower to cure a debt-ratio problem without an application from that person. If a signature is required only to release a homestead or marital interest, say so in the file and do not underwrite the spouse's income as if they applied.",
+  "example": {
+    "setting": "Application, marital status, with the spouse not listed as a borrower",
+    "text": "A sample file might leave a spouse off an example $300,000 note while still counting a community-property debt of $200 a month. Example figures."
+  },
+  "citations": [
+    "reg-1002-7",
+    "fannie-guide"
+  ],
+  "related": [
+    "co-borrower",
+    "co-signer",
+    "community-property",
+    "debt-to-income-ratio",
+    "occupancy",
+    "regulation-b"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cónyuge que no solicita",
+    "aliases": [],
+    "definition": "Un cónyuge que no solicita es un esposo o una esposa que no solicita el préstamo y no firma el pagaré. El acreedor por lo general no puede exigir la firma de ese cónyuge solo porque la pareja está casada. En un estado de comunidad conyugal, las deudas de ese cónyuge igual pueden incluirse.",
+    "details": "12 CFR 1002.7 limita las firmas exigidas de un cónyuge u otra persona. Las guías de las agencias agregan la búsqueda de deudas de comunidad conyugal. La práctica de título puede igual necesitar una firma en el instrumento de garantía para limpiar un interés marital, lo que no es lo mismo que hacer al cónyuge personalmente responsable en el pagaré. Documente por qué se exigió cualquier firma.",
+    "complianceNotes": "No agregue al cónyuge como prestatario para resolver un problema de relación de deudas sin una solicitud de esa persona. Si una firma se exige solo para liberar un homestead o un interés marital, dígalo en el expediente y no suscriba el ingreso del cónyuge como si hubiera solicitado.",
+    "example": {
+      "setting": "Solicitud, estado civil, con el cónyuge no listado como prestatario",
+      "text": "Un expediente de muestra puede dejar a un cónyuge fuera de un pagaré de ejemplo de $300,000 y todavía contar una deuda de comunidad conyugal de $200 al mes. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "rate-lock",
+  "term": "Rate lock",
+  "aliases": [
+    "lock",
+    "rate lock-in"
+  ],
+  "category": "origination",
+  "definition": "A rate lock is the creditor's commitment to hold a stated interest rate and points for a set time. If the lock expires before closing, the rate can change unless you and the creditor agree to extend it. A lock is a contract term, not a right to a later lower rate.",
+  "details": "The Loan Estimate must say whether the rate is locked and, if it is, the date and time the lock expires. That disclosure is part of 12 CFR 1026.37. There is no federal rule that sets how long a lock must last or what an extension may cost. Those terms belong in the lock agreement. A lock expiration is not automatically a changed circumstance that permits a worse price.",
+  "complianceNotes": "Match the lock confirmation to the rate, points, expiration, and product on the Loan Estimate and the later Closing Disclosure. If the lock expires, document the consumer's choice to extend, relock, or float. Do not silently reprice.",
+  "example": {
+    "setting": "Loan Estimate, page 1, Rate Lock: YES or NO, and the lock expiration date and time",
+    "text": "A sample Loan Estimate might show the rate locked at 6.375 percent until 5:00 p.m. on a stated day, with discount points of 0.500 percent of an example $400,000 loan. Example figures, not a rate sheet."
+  },
+  "citations": [
+    "reg-1026-37",
+    "cfpb-le",
+    "practice-file"
+  ],
+  "related": [
+    "faq-what-is-a-rate-lock",
+    "float-down",
+    "loan-estimate",
+    "note-rate",
+    "rate-lock-confirmation",
+    "rate-lock-extension",
+    "revised-loan-estimate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Fijación de la tasa",
+    "aliases": [
+      "tasa inmodificable"
+    ],
+    "definition": "La fijación de la tasa es el compromiso del acreedor de mantener una tasa de interés y unos puntos durante un tiempo determinado. Si la fijación vence antes del cierre, la tasa puede cambiar, salvo que usted y el acreedor acuerden extenderla. La fijación es un término del contrato, no un derecho a una tasa más baja posterior.",
+    "details": "La Estimación del préstamo debe decir si la tasa está fijada y, si lo está, la fecha y la hora en que vence. Esa divulgación es parte de 12 CFR 1026.37. No hay una regla federal que fije cuánto debe durar una fijación ni cuánto puede costar una extensión. Esos términos están en el acuerdo de fijación. El vencimiento no es automáticamente una circunstancia cambiada que permita un precio peor.",
+    "complianceNotes": "Haga coincidir la confirmación de fijación con la tasa, los puntos, el vencimiento y el producto de la Estimación del préstamo y de la Divulgación del cierre. Si la fijación vence, documente la decisión del consumidor de extender, volver a fijar o dejar flotar la tasa. No cambie el precio en silencio.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, Fijación de la tasa: SÍ o NO, y la fecha y hora en que vence",
+      "text": "Una Estimación del préstamo de muestra puede mostrar la tasa fijada en 6.375 por ciento hasta las 5:00 p.m. de un día indicado, con puntos de descuento del 0.500 por ciento de un préstamo de ejemplo de $400,000. Cifras de ejemplo, no una hoja de tasas."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "written-list-of-providers",
+  "term": "Written list of providers",
+  "aliases": [
+    "SSPL"
+  ],
+  "category": "origination",
+  "definition": "The written list of providers names at least one available provider for each service you are allowed to shop for. If you pick a provider on that list, the fee generally stays in the 10 percent tolerance group. If you pick someone else, the fee can change without that limit.",
+  "details": "12 CFR 1026.19 requires the list when the consumer can shop. It must identify services for which the consumer may shop and include sufficient contact information. Giving the list on time is what makes the shopping rule work. A list given after the consumer has already been steered to one provider does not fix the tolerance treatment.",
+  "complianceNotes": "Send the list with the Loan Estimate and keep proof of delivery. Identify each shoppable service, not a generic title company for every fee. If the consumer picks off the list, move that charge out of the 10 percent bucket and document the choice.",
+  "example": {
+    "setting": "Written list of service providers given with the Loan Estimate, identifying providers for Section C services",
+    "text": "A sample list might name one title company for lender's title insurance with an example fee of $1,450, and state that the consumer may choose another company. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-37"
+  ],
+  "related": [
+    "faq-who-chooses-the-title-company",
+    "required-use",
+    "services-you-can-shop-for",
+    "services-you-cannot-shop-for",
+    "settlement-agent",
+    "ten-percent-tolerance",
+    "title-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Lista escrita de proveedores",
+    "aliases": [
+      "lista de proveedores"
+    ],
+    "definition": "La lista escrita de proveedores nombra al menos un proveedor disponible para cada servicio que a usted se le permite comparar. Si usted elige un proveedor de esa lista, el cargo por lo general permanece en el grupo de tolerancia del 10 por ciento. Si elige a otra persona, el cargo puede cambiar sin ese límite.",
+    "details": "12 CFR 1026.19 exige la lista cuando el consumidor puede comparar. Debe identificar los servicios que el consumidor puede comparar e incluir información de contacto suficiente. Entregar la lista a tiempo es lo que hace funcionar la regla. Una lista entregada después de que el consumidor ya fue dirigido a un solo proveedor no corrige el tratamiento de la tolerancia.",
+    "complianceNotes": "Envíe la lista con la Estimación del préstamo y conserve la prueba de entrega. Identifique cada servicio que se puede comparar, no una compañía de título genérica para todos los cargos. Si el consumidor elige fuera de la lista, saque ese cargo del grupo del 10 por ciento y documente la elección.",
+    "example": {
+      "setting": "Lista escrita de proveedores de servicios entregada con la Estimación del préstamo, que identifica proveedores para los servicios de la Sección C",
+      "text": "Una lista de muestra puede nombrar una compañía de título para el seguro de título del prestamista con un cargo de ejemplo de $1,450, y decir que el consumidor puede elegir otra compañía. Cifras de ejemplo."
+    }
+  }
+}

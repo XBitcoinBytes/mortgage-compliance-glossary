@@ -1,0 +1,37 @@
+{
+  "slug": "required-use",
+  "term": "Required use",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Required use means requiring a consumer to use a particular settlement-service provider. RESPA generally prohibits required use of an affiliate. A consumer who is free to shop may still choose the affiliate. Telling the consumer the loan will be denied if they pick another title company is required use.",
+  "details": "12 CFR 1024.2 defines required use, and 12 CFR 1024.15 uses that idea in the affiliated-business conditions. A written list of providers under TRID is a different rule about tolerance buckets. Putting only the affiliate on that list, with no real chance to shop, can be both a tolerance problem and a required-use problem.",
+  "complianceNotes": "Say, in the AfBA disclosure and in practice, that the consumer may choose another provider. Do not condition approval on the affiliate. If the creditor legitimately selects a provider the consumer cannot shop for, put the fee in Section B and do not call it a shoppable affiliate referral.",
+  "example": {
+    "setting": "Affiliated-business disclosure, the statement that use of the affiliate is not required",
+    "text": "A sample script that says the example title fee of $1,200 is available only from the lender's affiliate would be required use. Example figures."
+  },
+  "citations": [
+    "reg-1024-15",
+    "reg-1024-2"
+  ],
+  "related": [
+    "affiliated-business-arrangement",
+    "faq-who-chooses-the-title-company",
+    "respa-section-8",
+    "settlement-service",
+    "title-insurance",
+    "written-list-of-providers"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Uso obligatorio",
+    "aliases": [],
+    "definition": "Uso obligatorio significa exigir a un consumidor que use un proveedor particular de servicios de liquidación. RESPA por lo general prohíbe el uso obligatorio de un afiliado. Un consumidor que es libre de comparar igual puede elegir al afiliado. Decirle al consumidor que el préstamo se negará si elige otra compañía de título es uso obligatorio.",
+    "details": "12 CFR 1024.2 define el uso obligatorio, y 12 CFR 1024.15 usa esa idea en las condiciones del negocio afiliado. Una lista escrita de proveedores según TRID es una regla distinta sobre los grupos de tolerancia. Poner solo al afiliado en esa lista, sin una oportunidad real de comparar, puede ser tanto un problema de tolerancia como un problema de uso obligatorio.",
+    "complianceNotes": "Diga, en la divulgación del arreglo y en la práctica, que el consumidor puede elegir otro proveedor. No condicione la aprobación al afiliado. Si el acreedor selecciona legítimamente un proveedor que el consumidor no puede comparar, ponga el cargo en la Sección B y no lo llame una referencia de un afiliado que se puede comparar.",
+    "example": {
+      "setting": "Divulgación de negocio afiliado, la declaración de que el uso del afiliado no es obligatorio",
+      "text": "Un guion de muestra que dice que el cargo de título de ejemplo de $1,200 está disponible solo del afiliado del prestamista sería uso obligatorio. Cifras de ejemplo."
+    }
+  }
+}

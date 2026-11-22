@@ -1,0 +1,36 @@
+{
+  "slug": "comparisons-table",
+  "term": "Comparisons table",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The comparisons table shows how much you will have paid in principal, interest, and mortgage insurance in five years, and how much principal you will have paid off. It also shows the APR and the total interest percentage. It is a comparison, not a bill.",
+  "details": "12 CFR 1026.38 requires these comparisons on the Closing Disclosure, and 12 CFR 1026.37 requires related comparisons on the Loan Estimate. The five-year figures assume scheduled payments. They change if the loan amount, the rate, or mortgage insurance changes. The APR in the table should match the APR in the loan calculations.",
+  "complianceNotes": "Use the table when a borrower compares a shorter term with a longer one. Do not let the five-year principal reduction be described as cash the borrower receives.",
+  "example": {
+    "setting": "Closing Disclosure, page 5, Comparisons: in five years, APR, and TIP",
+    "text": "A sample five-year line might show an example $72,000 paid and $28,000 of principal reduction. Example figures."
+  },
+  "citations": [
+    "reg-1026-38",
+    "reg-1026-37"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "closing-disclosure",
+    "loan-calculations",
+    "note-rate",
+    "total-interest-percentage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tabla de comparaciones",
+    "aliases": [],
+    "definition": "La tabla de comparaciones muestra cuánto habrá pagado en capital, interés y seguro hipotecario en cinco años, y cuánto capital habrá pagado. También muestra la tasa porcentual anual y el porcentaje total de interés. Es una comparación, no una factura.",
+    "details": "12 CFR 1026.38 exige estas comparaciones en la Divulgación del cierre, y 12 CFR 1026.37 exige comparaciones relacionadas en la Estimación del préstamo. Las cifras de cinco años suponen los pagos programados. Cambian si cambia el monto del préstamo, la tasa o el seguro hipotecario. La tasa porcentual anual de la tabla debe coincidir con la tasa porcentual anual de los cálculos del préstamo.",
+    "complianceNotes": "Use la tabla cuando un prestatario compara un plazo más corto con uno más largo. No deje que la reducción de capital a cinco años se describa como efectivo que el prestatario recibe.",
+    "example": {
+      "setting": "Divulgación del cierre, página 5, Comparaciones: en cinco años, APR y TIP",
+      "text": "Una línea de cinco años de muestra podría mostrar un ejemplo de $72,000 pagados y $28,000 de reducción de capital. Cifras de ejemplo."
+    }
+  }
+}

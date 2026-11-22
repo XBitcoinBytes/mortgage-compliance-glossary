@@ -1,0 +1,38 @@
+{
+  "slug": "freddie-mac",
+  "term": "Freddie Mac",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "Freddie Mac is a government-sponsored enterprise that buys mortgages and issues guaranteed securities. Borrowers apply with a lender, not with Freddie Mac. The lender uses the Seller/Servicer Guide and Loan Product Advisor.",
+  "details": "Freddie Mac is not Fannie Mae. A DU finding does not make a loan eligible for Freddie Mac, and an LPA finding does not make it eligible for Fannie Mae. Loan limits still come from FHFA. Home Possible is Freddie Mac's affordable product. Servicing obligations after sale are in Freddie Mac's guide.",
+  "complianceNotes": "Run LPA if you will sell to Freddie Mac. Do not deliver a Fannie Mae DU file to Freddie Mac. Keep the feedback certificate that matches the note.",
+  "example": {
+    "setting": "Loan sold to Freddie Mac under the Seller/Servicer Guide",
+    "text": "A sample LPA loan of an example $265,000 might be delivered to Freddie Mac. Example figures."
+  },
+  "citations": [
+    "freddie-guide",
+    "freddie-lpa"
+  ],
+  "related": [
+    "conforming-loan",
+    "conforming-loan-limit",
+    "fannie-mae",
+    "ginnie-mae",
+    "home-possible",
+    "loan-product-advisor",
+    "uniform-collateral-data-portal"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Freddie Mac",
+    "aliases": [],
+    "definition": "Freddie Mac es una empresa patrocinada por el gobierno que compra hipotecas y emite valores garantizados. Los prestatarios solicitan con un prestamista, no con Freddie Mac. El prestamista usa la Guía del vendedor/administrador y Loan Product Advisor.",
+    "details": "Freddie Mac no es Fannie Mae. Un hallazgo de DU no hace que un préstamo sea elegible para Freddie Mac, y un hallazgo de LPA no lo hace elegible para Fannie Mae. Los límites de préstamo igual vienen de la FHFA. Home Possible es el producto asequible de Freddie Mac. Las obligaciones de administración después de la venta están en la guía de Freddie Mac.",
+    "complianceNotes": "Ejecute LPA si venderá a Freddie Mac. No entregue un expediente de DU de Fannie Mae a Freddie Mac. Conserve el certificado de retroalimentación que coincide con el pagaré.",
+    "example": {
+      "setting": "Préstamo vendido a Freddie Mac según la Guía del vendedor/administrador",
+      "text": "Un préstamo LPA de muestra de un ejemplo de $265,000 podría entregarse a Freddie Mac. Cifras de ejemplo."
+    }
+  }
+}

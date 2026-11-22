@@ -1,0 +1,46 @@
+{
+  "slug": "lender-credits",
+  "term": "Lender credits",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Lender credits are amounts the creditor contributes toward your closing costs. A common reason is that you accepted a higher interest rate. A credit reduces what you bring to closing. It is not a gift and it is not the same thing as the originator's paycheck.",
+  "details": "12 CFR 1026.37 and 12 CFR 1026.38 prescribe where lender credits appear on the Loan Estimate and Closing Disclosure. A specific credit for a specific fee and a general credit are disclosed differently. Credits interact with tolerance cures: a general credit can be part of how the creditor makes the consumer whole if a charge increased too much. Lowering a credit can be an increase in the consumer's cost.",
+  "complianceNotes": "Do not reduce a disclosed lender credit to cure a pricing error unless the revision rules allow it. Compare the credit on the Loan Estimate with the credit on the Closing Disclosure. Keep the rate-sheet print that shows the credit was the price of the rate.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section J, Lender Credits",
+    "text": "A sample Section J might show a lender credit of $2,250 against closing costs on an example $300,000 loan with a slightly higher note rate. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-38",
+    "reg-1026-19"
+  ],
+  "related": [
+    "cash-to-close",
+    "cash-to-close-calculation",
+    "closing-costs",
+    "discount-points",
+    "faq-how-much-are-closing-costs",
+    "faq-what-are-points",
+    "float-down",
+    "interested-party-contributions",
+    "lender-paid-compensation",
+    "lender-paid-mortgage-insurance",
+    "origination-charges",
+    "seller-concessions",
+    "seller-credits",
+    "tolerance-cure"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Créditos del prestamista",
+    "aliases": [],
+    "definition": "Los créditos del prestamista son cantidades que el acreedor aporta para sus costos de cierre. Una razón común es que usted aceptó una tasa de interés más alta. Un crédito reduce lo que usted lleva al cierre. No es un regalo y no es lo mismo que el pago del originador.",
+    "details": "12 CFR 1026.37 y 12 CFR 1026.38 indican dónde aparecen los créditos del prestamista en la Estimación del préstamo y en la Divulgación del cierre. Un crédito específico para un cargo específico y un crédito general se divulgan de modo distinto. Los créditos interactúan con las correcciones de tolerancia: un crédito general puede ser parte de cómo el acreedor compensa al consumidor si un cargo aumentó demasiado. Bajar un crédito puede ser un aumento del costo para el consumidor.",
+    "complianceNotes": "No reduzca un crédito del prestamista ya divulgado para corregir un error de precio, salvo que las reglas de revisión lo permitan. Compare el crédito de la Estimación del préstamo con el de la Divulgación del cierre. Conserve la hoja de tasas que muestra que el crédito era el precio de la tasa.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección J, Créditos del prestamista",
+      "text": "Una Sección J de muestra puede mostrar un crédito del prestamista de $2,250 contra los costos de cierre en un préstamo de ejemplo de $300,000 con una tasa del pagaré un poco más alta. Cifras de ejemplo."
+    }
+  }
+}

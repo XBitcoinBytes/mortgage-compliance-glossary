@@ -1,0 +1,42 @@
+{
+  "slug": "loan-modification",
+  "term": "Loan modification",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A loan modification permanently changes one or more terms of the mortgage, such as the rate, the term, or the principal, so the payment is more affordable. It is not a refinance, because you generally do not sign a new loan with a new lender's closing disclosure in the same way, and it is not a forbearance.",
+  "details": "12 CFR 1024.41 governs the review of a complete application. Fannie Mae, Freddie Mac, FHA, VA, and USDA each publish the modification they will accept. Capitalizing arrears increases the balance. Extending the term lowers the payment and can increase total interest. A denial of a loan-modification option can carry an appeal right under 1024.41 when the section's conditions are met.",
+  "complianceNotes": "Evaluate the investor's waterfall, not a homemade payment. Send the written decision. Do not proceed to sale while the appeal window is open if the section forbids it.",
+  "example": {
+    "setting": "Permanent modification agreement changing the rate, term, or balance",
+    "text": "A sample modification might cut an example payment from $2,100 to $1,740 by extending the term. Example figures, not a required offer."
+  },
+  "citations": [
+    "reg-1024-41",
+    "fannie-guide",
+    "hud-4000-1"
+  ],
+  "related": [
+    "faq-what-is-forbearance",
+    "forbearance",
+    "foreclosure",
+    "loss-mitigation",
+    "loss-mitigation-appeal",
+    "loss-mitigation-application",
+    "partial-claim",
+    "payment-deferral",
+    "repayment-plan",
+    "short-sale"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Modificación del préstamo",
+    "aliases": [],
+    "definition": "Una modificación del préstamo cambia de manera permanente uno o más términos de la hipoteca, como la tasa, el plazo o el capital, para que el pago sea más asequible. No es un refinanciamiento, porque usted por lo general no firma un préstamo nuevo con una divulgación de cierre del mismo modo, y no es una indulgencia.",
+    "details": "12 CFR 1024.41 rige la revisión de una solicitud completa. Fannie Mae, Freddie Mac, la FHA, VA y USDA publican cada uno la modificación que aceptarán. Capitalizar los atrasos aumenta el saldo. Extender el plazo baja el pago y puede aumentar el interés total. Una denegación de una opción de modificación puede llevar un derecho de apelación según 1024.41 cuando se cumplen las condiciones de la sección.",
+    "complianceNotes": "Evalúe la cascada del inversionista, no un pago casero. Envíe la decisión por escrito. No proceda a la venta mientras la ventana de apelación está abierta si la sección lo prohíbe.",
+    "example": {
+      "setting": "Acuerdo de modificación permanente que cambia la tasa, el plazo o el saldo",
+      "text": "Una modificación de muestra podría bajar un pago de ejemplo de $2,100 a $1,740 al extender el plazo. Cifras de ejemplo, no una oferta exigida."
+    }
+  }
+}

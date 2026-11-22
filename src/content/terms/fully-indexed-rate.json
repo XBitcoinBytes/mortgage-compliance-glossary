@@ -1,0 +1,36 @@
+{
+  "slug": "fully-indexed-rate",
+  "term": "Fully indexed rate",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "The fully indexed rate is the index plus the margin, before caps and before any discounted start rate. It is a way to see the rate the loan points toward. It is not always the rate used to qualify the borrower, and it is not always the rate charged in year one.",
+  "details": "Fannie Mae B3-6-04 states which rate is used to qualify an ARM. Do not assume every ARM is qualified at the fully indexed rate. Ability to repay under 12 CFR 1026.43 has its own payment rule for covered loans. The adjustment notice estimates the upcoming rate, which may be the fully indexed rate limited by a cap.",
+  "complianceNotes": "Show the start rate and the fully indexed rate as different numbers when they differ. Use the guide's qualifying rate in the debt ratio. Do not qualify on a teaser without checking B3-6-04.",
+  "example": {
+    "setting": "Underwriting worksheet showing index plus margin, which may differ from the start rate",
+    "text": "A sample index of 4.00 percent plus a margin of 2.50 percent is a fully indexed example of 6.50 percent, while the start rate might be 5.75 percent. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-04",
+    "reg-1026-20"
+  ],
+  "related": [
+    "ability-to-repay",
+    "adjustable-rate-mortgage",
+    "arm-index",
+    "arm-margin",
+    "qualifying-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tasa totalmente indexada",
+    "aliases": [],
+    "definition": "La tasa totalmente indexada es el índice más el margen, antes de los topes y antes de cualquier tasa inicial con descuento. Es una forma de ver la tasa hacia la que apunta el préstamo. No siempre es la tasa usada para calificar al prestatario, y no siempre es la tasa cobrada en el primer año.",
+    "details": "Fannie Mae B3-6-04 establece qué tasa se usa para calificar una ARM. No suponga que toda ARM se califica a la tasa totalmente indexada. La capacidad de pago según 12 CFR 1026.43 tiene su propia regla de pago para los préstamos cubiertos. El aviso de ajuste estima la tasa próxima, que puede ser la tasa totalmente indexada limitada por un tope.",
+    "complianceNotes": "Muestre la tasa inicial y la tasa totalmente indexada como números distintos cuando difieren. Use la tasa de calificación de la guía en la relación de deudas. No califique con una tasa promocional sin revisar B3-6-04.",
+    "example": {
+      "setting": "Hoja de suscripción que muestra el índice más el margen, que puede diferir de la tasa inicial",
+      "text": "Un índice de muestra del 4.00 por ciento más un margen del 2.50 por ciento es un ejemplo totalmente indexado del 6.50 por ciento, mientras la tasa inicial podría ser del 5.75 por ciento. Cifras de ejemplo."
+    }
+  }
+}

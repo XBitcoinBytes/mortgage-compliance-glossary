@@ -1,0 +1,42 @@
+{
+  "slug": "earnest-money",
+  "term": "Earnest money",
+  "aliases": [
+    "good-faith deposit"
+  ],
+  "category": "origination",
+  "definition": "Earnest money is the deposit you pay under the purchase contract to show you intend to buy. At closing it is usually credited toward your cash to close. It is not the whole down payment unless the contract and the numbers say it is.",
+  "details": "Agency asset rules require the lender to verify the source of earnest money when it is needed to qualify, including a large deposit that funded the check. On the Closing Disclosure, the deposit is a line in the summaries of transactions that reduces the cash due from the buyer. Canceling the contract and who keeps the deposit are contract and state-law questions, not TRID questions.",
+  "complianceNotes": "Collect the cancelled check or wire and the receipt from the escrow holder. If the deposit was a large deposit, source it. Make sure page 3 of the Closing Disclosure credits the same amount the contract receipt shows.",
+  "example": {
+    "setting": "Closing Disclosure, page 3, Summaries of Transactions, deposit or earnest money line",
+    "text": "A sample contract might show a $5,000 earnest-money deposit credited on page 3 against an example $40,000 cash to close. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "practice-file"
+  ],
+  "related": [
+    "cash-to-close",
+    "down-payment",
+    "faq-what-is-a-down-payment",
+    "faq-what-is-earnest-money",
+    "gift-funds",
+    "purchase-agreement",
+    "source-of-funds"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Dinero de arras",
+    "aliases": [
+      "depósito de garantía del comprador"
+    ],
+    "definition": "El dinero de arras es el depósito que usted paga según el contrato de compra para mostrar que piensa comprar. En el cierre por lo general se acredita a su efectivo para el cierre. No es todo el pago inicial, salvo que el contrato y los números lo digan.",
+    "details": "Las reglas de activos de las agencias exigen que el prestamista verifique la fuente del dinero de arras cuando se necesita para calificar, incluido un depósito grande que financió el cheque. En la Divulgación del cierre, el depósito es una línea en los resúmenes de transacciones que reduce el efectivo que debe el comprador. Cancelar el contrato y quién se queda con el depósito son cuestiones del contrato y de la ley estatal, no de TRID.",
+    "complianceNotes": "Recoja el cheque cancelado o la transferencia y el recibo del depositario. Si el depósito fue un depósito grande, documente su origen. Asegúrese de que la página 3 de la Divulgación del cierre acredite el mismo monto que muestra el recibo del contrato.",
+    "example": {
+      "setting": "Divulgación del cierre, página 3, Resúmenes de transacciones, línea del depósito o dinero de arras",
+      "text": "Un contrato de muestra puede mostrar un depósito de arras de $5,000 acreditado en la página 3 contra un efectivo para el cierre de ejemplo de $40,000. Cifras de ejemplo."
+    }
+  }
+}

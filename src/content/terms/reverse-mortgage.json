@@ -1,0 +1,38 @@
+{
+  "slug": "reverse-mortgage",
+  "term": "Reverse mortgage",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A reverse mortgage converts home equity into payments or a line, generally repaid when the borrower dies, sells, or no longer lives in the home as a principal residence. It is not free money. Interest and fees are added to the balance. The TRID Loan Estimate is not the form used for a reverse mortgage.",
+  "details": "FHA's version is the HECM, under 12 USC 1715z-20 and 24 CFR Part 206, with counseling required. Proprietary reverse mortgages are not HECMs and have their own disclosures. Occupancy is a central condition. Taxes and insurance still have to be paid. A reverse mortgage on a home the borrower will not occupy is not the product.",
+  "complianceNotes": "Require counseling before application as the program requires. Disclose that the balance grows. Do not issue a forward-mortgage Loan Estimate and call it a reverse mortgage.",
+  "example": {
+    "setting": "Reverse mortgage counseling certificate and the product disclosures, not a TRID Loan Estimate",
+    "text": "A sample HECM might advance an example monthly payment, with the balance increasing by interest. Example figures are not a principal limit."
+  },
+  "citations": [
+    "hud-4000-1",
+    "cfr-24-206"
+  ],
+  "related": [
+    "faq-what-is-a-reverse-mortgage",
+    "fha-loan",
+    "hecm",
+    "home-equity-loan",
+    "homeownership-counseling-list",
+    "occupancy",
+    "trid"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca inversa",
+    "aliases": [],
+    "definition": "Una hipoteca inversa convierte el valor líquido de la vivienda en pagos o en una línea, por lo general pagada cuando el prestatario muere, vende o ya no vive en la vivienda como residencia principal. No es dinero gratis. El interés y los cargos se suman al saldo. La Estimación del préstamo de TRID no es el formulario usado para una hipoteca inversa.",
+    "details": "La versión de la FHA es la HECM, según 12 USC 1715z-20 y 24 CFR Parte 206, con consejería exigida. Las hipotecas inversas privadas no son HECM y tienen sus propias divulgaciones. La ocupación es una condición central. Los impuestos y el seguro igual tienen que pagarse. Una hipoteca inversa sobre una vivienda que el prestatario no ocupará no es el producto.",
+    "complianceNotes": "Exija la consejería antes de la solicitud como requiere el programa. Divulgue que el saldo crece. No emita una Estimación del préstamo de una hipoteca tradicional y llámela hipoteca inversa.",
+    "example": {
+      "setting": "Certificado de consejería de hipoteca inversa y las divulgaciones del producto, no una Estimación del préstamo de TRID",
+      "text": "Una HECM de muestra podría adelantar un pago mensual de ejemplo, con el saldo aumentando por el interés. Las cifras de ejemplo no son un límite de capital. Cifras de ejemplo."
+    }
+  }
+}

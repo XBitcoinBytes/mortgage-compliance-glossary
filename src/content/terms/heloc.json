@@ -1,0 +1,43 @@
+{
+  "slug": "heloc",
+  "term": "HELOC",
+  "aliases": [
+    "HELOC",
+    "home equity line of credit"
+  ],
+  "category": "loan-programs",
+  "definition": "A HELOC is a home equity line of credit. You can borrow, repay, and borrow again up to a limit during the draw period. It is open-end credit. The TRID Loan Estimate and Closing Disclosure are not the forms used for a HELOC.",
+  "details": "12 CFR 1026.40 states the disclosure requirements for home-equity plans. A HELOC on a principal dwelling can carry a right of rescission under 12 CFR 1026.23. The undrawn limit counts in the HCLTV when a first mortgage is also being underwritten. The payment used in a debt ratio depends on the guide when the line is a debt on another loan's application. Variable rates and teasers must be disclosed as the HELOC rules require.",
+  "complianceNotes": "Do not issue a Loan Estimate for a HELOC. Give the open-end disclosures. If the line sits behind a new first mortgage, enter the full limit in HCLTV.",
+  "example": {
+    "setting": "HELOC early disclosures under Regulation Z, not a Loan Estimate",
+    "text": "A sample line might have an example limit of $40,000 and a $5,000 initial draw. Example figures."
+  },
+  "citations": [
+    "reg-1026-40",
+    "reg-1026-23"
+  ],
+  "related": [
+    "combined-loan-to-value",
+    "faq-what-is-a-heloc",
+    "hcltv",
+    "home-equity-loan",
+    "military-lending-act",
+    "revolving-debt",
+    "right-of-rescission",
+    "subordinate-financing",
+    "trid"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Línea de crédito con garantía hipotecaria",
+    "aliases": [],
+    "definition": "Una HELOC es una línea de crédito con garantía hipotecaria. Usted puede pedir prestado, pagar y volver a pedir hasta un límite durante el período de disposición. Es crédito abierto. La Estimación del préstamo y la Divulgación del cierre de TRID no son los formularios usados para una HELOC.",
+    "details": "12 CFR 1026.40 establece los requisitos de divulgación de los planes sobre el valor líquido. Una HELOC sobre una vivienda principal puede llevar un derecho de rescisión según 12 CFR 1026.23. El límite no dispuesto cuenta en la HCLTV cuando también se está suscribiendo una primera hipoteca. El pago usado en una relación de deudas depende de la guía cuando la línea es una deuda en la solicitud de otro préstamo. Las tasas variables y las tasas promocionales deben divulgarse como exigen las reglas de la HELOC.",
+    "complianceNotes": "No emita una Estimación del préstamo para una HELOC. Dé las divulgaciones de crédito abierto. Si la línea está detrás de una nueva primera hipoteca, ingrese el límite completo en la HCLTV.",
+    "example": {
+      "setting": "Divulgaciones tempranas de la HELOC según el Reglamento Z, no una Estimación del préstamo",
+      "text": "Una línea de muestra podría tener un límite de ejemplo de $40,000 y una disposición inicial de $5,000. Cifras de ejemplo."
+    }
+  }
+}

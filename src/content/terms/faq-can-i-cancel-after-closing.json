@@ -1,0 +1,35 @@
+{
+  "slug": "faq-can-i-cancel-after-closing",
+  "term": "Can I cancel the loan after I sign?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "On a purchase, you generally cannot cancel the loan after you sign just because you changed your mind. On many refinances and closed-end home-equity loans on your principal home, you can cancel until midnight of the third business day. The right is rescission. It is not the Closing Disclosure signature.",
+  "details": "12 CFR 1026.23 states who may rescind and the three specific business days. Each owner gets the notice. A waiver is limited to a bona fide personal financial emergency. The lender should not fund a rescindable loan before the period ends. A purchase is generally exempt.",
+  "complianceNotes": "Give the notice on covered refinances and count the days correctly. Do not give a false cancellation right on a purchase. Do not fund early.",
+  "example": {
+    "setting": "Notice of Right to Cancel, present on many refinances and absent on most purchases",
+    "text": "A sample refinance signed on Monday may be cancelled until midnight Thursday if there is no federal holiday. The days are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026-23"
+  ],
+  "related": [
+    "confirm-receipt",
+    "purchase-agreement",
+    "rate-and-term-refinance",
+    "right-of-rescission",
+    "three-business-day-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Puedo cancelar el préstamo después de firmar?",
+    "aliases": [],
+    "definition": "En una compra, usted por lo general no puede cancelar el préstamo después de firmar solo porque cambió de opinión. En muchos refinanciamientos y préstamos de valor líquido de crédito cerrado sobre su vivienda principal, usted puede cancelar hasta la medianoche del tercer día hábil. El derecho es la rescisión. No es la firma de la Divulgación del cierre.",
+    "details": "12 CFR 1026.23 establece quién puede rescindir y los tres días hábiles específicos. Cada propietario recibe el aviso. Una renuncia se limita a una emergencia financiera personal de buena fe. El prestamista no debe desembolsar un préstamo que se puede rescindir antes de que termine el período. Una compra por lo general está exenta.",
+    "complianceNotes": "Dé el aviso en los refinanciamientos cubiertos y cuente los días correctamente. No dé un falso derecho de cancelación en una compra. No desembolse antes de tiempo.",
+    "example": {
+      "setting": "Aviso del derecho a cancelar, presente en muchos refinanciamientos y ausente en la mayoría de las compras",
+      "text": "Un refinanciamiento de muestra firmado el lunes puede cancelarse hasta la medianoche del jueves si no hay un feriado federal. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

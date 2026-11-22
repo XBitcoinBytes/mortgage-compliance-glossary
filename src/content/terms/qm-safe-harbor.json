@@ -1,0 +1,37 @@
+{
+  "slug": "qm-safe-harbor",
+  "term": "Qualified mortgage safe harbor",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A qualified mortgage that is not a higher-priced mortgage loan receives a safe harbor of compliance with the ability-to-repay requirement. A safe harbor is stronger than a presumption the borrower can rebut. The label depends on price, not on the investor.",
+  "details": "12 CFR 1026.43 ties the safe harbor to a qualified mortgage that is not higher-priced under 12 CFR 1026.35. The higher-priced test compares the APR with the average prime offer rate. A loan can be a qualified mortgage and still be only a rebuttable presumption if the spread is too wide. Do not stamp safe harbor on every QM.",
+  "complianceNotes": "Calculate the APR and the APOR spread on the final numbers. Keep the comparison in the file. If the loan is higher-priced, label it as a rebuttable-presumption QM and complete any HPML escrow or appraisal duties.",
+  "example": {
+    "setting": "QM price test showing the loan is not higher-priced",
+    "text": "A sample comparison might show an example APR a small spread over APOR, inside or outside the higher-priced line only after the current section is applied. Example figures are not the threshold. A sample loan amount of $275,000 illustrates the file."
+  },
+  "citations": [
+    "reg-1026-43",
+    "reg-1026-35"
+  ],
+  "related": [
+    "ability-to-repay",
+    "annual-percentage-rate",
+    "general-qualified-mortgage",
+    "higher-priced-mortgage-loan",
+    "qualified-mortgage",
+    "rebuttable-presumption"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Puerto seguro de la hipoteca calificada",
+    "aliases": [],
+    "definition": "Una hipoteca calificada que no es una hipoteca de precio más alto recibe un puerto seguro de cumplimiento del requisito de capacidad de pago. Un puerto seguro es más fuerte que una presunción que el prestatario puede rebatir. La etiqueta depende del precio, no del inversionista.",
+    "details": "12 CFR 1026.43 ata el puerto seguro a una hipoteca calificada que no es de precio más alto según 12 CFR 1026.35. La prueba de precio más alto compara la tasa porcentual anual con la tasa de oferta preferente promedio. Un préstamo puede ser una hipoteca calificada y ser solo una presunción refutable si el diferencial es demasiado amplio. No ponga el sello de puerto seguro en toda QM.",
+    "complianceNotes": "Calcule la tasa porcentual anual y el diferencial sobre el APOR con los números finales. Conserve la comparación en el expediente. Si el préstamo es de precio más alto, etiquételo como una QM de presunción refutable y complete los deberes de depósito en garantía o de tasación de una HPML.",
+    "example": {
+      "setting": "Prueba de precio de la QM que muestra que el préstamo no es de precio más alto",
+      "text": "Una comparación de muestra puede mostrar una tasa porcentual anual de ejemplo con un diferencial pequeño sobre el APOR, dentro o fuera de la línea de precio más alto solo después de aplicar la sección vigente. Las cifras de ejemplo no son el umbral. Un monto de préstamo de muestra de $275,000 ilustra el expediente. Cifras de ejemplo."
+    }
+  }
+}

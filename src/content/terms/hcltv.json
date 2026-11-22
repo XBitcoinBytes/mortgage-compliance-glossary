@@ -1,0 +1,40 @@
+{
+  "slug": "hcltv",
+  "term": "HCLTV",
+  "aliases": [
+    "home equity combined loan-to-value"
+  ],
+  "category": "underwriting",
+  "definition": "HCLTV means home equity combined loan-to-value. It is like the combined ratio, except a HELOC is counted at its full credit limit, not only at the amount already drawn.",
+  "details": "Fannie Mae B2-1.2-01 distinguishes LTV, CLTV, and HCLTV. A borrower who has drawn $5,000 of a $40,000 HELOC can have a modest CLTV and a much higher HCLTV. The eligibility matrix uses the highest applicable ratio. Ignoring the undrawn limit is a common delivery error.",
+  "complianceNotes": "Collect the HELOC note and the current limit, not only the balance on the credit report. Enter the limit in the AUS. If the limit is reduced before closing, document the recorded modification.",
+  "example": {
+    "setting": "Underwriting transmittal, HELOC credit limit included even if undrawn",
+    "text": "On an example $360,000 value, a $280,000 first mortgage and a HELOC with a $40,000 limit and a $5,000 balance produce a CLTV near 79 percent and an HCLTV near 89 percent. Example figures."
+  },
+  "citations": [
+    "fannie-b2-1-2-01"
+  ],
+  "related": [
+    "combined-loan-to-value",
+    "faq-what-is-a-heloc",
+    "heloc",
+    "home-equity-loan",
+    "loan-to-value-ratio",
+    "subordinate-financing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "HCLTV",
+    "aliases": [
+      "relación combinada con línea de crédito"
+    ],
+    "definition": "HCLTV significa relación combinada préstamo-valor con línea de crédito. Es como la relación combinada, excepto que una HELOC se cuenta por su límite completo de crédito, no solo por el monto ya dispuesto.",
+    "details": "Fannie Mae B2-1.2-01 distingue LTV, CLTV y HCLTV. Un prestatario que dispuso $5,000 de una HELOC de $40,000 puede tener una CLTV modesta y una HCLTV mucho más alta. La matriz de elegibilidad usa la relación aplicable más alta. Ignorar el límite no dispuesto es un error común de entrega.",
+    "complianceNotes": "Recoja el pagaré de la HELOC y el límite vigente, no solo el saldo del informe de crédito. Ingrese el límite en el sistema automatizado. Si el límite se reduce antes del cierre, documente la modificación registrada.",
+    "example": {
+      "setting": "Hoja de transmisión de suscripción, límite de crédito de la HELOC incluido aunque no se haya dispuesto",
+      "text": "Sobre un valor de ejemplo de $360,000, una primera hipoteca de $280,000 y una HELOC con límite de $40,000 y saldo de $5,000 producen una CLTV cercana al 79 por ciento y una HCLTV cercana al 89 por ciento. Cifras de ejemplo."
+    }
+  }
+}

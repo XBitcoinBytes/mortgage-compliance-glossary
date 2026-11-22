@@ -1,0 +1,36 @@
+{
+  "slug": "business-day",
+  "term": "Business day",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Regulation Z uses two different meanings of business day. One is a day the creditor's offices are open to the public for most of its business. The other, used for the Closing Disclosure waiting period and the right to cancel, is every calendar day except Sundays and federal legal holidays.",
+  "details": "Both definitions are in 12 CFR 1026.2(a)(6). The general definition applies to the three-business-day period to deliver the Loan Estimate after application. The specific definition applies to the seven-business-day waiting period before consummation, the three-business-day Closing Disclosure period, and rescission. A Saturday can count for the Closing Disclosure even if the creditor's office is closed. A Sunday does not.",
+  "complianceNotes": "Put both calendars in the disclosure system and do not let staff count Closing Disclosure days with the office-open definition. Federal holidays, not state holidays, are the ones the specific definition drops. Document the receipt date, not only the send date.",
+  "example": {
+    "setting": "Compliance calendar used to count Loan Estimate and Closing Disclosure deadlines",
+    "text": "If a Closing Disclosure is received on a Thursday, Saturday and Monday might be the other two specific business days in a week with no federal holiday, so consummation could be Tuesday. Example figures for counting only."
+  },
+  "citations": [
+    "reg-1026-2"
+  ],
+  "related": [
+    "application-definition",
+    "closing-disclosure",
+    "faq-what-is-the-three-day-rule",
+    "loan-estimate",
+    "right-of-rescission",
+    "three-business-day-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Día hábil",
+    "aliases": [],
+    "definition": "El Reglamento Z usa dos significados distintos de día hábil. Uno es un día en que las oficinas del acreedor están abiertas al público para la mayor parte de su negocio. El otro, usado para la espera de la Divulgación del cierre y el derecho a cancelar, es cada día del calendario excepto los domingos y los feriados legales federales.",
+    "details": "Ambas definiciones están en 12 CFR 1026.2(a)(6). La definición general se aplica al plazo de tres días hábiles para entregar la Estimación del préstamo después de la solicitud. La definición específica se aplica al plazo de siete días hábiles antes de la consumación, al período de tres días hábiles de la Divulgación del cierre y a la rescisión. Un sábado puede contar para la Divulgación del cierre aunque la oficina del acreedor esté cerrada. Un domingo no cuenta.",
+    "complianceNotes": "Incluya ambos calendarios en el sistema de divulgación y no permita que el personal cuente los días de la Divulgación del cierre con la definición de oficina abierta. Los feriados federales, no los estatales, son los que elimina la definición específica. Documente la fecha de recepción, no solo la de envío.",
+    "example": {
+      "setting": "Calendario de cumplimiento usado para contar los plazos de la Estimación del préstamo y de la Divulgación del cierre",
+      "text": "Si una Divulgación del cierre se recibe un jueves, el sábado y el lunes podrían ser los otros dos días hábiles específicos en una semana sin feriado federal, de modo que la consumación podría ser el martes. Cifras de ejemplo solo para el conteo."
+    }
+  }
+}

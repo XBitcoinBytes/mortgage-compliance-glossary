@@ -1,0 +1,35 @@
+{
+  "slug": "down-payment-assistance",
+  "term": "Down payment assistance",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "Down payment assistance is money from a housing agency or a nonprofit to help with the down payment or closing costs. It may be a grant, a deferred loan, or a second lien. It is not a personal gift from a relative, and the repayment terms decide how it is underwritten.",
+  "details": "The Fannie Mae Selling Guide treats repayable assistance as subordinate financing and may treat it as a community second when the provider and the terms qualify. A forgivable grant is different from a lien that has a payment. That payment belongs in the debt ratio if the guide says so. The assistance does not remove the need for a minimum borrower contribution when the guide requires one.",
+  "complianceNotes": "Read the assistance documents before you lock. Enter any lien in the CLTV. Do not code a second lien as a gift.",
+  "example": {
+    "setting": "Assistance funds from an agency or nonprofit, as a grant or a second lien",
+    "text": "A sample city grant of an example $10,000 might be a forgivable second with no monthly payment. Example figures. The forgiveness terms control."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "community-seconds",
+    "down-payment",
+    "gift-funds",
+    "homeready",
+    "subordinate-financing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Asistencia para el pago inicial",
+    "aliases": [],
+    "definition": "La asistencia para el pago inicial es dinero de una agencia de vivienda o de una organización sin fines de lucro para ayudar con el pago inicial o los costos de cierre. Puede ser una subvención, un préstamo diferido o un segundo gravamen. No es un regalo personal de un familiar, y los términos de pago deciden cómo se suscribe.",
+    "details": "La Selling Guide de Fannie Mae trata la asistencia reembolsable como financiamiento subordinado y puede tratarla como un segundo comunitario cuando el proveedor y los términos califican. Una subvención condonable es distinta de un gravamen que tiene un pago. Ese pago pertenece a la relación de deudas si la guía lo dice. La asistencia no elimina la necesidad de una aportación mínima del prestatario cuando la guía la exige.",
+    "complianceNotes": "Lea los documentos de la asistencia antes de fijar. Ingrese cualquier gravamen en la CLTV. No codifique un segundo gravamen como un regalo.",
+    "example": {
+      "setting": "Fondos de asistencia de una agencia o una organización sin fines de lucro, como una subvención o un segundo gravamen",
+      "text": "Una subvención municipal de muestra de un ejemplo de $10,000 podría ser un segundo condonable sin pago mensual. Cifras de ejemplo. Los términos de la condonación mandan."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "alimony-child-support",
+  "term": "Alimony and child support",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Alimony and child support can be income if you receive them and can show they are likely to continue, or they can be a debt if you pay them. The court order is the usual proof. A verbal agreement is not.",
+  "details": "Fannie Mae B3-3.4-02 covers receipt as income, including continuance. B3-6-05 covers the obligation as a debt. Regulation B, 12 CFR 1002.6, limits how a creditor may treat this income and prohibits requiring the income to be revealed in some situations, while still allowing the applicant to rely on it. Child support may be nontaxable. Do not gross it up unless the nontaxable-income rule is met.",
+  "complianceNotes": "Ask in the way Regulation B allows, and if the borrower wants the income counted, collect the order and the proof of receipt. If the borrower pays support, include the payment in the ratio.",
+  "example": {
+    "setting": "Divorce decree or court order, used either as income or as a debt",
+    "text": "A sample order might require an example $600 monthly child-support payment, counted as income or as debt depending on who pays it. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-4-02",
+    "fannie-b3-6-05",
+    "reg-1002-6"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "installment-debt",
+    "nontaxable-income",
+    "regulation-b",
+    "stable-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pensión alimenticia y pensión de menores",
+    "aliases": [],
+    "definition": "La pensión alimenticia y la pensión de menores pueden ser ingreso si usted las recibe y puede mostrar que es probable que continúen, o pueden ser una deuda si usted las paga. La orden judicial es la prueba usual. Un acuerdo verbal no lo es.",
+    "details": "Fannie Mae B3-3.4-02 cubre el recibo como ingreso, incluida la continuidad. B3-6-05 cubre la obligación como deuda. El Reglamento B, 12 CFR 1002.6, limita cómo un acreedor puede tratar este ingreso y prohíbe exigir que el ingreso se revele en algunas situaciones, y al mismo tiempo permite que el solicitante se apoye en él. La pensión de menores puede no estar gravada. No la aumente salvo que se cumpla la regla del ingreso no gravable.",
+    "complianceNotes": "Pregunte del modo que permite el Reglamento B y, si el prestatario quiere que el ingreso cuente, recoja la orden y la prueba de recibo. Si el prestatario paga la pensión, incluya el pago en la relación.",
+    "example": {
+      "setting": "Decreto de divorcio u orden judicial, usado como ingreso o como deuda",
+      "text": "Una orden de muestra puede exigir un pago mensual de pensión de menores de ejemplo de $600, contado como ingreso o como deuda según quién lo paga. Cifras de ejemplo."
+    }
+  }
+}

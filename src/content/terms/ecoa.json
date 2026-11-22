@@ -1,0 +1,45 @@
+{
+  "slug": "ecoa",
+  "term": "Equal Credit Opportunity Act",
+  "aliases": [
+    "Equal Credit Opportunity Act",
+    "ECOA"
+  ],
+  "category": "compliance",
+  "definition": "The Equal Credit Opportunity Act prohibits discrimination in any aspect of a credit transaction on a prohibited basis, including race, color, religion, national origin, sex, marital status, age, receipt of public assistance, and the good-faith exercise of rights under the Consumer Credit Protection Act. The Spanish name used by the CFPB is Ley de Igualdad de Oportunidad de Crédito.",
+  "details": "The statute is 15 USC 1691. Regulation B, 12 CFR Part 1002, implements it. The Act requires notices of action, limits what a creditor may ask, and requires copies of appraisals. It is not the Fair Housing Act. The two laws overlap on mortgage lending and have different protected classes and different enforcing agencies.",
+  "complianceNotes": "Train staff on the prohibited bases before they take applications. A denial, a counteroffer not accepted, or a file left incomplete can require a notice under 12 CFR 1002.9. Do not collect prohibited information except where the regulation allows monitoring data.",
+  "example": {
+    "setting": "Adverse-action notice and the application decision record",
+    "text": "A sample adverse-action notice might deny an example application for insufficient income, with the ECOA notice and the reasons stated. The income figure is not needed to illustrate the notice. Example figures for a sample requested amount of $250,000 only."
+  },
+  "citations": [
+    "usc-15-1691",
+    "reg-1002"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "appraisal-delivery",
+    "demographic-information",
+    "disparate-impact",
+    "disparate-treatment",
+    "fair-housing-act",
+    "fair-lending",
+    "hmda",
+    "limited-english-proficiency",
+    "regulation-b",
+    "regulation-c"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley de Igualdad de Oportunidad de Crédito",
+    "aliases": [],
+    "definition": "La Ley de Igualdad de Oportunidad de Crédito prohíbe la discriminación en cualquier aspecto de una transacción de crédito por un motivo prohibido, incluidos raza, color, religión, origen nacional, sexo, estado civil, edad, recibo de asistencia pública y el ejercicio de buena fe de derechos bajo la Ley de Protección del Crédito al Consumidor.",
+    "details": "La ley es 15 USC 1691. El Reglamento B, 12 CFR Parte 1002, la aplica. La ley exige avisos de la acción, limita lo que un acreedor puede preguntar y exige copias de las tasaciones. No es la Ley de Vivienda Justa. Las dos leyes se superponen en el crédito hipotecario y tienen clases protegidas distintas y agencias de ejecución distintas.",
+    "complianceNotes": "Capacite al personal sobre los motivos prohibidos antes de que tomen solicitudes. Una denegación, una contraoferta no aceptada o un expediente dejado incompleto puede exigir un aviso según 12 CFR 1002.9. No recoja información prohibida salvo donde el reglamento permite datos de monitoreo.",
+    "example": {
+      "setting": "Aviso de acción adversa y el registro de la decisión de la solicitud",
+      "text": "Un aviso de acción adversa de muestra puede negar una solicitud de ejemplo por ingreso insuficiente, con el aviso de ECOA y las razones indicadas. No hace falta una cifra de ingreso para ilustrar el aviso. Cifras de ejemplo solo para un monto solicitado de muestra de $250,000."
+    }
+  }
+}

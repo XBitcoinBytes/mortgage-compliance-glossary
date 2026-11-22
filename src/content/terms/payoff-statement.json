@@ -1,0 +1,34 @@
+{
+  "slug": "payoff-statement",
+  "term": "Payoff statement",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A payoff statement is the amount required to pay the loan in full on a stated date, including interest through that date and any fees the note allows. Regulation Z addresses how quickly a servicer must provide it. The exact timing and the exceptions are in the section and should be read there rather than shortened to a slogan.",
+  "details": "12 CFR 1026.36 contains the payoff-statement requirement among the mortgage servicing provisions. A statement that expires, or that omits a fee the borrower will actually be charged, creates a closing problem. A request for the statement can also be a request for information under Regulation X. Prepayment penalties, if any, must be included and must themselves be lawful.",
+  "complianceNotes": "Send a dated payoff good through a stated day, and update it if the closing slips. Do not omit escrow or a recorded fee the title company will collect. Read 1026.36 for the response time rather than quoting a day count from memory.",
+  "example": {
+    "setting": "Written payoff statement showing the amount to pay the loan in full",
+    "text": "A sample payoff might be an example $241,300 good through the 15th, including interest. Example figures."
+  },
+  "citations": [
+    "reg-1026-36"
+  ],
+  "related": [
+    "mortgage-payoff",
+    "mortgage-servicer",
+    "prepayment-penalty",
+    "request-for-information"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Estado de liquidación",
+    "aliases": [],
+    "definition": "Un estado de liquidación es el monto exigido para pagar el préstamo por completo en una fecha indicada, incluido el interés hasta esa fecha y cualquier cargo que el pagaré permite. El Reglamento Z trata qué tan rápido un administrador debe proporcionarlo. El plazo exacto y las excepciones están en la sección y deben leerse allí en lugar de acortarse a un lema.",
+    "details": "12 CFR 1026.36 contiene el requisito del estado de liquidación entre las disposiciones de administración hipotecaria. Un estado que vence, o que omite un cargo que de verdad se le cobrará al prestatario, crea un problema de cierre. Un pedido del estado también puede ser un pedido de información según el Reglamento X. Las penalidades por pago anticipado, si las hay, deben incluirse y deben ser lícitas en sí.",
+    "complianceNotes": "Envíe una liquidación con fecha válida hasta un día indicado, y actualícela si el cierre se atrasa. No omita el depósito en garantía o un cargo registrado que cobrará la compañía de título. Lea 1026.36 para el tiempo de respuesta en lugar de citar un conteo de días de memoria.",
+    "example": {
+      "setting": "Estado de liquidación por escrito que muestra el monto para pagar el préstamo por completo",
+      "text": "Una liquidación de muestra podría ser un ejemplo de $241,300 válida hasta el día 15, incluido el interés. Cifras de ejemplo."
+    }
+  }
+}

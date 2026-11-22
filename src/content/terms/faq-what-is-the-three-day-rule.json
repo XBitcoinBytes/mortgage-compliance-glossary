@@ -1,0 +1,37 @@
+{
+  "slug": "faq-what-is-the-three-day-rule",
+  "term": "What is the three-day rule?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "There are three different three-day rules. The Loan Estimate is due three business days after you apply. The Closing Disclosure must be received at least three business days before you are obligated. If you have a right to cancel, that right lasts three business days after a refinance or similar loan, not after a purchase.",
+  "details": "The Loan Estimate clock in 12 CFR 1026.19(e) uses general business days. The Closing Disclosure clock in 1026.19(f) and the rescission clock in 1026.23 use specific business days: every day except Sundays and federal legal holidays. A Saturday can count for the Closing Disclosure. A purchase generally has no right to cancel.",
+  "complianceNotes": "Name which clock you mean. Do not delay a purchase three extra days for rescission. Do not count Closing Disclosure days only when the office is open.",
+  "example": {
+    "setting": "Three different calendars: Loan Estimate, Closing Disclosure, and rescission",
+    "text": "A sample Closing Disclosure received on Wednesday can support a Saturday consummation if no federal holiday intervenes. The days are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-2",
+    "reg-1026-23"
+  ],
+  "related": [
+    "business-day",
+    "closing-disclosure",
+    "loan-estimate",
+    "right-of-rescission",
+    "three-business-day-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es la regla de tres días?",
+    "aliases": [],
+    "definition": "Hay tres reglas de tres días distintas. La Estimación del préstamo vence tres días hábiles después de que usted solicita. La Divulgación del cierre debe recibirse al menos tres días hábiles antes de que usted quede obligado. Si usted tiene un derecho a cancelar, ese derecho dura tres días hábiles después de un refinanciamiento o un préstamo similar, no después de una compra.",
+    "details": "El reloj de la Estimación del préstamo en 12 CFR 1026.19(e) usa días hábiles generales. El reloj de la Divulgación del cierre en 1026.19(f) y el reloj de rescisión en 1026.23 usan días hábiles específicos: cada día excepto los domingos y los feriados legales federales. Un sábado puede contar para la Divulgación del cierre. Una compra por lo general no tiene derecho a cancelar.",
+    "complianceNotes": "Nombre qué reloj usted quiere decir. No retrase una compra tres días extra por la rescisión. No cuente los días de la Divulgación del cierre solo cuando la oficina está abierta.",
+    "example": {
+      "setting": "Tres calendarios distintos: Estimación del préstamo, Divulgación del cierre y rescisión",
+      "text": "Una Divulgación del cierre de muestra recibida el miércoles puede apoyar una consumación el sábado si no interviene un feriado federal. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

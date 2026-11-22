@@ -1,0 +1,36 @@
+{
+  "slug": "fha-streamline-refinance",
+  "term": "FHA streamline refinance",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "An FHA streamline refinance replaces an existing FHA loan with a new FHA loan using reduced documentation. The borrower must receive a net tangible benefit as the handbook defines it. An appraisal is not always required. The handbook states when. Do not assume it is never required and do not assume it always is.",
+  "details": "HUD 4000.1 contains the streamline rules, including seasoning, payment history, and the net tangible benefit test. Mortgage insurance is recalculated under the current mortgagee letter. A streamline is not a cash-out refinance. Adding cash changes the product. TRID disclosures still apply to the new closed-end loan.",
+  "complianceNotes": "Document the net tangible benefit before closing. Do not strip cash out. Order an appraisal if the handbook requires one for that file. Use current MIP, not a remembered rate.",
+  "example": {
+    "setting": "FHA streamline refinance documented under HUD 4000.1, including the net tangible benefit",
+    "text": "A sample streamline might lower an example payment from $1,540 to $1,460 and record that reduction as part of the benefit test. Example figures."
+  },
+  "citations": [
+    "hud-4000-1"
+  ],
+  "related": [
+    "appraisal",
+    "closing-disclosure",
+    "fha-loan",
+    "fha-mip",
+    "rate-and-term-refinance",
+    "va-irrrl"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Refinanciamiento simplificado FHA",
+    "aliases": [],
+    "definition": "Un refinanciamiento simplificado FHA reemplaza un préstamo FHA existente con un nuevo préstamo FHA usando documentación reducida. El prestatario debe recibir un beneficio tangible neto como lo define el manual. No siempre se exige una tasación. El manual indica cuándo. No suponga que nunca se exige y no suponga que siempre se exige.",
+    "details": "HUD 4000.1 contiene las reglas del simplificado, incluidos la antigüedad, el historial de pago y la prueba del beneficio tangible neto. El seguro hipotecario se recalcula según la carta vigente a los acreedores. Un simplificado no es un refinanciamiento con retiro de efectivo. Agregar efectivo cambia el producto. Las divulgaciones de TRID igual se aplican al nuevo préstamo de crédito cerrado.",
+    "complianceNotes": "Documente el beneficio tangible neto antes del cierre. No retire efectivo. Pida una tasación si el manual la exige para ese expediente. Use la MIP vigente, no una tasa recordada.",
+    "example": {
+      "setting": "Refinanciamiento simplificado FHA documentado según HUD 4000.1, incluido el beneficio tangible neto",
+      "text": "Un simplificado de muestra podría bajar un pago de ejemplo de $1,540 a $1,460 y registrar esa reducción como parte de la prueba del beneficio. Cifras de ejemplo."
+    }
+  }
+}

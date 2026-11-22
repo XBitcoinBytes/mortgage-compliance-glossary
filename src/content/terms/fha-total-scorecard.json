@@ -1,0 +1,39 @@
+{
+  "slug": "fha-total-scorecard",
+  "term": "FHA TOTAL Scorecard",
+  "aliases": [
+    "TOTAL"
+  ],
+  "category": "underwriting",
+  "definition": "TOTAL Scorecard is FHA's automated assessment, used through an approved automated underwriting system. An accept result can reduce some documentation. A refer result means the loan must be underwritten manually under HUD Handbook 4000.1.",
+  "details": "HUD Handbook 4000.1 describes TOTAL, the documentation that still must be in the file, and manual underwriting when TOTAL refers the loan or when the lender downgrades it. TOTAL does not override FHA eligibility rules on property, mortgage insurance, or borrower eligibility. A conventional DU approval is not an FHA TOTAL decision.",
+  "complianceNotes": "Run the correct FHA case number and program. If the scorecard refers, complete the manual underwriting analysis in the handbook, including compensating factors only where the handbook allows them. Do not deliver a refer file as an accept.",
+  "example": {
+    "setting": "FHA file, TOTAL Mortgage Scorecard result printed with the AUS findings",
+    "text": "A sample TOTAL result might refer an example FHA loan of $240,000, sending it to manual underwriting. Example figures."
+  },
+  "citations": [
+    "hud-4000-1"
+  ],
+  "related": [
+    "automated-underwriting-system",
+    "compensating-factor",
+    "desktop-underwriter",
+    "fha-loan",
+    "manual-underwriting"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "FHA TOTAL Scorecard",
+    "aliases": [
+      "TOTAL"
+    ],
+    "definition": "TOTAL Scorecard es la evaluación automatizada de la FHA, usada a través de un sistema automatizado de suscripción aprobado. Un resultado de aceptación puede reducir alguna documentación. Un resultado de referir significa que el préstamo debe suscribirse manualmente según el Manual HUD 4000.1.",
+    "details": "El Manual HUD 4000.1 describe TOTAL, la documentación que igual debe estar en el expediente y la suscripción manual cuando TOTAL refiere el préstamo o cuando el prestamista lo degrada. TOTAL no anula las reglas de elegibilidad de la FHA sobre la propiedad, el seguro hipotecario o la elegibilidad del prestatario. Una aprobación convencional de DU no es una decisión TOTAL de la FHA.",
+    "complianceNotes": "Ejecute el número de caso y el programa correctos de la FHA. Si la tarjeta refiere, complete el análisis de suscripción manual del manual, incluidos los factores compensatorios solo donde el manual los permite. No entregue un expediente referido como si fuera aceptado.",
+    "example": {
+      "setting": "Expediente FHA, resultado de TOTAL Mortgage Scorecard impreso con los hallazgos del AUS",
+      "text": "Un resultado TOTAL de muestra puede referir un préstamo FHA de ejemplo de $240,000 y enviarlo a suscripción manual. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "simultaneous-issue",
+  "term": "Simultaneous issue",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Simultaneous issue is the title pricing practice of charging less for an owner's policy when it is issued at the same time as the lender's policy. The discount is a state title practice. It is not a federal rate and not a tolerance category.",
+  "details": "The Loan Estimate still has to disclose the owner's and lender's title charges the way 12 CFR 1026.37 requires. A title quote that assumes simultaneous issue will be wrong if the owner declines the policy. The file should show both the invoice and the TRID disclosure figure.",
+  "complianceNotes": "Get the simultaneous and the stand-alone quotes before you promise a cash-to-close number. If the borrower declines the owner's policy, revise the disclosure figures.",
+  "example": {
+    "setting": "Title invoice showing the owner's policy issued at the same time as the lender's policy",
+    "text": "A sample title quote might reduce an example owner's premium by $500 when both policies are issued together. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-37"
+  ],
+  "related": [
+    "lenders-title-policy",
+    "owners-title-policy",
+    "seller-credits",
+    "title-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Emisión simultánea",
+    "aliases": [],
+    "definition": "La emisión simultánea es la práctica de precio del título de cobrar menos por una póliza del propietario cuando se emite al mismo tiempo que la póliza del prestamista. El descuento es una práctica estatal de título. No es una tarifa federal ni una categoría de tolerancia.",
+    "details": "La Estimación del préstamo igual tiene que divulgar los cargos de título del propietario y del prestamista del modo que exige 12 CFR 1026.37. Una cotización de título que supone la emisión simultánea estará mal si el propietario rechaza la póliza. El expediente debe mostrar tanto la factura como la cifra de divulgación de TRID.",
+    "complianceNotes": "Obtenga las cotizaciones simultánea y separada antes de prometer una cifra de efectivo para el cierre. Si el prestatario rechaza la póliza del propietario, revise las cifras de la divulgación.",
+    "example": {
+      "setting": "Factura de título que muestra la póliza del propietario emitida al mismo tiempo que la póliza del prestamista",
+      "text": "Una cotización de título de muestra podría reducir una prima del propietario de ejemplo en $500 cuando ambas pólizas se emiten juntas. Cifras de ejemplo."
+    }
+  }
+}

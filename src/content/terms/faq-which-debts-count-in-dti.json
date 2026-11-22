@@ -1,0 +1,35 @@
+{
+  "slug": "faq-which-debts-count-in-dti",
+  "term": "Which debts count in my DTI?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "The debts that count are the ones the guide says to include, usually the housing payment, installment loans, revolving accounts, student loans, and support you pay. A debt with only a few payments left may be omitted if the guide's conditions are met. Paying it off at closing is a separate rule and needs a documented source of funds.",
+  "details": "Fannie Mae B3-6-05 is the liability section. Student loans with a low or zero reported payment have a special treatment. Read the current section instead of inventing a percentage of the balance. Authorized-user accounts are not always included. A new debt that appears before closing must be added.",
+  "complianceNotes": "Use the credit report and the guide, not the borrower's estimate of what they will pay off someday. Resubmit if a new payment appears.",
+  "example": {
+    "setting": "Credit report debts included on the ratio worksheet",
+    "text": "A sample car payment of an example $415 would be included unless the omission rule is documented. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-05"
+  ],
+  "related": [
+    "debt-to-income-ratio",
+    "debts-paid-at-closing",
+    "installment-debt",
+    "revolving-debt",
+    "student-loans"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué deudas cuentan en mi relación deuda-ingreso?",
+    "aliases": [],
+    "definition": "Las deudas que cuentan son las que la guía dice que se incluyan, por lo general el pago de la vivienda, los préstamos a plazos, las cuentas revolventes, los préstamos estudiantiles y la pensión que usted paga. Una deuda a la que le quedan pocos pagos puede omitirse si se cumplen las condiciones de la guía. Pagarla en el cierre es una regla separada y necesita un origen documentado de los fondos.",
+    "details": "Fannie Mae B3-6-05 es la sección de pasivos. Los préstamos estudiantiles con un pago reportado bajo o de cero tienen un tratamiento especial. Lea la sección vigente en lugar de inventar un porcentaje del saldo. Las cuentas de usuario autorizado no siempre se incluyen. Una deuda nueva que aparece antes del cierre debe agregarse.",
+    "complianceNotes": "Use el informe de crédito y la guía, no el estimado del prestatario de lo que pagará algún día. Vuelva a enviar si aparece un pago nuevo.",
+    "example": {
+      "setting": "Deudas del informe de crédito incluidas en la hoja de la relación",
+      "text": "Un pago de automóvil de muestra de un ejemplo de $415 se incluiría salvo que se documente la regla de omisión. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "reinstatement",
+  "term": "Reinstatement",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Reinstatement means bringing the loan current by paying the missed payments, fees, and costs the note or state law requires, so the acceleration stops. It is not a federal right with one national formula. It is also not a loan modification.",
+  "details": "The note and state foreclosure law state whether reinstatement is available and until when. A servicer must quote the amount accurately. Regulation X does not create a universal reinstatement right, but a wrongful refusal can be a notice of error, and loss-mitigation duties continue. A forbearance or repayment plan is a different agreement.",
+  "complianceNotes": "Provide a reinstatement figure that matches the note and the state deadline. Accept the funds if the right still exists. Do not add fees the note does not allow.",
+  "example": {
+    "setting": "Amount required to reinstate the loan and stop acceleration, when the note or state law allows",
+    "text": "A sample reinstatement might be an example $6,400 of missed payments and allowed costs. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1024-41"
+  ],
+  "related": [
+    "acceleration",
+    "delinquency",
+    "forbearance",
+    "foreclosure",
+    "loss-mitigation"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Rehabilitación",
+    "aliases": [],
+    "definition": "Rehabilitación significa poner el préstamo al día pagando los pagos no realizados, los cargos y los costos que exigen el pagaré o la ley estatal, para que la aceleración se detenga. No es un derecho federal con una sola fórmula nacional. Tampoco es una modificación del préstamo.",
+    "details": "El pagaré y la ley estatal de ejecución hipotecaria indican si la rehabilitación está disponible y hasta cuándo. Un administrador debe cotizar el monto con exactitud. El Reglamento X no crea un derecho universal de rehabilitación, pero una negativa indebida puede ser un aviso de error, y los deberes de mitigación de pérdidas continúan. Una indulgencia o un plan de pago es un acuerdo distinto.",
+    "complianceNotes": "Proporcione una cifra de rehabilitación que coincida con el pagaré y con el plazo estatal. Acepte los fondos si el derecho todavía existe. No agregue cargos que el pagaré no permite.",
+    "example": {
+      "setting": "Monto exigido para rehabilitar el préstamo y detener la aceleración, cuando el pagaré o la ley estatal lo permite",
+      "text": "Una rehabilitación de muestra podría ser un ejemplo de $6,400 de pagos no realizados y costos permitidos. Cifras de ejemplo."
+    }
+  }
+}

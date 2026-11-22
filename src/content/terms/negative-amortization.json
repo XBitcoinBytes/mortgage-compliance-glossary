@@ -1,0 +1,36 @@
+{
+  "slug": "negative-amortization",
+  "term": "Negative amortization",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Negative amortization means the payment does not cover the interest due, so the unpaid interest is added to the principal and the balance grows. The Loan Estimate says whether the loan has this feature. A qualified mortgage generally cannot.",
+  "details": "12 CFR 1026.37 requires the disclosure. 12 CFR 1026.43 restricts negative amortization on qualified mortgages. An interest-only payment is different: the balance does not grow if the interest is paid, but principal is not reduced. A payment-option loan that allows a minimum payment below the interest due is the classic negative-amortization product.",
+  "complianceNotes": "Mark the Loan Estimate from the note, not from a hope that the borrower will pay extra. Do not offer a negative-amortization feature on a qualified-mortgage product.",
+  "example": {
+    "setting": "Loan Estimate, page 1, Negative Amortization yes or no",
+    "text": "A sample payment-option loan might add an example $180 of unpaid interest to the balance in one month. Example figures of a feature standard QM loans do not allow."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-43"
+  ],
+  "related": [
+    "ability-to-repay",
+    "interest-only",
+    "loan-estimate",
+    "note-rate",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Amortización negativa",
+    "aliases": [],
+    "definition": "La amortización negativa significa que el pago no cubre el interés debido, así que el interés no pagado se suma al capital y el saldo crece. La Estimación del préstamo dice si el préstamo tiene esta característica. Una hipoteca calificada por lo general no puede tenerla.",
+    "details": "12 CFR 1026.37 exige la divulgación. 12 CFR 1026.43 restringe la amortización negativa en las hipotecas calificadas. Un pago de solo interés es distinto: el saldo no crece si se paga el interés, pero el capital no se reduce. Un préstamo de opciones de pago que permite un pago mínimo por debajo del interés debido es el producto clásico de amortización negativa.",
+    "complianceNotes": "Marque la Estimación del préstamo a partir del pagaré, no de una esperanza de que el prestatario pagará de más. No ofrezca una característica de amortización negativa en un producto de hipoteca calificada.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, Amortización negativa sí o no",
+      "text": "Un préstamo de opciones de pago de muestra podría sumar un ejemplo de $180 de interés no pagado al saldo en un mes. Cifras de ejemplo de una característica que los préstamos QM estándar no permiten."
+    }
+  }
+}

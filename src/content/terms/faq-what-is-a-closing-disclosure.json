@@ -1,0 +1,37 @@
+{
+  "slug": "faq-what-is-a-closing-disclosure",
+  "term": "What is a Closing Disclosure?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A Closing Disclosure is the five-page form with the final loan terms and the final closing costs. You generally must receive it at least three business days before you are obligated on the loan. Signing it confirms you received it. It does not by itself obligate you to take the loan.",
+  "details": "12 CFR 1026.19(f) is the timing rule, using specific business days: all days except Sundays and the federal legal holidays listed in 12 CFR 1026.2. 12 CFR 1026.38 is the content. Only three changes restart the three-day wait: an inaccurate APR, a product change, or a new prepayment penalty. Compare it with the Loan Estimate for tolerance cures.",
+  "complianceNotes": "Prove the receipt date before you schedule consummation. Walk the borrower through cash to close and the loan terms. Do not say the signature is an acceptance.",
+  "example": {
+    "setting": "Closing Disclosure, five pages, before you sign the note",
+    "text": "A sample file might receive the form on Monday and sign on Thursday, with example cash to close of $18,400. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-38",
+    "cfpb-cd"
+  ],
+  "related": [
+    "cash-to-close",
+    "closing-disclosure",
+    "confirm-receipt",
+    "loan-estimate",
+    "three-business-day-rule"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una Divulgación del cierre?",
+    "aliases": [],
+    "definition": "Una Divulgación del cierre es el formulario de cinco páginas con los términos finales del préstamo y los costos finales de cierre. Usted por lo general debe recibirla al menos tres días hábiles antes de quedar obligado en el préstamo. Firmarla confirma que usted la recibió. No lo obliga por sí sola a tomar el préstamo.",
+    "details": "12 CFR 1026.19(f) es la regla de plazo, usando días hábiles específicos: todos los días excepto los domingos y los feriados legales federales enumerados en 12 CFR 1026.2. 12 CFR 1026.38 es el contenido. Solo tres cambios reinician la espera de tres días: una tasa porcentual anual inexacta, un cambio de producto o una nueva penalidad por pago anticipado. Compárela con la Estimación del préstamo para las correcciones de tolerancia.",
+    "complianceNotes": "Pruebe la fecha de recepción antes de programar la consumación. Recorra con el prestatario el efectivo para el cierre y los términos del préstamo. No diga que la firma es una aceptación.",
+    "example": {
+      "setting": "Divulgación del cierre, cinco páginas, antes de que usted firme el pagaré",
+      "text": "Un expediente de muestra podría recibir el formulario el lunes y firmar el jueves, con un efectivo para el cierre de ejemplo de $18,400. Cifras de ejemplo."
+    }
+  }
+}

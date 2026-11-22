@@ -1,0 +1,51 @@
+{
+  "slug": "mortgage-servicer",
+  "term": "Mortgage servicer",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "The mortgage servicer is the company that collects your payments, handles the escrow account, and answers questions about the loan. The owner of the loan may be an investor you never meet. You deal with the servicer.",
+  "details": "Regulation X, 12 CFR Part 1024, imposes servicing duties on covered servicers, including error resolution, information requests, escrow, force-placed insurance, and loss mitigation. The servicer must also provide a periodic statement when 12 CFR 1026.41 requires one. A transfer of servicing does not change the note. It changes who you pay.",
+  "complianceNotes": "Identify the servicer of record before you send a notice of error or a payment. Use the address in the latest transfer notice or statement. Do not assume the original lender still collects the payment.",
+  "example": {
+    "setting": "Monthly statement or coupon, the company you pay, which may not own the loan",
+    "text": "A sample statement might show an example payment of $1,850 due to a servicer that is not the company named on the original note. Example figures."
+  },
+  "citations": [
+    "reg-1024"
+  ],
+  "related": [
+    "arm-adjustment-notice",
+    "continuity-of-contact",
+    "early-intervention",
+    "escrow-account",
+    "faq-what-is-a-mortgage-servicer",
+    "forbearance",
+    "force-placed-insurance",
+    "loss-mitigation",
+    "notice-of-error",
+    "partial-payments",
+    "payment-during-transfer",
+    "payoff-statement",
+    "periodic-statement",
+    "qualified-written-request",
+    "regulation-x",
+    "request-for-information",
+    "respa",
+    "servicing-transfer",
+    "servicing-transfer-notices",
+    "small-servicer",
+    "successor-in-interest"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Administrador del préstamo",
+    "aliases": [],
+    "definition": "El administrador del préstamo es la empresa que cobra sus pagos, maneja la cuenta de depósito en garantía y responde preguntas sobre el préstamo. El dueño del préstamo puede ser un inversionista que usted nunca ve. Usted trata con el administrador.",
+    "details": "El Reglamento X, 12 CFR Parte 1024, impone deberes de administración a los administradores cubiertos, incluida la resolución de errores, los pedidos de información, el depósito en garantía, el seguro impuesto y la mitigación de pérdidas. El administrador también debe dar un estado de cuenta periódico cuando 12 CFR 1026.41 lo exige. Una transferencia de la administración no cambia el pagaré. Cambia a quién le paga usted.",
+    "complianceNotes": "Identifique al administrador registrado antes de enviar un aviso de error o un pago. Use la dirección del último aviso de transferencia o del estado de cuenta. No suponga que el prestamista original todavía cobra el pago.",
+    "example": {
+      "setting": "Estado de cuenta mensual o cupón, la empresa a la que usted paga, que puede no ser dueña del préstamo",
+      "text": "Un estado de cuenta de muestra podría mostrar un pago de ejemplo de $1,850 debido a un administrador que no es la empresa nombrada en el pagaré original. Cifras de ejemplo."
+    }
+  }
+}

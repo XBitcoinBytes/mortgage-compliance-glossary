@@ -1,0 +1,38 @@
+{
+  "slug": "special-flood-hazard-area",
+  "term": "Special flood hazard area",
+  "aliases": [
+    "SFHA"
+  ],
+  "category": "compliance",
+  "definition": "A Special Flood Hazard Area is land FEMA maps as having a defined flood risk, generally zones that begin with A or V. A designated loan secured by a building in that area generally needs flood insurance. The word generally matters because map panels, letters of map amendment, and the statute's details are fact-specific.",
+  "details": "42 USC 4012a is the purchase requirement. FEMA's flood maps and the National Flood Insurance Program explain the zones. A Zone X determination ordinarily does not trigger mandatory purchase. A lender should not reclassify a zone to avoid the premium. A surveyor or an elevation certificate may support a map change. That change is FEMA's process, not the loan officer's.",
+  "complianceNotes": "Read the zone on the determination and order insurance before closing when the zone requires it. Do not tell the borrower a zone is safe because a neighbor is not in it.",
+  "example": {
+    "setting": "Flood determination certificate, zone designation",
+    "text": "A sample determination might read Zone AE for an example property. The zone is the fact. Any premium shown in training, such as $900, is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "usc-42-4012a",
+    "fema-flood"
+  ],
+  "related": [
+    "escrow-account",
+    "flood-determination",
+    "flood-insurance",
+    "homeowners-insurance",
+    "your-home-loan-toolkit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Zona especial de riesgo de inundación",
+    "aliases": [],
+    "definition": "Una zona especial de riesgo de inundación es terreno que FEMA mapea con un riesgo de inundación definido, por lo general zonas que empiezan con A o V. Un préstamo designado garantizado por un edificio en esa área por lo general necesita seguro de inundación. La palabra por lo general importa porque los paneles del mapa, las cartas de enmienda del mapa y los detalles de la ley dependen de los hechos.",
+    "details": "42 USC 4012a es el requisito de compra. Los mapas de inundación de FEMA y el Programa Nacional de Seguro de Inundación explican las zonas. Una determinación de Zona X ordinariamente no activa la compra obligatoria. Un prestamista no debe reclasificar una zona para evitar la prima. Un topógrafo o un certificado de elevación puede apoyar un cambio del mapa. Ese cambio es el proceso de FEMA, no el del oficial de préstamos.",
+    "complianceNotes": "Lea la zona en la determinación y pida el seguro antes del cierre cuando la zona lo exige. No le diga al prestatario que una zona es segura porque un vecino no está en ella.",
+    "example": {
+      "setting": "Certificado de determinación de inundación, designación de la zona",
+      "text": "Una determinación de muestra puede decir Zona AE para una propiedad de ejemplo. La zona es el hecho. Cualquier prima mostrada en la capacitación, como $900, es una cifra de ejemplo. Cifras de ejemplo."
+    }
+  }
+}

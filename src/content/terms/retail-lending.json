@@ -1,0 +1,36 @@
+{
+  "slug": "retail-lending",
+  "term": "Retail lending",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Retail lending is the channel in which the creditor's own loan officers take the application and the creditor makes the loan. There is no outside broker. The loan officer is still a mortgage loan originator.",
+  "details": "Retail does not exempt the file from 12 CFR 1026.36. Individual originators may not be paid based on a term of the transaction. The consumer sees the creditor's origination charges in Section A. The same TRID timing, tolerance, and ability-to-repay rules apply as in wholesale.",
+  "complianceNotes": "Use the retail compensation plan that was in effect when the rate was locked, and keep it out of the consumer's closing package unless a charge is actually imposed on the consumer. The plan is a compliance record.",
+  "example": {
+    "setting": "Loan Estimate, page 3, the creditor's own loan originator, and page 2, Section A",
+    "text": "A sample retail Section A might show a $1,295 origination fee on an example $350,000 loan, with the creditor's employee named as originator. Example figures."
+  },
+  "citations": [
+    "reg-1026-36",
+    "practice-file"
+  ],
+  "related": [
+    "loan-officer",
+    "loan-originator-compensation",
+    "mortgage-lender",
+    "origination-charges",
+    "wholesale-lending"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Originación minorista",
+    "aliases": [],
+    "definition": "La originación minorista es el canal en el que los oficiales de préstamos del propio acreedor toman la solicitud y el acreedor hace el préstamo. No hay un corredor externo. El oficial de préstamos sigue siendo un originador de préstamos hipotecarios.",
+    "details": "El canal minorista no exime al expediente de 12 CFR 1026.36. Los originadores individuales no pueden recibir un pago basado en un término de la transacción. El consumidor ve los cargos de originación del acreedor en la Sección A. Las mismas reglas de plazos, tolerancias y capacidad de pago de TRID se aplican igual que en el canal mayorista.",
+    "complianceNotes": "Use el plan de compensación minorista que estaba vigente cuando se fijó la tasa, y no lo incluya en el paquete de cierre del consumidor salvo que de verdad se le imponga un cargo. El plan es un registro de cumplimiento.",
+    "example": {
+      "setting": "Estimación del préstamo, página 3, el originador del propio acreedor, y página 2, Sección A",
+      "text": "Una Sección A minorista de muestra puede mostrar una tarifa de originación de $1,295 sobre un préstamo de ejemplo de $350,000, con el empleado del acreedor nombrado como originador. Cifras de ejemplo."
+    }
+  }
+}

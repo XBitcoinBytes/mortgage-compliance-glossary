@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-an-appraisal",
+  "term": "What is an appraisal?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "An appraisal is a licensed appraiser's opinion of what the home is worth, written for the lender. The lender uses it to set the loan-to-value ratio. It is not a home inspection. You are entitled to a copy.",
+  "details": "Regulation B, 12 CFR 1002.14, requires delivery promptly upon completion or three business days before consummation, whichever is earlier. Fannie Mae B4-1.1-02 and related topics describe acceptable appraisals. The loan officer may not pressure the appraiser for a number. Some loans receive a value-acceptance offer instead of an appraisal. That offer is not a promise on every file.",
+  "complianceNotes": "Order the appraisal independently. Deliver the copy when it is done. Do not tell the appraiser the value the contract needs.",
+  "example": {
+    "setting": "Appraisal report, opinion of value, delivered to the applicant",
+    "text": "A sample appraisal might opine an example value of $415,000. Example figures."
+  },
+  "citations": [
+    "reg-1002-14",
+    "fannie-b4-1-1-02"
+  ],
+  "related": [
+    "appraisal",
+    "appraisal-delivery",
+    "appraisal-independence-requirements",
+    "loan-to-value-ratio",
+    "value-acceptance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una tasación?",
+    "aliases": [],
+    "definition": "Una tasación es la opinión de un tasador con licencia de cuánto vale la vivienda, escrita para el prestamista. El prestamista la usa para fijar la relación préstamo-valor. No es una inspección de la casa. Usted tiene derecho a una copia.",
+    "details": "El Reglamento B, 12 CFR 1002.14, exige la entrega con prontitud al completar o tres días hábiles antes de la consumación, lo que ocurra primero. Fannie Mae B4-1.1-02 y los temas relacionados describen las tasaciones aceptables. El oficial de préstamos no puede presionar al tasador por un número. Algunos préstamos reciben una oferta de aceptación de valor en lugar de una tasación. Esa oferta no es una promesa en todo expediente.",
+    "complianceNotes": "Pida la tasación de manera independiente. Entregue la copia cuando está lista. No le diga al tasador el valor que el contrato necesita.",
+    "example": {
+      "setting": "Informe de tasación, opinión de valor, entregada al solicitante",
+      "text": "Una tasación de muestra podría opinar un valor de ejemplo de $415,000. Cifras de ejemplo."
+    }
+  }
+}

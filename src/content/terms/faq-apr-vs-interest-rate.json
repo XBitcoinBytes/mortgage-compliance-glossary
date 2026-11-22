@@ -1,0 +1,36 @@
+{
+  "slug": "faq-apr-vs-interest-rate",
+  "term": "What is the difference between APR and the interest rate?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "The interest rate is the rate in your note. It builds the principal and interest payment. The annual percentage rate, or APR, is a wider measure of the cost of credit. It includes the interest rate and certain finance charges, such as points, so it is usually higher than the note rate.",
+  "details": "12 CFR 1026.22 explains how the APR is determined. 12 CFR 1026.37 puts the interest rate on page 1 and the APR in the comparisons. Use the note rate to understand the payment. Use the APR to compare the cost of two loans that have different points. An inaccurate APR can restart the Closing Disclosure wait.",
+  "complianceNotes": "Show both numbers. Do not quote a payment from the APR. Recalculate the APR when points or the rate change.",
+  "example": {
+    "setting": "Loan Estimate page 1 interest rate next to page 3 APR",
+    "text": "A sample loan might have an example note rate of 6.25 percent and an APR of 6.48 percent because of points. Example figures."
+  },
+  "citations": [
+    "reg-1026-22",
+    "reg-1026-37"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "discount-points",
+    "finance-charge",
+    "loan-estimate",
+    "note-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Cuál es la diferencia entre la tasa porcentual anual y la tasa de interés?",
+    "aliases": [],
+    "definition": "La tasa de interés es la tasa de su pagaré. Arma el pago de capital e interés. La tasa porcentual anual, o APR, es una medida más amplia del costo del crédito. Incluye la tasa de interés y ciertos cargos por financiamiento, como los puntos, así que por lo general es más alta que la tasa del pagaré.",
+    "details": "12 CFR 1026.22 explica cómo se determina la tasa porcentual anual. 12 CFR 1026.37 pone la tasa de interés en la página 1 y la tasa porcentual anual en las comparaciones. Use la tasa del pagaré para entender el pago. Use la tasa porcentual anual para comparar el costo de dos préstamos que tienen puntos distintos. Una tasa porcentual anual inexacta puede reiniciar la espera de la Divulgación del cierre.",
+    "complianceNotes": "Muestre ambos números. No cotice un pago a partir de la tasa porcentual anual. Recalcule la tasa porcentual anual cuando cambian los puntos o la tasa.",
+    "example": {
+      "setting": "Tasa de interés de la página 1 de la Estimación del préstamo junto a la tasa porcentual anual de la página 3",
+      "text": "Un préstamo de muestra podría tener una tasa del pagaré de ejemplo del 6.25 por ciento y una tasa porcentual anual del 6.48 por ciento por los puntos. Cifras de ejemplo."
+    }
+  }
+}

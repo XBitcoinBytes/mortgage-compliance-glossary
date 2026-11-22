@@ -1,0 +1,38 @@
+{
+  "slug": "bank-secrecy-act",
+  "term": "Bank Secrecy Act",
+  "aliases": [
+    "BSA"
+  ],
+  "category": "compliance",
+  "definition": "The Bank Secrecy Act is the federal framework for detecting and reporting money laundering and related crime. Residential mortgage lenders and originators have FinCEN obligations. The Act is not a disclosure on the Loan Estimate.",
+  "details": "31 USC 5311 states the purpose. 31 CFR Part 1029 contains FinCEN rules for loan or finance companies, including residential mortgage lenders and originators. The program, the compliance officer, training, independent testing, and suspicious-activity reporting are in that part. Bank customer-identification rules are not automatically the same text. Do not describe how to structure a transaction to avoid a report.",
+  "complianceNotes": "Keep an AML program that matches Part 1029 if the company is covered. Escalate unusual source-of-funds facts. Do not tell staff the threshold that makes a report optional as a way to stay under it.",
+  "example": {
+    "setting": "AML program file for a residential mortgage lender, not a borrower disclosure",
+    "text": "A sample program might assign a compliance officer and an annual training date. No dollar threshold is stated here. Example figures are not used for a reporting cutoff. A sample file number of 14 reviews in a quarter is only an illustration."
+  },
+  "citations": [
+    "usc-31-5311",
+    "cfr-31-1029",
+    "fincen"
+  ],
+  "related": [
+    "anti-money-laundering",
+    "customer-identification-program",
+    "ofac-screening",
+    "suspicious-activity-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley de Secreto Bancario",
+    "aliases": [],
+    "definition": "La Ley de Secreto Bancario es el marco federal para detectar y reportar el lavado de dinero y delitos relacionados. Los prestamistas y originadores de hipotecas residenciales tienen obligaciones de FinCEN. La ley no es una divulgación en la Estimación del préstamo.",
+    "details": "31 USC 5311 establece el propósito. 31 CFR Parte 1029 contiene las reglas de FinCEN para compañías de préstamos o de financiamiento, incluidos los prestamistas y originadores de hipotecas residenciales. El programa, el oficial de cumplimiento, la capacitación, la prueba independiente y el reporte de actividades sospechosas están en esa parte. Las reglas de identificación de clientes de los bancos no son automáticamente el mismo texto. No describa cómo estructurar una transacción para evitar un reporte.",
+    "complianceNotes": "Mantenga un programa contra el lavado de dinero que coincida con la Parte 1029 si la empresa está cubierta. Escale los hechos inusuales del origen de los fondos. No le diga al personal el umbral que hace opcional un reporte como una forma de quedarse por debajo.",
+    "example": {
+      "setting": "Expediente del programa contra el lavado de dinero de un prestamista hipotecario residencial, no una divulgación al prestatario",
+      "text": "Un programa de muestra podría asignar un oficial de cumplimiento y una fecha de capacitación anual. Aquí no se indica un umbral en dólares. Las cifras de ejemplo no se usan como un corte de reporte. Un número de muestra de 14 revisiones en un trimestre es solo una ilustración. Cifras de ejemplo."
+    }
+  }
+}

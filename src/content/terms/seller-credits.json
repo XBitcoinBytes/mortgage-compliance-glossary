@@ -1,0 +1,44 @@
+{
+  "slug": "seller-credits",
+  "term": "Seller credits",
+  "aliases": [],
+  "category": "closing",
+  "definition": "A seller credit is money the seller contributes toward your costs or other amounts due at closing. It appears on the Closing Disclosure summaries, not as a lender credit. It can lower your cash to close. Agency guides still cap how much an interested party may contribute.",
+  "details": "12 CFR 1026.38 places seller credits in the summaries of transactions and in the cash-to-close comparison. The dollar cap is not in Regulation Z. It is in the Fannie Mae and Freddie Mac guides and depends on occupancy and loan-to-value. Read the current guide. A credit that exceeds the cap may have to be treated as a sales concession that reduces value.",
+  "complianceNotes": "Match the contract, the AUS, and page 3. Do not enter a seller credit in the lender-credit line. If the credit changes after the Loan Estimate, update the cash to close.",
+  "example": {
+    "setting": "Closing Disclosure, page 3, seller credit in the summaries of transactions",
+    "text": "A sample page 3 might credit an example $7,500 from the seller on a $375,000 purchase. Example figures, not the guide cap."
+  },
+  "citations": [
+    "reg-1026-38",
+    "fannie-guide"
+  ],
+  "related": [
+    "cash-to-close",
+    "cash-to-close-calculation",
+    "closing-costs",
+    "faq-how-much-are-closing-costs",
+    "faq-what-is-cash-to-close",
+    "interested-party-contributions",
+    "lender-credits",
+    "prorations",
+    "purchase-agreement",
+    "seller-closing-disclosure",
+    "seller-concessions",
+    "simultaneous-issue",
+    "transfer-taxes"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Créditos del vendedor",
+    "aliases": [],
+    "definition": "Un crédito del vendedor es dinero que el vendedor aporta para sus costos u otras cantidades debidas en el cierre. Aparece en los resúmenes de la Divulgación del cierre, no como un crédito del prestamista. Puede bajar su efectivo para el cierre. Las guías de las agencias igual limitan cuánto puede aportar una parte interesada.",
+    "details": "12 CFR 1026.38 coloca los créditos del vendedor en los resúmenes de transacciones y en la comparación del efectivo para el cierre. El tope en dólares no está en el Reglamento Z. Está en las guías de Fannie Mae y Freddie Mac y depende de la ocupación y de la relación préstamo-valor. Lea la guía vigente. Un crédito que excede el tope puede tener que tratarse como una concesión de venta que reduce el valor.",
+    "complianceNotes": "Haga coincidir el contrato, el sistema automatizado y la página 3. No ingrese un crédito del vendedor en la línea del crédito del prestamista. Si el crédito cambia después de la Estimación del préstamo, actualice el efectivo para el cierre.",
+    "example": {
+      "setting": "Divulgación del cierre, página 3, crédito del vendedor en los resúmenes de transacciones",
+      "text": "Una página 3 de muestra podría acreditar un ejemplo de $7,500 del vendedor en una compra de $375,000. Cifras de ejemplo, no el tope de la guía."
+    }
+  }
+}

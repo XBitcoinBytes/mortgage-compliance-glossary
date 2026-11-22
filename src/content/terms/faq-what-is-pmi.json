@@ -1,0 +1,35 @@
+{
+  "slug": "faq-what-is-pmi",
+  "term": "What is PMI?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "PMI is private mortgage insurance on a conventional loan. It protects the lender if you default, and you usually pay it when you put less than 20 percent down. It is not homeowners insurance. It is not the FHA mortgage insurance premium.",
+  "details": "The Homeowners Protection Act, 12 USC 4902, lets you request cancellation when the balance is first scheduled to reach 80 percent of original value, if you are current and meet the other statutory conditions. It ends automatically at 78 percent if you are current. FHA MIP follows HUD's schedule, not this Act.",
+  "complianceNotes": "Disclose the monthly amount. Explain the 80 and 78 percent rules with their conditions. Do not promise FHA MIP cancels the same way.",
+  "example": {
+    "setting": "Loan Estimate mortgage insurance line on a conventional loan",
+    "text": "A sample conventional payment might include example PMI of $85 a month. Example figures."
+  },
+  "citations": [
+    "usc-12-4902"
+  ],
+  "related": [
+    "borrower-paid-mortgage-insurance",
+    "fha-mip",
+    "loan-to-value-ratio",
+    "pmi-borrower-cancellation",
+    "private-mortgage-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es el PMI?",
+    "aliases": [],
+    "definition": "El PMI es el seguro hipotecario privado de un préstamo convencional. Protege al prestamista si usted incumple, y usted por lo general lo paga cuando da menos del 20 por ciento de pago inicial. No es el seguro de la vivienda. No es la prima del seguro hipotecario de la FHA.",
+    "details": "La Ley de Protección de los Propietarios, 12 USC 4902, le permite pedir la cancelación cuando el saldo está programado por primera vez para llegar al 80 por ciento del valor original, si usted está al día y cumple las otras condiciones de la ley. Termina automáticamente al 78 por ciento si usted está al día. La MIP de la FHA sigue el calendario de HUD, no esta ley.",
+    "complianceNotes": "Divulgue el monto mensual. Explique las reglas del 80 y del 78 por ciento con sus condiciones. No prometa que la MIP de la FHA se cancela del mismo modo.",
+    "example": {
+      "setting": "Línea de seguro hipotecario de la Estimación del préstamo en un préstamo convencional",
+      "text": "Un pago convencional de muestra podría incluir un PMI de ejemplo de $85 al mes. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "continuity-of-contact",
+  "term": "Continuity of contact",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Continuity of contact means the servicer must have personnel available who can answer a delinquent borrower's questions and help with loss mitigation. The market calls this a single point of contact. The regulation does not always require one named person who never changes.",
+  "details": "12 CFR 1024.40 describes the personnel, their access to the file, and their ability to tell the borrower whether an application is complete. A call-center transfer that loses the file each time can violate the rule even if a name was assigned on paper. Small-servicer exemptions, if any, must be read from the regulation.",
+  "complianceNotes": "Assign personnel who can see the application and the foreclosure status. Do not make the borrower retell the hardship to a new person with no file. Update the assignment if the employee leaves.",
+  "example": {
+    "setting": "Assigned servicing personnel available to a delinquent borrower",
+    "text": "A sample assignment might name one servicing employee as the contact for an example delinquent loan. The name on a training file is an example, not a required title. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1024-40"
+  ],
+  "related": [
+    "delinquency",
+    "early-intervention",
+    "loss-mitigation",
+    "loss-mitigation-application",
+    "mortgage-servicer"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Continuidad del contacto",
+    "aliases": [],
+    "definition": "La continuidad del contacto significa que el administrador debe tener personal disponible que pueda responder las preguntas de un prestatario en mora y ayudar con la mitigación de pérdidas. El mercado llama a esto un punto único de contacto. El reglamento no siempre exige una sola persona nombrada que nunca cambia.",
+    "details": "12 CFR 1024.40 describe el personal, su acceso al expediente y su capacidad de decirle al prestatario si una solicitud está completa. Una transferencia del centro de llamadas que pierde el expediente cada vez puede violar la regla aunque se haya asignado un nombre en el papel. Las exenciones de administrador pequeño, si existen, deben leerse en el reglamento.",
+    "complianceNotes": "Asigne personal que pueda ver la solicitud y el estado de la ejecución hipotecaria. No haga que el prestatario vuelva a contar la dificultad a una persona nueva sin expediente. Actualice la asignación si el empleado se va.",
+    "example": {
+      "setting": "Personal de administración asignado disponible para un prestatario en mora",
+      "text": "Una asignación de muestra podría nombrar a un empleado de administración como el contacto para un préstamo en mora de ejemplo. El nombre en un expediente de capacitación es un ejemplo, no un título exigido. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

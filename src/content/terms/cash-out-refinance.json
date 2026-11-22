@@ -1,0 +1,36 @@
+{
+  "slug": "cash-out-refinance",
+  "term": "Cash-out refinance",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A cash-out refinance gives you money from your home equity or pays off debts in a way the guide treats as cash-out. The loan-to-value limit, the reserves, and any waiting period after a purchase are in the investor guide. They are not one national 12-month rule you should recite without the section.",
+  "details": "The Fannie Mae Selling Guide defines cash-out and states seasoning, occupancy, and maximum LTV. A delayed-financing exception, if the guide still has one, is a specific path and must be read before it is used. TRID disclosures apply. Rescission generally applies when the home is a principal dwelling. The cash the borrower receives is not a seller credit.",
+  "complianceNotes": "Price the loan as cash-out once the guide's definition is met. Document seasoning. Do not fund a principal-dwelling refinance inside the rescission period.",
+  "example": {
+    "setting": "Refinance that produces cash or pays debts the guide treats as cash-out",
+    "text": "A sample cash-out might produce an example $20,000 to the borrower. Example figures, not a maximum."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "home-equity-loan",
+    "loan-to-value-ratio",
+    "rate-and-term-refinance",
+    "reserves",
+    "right-of-rescission",
+    "va-cash-out-refinance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Refinanciamiento con retiro de efectivo",
+    "aliases": [],
+    "definition": "Un refinanciamiento con retiro de efectivo le da dinero de la plusvalía de su vivienda o paga deudas de un modo que la guía trata como retiro de efectivo. El límite de relación préstamo-valor, las reservas y cualquier período de espera después de una compra están en la guía del inversionista. No son una sola regla nacional de 12 meses que usted deba recitar sin la sección.",
+    "details": "La Selling Guide de Fannie Mae define el retiro de efectivo y establece la antigüedad, la ocupación y la LTV máxima. Una excepción de financiamiento diferido, si la guía todavía la tiene, es una vía específica y debe leerse antes de usarse. Las divulgaciones de TRID se aplican. La rescisión por lo general se aplica cuando la vivienda es una residencia principal. El efectivo que recibe el prestatario no es un crédito del vendedor.",
+    "complianceNotes": "Cotice el préstamo como retiro de efectivo una vez que se cumple la definición de la guía. Documente la antigüedad. No desembolse un refinanciamiento de vivienda principal dentro del período de rescisión.",
+    "example": {
+      "setting": "Refinanciamiento que produce efectivo o paga deudas que la guía trata como retiro de efectivo",
+      "text": "Un retiro de efectivo de muestra podría producir un ejemplo de $20,000 para el prestatario. Cifras de ejemplo, no un máximo."
+    }
+  }
+}

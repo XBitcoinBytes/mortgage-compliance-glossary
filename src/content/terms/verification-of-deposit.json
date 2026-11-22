@@ -1,0 +1,39 @@
+{
+  "slug": "verification-of-deposit",
+  "term": "Verification of deposit",
+  "aliases": [
+    "VOD"
+  ],
+  "category": "underwriting",
+  "definition": "A verification of deposit is a bank's confirmation of your account balance and recent activity. Lenders use it, or your statements, to prove you have the money to close and any required reserves.",
+  "details": "The Fannie Mae Selling Guide accepts statements or a verification of deposit as asset documentation, with rules for large deposits and for when funds must be seasoned. A verification that shows a balance without the recent deposits can hide an unsourced wire. The form is not a substitute for sourcing a large deposit the guide requires the lender to explain.",
+  "complianceNotes": "Compare the verification to the application and to any gift. If the balance appeared suddenly, get the statement pages that show where it came from. Do not accept a borrower-completed form as the bank's verification.",
+  "example": {
+    "setting": "Verification of deposit form or the bank statements that replace it",
+    "text": "A sample verification might show an example checking balance of $22,400 and a savings balance of $9,100. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "asset-documentation",
+    "bank-statements",
+    "large-deposit",
+    "reserves",
+    "source-of-funds"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Verificación de depósitos",
+    "aliases": [
+      "VOD"
+    ],
+    "definition": "Una verificación de depósitos es la confirmación del banco de su saldo y de la actividad reciente. Los prestamistas la usan, o usan sus estados de cuenta, para probar que usted tiene el dinero para el cierre y las reservas exigidas.",
+    "details": "La Selling Guide de Fannie Mae acepta estados de cuenta o una verificación de depósitos como documentación de activos, con reglas para depósitos grandes y para cuándo los fondos deben tener antigüedad. Una verificación que muestra un saldo sin los depósitos recientes puede ocultar una transferencia sin origen. El formulario no sustituye la explicación de un depósito grande que la guía exige al prestamista.",
+    "complianceNotes": "Compare la verificación con la solicitud y con cualquier regalo. Si el saldo apareció de pronto, obtenga las páginas del estado de cuenta que muestran de dónde salió. No acepte un formulario llenado por el prestatario como la verificación del banco.",
+    "example": {
+      "setting": "Formulario de verificación de depósitos o los estados de cuenta que lo reemplazan",
+      "text": "Una verificación de muestra puede mostrar un saldo de cheques de ejemplo de $22,400 y un saldo de ahorros de $9,100. Cifras de ejemplo."
+    }
+  }
+}

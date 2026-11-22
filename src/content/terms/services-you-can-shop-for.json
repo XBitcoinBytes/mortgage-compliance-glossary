@@ -1,0 +1,43 @@
+{
+  "slug": "services-you-can-shop-for",
+  "term": "Services you can shop for",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Section C of the Loan Estimate lists services the creditor requires, such as title insurance or a survey, that you may shop for. You can use a provider on the creditor's written list or one you find yourself.",
+  "details": "12 CFR 1026.37 assigns these charges to Section C. Tolerance treatment is in 12 CFR 1026.19(e)(3). If you choose a provider identified on the written list, the charge is generally part of the charges that, together with recording fees, may not increase by more than 10 percent in total. If you choose another provider, the charge is generally not limited by that percentage. The creditor still cannot require you to use an affiliate without meeting the affiliated-business rules.",
+  "complianceNotes": "Do not put a creditor-chosen appraisal in Section C. That service cannot be shopped and belongs in Section B. Keep the consumer's provider choice in the file so the tolerance bucket is defensible.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section C: Services You Can Shop For",
+    "text": "A sample Section C might list lender's title policy at $1,280 and a settlement fee at $650, both shoppable. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-19"
+  ],
+  "related": [
+    "closing-protection-letter",
+    "faq-what-is-title-insurance",
+    "faq-who-chooses-the-title-company",
+    "lenders-title-policy",
+    "no-tolerance-bucket",
+    "owners-title-policy",
+    "services-you-cannot-shop-for",
+    "settlement-agent",
+    "survey",
+    "ten-percent-tolerance",
+    "title-insurance",
+    "written-list-of-providers"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Servicios que usted puede comparar",
+    "aliases": [],
+    "definition": "La Sección C de la Estimación del préstamo enumera servicios que el acreedor exige, como el seguro de título o un estudio, y que usted puede comparar. Usted puede usar un proveedor de la lista escrita del acreedor o uno que usted encuentre.",
+    "details": "12 CFR 1026.37 asigna estos cargos a la Sección C. El tratamiento de tolerancia está en 12 CFR 1026.19(e)(3). Si usted elige un proveedor identificado en la lista escrita, el cargo por lo general forma parte de los cargos que, junto con los cargos de registro, no pueden aumentar más del 10 por ciento en total. Si elige otro proveedor, el cargo por lo general no está limitado por ese porcentaje. El acreedor igual no puede exigirle usar un afiliado sin cumplir las reglas de negocios afiliados.",
+    "complianceNotes": "No ponga en la Sección C una tasación elegida por el acreedor. Ese servicio no se puede comparar y pertenece a la Sección B. Conserve en el expediente la elección del consumidor para que el grupo de tolerancia se pueda defender.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección C: Servicios que usted puede comparar",
+      "text": "Una Sección C de muestra puede listar la póliza de título del prestamista en $1,280 y un cargo de liquidación en $650, ambos comparables. Cifras de ejemplo."
+    }
+  }
+}

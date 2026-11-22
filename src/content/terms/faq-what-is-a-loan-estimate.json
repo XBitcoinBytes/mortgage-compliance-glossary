@@ -1,0 +1,37 @@
+{
+  "slug": "faq-what-is-a-loan-estimate",
+  "term": "What is a Loan Estimate?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A Loan Estimate is the three-page form that shows the loan terms, the projected payment, and the estimated closing costs. For most closed-end mortgages the lender must deliver it within three business days after you apply. It is an estimate, not the final bill.",
+  "details": "12 CFR 1026.19(e) sets the timing. 12 CFR 1026.37 sets the content. An application is the six items in 12 CFR 1026.2(a)(3)(ii). The three days are general business days, the days the creditor's offices are open. The Closing Disclosure later shows the final numbers. Some charges cannot rise, some can rise by 10 percent as a group, and some can change.",
+  "complianceNotes": "Do not collect fees other than a bona fide credit-report fee before the borrower receives the Loan Estimate and states an intent to proceed. Compare page 2 with the later Closing Disclosure.",
+  "example": {
+    "setting": "Loan Estimate, three pages, received after you apply",
+    "text": "A sample Loan Estimate might show an example interest rate of 6.50 percent and example closing costs of $8,200. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-37",
+    "cfpb-le"
+  ],
+  "related": [
+    "application-definition",
+    "closing-disclosure",
+    "loan-estimate",
+    "three-business-day-rule",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una Estimación del préstamo?",
+    "aliases": [],
+    "definition": "Una Estimación del préstamo es el formulario de tres páginas que muestra los términos del préstamo, el pago proyectado y los costos de cierre estimados. Para la mayoría de las hipotecas de crédito cerrado el prestamista debe entregarla dentro de tres días hábiles después de que usted solicita. Es un estimado, no la factura final.",
+    "details": "12 CFR 1026.19(e) fija el plazo. 12 CFR 1026.37 fija el contenido. Una solicitud son los seis datos de 12 CFR 1026.2(a)(3)(ii). Los tres días son días hábiles generales, los días en que las oficinas del acreedor están abiertas. La Divulgación del cierre muestra después los números finales. Algunos cargos no pueden subir, algunos pueden subir un 10 por ciento como grupo y algunos pueden cambiar.",
+    "complianceNotes": "No cobre cargos distintos de un cargo de buena fe por el informe de crédito antes de que el prestatario reciba la Estimación del préstamo y manifieste la intención de continuar. Compare la página 2 con la Divulgación del cierre posterior.",
+    "example": {
+      "setting": "Estimación del préstamo, tres páginas, recibida después de que usted solicita",
+      "text": "Una Estimación del préstamo de muestra podría mostrar una tasa de interés de ejemplo del 6.50 por ciento y costos de cierre de ejemplo de $8,200. Cifras de ejemplo."
+    }
+  }
+}

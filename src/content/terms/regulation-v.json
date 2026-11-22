@@ -1,0 +1,39 @@
+{
+  "slug": "regulation-v",
+  "term": "Regulation V",
+  "aliases": [
+    "Reg V",
+    "12 CFR 1022"
+  ],
+  "category": "compliance",
+  "definition": "Regulation V is 12 CFR Part 1022, the CFPB's Fair Credit Reporting Act regulation. For mortgage lenders, the practical pieces include the risk-based pricing notice and the relationship between that notice and the credit-score disclosure.",
+  "details": "12 CFR 1022.72 requires a risk-based pricing notice when a creditor extends credit on terms that are materially less favorable than the most favorable terms it offers a substantial proportion of consumers, based on a consumer report. A credit-score disclosure exception exists. Read the section before you decide a notice is unnecessary. The adverse-action score disclosure under the statute is a different document.",
+  "complianceNotes": "Do not skip both the risk-based pricing notice and the score-disclosure exception. Keep whichever document the section requires with the application. A denial still needs the FCRA adverse-action content.",
+  "example": {
+    "setting": "Risk-based pricing or credit-score disclosure file under Regulation V",
+    "text": "A sample score disclosure might list an example score of 688 and the agency that supplied it. Example figures."
+  },
+  "citations": [
+    "reg-1022",
+    "reg-1022-72"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "credit-score",
+    "fcra",
+    "permissible-purpose",
+    "risk-based-pricing-notice"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reglamento V",
+    "aliases": [],
+    "definition": "El Reglamento V es 12 CFR Parte 1022, el reglamento de la Ley de Informes de Crédito Justos de la CFPB. Para los prestamistas hipotecarios, las piezas prácticas incluyen el aviso de precio basado en el riesgo y la relación entre ese aviso y la divulgación del puntaje de crédito.",
+    "details": "12 CFR 1022.72 exige un aviso de precio basado en el riesgo cuando un acreedor otorga crédito en términos materialmente menos favorables que los términos más favorables que ofrece a una proporción sustancial de consumidores, con base en un informe del consumidor. Existe una excepción de divulgación del puntaje de crédito. Lea la sección antes de decidir que un aviso no es necesario. La divulgación del puntaje en la acción adversa según la ley es un documento distinto.",
+    "complianceNotes": "No omita tanto el aviso de precio basado en el riesgo como la excepción de divulgación del puntaje. Conserve el documento que exige la sección con la solicitud. Una denegación igual necesita el contenido de acción adversa de la FCRA.",
+    "example": {
+      "setting": "Expediente del aviso de precio basado en el riesgo o de la divulgación del puntaje según el Reglamento V",
+      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 688 y la agencia que lo proporcionó. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "community-property",
+  "term": "Community property",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Community property is a state-law system in which a married couple may own debts and assets together. In those states, debts of a spouse who is not on the loan can still matter to the mortgage. Which states use the system is a question of state law, not a line on the Loan Estimate.",
+  "details": "Agency guides require the lender to consider community-property debts of a non-borrowing spouse when the guide says so. Regulation B, 12 CFR 1002.6, governs how a creditor evaluates an application and works together with 12 CFR 1002.7 on when a spouse's signature may be required. Do not publish a homemade list of states. Confirm the property state and the guide.",
+  "complianceNotes": "If the property is in a community-property state, pull the debts the guide requires even when the spouse is not an applicant. Do not require the spouse to sign the note solely because of marriage.",
+  "example": {
+    "setting": "Application, marital status and property state, plus the non-borrowing spouse debt search where required",
+    "text": "A sample file in a community-property state might add an example $350 monthly auto payment owed only by the non-borrowing spouse. Example figures, and only if that state's law and the guide require it."
+  },
+  "citations": [
+    "fannie-guide",
+    "reg-1002-6"
+  ],
+  "related": [
+    "co-borrower",
+    "debt-to-income-ratio",
+    "non-borrowing-spouse",
+    "occupancy",
+    "regulation-b"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Bienes de la comunidad conyugal",
+    "aliases": [],
+    "definition": "Los bienes de la comunidad conyugal son un sistema de derecho estatal en el que un matrimonio puede ser dueño de deudas y activos en conjunto. En esos estados, las deudas de un cónyuge que no está en el préstamo igual pueden importar para la hipoteca. Qué estados usan el sistema es una cuestión de derecho estatal, no una línea de la Estimación del préstamo.",
+    "details": "Las guías de las agencias exigen que el prestamista considere las deudas de comunidad conyugal de un cónyuge que no solicita cuando la guía lo dice. El Reglamento B, 12 CFR 1002.6, rige cómo un acreedor evalúa una solicitud y funciona junto con 12 CFR 1002.7 sobre cuándo puede exigirse la firma del cónyuge. No publique una lista casera de estados. Confirme el estado de la propiedad y la guía.",
+    "complianceNotes": "Si la propiedad está en un estado de comunidad conyugal, obtenga las deudas que exige la guía aunque el cónyuge no sea solicitante. No exija que el cónyuge firme el pagaré solo por el matrimonio.",
+    "example": {
+      "setting": "Solicitud, estado civil y estado de la propiedad, más la búsqueda de deudas del cónyuge que no solicita cuando se exige",
+      "text": "Un expediente de muestra en un estado de comunidad conyugal podría agregar un pago mensual de automóvil de ejemplo de $350 que debe solo el cónyuge que no solicita. Cifras de ejemplo, y solo si la ley de ese estado y la guía lo exigen."
+    }
+  }
+}

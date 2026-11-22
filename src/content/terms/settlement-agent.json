@@ -1,0 +1,47 @@
+{
+  "slug": "settlement-agent",
+  "term": "Settlement agent",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The settlement agent is the person who conducts the closing, collects the funds, and disburses them. Depending on the state, that person may be a title company, an escrow company, or an attorney. The agent is not always the lender.",
+  "details": "Regulation X treats settlement services broadly in 12 CFR 1024.2. The Closing Disclosure identifies the settlement agent under 12 CFR 1026.38. Wiring instructions should be verified with the agent by a phone number you look up, because fake instructions are a common fraud. The agent follows the lender's instructions and the title commitment.",
+  "complianceNotes": "Put the real agent on page 5. Tell the borrower to verify wires. Do not accept a change of wiring instructions that arrives only by email.",
+  "example": {
+    "setting": "Closing Disclosure, page 5, Contact Information, settlement agent",
+    "text": "A sample page 5 might name an example settlement agent and a file number. Any phone number in a training example should be marked as an example figure, not a real office. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1024-2",
+    "practice-file"
+  ],
+  "related": [
+    "closing-package",
+    "closing-protection-letter",
+    "closing-wire-fraud",
+    "consummation",
+    "disbursement",
+    "dry-funding",
+    "faq-how-do-i-avoid-wire-fraud",
+    "faq-what-is-title-insurance",
+    "faq-who-chooses-the-title-company",
+    "power-of-attorney",
+    "services-you-can-shop-for",
+    "settlement-service",
+    "title-commitment",
+    "title-insurance",
+    "wet-settlement",
+    "written-list-of-providers"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Agente de liquidación",
+    "aliases": [],
+    "definition": "El agente de liquidación es la persona que conduce el cierre, recoge los fondos y los desembolsa. Según el estado, esa persona puede ser una compañía de título, una compañía de depósito en garantía o un abogado. El agente no siempre es el prestamista.",
+    "details": "El Reglamento X trata los servicios de liquidación de modo amplio en 12 CFR 1024.2. La Divulgación del cierre identifica al agente de liquidación según 12 CFR 1026.38. Las instrucciones de transferencia deben verificarse con el agente por un teléfono que usted busca, porque las instrucciones falsas son un fraude común. El agente sigue las instrucciones del prestamista y el compromiso de título.",
+    "complianceNotes": "Ponga al agente real en la página 5. Dígale al prestatario que verifique las transferencias. No acepte un cambio de instrucciones de transferencia que llega solo por correo electrónico.",
+    "example": {
+      "setting": "Divulgación del cierre, página 5, Información de contacto, agente de liquidación",
+      "text": "Una página 5 de muestra podría nombrar un agente de liquidación de ejemplo y un número de expediente. Cualquier teléfono en un ejemplo de capacitación debe marcarse como una cifra de ejemplo, no una oficina real. Cifras de ejemplo."
+    }
+  }
+}

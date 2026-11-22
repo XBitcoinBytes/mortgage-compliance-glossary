@@ -1,0 +1,37 @@
+{
+  "slug": "hpml-escrow",
+  "term": "HPML escrow requirement",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Certain higher-priced mortgage loans must have an escrow account for taxes and insurance. The borrower cannot simply waive it. The requirement is in Regulation Z, separate from an investor's own escrow rule.",
+  "details": "12 CFR 1026.35(b) states the escrow requirement and the exemptions, including some small creditors and some loans the section excludes. Exemption thresholds that use dollars or origination counts are adjusted or defined in the regulation. Do not apply an exemption from a remembered loan count. The escrow that is established still follows Regulation X accounting.",
+  "complianceNotes": "If the loan is higher-priced, default to establishing the escrow unless a current exemption is documented. Do not sell an escrow waiver on an HPML that does not qualify for one.",
+  "example": {
+    "setting": "Higher-priced mortgage escrow requirement, Section G of the Loan Estimate if an escrow is established",
+    "text": "A sample HPML might collect an example initial escrow deposit of $1,100 in Section G. Example figures, not the exemption threshold."
+  },
+  "citations": [
+    "reg-1026-35"
+  ],
+  "related": [
+    "escrow-account",
+    "escrow-account-disclosure",
+    "escrow-cushion",
+    "escrow-waiver",
+    "higher-priced-mortgage-loan",
+    "rebuttable-presumption",
+    "small-creditor"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cuenta de depósito en garantía de una HPML",
+    "aliases": [],
+    "definition": "Ciertas hipotecas de precio más alto deben tener una cuenta de depósito en garantía para impuestos y seguro. El prestatario no puede simplemente renunciar a ella. El requisito está en el Reglamento Z, aparte de la regla de depósito en garantía del propio inversionista.",
+    "details": "12 CFR 1026.35(b) establece el requisito de depósito en garantía y las exenciones, incluidos algunos acreedores pequeños y algunos préstamos que la sección excluye. Los umbrales de exención que usan dólares o conteos de originación se ajustan o se definen en el reglamento. No aplique una exención a partir de un conteo de préstamos recordado. El depósito en garantía que se establece igual sigue la contabilidad del Reglamento X.",
+    "complianceNotes": "Si el préstamo es de precio más alto, establezca el depósito en garantía salvo que documente una exención vigente. No venda una renuncia al depósito en garantía en una HPML que no califica para una.",
+    "example": {
+      "setting": "Requisito de depósito en garantía de una hipoteca de precio más alto, Sección G de la Estimación del préstamo si se establece una cuenta",
+      "text": "Una HPML de muestra podría cobrar un depósito inicial de ejemplo de $1,100 en la Sección G. Cifras de ejemplo, no el umbral de exención."
+    }
+  }
+}

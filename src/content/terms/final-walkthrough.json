@@ -1,0 +1,34 @@
+{
+  "slug": "final-walkthrough",
+  "term": "Final walkthrough",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The final walkthrough is the buyer's look at the home shortly before closing to see that it is in the condition the contract requires and that agreed repairs were done. It is a contract right if the contract gives it. It is not an appraisal and not a federal mortgage requirement.",
+  "details": "A problem found on the walkthrough can delay closing or change a seller credit. If the cash to close or the contract price changes, the Closing Disclosure may need a correction. That correction resets the three-day wait only if one of the three regulatory events occurs. The appraisal inspected the home for value earlier. The walkthrough does not replace it.",
+  "complianceNotes": "Do not treat the walkthrough as an underwriting condition unless the approval says so. If it changes money, tell disclosure staff before signing.",
+  "example": {
+    "setting": "Purchase contract walkthrough, usually the day of or the day before closing, not a federal form",
+    "text": "A sample contract might schedule the walkthrough the morning of an example Thursday closing. The day is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "practice-file"
+  ],
+  "related": [
+    "appraisal",
+    "closing-disclosure",
+    "consummation",
+    "purchase-agreement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Inspección final",
+    "aliases": [],
+    "definition": "La inspección final es la mirada del comprador a la vivienda poco antes del cierre para ver que está en la condición que exige el contrato y que se hicieron las reparaciones acordadas. Es un derecho del contrato si el contrato lo da. No es una tasación y no es un requisito hipotecario federal.",
+    "details": "Un problema encontrado en la inspección puede retrasar el cierre o cambiar un crédito del vendedor. Si el efectivo para el cierre o el precio del contrato cambia, la Divulgación del cierre puede necesitar una corrección. Esa corrección reinicia la espera de tres días solo si ocurre uno de los tres eventos del reglamento. La tasación inspeccionó la vivienda por el valor antes. La inspección final no la reemplaza.",
+    "complianceNotes": "No trate la inspección final como una condición de suscripción salvo que la aprobación lo diga. Si cambia el dinero, avise al personal de divulgación antes de la firma.",
+    "example": {
+      "setting": "Inspección del contrato de compra, por lo general el día del cierre o el día anterior, no un formulario federal",
+      "text": "Un contrato de muestra podría programar la inspección la mañana de un cierre de ejemplo el jueves. El día es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

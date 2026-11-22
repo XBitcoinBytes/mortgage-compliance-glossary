@@ -1,0 +1,42 @@
+{
+  "slug": "your-home-loan-toolkit",
+  "term": "Your Home Loan Toolkit",
+  "aliases": [
+    "special information booklet",
+    "toolkit"
+  ],
+  "category": "origination",
+  "definition": "Your Home Loan Toolkit is the consumer booklet, required for most home-purchase mortgages, that explains the Loan Estimate, the Closing Disclosure, and how to shop. The CFPB publishes it. Lenders may not substitute their own brochure for it.",
+  "details": "Regulation X, 12 CFR 1024.6, requires the special information booklet on federally related purchase mortgages, with the timing and exemptions stated in that section. It is not the list of homeownership counselors, which is a separate duty under 12 CFR 1024.20. The booklet is also not a substitute for the Loan Estimate. The CFPB publishes an English version and a Spanish version.",
+  "complianceNotes": "Deliver the current CFPB booklet, not an old HUD booklet, and keep the evidence. Use the Spanish booklet when that is how the creditor is serving a Spanish-speaking applicant, without treating translation as a substitute for accurate English disclosures.",
+  "example": {
+    "setting": "Origination file, proof that the special information booklet was delivered with or within the required time after the application",
+    "text": "A sample file checklist might show the toolkit emailed the same day as an example application dated the 3rd of the month. The date is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1024-6",
+    "cfpb-toolkit"
+  ],
+  "related": [
+    "application-definition",
+    "homeownership-counseling-list",
+    "intent-to-proceed",
+    "loan-estimate",
+    "special-flood-hazard-area",
+    "trid"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Su conjunto de herramientas para préstamos hipotecarios",
+    "aliases": [
+      "folleto especial de información"
+    ],
+    "definition": "Su conjunto de herramientas para préstamos hipotecarios es el folleto para el consumidor, exigido en la mayoría de las hipotecas de compra, que explica la Estimación del préstamo, la Divulgación del cierre y cómo comparar. La CFPB lo publica. Los prestamistas no pueden sustituirlo por su propio folleto.",
+    "details": "El Reglamento X, 12 CFR 1024.6, exige el folleto especial de información en las hipotecas de compra relacionadas con el gobierno federal, con el plazo y las exenciones que indica esa sección. No es la lista de consejeros de vivienda, que es un deber distinto según 12 CFR 1024.20. El folleto tampoco sustituye a la Estimación del préstamo. La CFPB publica una versión en inglés y una en español.",
+    "complianceNotes": "Entregue el folleto vigente de la CFPB, no un folleto viejo de HUD, y conserve la prueba. Use el folleto en español cuando así atienda el acreedor a un solicitante de habla hispana, sin tratar la traducción como sustituto de divulgaciones exactas en inglés.",
+    "example": {
+      "setting": "Expediente de originación, prueba de que el folleto especial de información se entregó con la solicitud o dentro del plazo exigido",
+      "text": "Una lista de muestra puede mostrar el conjunto de herramientas enviado por correo el mismo día de una solicitud de ejemplo con fecha el día 3 del mes. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

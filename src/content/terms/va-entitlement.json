@@ -1,0 +1,35 @@
+{
+  "slug": "va-entitlement",
+  "term": "VA entitlement",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "VA entitlement is the amount of guaranty available to the veteran. Basic entitlement and bonus entitlement are handbook concepts. A remaining entitlement can support another loan. The dollar amounts VA publishes change. Do not treat a remembered entitlement dollar figure as current.",
+  "details": "VA Pamphlet 26-7, Chapter 2, explains how to read the certificate and how entitlement is restored after a sale or a payoff. The guaranty is what protects the lender. It is not cash to the veteran. Using entitlement on one home can reduce what is left for the next, unless restoration rules are met.",
+  "complianceNotes": "Read the certificate before you promise zero down on a second VA loan. Document restoration if a prior loan was paid off and the entitlement was released.",
+  "example": {
+    "setting": "Certificate of Eligibility showing available entitlement",
+    "text": "A sample certificate might show partial entitlement remaining after an example prior loan. The dollar line must be read from the certificate, not invented. Example figures are not an entitlement amount."
+  },
+  "citations": [
+    "va-pamphlet",
+    "usc-38-3703"
+  ],
+  "related": [
+    "certificate-of-eligibility",
+    "va-cash-out-refinance",
+    "va-irrrl",
+    "va-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Derecho VA",
+    "aliases": [],
+    "definition": "El derecho VA es el monto de garantía disponible para el veterano. El derecho básico y el derecho adicional son conceptos del manual. Un derecho restante puede apoyar otro préstamo. Los montos en dólares que publica VA cambian. No trate una cifra de derecho recordada como vigente.",
+    "details": "El Folleto VA 26-7, capítulo 2, explica cómo leer el certificado y cómo se restaura el derecho después de una venta o una liquidación. La garantía es lo que protege al prestamista. No es efectivo para el veterano. Usar el derecho en una vivienda puede reducir lo que queda para la siguiente, salvo que se cumplan las reglas de restauración.",
+    "complianceNotes": "Lea el certificado antes de prometer cero pago inicial en un segundo préstamo VA. Documente la restauración si un préstamo anterior se liquidó y el derecho se liberó.",
+    "example": {
+      "setting": "Certificado de elegibilidad que muestra el derecho disponible",
+      "text": "Un certificado de muestra podría mostrar un derecho parcial restante después de un préstamo anterior de ejemplo. La línea en dólares debe leerse en el certificado, no inventarse. Las cifras de ejemplo no son un monto de derecho. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "aggregate-adjustment",
+  "term": "Aggregate adjustment",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The aggregate adjustment is the line that keeps the lender from collecting more escrow at closing than Regulation X allows. It is often negative, which reduces the deposit. It is not a lender credit and not a discount.",
+  "details": "12 CFR 1024.17 is the escrow accounting rule, including the aggregate analysis and the cushion of up to one-sixth of estimated annual disbursements, which is two months, unless a smaller cushion is required. 12 CFR 1026.38 requires the adjustment to appear with the initial escrow payment. Collecting a flat number of months without the analysis can over-collect.",
+  "complianceNotes": "Run the aggregate analysis from the actual tax and insurance due dates. Show the negative adjustment in Section G. Do not drop it to make the cash to close look round.",
+  "example": {
+    "setting": "Closing Disclosure, page 2, Section G, aggregate adjustment, often a negative number",
+    "text": "A sample Section G might list example escrow deposits of $1,800 and an aggregate adjustment of minus $140. Example figures."
+  },
+  "citations": [
+    "reg-1024-17",
+    "reg-1026-38"
+  ],
+  "related": [
+    "closing-disclosure",
+    "escrow-account",
+    "escrow-cushion",
+    "initial-escrow-payment",
+    "prepaids"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ajuste agregado",
+    "aliases": [],
+    "definition": "El ajuste agregado es la línea que impide que el prestamista cobre más depósito en garantía en el cierre de lo que permite el Reglamento X. A menudo es negativo, lo que reduce el depósito. No es un crédito del prestamista ni un descuento.",
+    "details": "12 CFR 1024.17 es la regla de contabilidad del depósito en garantía, incluido el análisis agregado y el colchón de hasta un sexto de los desembolsos anuales estimados, que son dos meses, salvo que se exija un colchón menor. 12 CFR 1026.38 exige que el ajuste aparezca con el pago inicial del depósito en garantía. Cobrar un número fijo de meses sin el análisis puede cobrar de más.",
+    "complianceNotes": "Ejecute el análisis agregado a partir de las fechas reales de impuestos y de seguro. Muestre el ajuste negativo en la Sección G. No lo quite para que el efectivo para el cierre se vea redondo.",
+    "example": {
+      "setting": "Divulgación del cierre, página 2, Sección G, ajuste agregado, a menudo un número negativo",
+      "text": "Una Sección G de muestra podría listar depósitos en garantía de ejemplo de $1,800 y un ajuste agregado de menos $140. Cifras de ejemplo."
+    }
+  }
+}

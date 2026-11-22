@@ -1,0 +1,36 @@
+{
+  "slug": "high-cost-mortgage",
+  "term": "High-cost mortgage",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A high-cost mortgage is a loan that trips the HOEPA rate test or the HOEPA points-and-fees test. Once it is high-cost, the creditor must follow the extra bans and the counseling requirement. Calling it a higher-priced loan instead does not avoid those duties.",
+  "details": "12 CFR 1026.32 defines coverage. 12 CFR 1026.34 contains prohibited acts, including restrictions on balloon payments, prepayment penalties, and financing of points and fees, and it requires homeownership counseling. Thresholds adjust. Read the current section and the CFPB's annual notice. A purchase-money loan can be high-cost. The old idea that HOEPA was only for refinances is outdated.",
+  "complianceNotes": "Test every high-fee or high-rate file. If it is covered, stop the standard document set and complete counseling and the 1026.34 limits. Keep the certificate.",
+  "example": {
+    "setting": "HOEPA coverage worksheet and the high-cost counseling certificate if the loan is covered",
+    "text": "A sample refinance of $90,000 with a large example origination charge might require the HOEPA worksheet before lock. Example figures for the loan amount only."
+  },
+  "citations": [
+    "reg-1026-32",
+    "reg-1026-34"
+  ],
+  "related": [
+    "higher-priced-mortgage-loan",
+    "hoepa",
+    "homeownership-counseling-list",
+    "points-and-fees",
+    "prepayment-penalty"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca de alto costo",
+    "aliases": [],
+    "definition": "Una hipoteca de alto costo es un préstamo que activa la prueba de tasa de HOEPA o la prueba de puntos y cargos de HOEPA. Una vez que es de alto costo, el acreedor debe seguir las prohibiciones extra y el requisito de consejería. Llamarla préstamo de precio más alto no evita esos deberes.",
+    "details": "12 CFR 1026.32 define la cobertura. 12 CFR 1026.34 contiene los actos prohibidos, incluidas restricciones a los pagos globales, las penalidades por pago anticipado y el financiamiento de puntos y cargos, y exige consejería de vivienda. Los umbrales se ajustan. Lea la sección vigente y el aviso anual de la CFPB. Un préstamo de compra puede ser de alto costo. La idea antigua de que HOEPA era solo para refinanciamientos está superada.",
+    "complianceNotes": "Pruebe todo expediente de cargos altos o de tasa alta. Si está cubierto, detenga el conjunto estándar de documentos y complete la consejería y los límites de 1026.34. Conserve el certificado.",
+    "example": {
+      "setting": "Hoja de cobertura de HOEPA y el certificado de consejería de alto costo si el préstamo está cubierto",
+      "text": "Un refinanciamiento de muestra de $90,000 con un cargo de originación grande de ejemplo podría exigir la hoja de HOEPA antes de la fijación. Cifras de ejemplo solo para el monto del préstamo."
+    }
+  }
+}

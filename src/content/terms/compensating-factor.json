@@ -1,0 +1,38 @@
+{
+  "slug": "compensating-factor",
+  "term": "Compensating factor",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A compensating factor is a strength in the file, such as reserves or a long job history, that can offset a weakness when a person underwrites the loan manually. It is not a way to ignore a rule the automated system already failed, and it is not available for every weakness.",
+  "details": "Fannie Mae B3-1-01 describes comprehensive risk assessment for manual underwriting. HUD 4000.1 lists the compensating factors that may be used on a manual FHA loan and the documentation for each. An Approve/Eligible DU finding is not a manual underwrite and does not need the same factor write-up. A factor cannot cure a disqualifying credit event the guide forbids.",
+  "complianceNotes": "Name the factor and attach the proof. Do not write reserves as a factor unless the reserves remain after closing and meet the guide's definition. Do not use factors the handbook does not list on an FHA manual file.",
+  "example": {
+    "setting": "Manual underwriting worksheet, compensating-factor section",
+    "text": "A sample manual file might cite example reserves of four months of a $2,000 payment as one factor. Example figures, not a required list."
+  },
+  "citations": [
+    "fannie-b3-1-01",
+    "hud-4000-1"
+  ],
+  "related": [
+    "approve-eligible",
+    "bankruptcy-seasoning",
+    "debt-to-income-ratio",
+    "fha-total-scorecard",
+    "manual-underwriting",
+    "reserves",
+    "residual-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Factor compensatorio",
+    "aliases": [],
+    "definition": "Un factor compensatorio es una fortaleza del expediente, como reservas o un empleo largo, que puede compensar una debilidad cuando una persona suscribe el préstamo manualmente. No es una forma de ignorar una regla que el sistema automatizado ya no cumplió, y no está disponible para toda debilidad.",
+    "details": "Fannie Mae B3-1-01 describe la evaluación integral del riesgo para la suscripción manual. HUD 4000.1 enumera los factores compensatorios que pueden usarse en un préstamo FHA manual y la documentación de cada uno. Un hallazgo Approve/Eligible de DU no es una suscripción manual y no necesita el mismo escrito de factores. Un factor no puede curar un evento de crédito descalificante que la guía prohíbe.",
+    "complianceNotes": "Nombre el factor y adjunte la prueba. No escriba reservas como factor salvo que las reservas queden después del cierre y cumplan la definición de la guía. No use factores que el manual no enumera en un expediente FHA manual.",
+    "example": {
+      "setting": "Hoja de suscripción manual, sección de factores compensatorios",
+      "text": "Un expediente manual de muestra podría citar reservas de ejemplo de cuatro meses de un pago de $2,000 como un factor. Cifras de ejemplo, no una lista exigida."
+    }
+  }
+}

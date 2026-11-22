@@ -1,0 +1,35 @@
+{
+  "slug": "condominium-project",
+  "term": "Condominium project review",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A condominium project review looks at the whole building or association, not only the unit you are buying. The agency must be willing to accept the project. A unit appraisal does not do that work. A project the agencies will not accept is often called non-warrantable in market speech.",
+  "details": "The Fannie Mae Selling Guide sets project-review methods, ineligible characteristics, and documents such as budgets, insurance, and delinquency information. Owner-occupancy and delinquency percentages are in the guide and change. Do not quote them from memory. Limited reviews and full reviews are different paths. A non-warrantable condo may still be a portfolio loan, but it is not a standard agency delivery.",
+  "complianceNotes": "Order the project review early. Do not issue a clear to close on a condo with only the unit appraisal. If the project is ineligible, tell the borrower before they waive the contract contingency.",
+  "example": {
+    "setting": "Condo project review in the collateral file, separate from the unit appraisal",
+    "text": "A sample review might cover an example 40-unit project with the questionnaire and master insurance in the file. The unit count is an example figure, not an eligibility test. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "appraisal",
+    "homeowners-association",
+    "loan-to-value-ratio",
+    "manufactured-housing",
+    "planned-unit-development"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Revisión del proyecto de condominio",
+    "aliases": [],
+    "definition": "Una revisión del proyecto de condominio mira todo el edificio o la asociación, no solo la unidad que usted compra. La agencia debe estar dispuesta a aceptar el proyecto. Una tasación de la unidad no hace ese trabajo. Un proyecto que las agencias no aceptan a menudo se llama no garantizable en el lenguaje del mercado.",
+    "details": "La Selling Guide de Fannie Mae establece los métodos de revisión del proyecto, las características no elegibles y documentos como presupuestos, seguro e información de morosidad. Los porcentajes de ocupación por dueños y de morosidad están en la guía y cambian. No los cite de memoria. Las revisiones limitadas y las revisiones completas son vías distintas. Un condominio no garantizable puede ser un préstamo de cartera, pero no es una entrega estándar de agencia.",
+    "complianceNotes": "Pida la revisión del proyecto temprano. No emita una autorización para cerrar de un condominio solo con la tasación de la unidad. Si el proyecto no es elegible, dígaselo al prestatario antes de que renuncie a la contingencia del contrato.",
+    "example": {
+      "setting": "Revisión del proyecto de condominio en el expediente de garantía, separada de la tasación de la unidad",
+      "text": "Una revisión de muestra puede cubrir un proyecto de ejemplo de 40 unidades con el cuestionario y el seguro maestro en el expediente. El número de unidades es una cifra de ejemplo, no una prueba de elegibilidad. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

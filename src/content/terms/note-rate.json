@@ -1,0 +1,57 @@
+{
+  "slug": "note-rate",
+  "term": "Note rate",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "The note rate is the interest rate in the promissory note. It is the rate used to compute the principal and interest payment. It is not the annual percentage rate, which adds certain finance charges, and it is not the total interest percentage.",
+  "details": "12 CFR 1026.37 requires the interest rate on the Loan Estimate. That disclosed rate should match the note. On a fixed-rate loan it does not change. On an ARM it is the rate until the first adjustment, and the form also shows that it can change. Discount points buy a lower note rate. A lender credit often comes with a higher note rate.",
+  "complianceNotes": "Read the note rate to the borrower before they compare APRs. If the note and the Closing Disclosure differ, stop. Do not explain the APR as the rate that builds the payment.",
+  "example": {
+    "setting": "Promissory note interest rate, and Loan Estimate page 1, Interest Rate",
+    "text": "A sample note and Loan Estimate might both show an example interest rate of 6.375 percent, while the APR is higher. Example figures."
+  },
+  "citations": [
+    "reg-1026-37"
+  ],
+  "related": [
+    "amount-financed",
+    "annual-percentage-rate",
+    "arm-adjustment-notice",
+    "comparisons-table",
+    "demand-feature",
+    "discount-points",
+    "faq-apr-vs-interest-rate",
+    "faq-what-are-points",
+    "faq-what-is-a-rate-lock",
+    "finance-charge",
+    "fixed-rate-mortgage",
+    "float-down",
+    "interest-only",
+    "lender-paid-mortgage-insurance",
+    "map-rule",
+    "mortgage-advertising",
+    "negative-amortization",
+    "per-diem-interest",
+    "prepayment-penalty",
+    "promissory-note",
+    "qualifying-rate",
+    "rate-lock",
+    "rate-lock-confirmation",
+    "risk-based-pricing-notice",
+    "scra",
+    "temporary-buydown",
+    "total-interest-percentage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tasa del pagaré",
+    "aliases": [],
+    "definition": "La tasa del pagaré es la tasa de interés del pagaré. Es la tasa usada para calcular el pago de capital e interés. No es la tasa porcentual anual, que suma ciertos cargos por financiamiento, y no es el porcentaje total de interés.",
+    "details": "12 CFR 1026.37 exige la tasa de interés en la Estimación del préstamo. Esa tasa divulgada debe coincidir con el pagaré. En un préstamo de tasa fija no cambia. En una ARM es la tasa hasta el primer ajuste, y el formulario también muestra que puede cambiar. Los puntos de descuento compran una tasa del pagaré más baja. Un crédito del prestamista a menudo viene con una tasa del pagaré más alta.",
+    "complianceNotes": "Léale la tasa del pagaré al prestatario antes de que compare tasas porcentuales anuales. Si el pagaré y la Divulgación del cierre difieren, deténgase. No explique la tasa porcentual anual como la tasa que arma el pago.",
+    "example": {
+      "setting": "Tasa de interés del pagaré, y Estimación del préstamo página 1, Tasa de interés",
+      "text": "Un pagaré y una Estimación del préstamo de muestra podrían mostrar ambos una tasa de interés de ejemplo del 6.375 por ciento, mientras la tasa porcentual anual es más alta. Cifras de ejemplo."
+    }
+  }
+}

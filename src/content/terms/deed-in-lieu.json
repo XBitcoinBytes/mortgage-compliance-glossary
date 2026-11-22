@@ -1,0 +1,36 @@
+{
+  "slug": "deed-in-lieu",
+  "term": "Deed in lieu of foreclosure",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A deed in lieu of foreclosure is a transfer of the home to the lender or investor to avoid a foreclosure sale. It requires the investor's agreement. It is not available just because the borrower offers the keys. Junior liens and occupants can block it.",
+  "details": "Investor guides and 12 CFR 1024.41 place the deed in lieu in the loss-mitigation menu. The agreement should state whether a deficiency is waived. Credit reporting and the waiting period for the next mortgage follow the new creditor's rules and the applicable seasoning section, which is not the same for every program.",
+  "complianceNotes": "Clear junior liens or document why the investor will accept them. Do not promise a waiver of the deficiency without the written agreement. Give the borrower the agreement before the deed is recorded.",
+  "example": {
+    "setting": "Deed transferring the home to the lienholder instead of a foreclosure sale",
+    "text": "A sample deed-in-lieu might transfer a home securing an example $190,000 debt, with the deficiency language stated in the agreement. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "hud-4000-1",
+    "reg-1024-41"
+  ],
+  "related": [
+    "foreclosure",
+    "foreclosure-seasoning",
+    "loss-mitigation",
+    "short-sale"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Escritura en lugar de ejecución hipotecaria",
+    "aliases": [],
+    "definition": "Una escritura en lugar de ejecución hipotecaria es una transferencia de la vivienda al prestamista o al inversionista para evitar una venta de ejecución. Exige el acuerdo del inversionista. No está disponible solo porque el prestatario ofrece las llaves. Los gravámenes secundarios y los ocupantes pueden bloquearla.",
+    "details": "Las guías de los inversionistas y 12 CFR 1024.41 colocan la escritura en lugar de ejecución en el menú de mitigación de pérdidas. El acuerdo debe indicar si se condona una deficiencia. El reporte de crédito y el período de espera para la siguiente hipoteca siguen las reglas del nuevo acreedor y la sección de antigüedad aplicable, que no es la misma para todo programa.",
+    "complianceNotes": "Limpie los gravámenes secundarios o documente por qué el inversionista los aceptará. No prometa una condonación de la deficiencia sin el acuerdo escrito. Dé al prestatario el acuerdo antes de que se registre la escritura.",
+    "example": {
+      "setting": "Escritura que transfiere la vivienda al titular del gravamen en lugar de una venta de ejecución hipotecaria",
+      "text": "Una escritura en lugar de ejecución de muestra podría transferir una vivienda que garantiza una deuda de ejemplo de $190,000, con el lenguaje de la deficiencia indicado en el acuerdo. Cifras de ejemplo."
+    }
+  }
+}

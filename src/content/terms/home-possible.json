@@ -1,0 +1,35 @@
+{
+  "slug": "home-possible",
+  "term": "Home Possible",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "Home Possible is Freddie Mac's affordable conventional mortgage. Like HomeReady, it is aimed at borrowers within an income limit and can offer a low down payment. The income-limit percentage is in the Freddie Mac Guide and can change. It is not an FHA loan and not a Fannie Mae HomeReady loan.",
+  "details": "The Seller/Servicer Guide states the income test, the property types, and the underwriting, including Loan Product Advisor feedback. Education requirements, if any, are in the guide. Mixing HomeReady rules into a Home Possible delivery is a defect. Do not state a current area-median-income percentage here.",
+  "complianceNotes": "Run the file in Loan Product Advisor as Home Possible only after the income test passes. Follow Freddie's guide, not Fannie's, for conditions.",
+  "example": {
+    "setting": "Home Possible eligibility under the current Freddie Mac Guide",
+    "text": "A sample file might compare example household income with the current Home Possible limit. Example figures are not the limit."
+  },
+  "citations": [
+    "freddie-guide"
+  ],
+  "related": [
+    "conventional-loan",
+    "down-payment",
+    "freddie-mac",
+    "gift-funds",
+    "homeready"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Home Possible",
+    "aliases": [],
+    "definition": "Home Possible es la hipoteca convencional asequible de Freddie Mac. Como HomeReady, está dirigida a prestatarios dentro de un límite de ingreso y puede ofrecer un pago inicial bajo. El porcentaje del límite de ingreso está en la Guía de Freddie Mac y puede cambiar. No es un préstamo FHA ni un préstamo HomeReady de Fannie Mae.",
+    "details": "La Guía del vendedor/administrador establece la prueba de ingreso, los tipos de propiedad y la suscripción, incluida la retroalimentación de Loan Product Advisor. Los requisitos de educación, si los hay, están en la guía. Mezclar reglas de HomeReady en una entrega de Home Possible es un defecto. No indique aquí un porcentaje vigente del ingreso medio del área.",
+    "complianceNotes": "Ejecute el expediente en Loan Product Advisor como Home Possible solo después de que pase la prueba de ingreso. Siga la guía de Freddie, no la de Fannie, para las condiciones.",
+    "example": {
+      "setting": "Elegibilidad de Home Possible según la Guía vigente de Freddie Mac",
+      "text": "Un expediente de muestra podría comparar un ingreso del hogar de ejemplo con el límite vigente de Home Possible. Las cifras de ejemplo no son el límite. Cifras de ejemplo."
+    }
+  }
+}

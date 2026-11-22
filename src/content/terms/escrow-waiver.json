@@ -1,0 +1,36 @@
+{
+  "slug": "escrow-waiver",
+  "term": "Escrow waiver",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "An escrow waiver means the lender does not collect a monthly escrow for taxes and insurance, and you pay those bills yourself. Some loans, including many higher-priced mortgage loans, cannot waive escrow. A lender may charge for the waiver. That charge is a price of the loan, not a tax.",
+  "details": "12 CFR 1026.35 requires escrow on certain higher-priced loans, with exemptions. Fannie Mae's Selling Guide has its own conditions for an escrow waiver, often tied to loan-to-value and history. A waiver does not remove the duty to keep hazard insurance and to pay taxes. If the insurance lapses, force-placed insurance can follow.",
+  "complianceNotes": "Do not offer a waiver on an HPML that lacks an exemption. Disclose any waiver fee in the Loan Estimate. Remind the borrower they must pay taxes and insurance on their own.",
+  "example": {
+    "setting": "Escrow waiver on the Loan Estimate only when the loan and the investor allow it",
+    "text": "A sample waiver fee might be an example 0.25 points on a $320,000 loan, disclosed in Section A. Example figures, not a required price."
+  },
+  "citations": [
+    "reg-1026-35",
+    "fannie-guide"
+  ],
+  "related": [
+    "escrow-account",
+    "escrow-account-disclosure",
+    "homeowners-insurance",
+    "hpml-escrow",
+    "loan-estimate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Renuncia a la cuenta de depósito en garantía",
+    "aliases": [],
+    "definition": "Una renuncia a la cuenta de depósito en garantía significa que el prestamista no cobra un depósito mensual para impuestos y seguro, y usted paga esas facturas por su cuenta. Algunos préstamos, incluidas muchas hipotecas de precio más alto, no pueden renunciar al depósito. Un prestamista puede cobrar por la renuncia. Ese cargo es un precio del préstamo, no un impuesto.",
+    "details": "12 CFR 1026.35 exige depósito en garantía en ciertos préstamos de precio más alto, con exenciones. La Selling Guide de Fannie Mae tiene sus propias condiciones para una renuncia, a menudo ligadas a la relación préstamo-valor y al historial. Una renuncia no elimina el deber de mantener el seguro de riesgos y de pagar los impuestos. Si el seguro vence, puede seguir un seguro impuesto.",
+    "complianceNotes": "No ofrezca una renuncia en una HPML que no tiene una exención. Divulgue cualquier cargo por la renuncia en la Estimación del préstamo. Recuérdele al prestatario que debe pagar los impuestos y el seguro por su cuenta.",
+    "example": {
+      "setting": "Renuncia al depósito en garantía en la Estimación del préstamo solo cuando el préstamo y el inversionista lo permiten",
+      "text": "Un cargo por renuncia de muestra podría ser un ejemplo de 0.25 puntos en un préstamo de $320,000, divulgado en la Sección A. Cifras de ejemplo, no un precio exigido."
+    }
+  }
+}

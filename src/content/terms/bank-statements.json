@@ -1,0 +1,40 @@
+{
+  "slug": "bank-statements",
+  "term": "Bank statements",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Bank statements show the balances and deposits in your accounts. Lenders read them to prove funds to close and reserves, and to spot large deposits that need an explanation. In some non-agency programs, statements are also used as income evidence. That is a different product.",
+  "details": "The Fannie Mae Selling Guide sets the statement period and the large-deposit rule for agency loans. All pages, including pages that show only a zero balance, belong in the file. A non-QM bank-statement program that treats deposits as income is not a Fannie Mae or Freddie Mac method and still needs evidence of ability to repay under Regulation Z if the loan is covered.",
+  "complianceNotes": "Collect all pages for the required period. Source large deposits. Do not qualify a conventional agency loan on deposit averages.",
+  "example": {
+    "setting": "Asset file, bank statements covering the period the guide requires",
+    "text": "A sample two-month statement set might show an example ending balance of $31,000 and one deposit of $9,500 that still needs a source. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "asset-documentation",
+    "du-validation-service",
+    "faq-what-documents-do-i-need",
+    "faq-what-is-earnest-money",
+    "large-deposit",
+    "letter-of-explanation",
+    "reserves",
+    "seasoned-funds",
+    "source-of-funds",
+    "verification-of-deposit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Estados de cuenta bancarios",
+    "aliases": [],
+    "definition": "Los estados de cuenta bancarios muestran los saldos y los depósitos de sus cuentas. Los prestamistas los leen para probar los fondos para el cierre y las reservas, y para detectar depósitos grandes que necesitan explicación. En algunos programas que no son de agencia, los estados también se usan como prueba de ingreso. Ese es un producto distinto.",
+    "details": "La Selling Guide de Fannie Mae fija el período de los estados y la regla de depósitos grandes para los préstamos de agencia. Todas las páginas, incluidas las que solo muestran un saldo de cero, pertenecen al expediente. Un programa no QM de estados de cuenta que trata los depósitos como ingreso no es un método de Fannie Mae o Freddie Mac y igual necesita prueba de capacidad de pago según el Reglamento Z si el préstamo está cubierto.",
+    "complianceNotes": "Recoja todas las páginas del período exigido. Explique los depósitos grandes. No califique un préstamo convencional de agencia con promedios de depósitos.",
+    "example": {
+      "setting": "Expediente de activos, estados de cuenta que cubren el período que exige la guía",
+      "text": "Un conjunto de estados de muestra de dos meses puede mostrar un saldo final de ejemplo de $31,000 y un depósito de $9,500 que todavía necesita origen. Cifras de ejemplo."
+    }
+  }
+}

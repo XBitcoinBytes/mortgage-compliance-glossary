@@ -1,0 +1,37 @@
+{
+  "slug": "security-instrument",
+  "term": "Security instrument",
+  "aliases": [],
+  "category": "closing",
+  "definition": "The security instrument is the mortgage or deed of trust that gives the lender a lien on the home. The promissory note is your promise to pay. They are separate documents. Which instrument the state uses is state law.",
+  "details": "The note can be sold without a new security instrument being signed. The lien is what the lender enforces in foreclosure, through the procedure the state and the instrument allow. Recording fees pay to put the instrument in the land records. A signature on the Closing Disclosure does not create the lien. The security instrument does.",
+  "complianceNotes": "Match the borrower names, the legal description, and the loan amount on the note and the security instrument. Record it after funding as the instructions require.",
+  "example": {
+    "setting": "Mortgage or deed of trust signed at closing and sent for recording",
+    "text": "A sample deed of trust might secure an example $300,000 note on a described lot. Example figures."
+  },
+  "citations": [
+    "practice-file"
+  ],
+  "related": [
+    "closing-package",
+    "due-on-sale-clause",
+    "foreclosure",
+    "mortgage-payoff",
+    "promissory-note",
+    "recording-fees",
+    "title-commitment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Instrumento de garantía",
+    "aliases": [],
+    "definition": "El instrumento de garantía es la hipoteca o el fideicomiso que da al prestamista un gravamen sobre la vivienda. El pagaré es su promesa de pagar. Son documentos separados. Qué instrumento usa el estado es derecho estatal.",
+    "details": "El pagaré puede venderse sin que se firme un nuevo instrumento de garantía. El gravamen es lo que el prestamista ejecuta en una ejecución hipotecaria, por el procedimiento que permiten el estado y el instrumento. Los cargos de registro pagan para poner el instrumento en los registros de la propiedad. Una firma en la Divulgación del cierre no crea el gravamen. Lo crea el instrumento de garantía.",
+    "complianceNotes": "Haga coincidir los nombres de los prestatarios, la descripción legal y el monto del préstamo en el pagaré y en el instrumento de garantía. Regístrelo después del desembolso como exigen las instrucciones.",
+    "example": {
+      "setting": "Hipoteca o fideicomiso firmado en el cierre y enviado a registro",
+      "text": "Un fideicomiso de muestra podría garantizar un pagaré de ejemplo de $300,000 sobre un lote descrito. Cifras de ejemplo."
+    }
+  }
+}

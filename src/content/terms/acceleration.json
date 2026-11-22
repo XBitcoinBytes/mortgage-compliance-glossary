@@ -1,0 +1,36 @@
+{
+  "slug": "acceleration",
+  "term": "Acceleration",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "Acceleration is the lender's declaration, after default, that the full balance is due, if the note and state law allow it. It is a step toward foreclosure. It is not the demand feature box on the Loan Estimate, which is about requiring payment even without a default.",
+  "details": "The note states the default and the right to accelerate. State law may require a notice and a chance to cure before acceleration is effective. Regulation X's 120-day rule and dual-tracking limits still apply to the foreclosure steps that follow. A reinstatement, if the note or state law allows it, undoes the acceleration if the borrower pays the required amount.",
+  "complianceNotes": "Do not accelerate before the note and state law allow, and do not file the first foreclosure paper before the federal wait unless an exception applies. Tell the borrower the amount to cure if a cure right exists.",
+  "example": {
+    "setting": "Note default clause exercised after default, distinct from a demand feature",
+    "text": "A sample acceleration might declare an example balance of $176,000 due after default. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1024-41"
+  ],
+  "related": [
+    "delinquency",
+    "demand-feature",
+    "foreclosure",
+    "promissory-note",
+    "reinstatement"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aceleración",
+    "aliases": [],
+    "definition": "La aceleración es la declaración del prestamista, después del incumplimiento, de que el saldo completo está vencido, si el pagaré y la ley estatal lo permiten. Es un paso hacia la ejecución hipotecaria. No es la casilla de característica de exigibilidad de la Estimación del préstamo, que trata de exigir el pago incluso sin un incumplimiento.",
+    "details": "El pagaré establece el incumplimiento y el derecho a acelerar. La ley estatal puede exigir un aviso y una oportunidad de cura antes de que la aceleración sea efectiva. La regla de 120 días del Reglamento X y los límites del seguimiento dual igual se aplican a los pasos de ejecución hipotecaria que siguen. Una rehabilitación, si el pagaré o la ley estatal lo permiten, deshace la aceleración si el prestatario paga el monto exigido.",
+    "complianceNotes": "No acelere antes de que el pagaré y la ley estatal lo permitan, y no presente el primer papel de ejecución hipotecaria antes de la espera federal salvo que se aplique una excepción. Dígale al prestatario el monto para curar si existe un derecho de cura.",
+    "example": {
+      "setting": "Cláusula de incumplimiento del pagaré ejercida después del incumplimiento, distinta de una característica de exigibilidad",
+      "text": "Una aceleración de muestra podría declarar un saldo de ejemplo de $176,000 vencido después del incumplimiento. Cifras de ejemplo."
+    }
+  }
+}

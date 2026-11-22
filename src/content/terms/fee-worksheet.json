@@ -1,0 +1,39 @@
+{
+  "slug": "fee-worksheet",
+  "term": "Fee worksheet",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A fee worksheet is an early, unofficial list of possible costs a creditor may show before you have applied. It is a conversation piece. If it is designed to look like the Loan Estimate, regulators can treat it as a Loan Estimate.",
+  "details": "12 CFR 1026.19 and the CFPB's form rules restrict imitating the Loan Estimate. A worksheet given before the six application items should be clearly labeled as an estimate and should not use the Loan Estimate headings in a way that copies the required form. Once an application exists, the creditor must provide the real Loan Estimate. Fees other than a credit-report fee still wait for receipt and intent to proceed.",
+  "complianceNotes": "Keep worksheets visually distinct and out of the disclosure vault. Do not ask the consumer to sign a worksheet as if it were the Loan Estimate. When the application is complete, issue the real form on time.",
+  "example": {
+    "setting": "Pre-application worksheet, which must not be formatted as a Loan Estimate",
+    "text": "A sample worksheet might list an example origination fee of $1,000 and an example title fee of $1,400, with a banner that it is not a Loan Estimate. Example figures."
+  },
+  "citations": [
+    "reg-1026-19",
+    "cfpb-forms",
+    "practice-file"
+  ],
+  "related": [
+    "closing-costs",
+    "credit-report-fee",
+    "electronic-consent",
+    "intent-to-proceed",
+    "loan-estimate",
+    "origination-charges",
+    "pre-qualification"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hoja de cargos",
+    "aliases": [],
+    "definition": "Una hoja de cargos es una lista temprana y no oficial de posibles costos que un acreedor puede mostrar antes de que usted haya solicitado. Es una pieza de conversación. Si está diseñada para parecerse a la Estimación del préstamo, los reguladores pueden tratarla como una Estimación del préstamo.",
+    "details": "12 CFR 1026.19 y las reglas de formularios de la CFPB restringen imitar la Estimación del préstamo. Una hoja dada antes de los seis datos de solicitud debe etiquetarse con claridad como un estimado y no debe usar los encabezados de la Estimación del préstamo de un modo que copie el formulario exigido. Una vez que existe una solicitud, el acreedor debe dar la Estimación del préstamo real. Los cargos distintos del informe de crédito igual esperan la recepción y la intención de continuar.",
+    "complianceNotes": "Mantenga las hojas visualmente distintas y fuera del archivo de divulgaciones. No pida al consumidor que firme una hoja como si fuera la Estimación del préstamo. Cuando la solicitud esté completa, emita el formulario real a tiempo.",
+    "example": {
+      "setting": "Hoja previa a la solicitud, que no debe tener el formato de una Estimación del préstamo",
+      "text": "Una hoja de muestra puede listar una tarifa de originación de ejemplo de $1,000 y un cargo de título de ejemplo de $1,400, con un aviso de que no es una Estimación del préstamo. Cifras de ejemplo."
+    }
+  }
+}

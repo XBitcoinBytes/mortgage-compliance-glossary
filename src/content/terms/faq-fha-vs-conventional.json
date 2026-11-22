@@ -1,0 +1,36 @@
+{
+  "slug": "faq-fha-vs-conventional",
+  "term": "What is the difference between FHA and conventional?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "An FHA loan is insured by the Federal Housing Administration and uses HUD's handbook, including mortgage insurance that HUD prices. A conventional loan is not government-insured. It may be sold to Fannie Mae or Freddie Mac and may use private mortgage insurance. Which one costs less depends on your credit, your down payment, and the current insurance rates.",
+  "details": "Do not quote a permanent FHA down-payment percentage or MIP rate. Those are in HUD 4000.1 and mortgagee letters and they change. Conventional PMI can be cancelled under the Homeowners Protection Act. FHA MIP often cannot. Both loans use TRID disclosures and ability to repay if they are covered closed-end loans.",
+  "complianceNotes": "Price both with current insurance, and explain cancellation. Do not steer a borrower to one product because of a prohibited characteristic.",
+  "example": {
+    "setting": "Side-by-side comparison of an FHA loan and a conventional loan, without a universal winner",
+    "text": "A sample comparison might show two example payments on a $280,000 price. Example figures, not a recommendation."
+  },
+  "citations": [
+    "hud-4000-1",
+    "fannie-guide"
+  ],
+  "related": [
+    "conventional-loan",
+    "down-payment",
+    "fha-loan",
+    "fha-mip",
+    "private-mortgage-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Cuál es la diferencia entre FHA y convencional?",
+    "aliases": [],
+    "definition": "Un préstamo FHA está asegurado por la Administración Federal de Vivienda y usa el manual de HUD, incluido un seguro hipotecario que HUD cotiza. Un préstamo convencional no está asegurado por el gobierno. Puede venderse a Fannie Mae o Freddie Mac y puede usar seguro hipotecario privado. Cuál cuesta menos depende de su crédito, su pago inicial y las tasas vigentes del seguro.",
+    "details": "No cite un porcentaje permanente de pago inicial de la FHA ni una tasa de MIP. Esos están en HUD 4000.1 y en las cartas a los acreedores y cambian. El PMI convencional puede cancelarse según la Ley de Protección de los Propietarios. La MIP de la FHA a menudo no puede. Ambos préstamos usan divulgaciones de TRID y capacidad de pago si son préstamos de crédito cerrado cubiertos.",
+    "complianceNotes": "Cotice ambos con el seguro vigente, y explique la cancelación. No dirija a un prestatario a un producto por una característica prohibida.",
+    "example": {
+      "setting": "Comparación lado a lado de un préstamo FHA y un préstamo convencional, sin un ganador universal",
+      "text": "Una comparación de muestra podría mostrar dos pagos de ejemplo sobre un precio de $280,000. Cifras de ejemplo, no una recomendación."
+    }
+  }
+}

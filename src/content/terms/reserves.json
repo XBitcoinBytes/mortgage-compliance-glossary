@@ -1,0 +1,46 @@
+{
+  "slug": "reserves",
+  "term": "Reserves",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Reserves are liquid assets you will still have after you pay the cash to close. Lenders measure them in months of the housing payment. They are a cushion. They are not the down payment, which is spent at closing.",
+  "details": "Fannie Mae B3-4.1-01 defines liquid reserves and says the required months depend on the transaction, occupancy, number of units, and other financed properties. Desktop Underwriter applies its own reserve rules, including extra reserves in some cash-out and investment cases. Gift funds may be allowed as reserves in some cases. A gift of equity may not be used as reserves. Do not quote one number of months for every file.",
+  "complianceNotes": "Subtract funds to close before you count reserves. Document that the assets are liquid and still available. Do not count the earnest money twice, once as cash to close and again as reserves.",
+  "example": {
+    "setting": "Asset worksheet, months of PITIA remaining after closing",
+    "text": "A sample file might need two months of an example $2,000 PITIA payment, or $4,000, left in a savings account after closing. Example figures, not a universal requirement."
+  },
+  "citations": [
+    "fannie-b3-4-1-01"
+  ],
+  "related": [
+    "asset-documentation",
+    "bank-statements",
+    "cash-out-refinance",
+    "cash-to-close",
+    "compensating-factor",
+    "faq-what-is-a-jumbo-loan",
+    "gift-funds",
+    "homeowners-association",
+    "investment-property",
+    "jumbo-loan",
+    "multiple-financed-properties",
+    "pitia",
+    "seasoned-funds",
+    "second-home",
+    "source-of-funds",
+    "verification-of-deposit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reservas",
+    "aliases": [],
+    "definition": "Las reservas son activos líquidos que usted todavía tendrá después de pagar el efectivo para el cierre. Los prestamistas las miden en meses del pago de la vivienda. Son un colchón. No son el pago inicial, que se gasta en el cierre.",
+    "details": "Fannie Mae B3-4.1-01 define las reservas líquidas y dice que los meses exigidos dependen de la transacción, la ocupación, el número de unidades y otras propiedades financiadas. Desktop Underwriter aplica sus propias reglas de reservas, incluidas reservas extra en algunos casos de retiro de efectivo e inversión. Los fondos de regalo pueden permitirse como reservas en algunos casos. Un regalo de plusvalía no puede usarse como reservas. No cite un solo número de meses para todo expediente.",
+    "complianceNotes": "Reste los fondos para el cierre antes de contar las reservas. Documente que los activos son líquidos y siguen disponibles. No cuente el dinero de arras dos veces, una como efectivo para el cierre y otra como reservas.",
+    "example": {
+      "setting": "Hoja de activos, meses de PITIA que quedan después del cierre",
+      "text": "Un expediente de muestra podría necesitar dos meses de un pago PITIA de ejemplo de $2,000, o $4,000, que queden en una cuenta de ahorros después del cierre. Cifras de ejemplo, no un requisito universal."
+    }
+  }
+}

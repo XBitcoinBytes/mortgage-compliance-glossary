@@ -1,0 +1,37 @@
+{
+  "slug": "total-interest-percentage",
+  "term": "Total interest percentage",
+  "aliases": [
+    "TIP"
+  ],
+  "category": "closing",
+  "definition": "The total interest percentage, or TIP, is the total amount of interest you will pay over the life of the loan, shown as a percentage of the loan amount. It is not the interest rate and not the APR. A long loan can have a large TIP even when the rate looks ordinary.",
+  "details": "12 CFR 1026.38 requires the TIP in the comparisons on the Closing Disclosure. It assumes the scheduled payments are made. Extra principal payments would reduce the interest actually paid. The TIP is a comparison tool. It is not a charge due at closing.",
+  "complianceNotes": "Explain the TIP next to the note rate and the APR so the borrower sees three different numbers. Do not describe the TIP as the rate they will pay each year.",
+  "example": {
+    "setting": "Closing Disclosure, page 5, Comparisons, total interest percentage",
+    "text": "A sample 30-year loan might show an example TIP of 118 percent, meaning total scheduled interest is 118 percent of the example loan amount. Example figures."
+  },
+  "citations": [
+    "reg-1026-38"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "comparisons-table",
+    "finance-charge",
+    "loan-calculations",
+    "note-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Porcentaje total de interés",
+    "aliases": [],
+    "definition": "El porcentaje total de interés, o TIP, es el monto total de interés que usted pagará durante la vida del préstamo, mostrado como un porcentaje del monto del préstamo. No es la tasa de interés y no es la tasa porcentual anual. Un préstamo largo puede tener un TIP grande aunque la tasa parezca ordinaria.",
+    "details": "12 CFR 1026.38 exige el TIP en las comparaciones de la Divulgación del cierre. Supone que se hacen los pagos programados. Los pagos extra al capital reducirían el interés realmente pagado. El TIP es una herramienta de comparación. No es un cargo debido en el cierre.",
+    "complianceNotes": "Explique el TIP junto a la tasa del pagaré y la tasa porcentual anual para que el prestatario vea tres números distintos. No describa el TIP como la tasa que pagará cada año.",
+    "example": {
+      "setting": "Divulgación del cierre, página 5, Comparaciones, porcentaje total de interés",
+      "text": "Un préstamo a 30 años de muestra podría mostrar un TIP de ejemplo del 118 por ciento, lo que significa que el interés programado total es el 118 por ciento del monto de ejemplo del préstamo. Cifras de ejemplo."
+    }
+  }
+}

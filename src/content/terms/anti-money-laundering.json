@@ -1,0 +1,39 @@
+{
+  "slug": "anti-money-laundering",
+  "term": "Anti-money-laundering program",
+  "aliases": [
+    "AML"
+  ],
+  "category": "compliance",
+  "definition": "An anti-money-laundering program is the written system a covered mortgage company uses to detect and report suspicious activity. It names a compliance officer, trains staff, and is tested independently. It is not a one-page policy in a drawer.",
+  "details": "31 CFR Part 1029 applies to residential mortgage lenders and originators as loan or finance companies. The program requirement is in that part. Cite the part rather than a guessed subsection if you are not looking at the current text. The program should address the mortgage facts that matter, including unusual gifts, third-party wires, and customers who refuse ordinary information. It should not include advice on how to avoid a report.",
+  "complianceNotes": "Test the program on a schedule and record the test. Train originators to escalate source-of-funds problems. Do not let production decide that a suspicious fact is too awkward to report.",
+  "example": {
+    "setting": "Written AML program: policies, officer, training, and independent testing",
+    "text": "A sample annual test might review an example of 25 funded files for source-of-funds notes. Example figures, not a required sample size."
+  },
+  "citations": [
+    "cfr-31-1029",
+    "fincen"
+  ],
+  "related": [
+    "bank-secrecy-act",
+    "customer-identification-program",
+    "ofac-screening",
+    "red-flags-rule",
+    "source-of-funds",
+    "suspicious-activity-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Programa contra el lavado de dinero",
+    "aliases": [],
+    "definition": "Un programa contra el lavado de dinero es el sistema escrito que una empresa hipotecaria cubierta usa para detectar y reportar actividad sospechosa. Nombra un oficial de cumplimiento, capacita al personal y se prueba de manera independiente. No es una política de una página en un cajón.",
+    "details": "31 CFR Parte 1029 se aplica a los prestamistas y originadores de hipotecas residenciales como compañías de préstamos o de financiamiento. El requisito del programa está en esa parte. Cite la parte en lugar de una subsección adivinada si usted no está mirando el texto vigente. El programa debe tratar los hechos hipotecarios que importan, incluidos regalos inusuales, transferencias de terceros y clientes que rechazan información ordinaria. No debe incluir consejos sobre cómo evitar un reporte.",
+    "complianceNotes": "Pruebe el programa en un calendario y registre la prueba. Capacite a los originadores para escalar problemas de origen de los fondos. No deje que producción decida que un hecho sospechoso es demasiado incómodo para reportar.",
+    "example": {
+      "setting": "Programa escrito contra el lavado de dinero: políticas, oficial, capacitación y prueba independiente",
+      "text": "Una prueba anual de muestra podría revisar un ejemplo de 25 expedientes desembolsados por notas del origen de los fondos. Cifras de ejemplo, no un tamaño de muestra exigido."
+    }
+  }
+}

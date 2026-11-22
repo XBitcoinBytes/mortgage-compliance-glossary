@@ -1,0 +1,35 @@
+{
+  "slug": "delinquency-foreclosure-wait",
+  "term": "120-day foreclosure wait",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "The 120-day rule generally prohibits a servicer from making the first notice or filing required for foreclosure until the borrower is more than 120 days delinquent. The purpose is to give the borrower time to seek loss mitigation. Exceptions are in the regulation.",
+  "details": "12 CFR 1024.41(f) is the rule. The 120 days is regulatory. Delinquency for this purpose is defined in Regulation X and is not identical to a contractual default in every detail. Small servicers have a different relationship to some of the loss-mitigation rules. Do not start the foreclosure clock from the first missed payment without reading the definition.",
+  "complianceNotes": "Block the first legal step until day 121 unless an exception is documented. Early intervention still happens much earlier. The 120-day wait is not a reason to ignore the borrower.",
+  "example": {
+    "setting": "Servicing timeline: no first foreclosure notice or filing until the borrower is more than 120 days delinquent, with the section's exceptions",
+    "text": "A sample loan that becomes delinquent on March 1 generally cannot receive the first foreclosure filing in April. Example figures for the calendar."
+  },
+  "citations": [
+    "reg-1024-41"
+  ],
+  "related": [
+    "delinquency",
+    "dual-tracking",
+    "early-intervention",
+    "foreclosure",
+    "loss-mitigation"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Espera de 120 días antes de la ejecución",
+    "aliases": [],
+    "definition": "La regla de 120 días por lo general prohíbe a un administrador hacer el primer aviso o la primera presentación exigida para la ejecución hipotecaria hasta que el prestatario tiene más de 120 días de mora. El propósito es dar al prestatario tiempo para buscar mitigación de pérdidas. Las excepciones están en el reglamento.",
+    "details": "12 CFR 1024.41(f) es la regla. Los 120 días son del reglamento. La mora para este fin se define en el Reglamento X y no es idéntica a un incumplimiento contractual en cada detalle. Los administradores pequeños tienen una relación distinta con algunas de las reglas de mitigación de pérdidas. No inicie el reloj de la ejecución hipotecaria desde el primer pago no realizado sin leer la definición.",
+    "complianceNotes": "Bloquee el primer paso legal hasta el día 121 salvo que se documente una excepción. La intervención temprana igual ocurre mucho antes. La espera de 120 días no es una razón para ignorar al prestatario.",
+    "example": {
+      "setting": "Línea de tiempo de administración: ningún primer aviso o presentación de ejecución hipotecaria hasta que el prestatario tiene más de 120 días de mora, con las excepciones de la sección",
+      "text": "Un préstamo de muestra que entra en mora el 1 de marzo por lo general no puede recibir la primera presentación de ejecución hipotecaria en abril. Cifras de ejemplo para el calendario."
+    }
+  }
+}

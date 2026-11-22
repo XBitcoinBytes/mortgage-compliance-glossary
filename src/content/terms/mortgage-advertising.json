@@ -1,0 +1,39 @@
+{
+  "slug": "mortgage-advertising",
+  "term": "Mortgage advertising",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Mortgage advertising is covered by Regulation Z when it states specific credit terms, and by the MAP Rule whenever a commercial communication about a mortgage product could mislead. A social-media post is an advertisement. A rate in a text message can be one too.",
+  "details": "12 CFR 1026.24 contains the advertising rules, including trigger terms and the disclosures they require. 12 CFR 1014, the MAP Rule, prohibits material misrepresentations. A payment advertisement that assumes a temporary buydown must not look like the permanent payment. The APR, when it is required, must be as conspicuous as the rules require.",
+  "complianceNotes": "Approve ads before they run, including originator social posts. If the ad states a payment or a down payment, add the triggered disclosures. Keep the rate sheet that supports the claim.",
+  "example": {
+    "setting": "Advertisement showing a rate or payment, with the triggered disclosures",
+    "text": "A sample ad might offer an example payment of $1,650. If that number is a trigger term, the ad also needs the disclosures in 1026.24. Example figures."
+  },
+  "citations": [
+    "reg-1026-24",
+    "reg-1014"
+  ],
+  "related": [
+    "annual-percentage-rate",
+    "deceptive-practice",
+    "limited-english-proficiency",
+    "map-rule",
+    "marketing-services-agreement",
+    "note-rate",
+    "trigger-terms",
+    "unfair-practice"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Publicidad hipotecaria",
+    "aliases": [],
+    "definition": "La publicidad hipotecaria está cubierta por el Reglamento Z cuando indica términos específicos de crédito, y por la regla MAP siempre que una comunicación comercial sobre un producto hipotecario pueda engañar. Una publicación en redes sociales es un anuncio. Una tasa en un mensaje de texto también puede serlo.",
+    "details": "12 CFR 1026.24 contiene las reglas de publicidad, incluidos los términos desencadenantes y las divulgaciones que exigen. 12 CFR 1014, la regla MAP, prohíbe las declaraciones falsas importantes. Un anuncio de un pago que supone una reducción temporal no debe parecer el pago permanente. La tasa porcentual anual, cuando se exige, debe ser tan visible como las reglas requieren.",
+    "complianceNotes": "Apruebe los anuncios antes de publicarlos, incluidas las publicaciones de los originadores en redes sociales. Si el anuncio indica un pago o un pago inicial, agregue las divulgaciones que se activan. Conserve la hoja de tasas que respalda la afirmación.",
+    "example": {
+      "setting": "Anuncio que muestra una tasa o un pago, con las divulgaciones que se activan",
+      "text": "Un anuncio de muestra podría ofrecer un pago de ejemplo de $1,650. Si ese número es un término desencadenante, el anuncio también necesita las divulgaciones de 1026.24. Cifras de ejemplo."
+    }
+  }
+}

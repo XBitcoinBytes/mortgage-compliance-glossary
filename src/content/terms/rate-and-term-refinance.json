@@ -1,0 +1,38 @@
+{
+  "slug": "rate-and-term-refinance",
+  "term": "Rate-and-term refinance",
+  "aliases": [
+    "limited cash-out refinance"
+  ],
+  "category": "loan-programs",
+  "definition": "A rate-and-term refinance changes the interest rate or the length of the loan and pays off the existing mortgage. Cash back to the borrower is limited. Fannie Mae's version is often called a limited cash-out refinance. The dollar limit on cash back is in the guide and should not be quoted from memory.",
+  "details": "The Selling Guide defines what may be paid off and how much cash the borrower may receive before the loan becomes a cash-out refinance. Paying off credit cards can be treated as cash-out. A rate-and-term file uses different loan-to-value and waiting-period rules than cash-out. TRID applies. A right of rescission often applies on a principal dwelling.",
+  "complianceNotes": "Classify the refinance before you price it. If cash back or debt payoff crosses the guide's line, switch to cash-out rules. Give rescission notices when they apply.",
+  "example": {
+    "setting": "Refinance that changes the rate or term, with cash back limited by the guide",
+    "text": "A sample refinance might lower an example rate and give the borrower $800 at closing, then be tested against the guide's cash-back limit. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "cash-out-refinance",
+    "closing-disclosure",
+    "faq-can-i-cancel-after-closing",
+    "fha-streamline-refinance",
+    "prepayment-penalty",
+    "va-irrrl"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Refinanciamiento de tasa y plazo",
+    "aliases": [],
+    "definition": "Un refinanciamiento de tasa y plazo cambia la tasa de interés o la duración del préstamo y liquida la hipoteca existente. El efectivo que vuelve al prestatario es limitado. La versión de Fannie Mae a menudo se llama refinanciamiento con retiro limitado de efectivo. El límite en dólares del efectivo de vuelta está en la guía y no debe citarse de memoria.",
+    "details": "La Selling Guide define qué puede liquidarse y cuánto efectivo puede recibir el prestatario antes de que el préstamo se vuelva un refinanciamiento con retiro de efectivo. Pagar tarjetas de crédito puede tratarse como retiro de efectivo. Un expediente de tasa y plazo usa reglas distintas de relación préstamo-valor y de período de espera que el retiro de efectivo. TRID se aplica. Un derecho de rescisión a menudo se aplica en una vivienda principal.",
+    "complianceNotes": "Clasifique el refinanciamiento antes de cotizarlo. Si el efectivo de vuelta o el pago de deudas cruza la línea de la guía, cambie a las reglas de retiro de efectivo. Dé los avisos de rescisión cuando se aplican.",
+    "example": {
+      "setting": "Refinanciamiento que cambia la tasa o el plazo, con efectivo de vuelta limitado por la guía",
+      "text": "Un refinanciamiento de muestra podría bajar una tasa de ejemplo y dar al prestatario $800 en el cierre, y luego probarse contra el límite de efectivo de la guía. Cifras de ejemplo."
+    }
+  }
+}

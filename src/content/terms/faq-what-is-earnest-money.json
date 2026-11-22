@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-earnest-money",
+  "term": "What is earnest money?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "Earnest money is a deposit you pay under the purchase contract to show you intend to buy. It is held until closing and is usually credited toward your cash to close. It is not the lender's escrow account for taxes.",
+  "details": "The contract says when you get the deposit back if the sale fails. The Closing Disclosure shows it as a credit under 12 CFR 1026.38. The lender still has to source the deposit if it is a large deposit or part of the funds to close. A cancelled check or the escrow receipt is the usual proof.",
+  "complianceNotes": "Collect the receipt and the source. Credit it on page 3. Do not call it the down payment if the down payment is larger.",
+  "example": {
+    "setting": "Purchase contract earnest-money line, credited on the Closing Disclosure",
+    "text": "A sample contract might require example earnest money of $5,000, later credited against cash to close. Example figures."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-38"
+  ],
+  "related": [
+    "bank-statements",
+    "cash-to-close",
+    "earnest-money",
+    "purchase-agreement",
+    "source-of-funds"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es el dinero de arras?",
+    "aliases": [],
+    "definition": "El dinero de arras es un depósito que usted paga según el contrato de compra para mostrar que piensa comprar. Se guarda hasta el cierre y por lo general se acredita a su efectivo para el cierre. No es la cuenta de depósito en garantía del prestamista para los impuestos.",
+    "details": "El contrato dice cuándo usted recupera el depósito si la venta falla. La Divulgación del cierre lo muestra como un crédito según 12 CFR 1026.38. El prestamista igual tiene que documentar el origen del depósito si es un depósito grande o parte de los fondos para el cierre. Un cheque cancelado o el recibo del depósito es la prueba usual.",
+    "complianceNotes": "Recoja el recibo y el origen. Acredítelo en la página 3. No lo llame el pago inicial si el pago inicial es mayor.",
+    "example": {
+      "setting": "Línea de dinero de arras del contrato de compra, acreditada en la Divulgación del cierre",
+      "text": "Un contrato de muestra podría exigir dinero de arras de ejemplo de $5,000, acreditado después contra el efectivo para el cierre. Cifras de ejemplo."
+    }
+  }
+}

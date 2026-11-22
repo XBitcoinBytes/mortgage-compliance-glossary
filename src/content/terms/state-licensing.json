@@ -1,0 +1,37 @@
+{
+  "slug": "state-licensing",
+  "term": "State mortgage licensing",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "State mortgage licensing is the state statute that sits on top of the SAFE Act. It decides who in that state must hold a license, what bond or net worth the state requires, and which activities need authority. Those bond and net-worth amounts are state law. Do not quote one national bond amount.",
+  "details": "12 USC 5104 and Regulation H, 12 CFR 1008, are the federal floor. The state regulator issues the license through NMLS. Depository institutions and their registered originators follow Regulation G instead of a state license in the situations the SAFE Act describes. Working in a state without authority, even for one loan, is a licensing problem.",
+  "complianceNotes": "Check company and individual authority in the property state before application. Track sponsorship and renewal dates. Do not rely on a license in the originator's home state alone.",
+  "example": {
+    "setting": "State license record in NMLS for the property state",
+    "text": "A sample NMLS record might show an active license in one state and an example renewal date. The date is an example figure, not a statutory deadline. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "usc-12-5104",
+    "reg-1008",
+    "nmls"
+  ],
+  "related": [
+    "loan-officer",
+    "mortgage-broker",
+    "mortgage-loan-originator",
+    "nmls",
+    "safe-act"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Licencia hipotecaria estatal",
+    "aliases": [],
+    "definition": "La licencia hipotecaria estatal es la ley del estado que se suma a la Ley SAFE. Decide quién en ese estado debe tener una licencia, qué fianza o patrimonio neto exige el estado y qué actividades necesitan autoridad. Esos montos de fianza y de patrimonio neto son derecho estatal. No cite un monto nacional único de fianza.",
+    "details": "12 USC 5104 y el Reglamento H, 12 CFR 1008, son el piso federal. El regulador estatal otorga la licencia por medio de NMLS. Las instituciones de depósito y sus originadores registrados siguen el Reglamento G en lugar de una licencia estatal en las situaciones que describe la Ley SAFE. Trabajar en un estado sin autoridad, aunque sea por un préstamo, es un problema de licencia.",
+    "complianceNotes": "Verifique la autoridad de la empresa y de la persona en el estado de la propiedad antes de la solicitud. Controle las fechas de patrocinio y de renovación. No se apoye solo en una licencia del estado de residencia del originador.",
+    "example": {
+      "setting": "Registro de licencia estatal en NMLS para el estado de la propiedad",
+      "text": "Un registro de NMLS de muestra puede mostrar una licencia activa en un estado y una fecha de renovación de ejemplo. La fecha es una cifra de ejemplo, no un plazo legal. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

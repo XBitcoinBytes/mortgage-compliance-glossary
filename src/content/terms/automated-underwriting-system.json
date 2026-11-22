@@ -1,0 +1,42 @@
+{
+  "slug": "automated-underwriting-system",
+  "term": "Automated underwriting system",
+  "aliases": [
+    "AUS"
+  ],
+  "category": "underwriting",
+  "definition": "An automated underwriting system is software that reads the application and returns a risk recommendation and a list of conditions. Desktop Underwriter, Loan Product Advisor, FHA TOTAL, and GUS are examples. The finding is not a legal approval and not a Loan Estimate.",
+  "details": "Each system has its own guide. Fannie Mae Chapter B3-2 governs DU. Freddie Mac describes Loan Product Advisor in its tools and guide. FHA TOTAL and USDA GUS are agency systems. The lender must submit accurate data, clear the conditions, and still comply with ability to repay. An Approve finding does not cure a false application.",
+  "complianceNotes": "Resubmit when income, assets, loan amount, or occupancy change beyond the system's tolerances. Keep the final findings that match the closing documents. Do not mix a DU finding with Freddie Mac delivery.",
+  "example": {
+    "setting": "AUS findings report in the underwriting file",
+    "text": "A sample findings report might return Approve/Eligible with a condition to document $8,000 of reserves on an example file. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2",
+    "freddie-lpa",
+    "hud-4000-1"
+  ],
+  "related": [
+    "desktop-underwriter",
+    "fha-total-scorecard",
+    "gus",
+    "loan-product-advisor",
+    "manual-underwriting",
+    "out-of-scope"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Sistema automatizado de suscripción",
+    "aliases": [
+      "AUS"
+    ],
+    "definition": "Un sistema automatizado de suscripción es un programa que lee la solicitud y devuelve una recomendación de riesgo y una lista de condiciones. Desktop Underwriter, Loan Product Advisor, TOTAL de la FHA y GUS son ejemplos. El hallazgo no es una aprobación legal ni una Estimación del préstamo.",
+    "details": "Cada sistema tiene su propia guía. El capítulo B3-2 de Fannie Mae rige DU. Freddie Mac describe Loan Product Advisor en sus herramientas y su guía. TOTAL de la FHA y GUS de USDA son sistemas de agencia. El prestamista debe enviar datos exactos, levantar las condiciones y cumplir igual la capacidad de pago. Un hallazgo de aprobación no corrige una solicitud falsa.",
+    "complianceNotes": "Vuelva a enviar cuando los ingresos, los activos, el monto o la ocupación cambien más allá de las tolerancias del sistema. Conserve los hallazgos finales que coinciden con los documentos de cierre. No mezcle un hallazgo de DU con una entrega a Freddie Mac.",
+    "example": {
+      "setting": "Informe de hallazgos del AUS en el expediente de suscripción",
+      "text": "Un informe de hallazgos de muestra puede devolver Approve/Eligible con una condición de documentar $8,000 de reservas en un expediente de ejemplo. Cifras de ejemplo."
+    }
+  }
+}

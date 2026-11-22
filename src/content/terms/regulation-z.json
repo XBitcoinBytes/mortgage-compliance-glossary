@@ -1,0 +1,39 @@
+{
+  "slug": "regulation-z",
+  "term": "Regulation Z",
+  "aliases": [
+    "Reg Z",
+    "12 CFR 1026"
+  ],
+  "category": "compliance",
+  "definition": "Regulation Z is the Consumer Financial Protection Bureau's regulation under the Truth in Lending Act, 12 CFR Part 1026. It is the rulebook for mortgage disclosures, advertising, high-cost and higher-priced loans, loan-originator compensation, appraisal independence, and ability to repay.",
+  "details": "Part 1026 is organized by topic. Sections 1026.19, 1026.37, and 1026.38 are the TRID timing and form rules. Section 1026.23 is rescission. Section 1026.32 and 1026.34 are HOEPA. Section 1026.35 is higher-priced mortgage loans. Section 1026.36 is loan originators. Section 1026.43 is ability to repay and qualified mortgages. Always read the section that matches the question, plus its official interpretation.",
+  "complianceNotes": "Cite the section, not the whole part, in an exam response. Check the current eCFR text before you rely on a remembered threshold. Dollar thresholds in this part are often adjusted annually.",
+  "example": {
+    "setting": "Regulation Z citations on the disclosure file, 12 CFR Part 1026",
+    "text": "A sample compliance checklist might mark 12 CFR 1026.19(e) complete for an example Loan Estimate dated the 2nd of the month. The date is an example figure. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "reg-1026"
+  ],
+  "related": [
+    "ability-to-repay",
+    "cfpb",
+    "finance-charge",
+    "loan-estimate",
+    "tila",
+    "trid"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reglamento Z",
+    "aliases": [],
+    "definition": "El Reglamento Z es el reglamento de la Oficina para la Protección Financiera del Consumidor bajo la Ley de Veracidad en los Préstamos, 12 CFR Parte 1026. Es el manual de las divulgaciones hipotecarias, la publicidad, los préstamos de alto costo y de precio más alto, la compensación del originador, la independencia de la tasación y la capacidad de pago.",
+    "details": "La Parte 1026 está organizada por tema. Las secciones 1026.19, 1026.37 y 1026.38 son las reglas de plazo y de formulario de TRID. La sección 1026.23 es la rescisión. Las secciones 1026.32 y 1026.34 son HOEPA. La sección 1026.35 son las hipotecas de precio más alto. La sección 1026.36 son los originadores. La sección 1026.43 es la capacidad de pago y las hipotecas calificadas. Lea siempre la sección que corresponde a la pregunta, más su interpretación oficial.",
+    "complianceNotes": "Cite la sección, no toda la parte, en una respuesta de examen. Revise el texto vigente del eCFR antes de apoyarse en un umbral recordado. Los umbrales en dólares de esta parte a menudo se ajustan cada año.",
+    "example": {
+      "setting": "Citas del Reglamento Z en el expediente de divulgación, 12 CFR Parte 1026",
+      "text": "Una lista de cumplimiento de muestra puede marcar 12 CFR 1026.19(e) como completo para una Estimación del préstamo de ejemplo con fecha el día 2 del mes. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "occupancy-misrepresentation",
+  "term": "Occupancy misrepresentation",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Occupancy misrepresentation is stating that you will live in the home, or that you will not, when that statement is not true, in order to get loan terms. It is fraud and a repurchase problem. This entry describes the prohibition. It does not describe how to conceal where someone lives.",
+  "details": "The application declaration and the agency guides make occupancy a condition of the product. A primary-residence price on a property that will be rented can breach the sales contract with the investor. Indicators include a nearby residence that is not being sold, a lease already signed, or mail that goes elsewhere. The lender investigates indicators. It does not coach the borrower to remove them.",
+  "complianceNotes": "Ask the occupancy question directly and document conflicts. If the evidence says investment, price and underwrite it as investment. Do not suggest a story that makes a rental look owner-occupied.",
+  "example": {
+    "setting": "URLA occupancy declaration compared with other evidence in the file",
+    "text": "A sample conflict might be an example primary-residence application for a $260,000 house while the borrower already occupies a home ten miles away and has listed no sale. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "practice-file"
+  ],
+  "related": [
+    "fair-lending",
+    "investment-property",
+    "loan-estimate",
+    "occupancy",
+    "primary-residence"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tergiversación de la ocupación",
+    "aliases": [],
+    "definition": "La tergiversación de la ocupación es declarar que usted vivirá en la vivienda, o que no vivirá, cuando esa declaración no es verdadera, para obtener términos del préstamo. Es fraude y un problema de recompra. Esta entrada describe la prohibición. No describe cómo ocultar dónde vive alguien.",
+    "details": "La declaración de la solicitud y las guías de las agencias hacen de la ocupación una condición del producto. Un precio de residencia principal en una propiedad que se alquilará puede incumplir el contrato de venta con el inversionista. Los indicadores incluyen una residencia cercana que no se está vendiendo, un contrato de alquiler ya firmado o correo que va a otro lugar. El prestamista investiga los indicadores. No orienta al prestatario para eliminarlos.",
+    "complianceNotes": "Haga la pregunta de ocupación directamente y documente los conflictos. Si la prueba dice inversión, cotice y suscriba como inversión. No sugiera una historia que haga que un alquiler parezca ocupado por el dueño.",
+    "example": {
+      "setting": "Declaración de ocupación de la URLA comparada con otra prueba del expediente",
+      "text": "Un conflicto de muestra podría ser una solicitud de residencia principal de ejemplo para una casa de $260,000 mientras el prestatario ya ocupa una vivienda a diez millas y no ha indicado una venta. Cifras de ejemplo."
+    }
+  }
+}

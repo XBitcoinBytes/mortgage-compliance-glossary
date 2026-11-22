@@ -1,0 +1,39 @@
+{
+  "slug": "udaap",
+  "term": "UDAAP",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "UDAAP means unfair, deceptive, or abusive acts or practices. The Dodd-Frank Act gives the Consumer Financial Protection Bureau authority over those practices by banks and many nonbanks. There is no separate UDAAP part of the Code of Federal Regulations.",
+  "details": "12 USC 5531 authorizes the Bureau to take action against unfair, deceptive, or abusive acts or practices. 12 USC 5536 prohibits offering or providing a consumer financial product that is not in conformity with federal consumer financial law, and it reaches the UDAAP standards. Unfairness, deception, and abusiveness are defined in the statute, not in a mortgage form. A practice can be a UDAAP even when a disclosure form was issued on time.",
+  "complianceNotes": "Review scripts, pricing exceptions, and fee names for UDAAP, not only for TRID tolerances. A fee called an 'optional' charge that is in fact required is a classic problem. Document the reason a consumer received a worse price.",
+  "example": {
+    "setting": "Complaint file and marketing review, not a line on the Loan Estimate",
+    "text": "A sample complaint might say the borrower was quoted an example rate of 6.25 percent and charged 7.00 percent at closing with no change in the file. Example figures. The issue is the unexplained change, not the rate level."
+  },
+  "citations": [
+    "usc-12-5531",
+    "usc-12-5536"
+  ],
+  "related": [
+    "abusive-practice",
+    "cfpb",
+    "deceptive-practice",
+    "dodd-frank-act",
+    "fair-lending",
+    "limited-english-proficiency",
+    "map-rule",
+    "unfair-practice"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "UDAAP",
+    "aliases": [],
+    "definition": "UDAAP significa actos o prácticas injustos, engañosos o abusivos. La Ley Dodd-Frank da a la Oficina para la Protección Financiera del Consumidor autoridad sobre esas prácticas de bancos y de muchas entidades no bancarias. No hay una parte separada de UDAAP en el Código de Reglamentos Federales.",
+    "details": "12 USC 5531 autoriza a la Oficina a actuar contra actos o prácticas injustos, engañosos o abusivos. 12 USC 5536 prohíbe ofrecer o proporcionar un producto financiero al consumidor que no está conforme con la ley federal de finanzas del consumidor, y alcanza los estándares de UDAAP. La injusticia, el engaño y el abuso se definen en la ley, no en un formulario hipotecario. Una práctica puede ser una UDAAP aunque un formulario de divulgación se haya emitido a tiempo.",
+    "complianceNotes": "Revise los guiones, las excepciones de precio y los nombres de los cargos por UDAAP, no solo por las tolerancias de TRID. Un cargo llamado opcional que en realidad es obligatorio es un problema clásico. Documente la razón por la que un consumidor recibió un precio peor.",
+    "example": {
+      "setting": "Expediente de quejas y revisión de mercadeo, no una línea de la Estimación del préstamo",
+      "text": "Una queja de muestra puede decir que al prestatario se le cotizó una tasa de ejemplo del 6.25 por ciento y se le cobró el 7.00 por ciento en el cierre sin un cambio en el expediente. Cifras de ejemplo. El problema es el cambio no explicado, no el nivel de la tasa."
+    }
+  }
+}

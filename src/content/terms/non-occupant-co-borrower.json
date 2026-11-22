@@ -1,0 +1,38 @@
+{
+  "slug": "non-occupant-co-borrower",
+  "term": "Non-occupant co-borrower",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A non-occupant co-borrower is a borrower on the note who will not live in the home. Parents sometimes do this for a child. Their income may help the file. The home is still the occupant's primary residence only if the occupant actually lives there.",
+  "details": "Agency guides, including the Fannie Mae Selling Guide, limit how a non-occupant co-borrower's income is used and often require the occupant to qualify in part on their own. Gift rules and minimum borrower contributions can differ from an occupant-only file. Misstating that the non-occupant will live in the home is an occupancy misrepresentation.",
+  "complianceNotes": "Mark occupancy for each borrower on the URLA and in the AUS. Do not blend a non-occupant's income into the file without the guide's limit. Tell both borrowers who is obligated on the note.",
+  "example": {
+    "setting": "URLA occupancy declaration for the additional borrower, and the underwriting income worksheet",
+    "text": "A sample worksheet might use $3,000 of a non-occupant's example monthly income toward a $2,100 housing payment, only to the extent the guide allows. Example figures, not a guide ratio."
+  },
+  "citations": [
+    "fannie-guide",
+    "fannie-urla"
+  ],
+  "related": [
+    "co-borrower",
+    "co-signer",
+    "debt-to-income-ratio",
+    "faq-cosigner-vs-coborrower",
+    "gift-funds",
+    "occupancy",
+    "primary-residence"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Coprestatario no ocupante",
+    "aliases": [],
+    "definition": "Un coprestatario no ocupante es un prestatario del pagaré que no vivirá en la vivienda. A veces los padres hacen esto por un hijo. Sus ingresos pueden ayudar al expediente. La vivienda sigue siendo la residencia principal del ocupante solo si el ocupante de verdad vive allí.",
+    "details": "Las guías de las agencias, incluida la Selling Guide de Fannie Mae, limitan cómo se usan los ingresos de un coprestatario no ocupante y a menudo exigen que el ocupante califique en parte por sí mismo. Las reglas de regalos y la aportación mínima del prestatario pueden diferir de un expediente solo de ocupantes. Declarar falsamente que el no ocupante vivirá en la vivienda es una tergiversación de la ocupación.",
+    "complianceNotes": "Marque la ocupación de cada prestatario en la URLA y en el sistema automatizado. No mezcle los ingresos de un no ocupante en el expediente sin el límite de la guía. Diga a ambos prestatarios quién está obligado en el pagaré.",
+    "example": {
+      "setting": "Declaración de ocupación de la URLA para el prestatario adicional, y la hoja de ingresos de suscripción",
+      "text": "Una hoja de muestra podría usar $3,000 de los ingresos mensuales de ejemplo de un no ocupante para un pago de vivienda de $2,100, solo en la medida en que la guía lo permita. Cifras de ejemplo, no una relación de la guía."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "float-down",
+  "term": "Float-down",
+  "aliases": [],
+  "category": "origination",
+  "definition": "A float-down is an optional contract term that lets the borrower take a lower rate before closing if the creditor's price improves, usually once and sometimes for a fee. It is not a federal right. If the lock agreement does not include it, a later drop in market rates does not change the locked rate.",
+  "details": "Float-downs are pricing agreements. They are not listed as a TRID tolerance category and they are not a changed circumstance. If the creditor grants one, the note rate, points, and lender credits on the Closing Disclosure must match the new confirmed price. The Loan Estimate rate-lock section must stay accurate if a revised disclosure is required for another permitted reason.",
+  "complianceNotes": "Do not advertise a float-down the lock desk cannot honor. Keep the addendum that states how many times the borrower may exercise it and whether a fee applies. Re-run the APR if the rate or points change.",
+  "example": {
+    "setting": "Rate lock agreement or lock confirmation in the origination file, not a required Loan Estimate line",
+    "text": "A sample lock addendum might allow one float-down, cutting an example note rate from 6.500 percent to 6.375 percent with no added points. Example figures, not a market quote."
+  },
+  "citations": [
+    "practice-file",
+    "reg-1026-37"
+  ],
+  "related": [
+    "discount-points",
+    "lender-credits",
+    "note-rate",
+    "rate-lock",
+    "rate-lock-extension"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Opción de bajar la tasa fijada",
+    "aliases": [],
+    "definition": "La opción de bajar la tasa fijada es un término contractual opcional que permite al prestatario tomar una tasa más baja antes del cierre si el precio del acreedor mejora, por lo general una vez y a veces con un cargo. No es un derecho federal. Si el acuerdo de fijación no la incluye, una baja posterior del mercado no cambia la tasa fijada.",
+    "details": "Estas opciones son acuerdos de precio. No son una categoría de tolerancia de TRID ni una circunstancia cambiada. Si el acreedor la concede, la tasa del pagaré, los puntos y los créditos del prestamista en la Divulgación del cierre deben coincidir con el nuevo precio confirmado. La sección de fijación de la Estimación del préstamo debe seguir siendo correcta si otra razón permitida exige una divulgación revisada.",
+    "complianceNotes": "No anuncie una opción de bajar la tasa que la mesa de fijación no pueda cumplir. Conserve el anexo que dice cuántas veces el prestatario puede usarla y si hay un cargo. Vuelva a calcular la tasa porcentual anual si cambian la tasa o los puntos.",
+    "example": {
+      "setting": "Acuerdo de fijación o confirmación en el expediente de originación, no una línea obligatoria de la Estimación del préstamo",
+      "text": "Un anexo de muestra puede permitir una sola baja, de una tasa del pagaré de ejemplo del 6.500 por ciento al 6.375 por ciento sin puntos adicionales. Cifras de ejemplo, no una cotización de mercado."
+    }
+  }
+}

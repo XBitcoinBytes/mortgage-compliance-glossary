@@ -1,0 +1,35 @@
+{
+  "slug": "faq-what-are-underwriting-conditions",
+  "term": "Why was my loan conditionally approved?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A conditional approval means the lender will make the loan if you satisfy the listed conditions. Typical conditions are an updated pay stub, a gift letter, or the appraisal. The loan is not clear to close until those items are reviewed and accepted.",
+  "details": "Desktop Underwriter messages under Fannie Mae B3-2-11 are conditions, not suggestions. A prior-to-document condition is wanted before the closing package is built. A prior-to-funding condition can remain until the money is sent. If a condition cannot be met and the application is denied, an adverse-action notice is required.",
+  "complianceNotes": "Give the borrower a list they can act on. Match each cleared item to a document. Do not waive an automated message because the closing date is close.",
+  "example": {
+    "setting": "Condition list attached to the approval, each item tied to a document",
+    "text": "A sample condition might ask for the source of an example $8,000 deposit. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-11"
+  ],
+  "related": [
+    "clear-to-close",
+    "conditional-approval",
+    "letter-of-explanation",
+    "prior-to-document",
+    "underwriting-conditions"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Por qué mi préstamo fue aprobado condicionalmente?",
+    "aliases": [],
+    "definition": "Una aprobación condicional significa que el prestamista hará el préstamo si usted satisface las condiciones listadas. Condiciones típicas son un talón de pago actualizado, una carta de regalo o la tasación. El préstamo no está autorizado para cerrar hasta que esos puntos se revisan y se aceptan.",
+    "details": "Los mensajes de Desktop Underwriter según Fannie Mae B3-2-11 son condiciones, no sugerencias. Una condición previa a los documentos se quiere antes de armar el paquete de cierre. Una condición previa al desembolso puede quedar hasta que se envía el dinero. Si una condición no puede cumplirse y la solicitud se niega, se exige un aviso de acción adversa.",
+    "complianceNotes": "Dé al prestatario una lista sobre la que pueda actuar. Haga coincidir cada punto resuelto con un documento. No dispense un mensaje automatizado porque la fecha de cierre está cerca.",
+    "example": {
+      "setting": "Lista de condiciones adjunta a la aprobación, cada punto ligado a un documento",
+      "text": "Una condición de muestra podría pedir el origen de un depósito de ejemplo de $8,000. Cifras de ejemplo."
+    }
+  }
+}

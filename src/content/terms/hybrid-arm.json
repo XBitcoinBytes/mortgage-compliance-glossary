@@ -1,0 +1,36 @@
+{
+  "slug": "hybrid-arm",
+  "term": "Hybrid ARM",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A hybrid ARM has a fixed interest rate for an initial period and then adjusts. A 5/6 ARM is fixed for five years and then can adjust every six months. Those numbers are product names. The caps and the index are in the note, not in a universal federal schedule.",
+  "details": "The Loan Estimate must describe the product under 12 CFR 1026.37 so the borrower can see the fixed period and that the rate can change. Agency eligibility for a particular ARM plan is in the Selling Guide. The qualifying rate may not be the start rate. Do not advertise the fixed period as if the loan were fixed for the full term.",
+  "complianceNotes": "Name the fixed period and the adjustment frequency on the form and in the conversation. Show a payment that can rise. Confirm the plan is eligible before delivery.",
+  "example": {
+    "setting": "Loan Estimate product description such as 5/6 or 7/6 adjustable rate",
+    "text": "A sample 7/6 ARM on an example $480,000 loan would show a seven-year fixed period on page 1. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "fannie-guide"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "arm-caps",
+    "faq-what-is-an-arm",
+    "fixed-rate-mortgage",
+    "qualifying-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "ARM híbrida",
+    "aliases": [],
+    "definition": "Una ARM híbrida tiene una tasa de interés fija por un período inicial y luego se ajusta. Una ARM 5/6 es fija por cinco años y luego puede ajustarse cada seis meses. Esos números son nombres de productos. Los topes y el índice están en el pagaré, no en un calendario federal universal.",
+    "details": "La Estimación del préstamo debe describir el producto según 12 CFR 1026.37 para que el prestatario vea el período fijo y que la tasa puede cambiar. La elegibilidad de la agencia para un plan ARM particular está en la Selling Guide. La tasa de calificación puede no ser la tasa inicial. No anuncie el período fijo como si el préstamo fuera fijo por todo el plazo.",
+    "complianceNotes": "Nombre el período fijo y la frecuencia de ajuste en el formulario y en la conversación. Muestre un pago que puede subir. Confirme que el plan es elegible antes de la entrega.",
+    "example": {
+      "setting": "Descripción del producto en la Estimación del préstamo, como tasa ajustable 5/6 o 7/6",
+      "text": "Una ARM 7/6 de muestra sobre un préstamo de ejemplo de $480,000 mostraría un período fijo de siete años en la página 1. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "self-employment-income",
+  "term": "Self-employment income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Self-employment income is profit from a business you own, as a sole proprietor, partner, or owner of a corporation. Lenders do not use the deposits in the business account as if they were wages. They start from the tax returns.",
+  "details": "Fannie Mae section B3-3.5 contains the self-employment analysis, including history and access to the income. The general continuance standard is in B3-3.1-01. A common guide standard is a history of self-employment, with exceptions the section describes. Do not turn that history into a statute, and do not qualify on a single profitable month. Stable monthly income is the figure that enters the debt-to-income ratio.",
+  "complianceNotes": "Identify the business structure and the borrower's ownership percentage before you calculate. Add back only the expenses the guide allows. If the business is declining, do not average in a strong older year without the guide's analysis.",
+  "example": {
+    "setting": "Self-employment income worksheet based on tax returns, not on a year-to-date profit-and-loss alone",
+    "text": "A sample worksheet might average example Schedule C profit of $40,000 and $46,000 into a monthly figure near $3,580, subject to the actual add-backs. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-5",
+    "fannie-b3-3-1-01"
+  ],
+  "related": [
+    "form-4506-c",
+    "income-calculator",
+    "schedule-c",
+    "schedule-k-1",
+    "stable-income",
+    "tax-returns",
+    "verbal-verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ingreso de trabajo por cuenta propia",
+    "aliases": [],
+    "definition": "El ingreso de trabajo por cuenta propia es la ganancia de un negocio que usted posee, como empresario individual, socio o dueño de una corporación. Los prestamistas no usan los depósitos de la cuenta del negocio como si fueran salarios. Empiezan por las declaraciones de impuestos.",
+    "details": "La sección B3-3.5 de Fannie Mae contiene el análisis del trabajo por cuenta propia, incluido el historial y el acceso al ingreso. El estándar general de continuidad está en B3-3.1-01. Un estándar común de la guía es un historial de trabajo por cuenta propia, con excepciones que la sección describe. No convierta ese historial en una ley, y no califique con un solo mes rentable. El ingreso mensual estable es la cifra que entra en la relación deuda-ingreso.",
+    "complianceNotes": "Identifique la estructura del negocio y el porcentaje de propiedad del prestatario antes de calcular. Reincorpore solo los gastos que la guía permite. Si el negocio está en descenso, no promedie un año antiguo fuerte sin el análisis de la guía.",
+    "example": {
+      "setting": "Hoja de ingreso de trabajo por cuenta propia basada en declaraciones de impuestos, no solo en un estado de resultados del año a la fecha",
+      "text": "Una hoja de muestra puede promediar una ganancia de ejemplo del Anexo C de $40,000 y $46,000 en una cifra mensual cercana a $3,580, sujeta a las reincorporaciones reales. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "disparate-impact",
+  "term": "Disparate impact",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "Disparate impact is a theory that a neutral policy can violate fair-lending law if it disproportionately harms people on a prohibited basis and is not justified by a legitimate business need, or if a less discriminatory alternative would serve that need. It is fact-specific. A statistical gap by itself is not a final finding of liability.",
+  "details": "The Fair Housing Act and Regulation B are the authorities examiners and courts discuss. The legal standard has been litigated and can change. A lender that uses a minimum loan amount, a credit-score overlay, or a geography limit should be able to explain the business need and should look at the effect. Do not treat every difference in approval rates as a violation, and do not ignore a large unexplained difference.",
+  "complianceNotes": "Document why an overlay exists and review its effect before you adopt it. Remove an overlay that is not needed for the credit risk you can show. This entry is flagged because the case law moves.",
+  "example": {
+    "setting": "Policy review of a neutral overlay that may affect a protected class",
+    "text": "A sample lender might require an example minimum loan amount of $100,000. Whether that policy has a disparate impact depends on the data and the justification, not on the number alone. Example figures."
+  },
+  "citations": [
+    "usc-42-3604",
+    "reg-1002-4"
+  ],
+  "related": [
+    "disparate-treatment",
+    "ecoa",
+    "fair-housing-act",
+    "fair-lending",
+    "redlining"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Impacto dispar",
+    "aliases": [],
+    "definition": "El impacto dispar es una teoría según la cual una política neutra puede violar la ley de préstamos justos si daña de manera desproporcionada a personas por un motivo prohibido y no está justificada por una necesidad comercial legítima, o si una alternativa menos discriminatoria serviría a esa necesidad. Depende de los hechos. Una brecha estadística por sí sola no es una conclusión final de responsabilidad.",
+    "details": "La Ley de Vivienda Justa y el Reglamento B son las autoridades que discuten los examinadores y los tribunales. El estándar legal ha sido litigado y puede cambiar. Un prestamista que usa un monto mínimo de préstamo, un requisito adicional de puntaje de crédito o un límite geográfico debe poder explicar la necesidad comercial y debe mirar el efecto. No trate toda diferencia en las tasas de aprobación como una violación, y no ignore una diferencia grande no explicada.",
+    "complianceNotes": "Documente por qué existe un requisito adicional y revise su efecto antes de adoptarlo. Quite un requisito adicional que no es necesario para el riesgo de crédito que usted puede mostrar. Esta entrada está marcada porque la jurisprudencia se mueve.",
+    "example": {
+      "setting": "Revisión de política de un requisito adicional neutro que puede afectar a una clase protegida",
+      "text": "Un prestamista de muestra podría exigir un monto mínimo de préstamo de ejemplo de $100,000. Si esa política tiene un impacto dispar depende de los datos y de la justificación, no del número solo. Cifras de ejemplo."
+    }
+  },
+  "reviewFlag": "Disparate-impact doctrine is fact-specific and has been contested in the courts. Have counsel review any policy analysis before it is treated as a legal conclusion."
+}

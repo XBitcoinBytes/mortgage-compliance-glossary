@@ -1,0 +1,37 @@
+{
+  "slug": "military-lending-act",
+  "term": "Military Lending Act",
+  "aliases": [
+    "MLA"
+  ],
+  "category": "compliance",
+  "definition": "The Military Lending Act limits the cost of certain consumer credit to covered servicemembers and their dependents. A residential mortgage secured by a dwelling is excluded from the Act's definition of consumer credit. That exclusion does not turn off the Servicemembers Civil Relief Act.",
+  "details": "10 USC 987 is the statute. 32 CFR 232.3(f)(2) excludes a residential mortgage, including a purchase, a construction loan, a refinance, a home-equity loan or line, and a reverse mortgage, when the credit is secured by a dwelling. The exclusion is why a typical mortgage APR is not rewritten to the MLA's 36 percent calculation. Unsecured credit and some personal loans remain covered. Do not use the exclusion for a loan that is not secured by the dwelling.",
+  "complianceNotes": "Document why a product is outside the MLA, and still screen for SCRA benefits. Do not tell a servicemember that mortgage rules do not apply because the MLA does not.",
+  "example": {
+    "setting": "Coverage analysis showing a residential mortgage is outside MLA consumer credit",
+    "text": "A sample first mortgage secured by the dwelling would be marked outside MLA consumer credit, while an example unsecured $5,000 loan to the same borrower might not be. Example figures for the unsecured loan only."
+  },
+  "citations": [
+    "reg-232-3",
+    "usc-10-987"
+  ],
+  "related": [
+    "ability-to-repay",
+    "heloc",
+    "scra",
+    "va-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley de Préstamos para Militares",
+    "aliases": [],
+    "definition": "La Ley de Préstamos para Militares limita el costo de cierto crédito al consumidor para miembros del servicio cubiertos y sus dependientes. Una hipoteca residencial garantizada por una vivienda está excluida de la definición de crédito al consumidor de la ley. Esa exclusión no apaga la Ley de Alivio Civil para Miembros del Servicio.",
+    "details": "10 USC 987 es la ley. 32 CFR 232.3(f)(2) excluye una hipoteca residencial, incluida una compra, un préstamo de construcción, un refinanciamiento, un préstamo o línea sobre el valor líquido y una hipoteca inversa, cuando el crédito está garantizado por una vivienda. La exclusión es la razón por la que la tasa porcentual anual de una hipoteca típica no se reescribe al cálculo del 36 por ciento de la MLA. El crédito sin garantía y algunos préstamos personales siguen cubiertos. No use la exclusión para un préstamo que no está garantizado por la vivienda.",
+    "complianceNotes": "Documente por qué un producto está fuera de la MLA, y todavía revise los beneficios de la SCRA. No le diga a un miembro del servicio que las reglas hipotecarias no se aplican porque la MLA no se aplica.",
+    "example": {
+      "setting": "Análisis de cobertura que muestra que una hipoteca residencial está fuera del crédito al consumidor de la MLA",
+      "text": "Una primera hipoteca de muestra garantizada por la vivienda se marcaría fuera del crédito al consumidor de la MLA, mientras un préstamo sin garantía de ejemplo de $5,000 al mismo prestatario podría no estarlo. Cifras de ejemplo solo para el préstamo sin garantía."
+    }
+  }
+}

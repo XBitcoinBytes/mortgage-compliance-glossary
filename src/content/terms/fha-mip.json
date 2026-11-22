@@ -1,0 +1,46 @@
+{
+  "slug": "fha-mip",
+  "term": "FHA mortgage insurance premium",
+  "aliases": [
+    "annual MIP",
+    "MIP"
+  ],
+  "category": "loan-programs",
+  "definition": "FHA mortgage insurance premium, often called MIP, is the annual premium collected monthly on an FHA loan, plus a separate upfront premium. The rates and how long the annual premium lasts are set by HUD and change. They are not the Homeowners Protection Act schedule used for conventional PMI.",
+  "details": "HUD Handbook 4000.1 and mortgagee letters publish the current MIP. A borrower should not be told the premium drops at 80 percent loan-to-value unless the current letter says that for that loan. Many FHA loans keep annual MIP for a long period or for the life of the loan. Confirm the current duration before you promise an end date.",
+  "complianceNotes": "Disclose the monthly MIP in the payment. Do not call it PMI. Recalculate it when HUD changes the rates, using the letter in effect for the case.",
+  "example": {
+    "setting": "FHA monthly MIP on the payment, set by the current HUD mortgagee letter",
+    "text": "A sample payment might include an example monthly MIP of $120. Example figures, not the current HUD rate."
+  },
+  "citations": [
+    "hud-4000-1"
+  ],
+  "related": [
+    "borrower-paid-mortgage-insurance",
+    "faq-can-i-cancel-pmi",
+    "faq-fha-vs-conventional",
+    "faq-what-is-pmi",
+    "fha-203k",
+    "fha-loan",
+    "fha-streamline-refinance",
+    "homeowners-protection-act",
+    "partial-claim",
+    "private-mortgage-insurance",
+    "upfront-mortgage-insurance-premium",
+    "usda-annual-fee",
+    "va-funding-fee"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Prima del seguro hipotecario de la FHA",
+    "aliases": [],
+    "definition": "La prima del seguro hipotecario de la FHA, a menudo llamada MIP, es la prima anual cobrada mensualmente en un préstamo FHA, más una prima inicial separada. Las tasas y cuánto dura la prima anual las fija HUD y cambian. No son el calendario de la Ley de Protección de los Propietarios usado para el PMI convencional.",
+    "details": "El Manual HUD 4000.1 y las cartas a los acreedores publican la MIP vigente. No se le debe decir a un prestatario que la prima cae al 80 por ciento de relación préstamo-valor salvo que la carta vigente lo diga para ese préstamo. Muchos préstamos FHA mantienen la MIP anual por un período largo o por la vida del préstamo. Confirme la duración vigente antes de prometer una fecha de fin.",
+    "complianceNotes": "Divulgue la MIP mensual en el pago. No la llame PMI. Recalculela cuando HUD cambia las tasas, usando la carta vigente para el caso.",
+    "example": {
+      "setting": "MIP mensual de la FHA en el pago, fijada por la carta vigente de HUD a los acreedores",
+      "text": "Un pago de muestra podría incluir una MIP mensual de ejemplo de $120. Cifras de ejemplo, no la tasa vigente de HUD."
+    }
+  }
+}

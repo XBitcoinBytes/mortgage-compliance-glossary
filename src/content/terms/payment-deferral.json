@@ -1,0 +1,35 @@
+{
+  "slug": "payment-deferral",
+  "term": "Payment deferral",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "A payment deferral moves missed amounts to the end of the loan, often without changing the interest rate or the monthly principal and interest. It is one way to exit a forbearance. It is not the same as capitalizing the arrears into a modification, and the available program is the one in the current investor guide.",
+  "details": "Fannie Mae and Freddie Mac publish deferral options that have changed since the pandemic programs. Do not offer a closed program. Regulation X still governs the application review when 12 CFR 1024.41 applies. A deferral should say whether interest accrues on the deferred amount and when it is due.",
+  "complianceNotes": "Use the current guide's deferral, document the amount moved to the end, and give the borrower the agreement. Do not describe it as forgiveness.",
+  "example": {
+    "setting": "Deferral agreement moving missed amounts to the end of the loan without a new rate",
+    "text": "A sample deferral might move an example $5,100 of missed payments to the loan's maturity. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "reg-1024-41"
+  ],
+  "related": [
+    "forbearance",
+    "loan-modification",
+    "loss-mitigation",
+    "repayment-plan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aplazamiento del pago",
+    "aliases": [],
+    "definition": "Un aplazamiento del pago mueve los montos no pagados al final del préstamo, a menudo sin cambiar la tasa de interés ni el capital e interés mensuales. Es una forma de salir de una indulgencia. No es lo mismo que capitalizar los atrasos en una modificación, y el programa disponible es el de la guía vigente del inversionista.",
+    "details": "Fannie Mae y Freddie Mac publican opciones de aplazamiento que han cambiado desde los programas de la pandemia. No ofrezca un programa cerrado. El Reglamento X igual rige la revisión de la solicitud cuando se aplica 12 CFR 1024.41. Un aplazamiento debe decir si el interés se acumula sobre el monto aplazado y cuándo vence.",
+    "complianceNotes": "Use el aplazamiento de la guía vigente, documente el monto movido al final y dé al prestatario el acuerdo. No lo describa como un perdón de la deuda.",
+    "example": {
+      "setting": "Acuerdo de aplazamiento que mueve los montos no pagados al final del préstamo sin una tasa nueva",
+      "text": "Un aplazamiento de muestra podría mover un ejemplo de $5,100 de pagos no realizados al vencimiento del préstamo. Cifras de ejemplo."
+    }
+  }
+}

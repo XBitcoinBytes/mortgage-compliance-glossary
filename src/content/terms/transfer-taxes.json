@@ -1,0 +1,35 @@
+{
+  "slug": "transfer-taxes",
+  "term": "Transfer taxes",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Transfer taxes are state or local taxes on the transfer of the property. They are usually based on the price. On the Loan Estimate they are in Section E, and they are generally zero tolerance. Who pays them is a contract and local-custom question.",
+  "details": "12 CFR 1026.19(e)(3)(i) puts transfer taxes in the group that may not increase. A change in the sale price can be new information that permits a revised estimate if the changed-circumstance rule is met. Recording fees in the same section are in the 10 percent group. Do not blend the two.",
+  "complianceNotes": "Get the tax from the title company or the local schedule and show the payer. If the price changes, revise only if the rule allows, and cure any increase that is not permitted.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section E, transfer taxes",
+    "text": "A sample transfer tax might be an example $2,200 on a $440,000 price, paid by the seller under the contract. Example figures, not a local rate."
+  },
+  "citations": [
+    "reg-1026-19",
+    "reg-1026-37"
+  ],
+  "related": [
+    "purchase-agreement",
+    "recording-fees",
+    "seller-credits",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Impuestos de transferencia",
+    "aliases": [],
+    "definition": "Los impuestos de transferencia son impuestos estatales o locales sobre la transferencia de la propiedad. Por lo general se basan en el precio. En la Estimación del préstamo están en la Sección E, y por lo general tienen tolerancia cero. Quién los paga es una cuestión del contrato y de la costumbre local.",
+    "details": "12 CFR 1026.19(e)(3)(i) pone los impuestos de transferencia en el grupo que no puede aumentar. Un cambio del precio de venta puede ser información nueva que permite un estimado revisado si se cumple la regla de circunstancia cambiada. Los cargos de registro en la misma sección están en el grupo del 10 por ciento. No mezcle los dos.",
+    "complianceNotes": "Obtenga el impuesto de la compañía de título o de la tarifa local y muestre quién paga. Si el precio cambia, revise solo si la regla lo permite, y corrija cualquier aumento que no está permitido.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección E, impuestos de transferencia",
+      "text": "Un impuesto de transferencia de muestra podría ser un ejemplo de $2,200 sobre un precio de $440,000, pagado por el vendedor según el contrato. Cifras de ejemplo, no una tarifa local."
+    }
+  }
+}

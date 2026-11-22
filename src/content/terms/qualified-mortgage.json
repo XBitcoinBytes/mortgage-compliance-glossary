@@ -1,0 +1,50 @@
+{
+  "slug": "qualified-mortgage",
+  "term": "Qualified mortgage",
+  "aliases": [
+    "QM"
+  ],
+  "category": "compliance",
+  "definition": "A qualified mortgage is a covered mortgage that meets the product limits, the points-and-fees cap, and the underwriting requirements in Regulation Z. Making a qualified mortgage gives the creditor a presumption of compliance with ability to repay. The strength of that presumption depends on whether the loan is higher-priced.",
+  "details": "The definition is in 12 CFR 1026.43(e). Features such as negative amortization, interest-only periods, and most balloon payments are not allowed. The points-and-fees cap uses the calculation in 12 CFR 1026.32, and the dollar breakpoints that decide which percentage applies are adjusted periodically. Do not use last year's dollar cutoff. The temporary GSE qualified-mortgage patch has ended. Do not treat agency delivery alone as the current general definition.",
+  "complianceNotes": "Run the points-and-fees test on final numbers before consummation. Separate safe harbor from rebuttable presumption using the higher-priced test. Keep the worksheet.",
+  "example": {
+    "setting": "QM points-and-fees test and the underwriting evidence in the closed loan file",
+    "text": "On an example $400,000 loan, points and fees might be tested against the cap that applies once the current dollar threshold is read from the CFPB adjustment. Example figures for the loan amount only. The cap percentage is in 12 CFR 1026.43 and steps down for smaller loans."
+  },
+  "citations": [
+    "reg-1026-43",
+    "usc-15-1639c"
+  ],
+  "related": [
+    "ability-to-repay",
+    "anti-steering",
+    "balloon-payment",
+    "bona-fide-discount-point",
+    "conventional-loan",
+    "debt-to-income-ratio",
+    "general-qualified-mortgage",
+    "interest-only",
+    "jumbo-loan",
+    "negative-amortization",
+    "non-qm",
+    "points-and-fees",
+    "portfolio-loan",
+    "prepayment-penalty",
+    "qm-safe-harbor",
+    "rebuttable-presumption",
+    "small-creditor"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca calificada",
+    "aliases": [],
+    "definition": "Una hipoteca calificada es una hipoteca cubierta que cumple los límites del producto, el tope de puntos y cargos y los requisitos de suscripción del Reglamento Z. Hacer una hipoteca calificada da al acreedor una presunción de cumplimiento de la capacidad de pago. La fuerza de esa presunción depende de si el préstamo es de precio más alto.",
+    "details": "La definición está en 12 CFR 1026.43(e). Características como la amortización negativa, los períodos de solo interés y la mayoría de los pagos globales no se permiten. El tope de puntos y cargos usa el cálculo de 12 CFR 1026.32, y los cortes en dólares que deciden qué porcentaje se aplica se ajustan periódicamente. No use el corte en dólares del año pasado. El parche temporal de la hipoteca calificada de las GSE terminó. No trate la entrega a una agencia por sí sola como la definición general vigente.",
+    "complianceNotes": "Ejecute la prueba de puntos y cargos con los números finales antes de la consumación. Separe el puerto seguro de la presunción refutable usando la prueba de precio más alto. Conserve la hoja.",
+    "example": {
+      "setting": "Prueba de puntos y cargos de la QM y la prueba de suscripción en el expediente cerrado",
+      "text": "En un préstamo de ejemplo de $400,000, los puntos y cargos podrían probarse contra el tope que se aplica una vez que se lee el umbral en dólares vigente en el ajuste de la CFPB. Cifras de ejemplo solo para el monto del préstamo. El porcentaje del tope está en 12 CFR 1026.43 y baja para préstamos más pequeños."
+    }
+  }
+}

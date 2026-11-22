@@ -1,0 +1,45 @@
+{
+  "slug": "title-insurance",
+  "term": "Title insurance",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Title insurance protects against covered defects in the ownership record, such as a missing heir or a forged deed. The lender's policy protects the lender. The owner's policy protects you. They are different policies. State law regulates the premium. There is no national federal rate.",
+  "details": "On the Loan Estimate the premium sits in Section B if you cannot shop and in Section C if you can. That choice controls the tolerance bucket under 12 CFR 1026.19. The owner's policy on a purchase is disclosed in the manner 12 CFR 1026.37 requires, which is not always the full premium on the owner's line. Read the form instruction before you enter the number.",
+  "complianceNotes": "Ask the title company for the lender's and owner's premiums separately and map them to the correct section. Do not tell the borrower the owner's policy is federally required.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section B or C, title insurance lines",
+    "text": "A sample lender's title premium might be an example $1,350, with an owner's policy offered at a simultaneous-issue price set by the state. Example figures, not a filed rate."
+  },
+  "citations": [
+    "reg-1026-37",
+    "practice-file"
+  ],
+  "related": [
+    "affiliated-business-arrangement",
+    "closing-protection-letter",
+    "faq-what-is-title-insurance",
+    "faq-who-chooses-the-title-company",
+    "lenders-title-policy",
+    "manufactured-housing",
+    "owners-title-policy",
+    "required-use",
+    "services-you-can-shop-for",
+    "settlement-agent",
+    "settlement-service",
+    "simultaneous-issue",
+    "title-commitment",
+    "written-list-of-providers"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Seguro de título",
+    "aliases": [],
+    "definition": "El seguro de título protege contra defectos cubiertos en el registro de la propiedad, como un heredero faltante o una escritura falsificada. La póliza del prestamista protege al prestamista. La póliza del propietario lo protege a usted. Son pólizas distintas. La ley estatal regula la prima. No hay una tarifa federal nacional.",
+    "details": "En la Estimación del préstamo la prima está en la Sección B si usted no puede comparar y en la Sección C si puede. Esa elección controla el grupo de tolerancia según 12 CFR 1026.19. La póliza del propietario en una compra se divulga del modo que exige 12 CFR 1026.37, que no siempre es la prima completa en la línea del propietario. Lea la instrucción del formulario antes de ingresar el número.",
+    "complianceNotes": "Pida a la compañía de título las primas del prestamista y del propietario por separado y asígnelas a la sección correcta. No le diga al prestatario que la póliza del propietario es exigida por la ley federal.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección B o C, líneas del seguro de título",
+      "text": "Una prima de título del prestamista de muestra podría ser un ejemplo de $1,350, con una póliza del propietario ofrecida a un precio de emisión simultánea fijado por el estado. Cifras de ejemplo, no una tarifa registrada."
+    }
+  }
+}

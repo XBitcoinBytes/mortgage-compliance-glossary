@@ -1,0 +1,36 @@
+{
+  "slug": "faq-what-is-preapproval",
+  "term": "What is a pre-approval?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A pre-approval is a lender's conditional statement, after reviewing your credit and often your income, of how much you may be able to borrow. It is not a final approval and not a promise of a rate. A pre-qualification is usually a lighter conversation.",
+  "details": "If the lender denies the application, Regulation B, 12 CFR 1002.9, still requires an adverse-action notice. A pre-approval letter should say it is conditional. It does not replace underwriting of the property or the six-item TRID application. Shopping with several lenders can create several credit inquiries.",
+  "complianceNotes": "State the conditions and the expiration on the letter. Do not call it clear to close. If you decline the request, send the adverse-action notice.",
+  "example": {
+    "setting": "Pre-approval letter after a credit review, not a Loan Estimate by itself",
+    "text": "A sample letter might say an example purchase price of $350,000 is conditionally approved, subject to the appraisal and final documents. Example figures."
+  },
+  "citations": [
+    "reg-1002-9",
+    "practice-file"
+  ],
+  "related": [
+    "credit-score",
+    "loan-estimate",
+    "pre-approval",
+    "pre-qualification",
+    "verification-of-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una preaprobación?",
+    "aliases": [],
+    "definition": "Una preaprobación es la declaración condicional de un prestamista, después de revisar su crédito y a menudo su ingreso, de cuánto podría pedir prestado. No es una aprobación final ni una promesa de una tasa. Una precalificación por lo general es una conversación más ligera.",
+    "details": "Si el prestamista niega la solicitud, el Reglamento B, 12 CFR 1002.9, igual exige un aviso de acción adversa. Una carta de preaprobación debe decir que es condicional. No reemplaza la suscripción de la propiedad ni la solicitud de seis datos de TRID. Comparar con varios prestamistas puede crear varias consultas de crédito.",
+    "complianceNotes": "Indique las condiciones y el vencimiento en la carta. No la llame autorización para cerrar. Si usted niega el pedido, envíe el aviso de acción adversa.",
+    "example": {
+      "setting": "Carta de preaprobación después de una revisión de crédito, no una Estimación del préstamo por sí sola",
+      "text": "Una carta de muestra podría decir que un precio de compra de ejemplo de $350,000 está aprobado condicionalmente, sujeto a la tasación y a los documentos finales. Cifras de ejemplo."
+    }
+  }
+}

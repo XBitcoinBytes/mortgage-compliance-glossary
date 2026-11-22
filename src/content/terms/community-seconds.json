@@ -1,0 +1,35 @@
+{
+  "slug": "community-seconds",
+  "term": "Community seconds",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "A community second is a subsidized subordinate loan from a housing agency, a nonprofit, or a similar provider, used with a first mortgage. It can help with the down payment. It is not a personal gift. The provider, the repayment, and the interest rate have to fit the guide.",
+  "details": "The Fannie Mae Selling Guide has a community-seconds topic. Eligible providers and acceptable terms, including deferred payments, are defined there. The second counts in the CLTV. A payment, if one is due, counts in the debt ratio. A second that does not meet the topic is ordinary subordinate financing and may not be eligible at the same CLTV.",
+  "complianceNotes": "Read the second-lien documents against the current topic before you approve the first mortgage. Enter the lien in the AUS. Do not call it a grant if it must be repaid.",
+  "example": {
+    "setting": "Subsidized second lien from a housing agency or nonprofit, paired with a first mortgage",
+    "text": "A sample community second of an example $12,000 might be deferred and included in the CLTV. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "combined-loan-to-value",
+    "down-payment-assistance",
+    "gift-funds",
+    "homeready",
+    "subordinate-financing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Segundos comunitarios",
+    "aliases": [],
+    "definition": "Un segundo comunitario es un préstamo subordinado subsidiado de una agencia de vivienda, una organización sin fines de lucro o un proveedor similar, usado con una primera hipoteca. Puede ayudar con el pago inicial. No es un regalo personal. El proveedor, el pago y la tasa de interés tienen que caber en la guía.",
+    "details": "La Selling Guide de Fannie Mae tiene un tema de segundos comunitarios. Los proveedores elegibles y los términos aceptables, incluidos los pagos diferidos, se definen allí. El segundo cuenta en la CLTV. Un pago, si hay uno debido, cuenta en la relación de deudas. Un segundo que no cumple el tema es financiamiento subordinado ordinario y puede no ser elegible a la misma CLTV.",
+    "complianceNotes": "Lea los documentos del segundo gravamen contra el tema vigente antes de aprobar la primera hipoteca. Ingrese el gravamen en el sistema automatizado. No lo llame una subvención si debe pagarse.",
+    "example": {
+      "setting": "Segundo gravamen subsidiado de una agencia de vivienda o una organización sin fines de lucro, junto con una primera hipoteca",
+      "text": "Un segundo comunitario de muestra de un ejemplo de $12,000 podría estar diferido e incluido en la CLTV. Cifras de ejemplo."
+    }
+  }
+}

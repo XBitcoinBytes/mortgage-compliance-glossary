@@ -1,0 +1,46 @@
+{
+  "slug": "source-of-funds",
+  "term": "Source of funds",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Source of funds means showing where the money for closing came from and that it is allowed. Savings, a documented gift, and sale proceeds can qualify. Undisclosed borrowed money generally does not.",
+  "details": "Agency guides require documentation of funds to close and of reserves. Large deposits must be sourced when the guide says so. Gift funds need a letter and transfer evidence under B3-4.3-04. Borrowed funds secured by the subject property are subordinate financing and change the combined loan-to-value ratio. The guide, not a habit, decides what paper is enough.",
+  "complianceNotes": "Trace each dollar used to close from a statement, a gift, or a verified sale. Do not accept a mattress of cash without a source the guide allows. Question deposits that appeared just before application.",
+  "example": {
+    "setting": "Asset conditions in the underwriting findings, and bank statements in the file",
+    "text": "A sample asset page might source $18,000 of an example $42,000 cash to close from a checking account and $24,000 from a gift. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "fannie-b3-4-3-04"
+  ],
+  "related": [
+    "anti-money-laundering",
+    "asset-documentation",
+    "bank-statements",
+    "debts-paid-at-closing",
+    "down-payment",
+    "earnest-money",
+    "faq-can-i-use-gift-funds",
+    "faq-what-is-earnest-money",
+    "gift-funds",
+    "gift-letter",
+    "large-deposit",
+    "reserves",
+    "seasoned-funds",
+    "suspicious-activity-report",
+    "verification-of-deposit"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Origen de los fondos",
+    "aliases": [],
+    "definition": "El origen de los fondos significa mostrar de dónde salió el dinero para el cierre y que está permitido. Los ahorros, un regalo documentado y el producto de una venta pueden calificar. El dinero prestado no divulgado por lo general no califica.",
+    "details": "Las guías de las agencias exigen documentar los fondos para el cierre y las reservas. Los depósitos grandes deben explicarse cuando la guía lo dice. Los fondos de regalo necesitan una carta y prueba de la transferencia según B3-4.3-04. Los fondos prestados garantizados por la propiedad son financiamiento subordinado y cambian la relación combinada préstamo-valor. La guía, no la costumbre, decide qué papel basta.",
+    "complianceNotes": "Rastree cada dólar usado para el cierre desde un estado de cuenta, un regalo o una venta verificada. No acepte un fajo de efectivo sin un origen que la guía permita. Cuestione los depósitos que aparecieron justo antes de la solicitud.",
+    "example": {
+      "setting": "Condiciones de activos en los hallazgos de suscripción, y estados de cuenta en el expediente",
+      "text": "Una página de activos de muestra puede documentar $18,000 de un efectivo para el cierre de ejemplo de $42,000 desde una cuenta de cheques y $24,000 desde un regalo. Cifras de ejemplo."
+    }
+  }
+}

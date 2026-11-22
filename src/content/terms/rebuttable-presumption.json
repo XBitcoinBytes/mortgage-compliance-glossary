@@ -1,0 +1,36 @@
+{
+  "slug": "rebuttable-presumption",
+  "term": "Rebuttable presumption QM",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A rebuttable presumption is the weaker protection a creditor receives on a higher-priced qualified mortgage. The law presumes the creditor complied with ability to repay, but the consumer can rebut that presumption. It is not a safe harbor.",
+  "details": "Regulation Z states the distinction in 12 CFR 1026.43. Higher-priced status comes from 12 CFR 1026.35. The consumer's rebuttal looks at whether the creditor disregarded information showing the consumer could not repay, under the residual income and obligations left after the mortgage. Do not describe the presumption as immunity from a lawsuit.",
+  "complianceNotes": "Identify higher-priced QMs before closing and keep the ability-to-repay worksheet, not only the QM checklist. Complete HPML escrow and appraisal requirements that apply.",
+  "example": {
+    "setting": "QM worksheet showing a higher-priced qualified mortgage",
+    "text": "A sample higher-priced QM might be an example $230,000 loan whose APR exceeds APOR by more than the regulatory spread. The spread must be read from 12 CFR 1026.35. Example figures for the loan amount only."
+  },
+  "citations": [
+    "reg-1026-43",
+    "reg-1026-35"
+  ],
+  "related": [
+    "ability-to-repay",
+    "higher-priced-mortgage-loan",
+    "hpml-escrow",
+    "qm-safe-harbor",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Presunción refutable",
+    "aliases": [],
+    "definition": "Una presunción refutable es la protección más débil que recibe un acreedor en una hipoteca calificada de precio más alto. La ley presume que el acreedor cumplió la capacidad de pago, pero el consumidor puede rebatir esa presunción. No es un puerto seguro.",
+    "details": "El Reglamento Z establece la distinción en 12 CFR 1026.43. El estado de precio más alto viene de 12 CFR 1026.35. La réplica del consumidor mira si el acreedor ignoró información que mostraba que el consumidor no podía pagar, según el ingreso residual y las obligaciones que quedan después de la hipoteca. No describa la presunción como inmunidad frente a una demanda.",
+    "complianceNotes": "Identifique las QM de precio más alto antes del cierre y conserve la hoja de capacidad de pago, no solo la lista de QM. Complete los requisitos de depósito en garantía y de tasación de HPML que se apliquen.",
+    "example": {
+      "setting": "Hoja de QM que muestra una hipoteca calificada de precio más alto",
+      "text": "Una QM de precio más alto de muestra puede ser un préstamo de ejemplo de $230,000 cuya tasa porcentual anual excede el APOR por más del diferencial del reglamento. El diferencial debe leerse en 12 CFR 1026.35. Cifras de ejemplo solo para el monto del préstamo."
+    }
+  }
+}

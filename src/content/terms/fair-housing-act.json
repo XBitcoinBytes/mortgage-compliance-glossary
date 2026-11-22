@@ -1,0 +1,39 @@
+{
+  "slug": "fair-housing-act",
+  "term": "Fair Housing Act",
+  "aliases": [
+    "FHA Act"
+  ],
+  "category": "compliance",
+  "definition": "The Fair Housing Act prohibits discrimination in the sale or rental of housing and in residential real-estate related transactions, including mortgage lending. Its protected classes are not identical to ECOA's. HUD is the primary enforcing agency, and the Department of Justice brings pattern-or-practice cases.",
+  "details": "42 USC 3604 covers the sale or rental of housing. 42 USC 3605 covers residential real-estate related transactions, including the making of loans. Familial status and disability are prominent Fair Housing Act classes. ECOA adds categories such as age, marital status, and public assistance that the Fair Housing Act does not list in the same way. A mortgage lender can face both statutes.",
+  "complianceNotes": "Do not merge the protected-class lists in training. A brokerage or a lender that steers families with children away from a neighborhood can have a Fair Housing Act problem even when the credit file looks complete.",
+  "example": {
+    "setting": "Housing and real-estate credit practices reviewed under the Fair Housing Act",
+    "text": "A sample lending policy that refuses an example two-unit property only when the borrower has children would be reviewed under the Act. Example figures for a sample two-unit price of $350,000 only."
+  },
+  "citations": [
+    "usc-42-3604",
+    "usc-42-3605"
+  ],
+  "related": [
+    "disparate-impact",
+    "disparate-treatment",
+    "ecoa",
+    "fair-lending",
+    "redlining",
+    "steering"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley de Vivienda Justa",
+    "aliases": [],
+    "definition": "La Ley de Vivienda Justa prohíbe la discriminación en la venta o el alquiler de vivienda y en las transacciones relacionadas con bienes raíces residenciales, incluido el crédito hipotecario. Sus clases protegidas no son idénticas a las de ECOA. HUD es la agencia principal de ejecución, y el Departamento de Justicia presenta casos de patrón o práctica.",
+    "details": "42 USC 3604 cubre la venta o el alquiler de vivienda. 42 USC 3605 cubre las transacciones relacionadas con bienes raíces residenciales, incluida la concesión de préstamos. El estado familiar y la discapacidad son clases destacadas de la Ley de Vivienda Justa. ECOA agrega categorías como la edad, el estado civil y la asistencia pública que la Ley de Vivienda Justa no enumera del mismo modo. Un prestamista hipotecario puede enfrentar ambas leyes.",
+    "complianceNotes": "No mezcle las listas de clases protegidas en la capacitación. Un corredor o un prestamista que aleja a las familias con niños de un vecindario puede tener un problema de la Ley de Vivienda Justa aunque el expediente de crédito parezca completo.",
+    "example": {
+      "setting": "Prácticas de vivienda y de crédito inmobiliario revisadas según la Ley de Vivienda Justa",
+      "text": "Una política de crédito de muestra que rechaza una propiedad de dos unidades de ejemplo solo cuando el prestatario tiene hijos se revisaría según la ley. Cifras de ejemplo solo para un precio de muestra de $350,000 de una propiedad de dos unidades."
+    }
+  }
+}

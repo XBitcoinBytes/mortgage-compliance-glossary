@@ -1,0 +1,37 @@
+{
+  "slug": "seller-concessions",
+  "term": "Seller concessions",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Seller concessions are amounts the seller agrees to pay toward your costs or other charges. They can lower your cash to close. They do not lower the price unless the contract actually changes the price. Lenders limit how large they can be.",
+  "details": "On the Closing Disclosure, seller credits appear in the summaries of transactions. Agency guides cap interested-party contributions by occupancy and loan-to-value ratio. Those percentages are guide policy and should be read from the current Selling Guide rather than memorized. A concession that exceeds the cap has to be reduced, or the price restructured, before delivery.",
+  "complianceNotes": "Compare the contract, the AUS, and page 3 of the Closing Disclosure. Do not treat a seller credit as a lender credit. If the concession changes after the Loan Estimate, review whether a revised disclosure is required.",
+  "example": {
+    "setting": "Purchase contract concession clause, and Closing Disclosure, page 3, seller credit",
+    "text": "A sample contract might give a $8,000 seller concession on an example $400,000 purchase, credited on page 3. Example figures, not the guide cap."
+  },
+  "citations": [
+    "fannie-guide",
+    "reg-1026-38"
+  ],
+  "related": [
+    "cash-to-close",
+    "interested-party-contributions",
+    "lender-credits",
+    "purchase-agreement",
+    "seller-credits",
+    "temporary-buydown"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Concesiones del vendedor",
+    "aliases": [],
+    "definition": "Las concesiones del vendedor son cantidades que el vendedor acepta pagar para sus costos u otros cargos. Pueden reducir su efectivo para el cierre. No bajan el precio, salvo que el contrato de verdad cambie el precio. Los prestamistas limitan cuán grandes pueden ser.",
+    "details": "En la Divulgación del cierre, los créditos del vendedor aparecen en los resúmenes de transacciones. Las guías de las agencias limitan las aportaciones de partes interesadas según la ocupación y la relación préstamo-valor. Esos porcentajes son política de la guía y deben leerse en la Selling Guide vigente, no memorizarse. Una concesión que excede el límite debe reducirse, o el precio reestructurarse, antes de la entrega.",
+    "complianceNotes": "Compare el contrato, el sistema automatizado y la página 3 de la Divulgación del cierre. No trate un crédito del vendedor como un crédito del prestamista. Si la concesión cambia después de la Estimación del préstamo, revise si se exige una divulgación revisada.",
+    "example": {
+      "setting": "Cláusula de concesión del contrato de compra, y Divulgación del cierre, página 3, crédito del vendedor",
+      "text": "Un contrato de muestra puede dar una concesión del vendedor de $8,000 en una compra de ejemplo de $400,000, acreditada en la página 3. Cifras de ejemplo, no el límite de la guía."
+    }
+  }
+}

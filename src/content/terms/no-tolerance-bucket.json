@@ -1,0 +1,35 @@
+{
+  "slug": "no-tolerance-bucket",
+  "term": "Charges that can change",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Some charges can increase without a percentage cap because they depend on choices or on facts the creditor does not control. The group includes prepaid interest, property insurance, amounts placed in escrow, and services the consumer shops for with a provider who is not on the written list, subject to the section.",
+  "details": "12 CFR 1026.19(e)(3)(iii) lists the charges that may vary. Good-faith estimates are still required. A creditor cannot dump a lender fee into this group to avoid zero tolerance. A changed circumstance can also revise an estimate under paragraph (e)(3)(iv), which is a different permission.",
+  "complianceNotes": "Classify each fee before the Loan Estimate. If the consumer shops off the list, document that choice so the increase is defensible. Do not use this bucket for origination charges.",
+  "example": {
+    "setting": "Loan Estimate Section F and shopped-off-list services that the rule permits to increase",
+    "text": "A sample prepaid-interest line might rise from an example $700 to $860 because closing moved by several days. Example figures."
+  },
+  "citations": [
+    "reg-1026-19"
+  ],
+  "related": [
+    "initial-escrow-payment",
+    "prepaid-interest",
+    "prepaids",
+    "services-you-can-shop-for",
+    "zero-tolerance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cargos que pueden cambiar",
+    "aliases": [],
+    "definition": "Algunos cargos pueden aumentar sin un tope de porcentaje porque dependen de elecciones o de hechos que el acreedor no controla. El grupo incluye el interés pagado por adelantado, el seguro de la propiedad, las cantidades puestas en depósito en garantía y los servicios que el consumidor compara con un proveedor que no está en la lista escrita, sujetos a la sección.",
+    "details": "12 CFR 1026.19(e)(3)(iii) enumera los cargos que pueden variar. Igual se exigen estimados de buena fe. Un acreedor no puede meter un cargo del prestamista en este grupo para evitar la tolerancia cero. Una circunstancia cambiada también puede revisar un estimado según el párrafo (e)(3)(iv), que es un permiso distinto.",
+    "complianceNotes": "Clasifique cada cargo antes de la Estimación del préstamo. Si el consumidor compara fuera de la lista, documente esa elección para que el aumento se pueda defender. No use este grupo para cargos de originación.",
+    "example": {
+      "setting": "Sección F de la Estimación del préstamo y servicios comparados fuera de la lista que la regla permite que aumenten",
+      "text": "Una línea de interés pagado por adelantado de muestra podría subir de un ejemplo de $700 a $860 porque el cierre se movió varios días. Cifras de ejemplo."
+    }
+  }
+}

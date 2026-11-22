@@ -1,0 +1,37 @@
+{
+  "slug": "interested-party-contributions",
+  "term": "Interested party contributions",
+  "aliases": [],
+  "category": "origination",
+  "definition": "An interested-party contribution is money from someone who benefits from the sale, such as the seller, builder, or real-estate agent, paid toward your costs. It is help with costs. It is not a down payment from you, and the guide caps it.",
+  "details": "Fannie Mae and Freddie Mac publish caps that depend on occupancy and the loan-to-value ratio, and on whether the property is a primary residence, second home, or investment. The percentages are in the current guides and can be revised. Amounts over the cap generally must be treated as a sales concession that reduces the price for loan-to-value purposes. Lender credits from the creditor's own premium pricing are not interested-party contributions.",
+  "complianceNotes": "Add every interested party, not only the seller. Test the total against the current guide before clear to close. Do not memorize a single percentage for every occupancy.",
+  "example": {
+    "setting": "Underwriting worksheet for interested-party contributions, tied to the seller credit on Closing Disclosure page 3",
+    "text": "A sample file might have a builder credit of $10,000 on an example $500,000 primary-residence purchase, tested against the guide cap rather than approved automatically. Example figures."
+  },
+  "citations": [
+    "fannie-guide",
+    "freddie-guide"
+  ],
+  "related": [
+    "down-payment",
+    "lender-credits",
+    "loan-to-value-ratio",
+    "seller-concessions",
+    "seller-credits",
+    "temporary-buydown"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aportaciones de una parte interesada",
+    "aliases": [],
+    "definition": "Una aportación de una parte interesada es dinero de alguien que se beneficia de la venta, como el vendedor, el constructor o el agente de bienes raíces, pagado para sus costos. Es ayuda con los costos. No es un pago inicial suyo, y la guía lo limita.",
+    "details": "Fannie Mae y Freddie Mac publican límites que dependen de la ocupación y de la relación préstamo-valor, y de si la propiedad es residencia principal, segunda vivienda o inversión. Los porcentajes están en las guías vigentes y pueden revisarse. Los montos por encima del límite por lo general deben tratarse como una concesión de venta que reduce el precio para la relación préstamo-valor. Los créditos del prestamista por el precio de una tasa más alta no son aportaciones de una parte interesada.",
+    "complianceNotes": "Sume a toda parte interesada, no solo al vendedor. Pruebe el total contra la guía vigente antes de autorizar el cierre. No memorice un solo porcentaje para toda ocupación.",
+    "example": {
+      "setting": "Hoja de suscripción de aportaciones de una parte interesada, ligada al crédito del vendedor en la página 3 de la Divulgación del cierre",
+      "text": "Un expediente de muestra puede tener un crédito del constructor de $10,000 en una compra de residencia principal de ejemplo de $500,000, probado contra el límite de la guía y no aprobado automáticamente. Cifras de ejemplo."
+    }
+  }
+}

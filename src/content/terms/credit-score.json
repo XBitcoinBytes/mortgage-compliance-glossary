@@ -1,0 +1,43 @@
+{
+  "slug": "credit-score",
+  "term": "Credit score",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A credit score is a number a scoring model produces from the information on your credit report. Lenders use it as one part of the risk decision. It is not your income, and it is not a grade the government assigns.",
+  "details": "Fannie Mae B3-5.1-01 states general requirements for credit scores, including which models are acceptable. The score used for the loan is the representative score under B3-5.1-02, which may not be the highest score on the page. If a creditor denies credit or takes other adverse action based on a consumer report, the Fair Credit Reporting Act, 15 USC 1681m, requires score and agency information in the adverse-action notice. Risk-based pricing notices are a separate Regulation V duty.",
+  "complianceNotes": "Use an eligible score and the guide's representative-score method. If you deny the application, include the required score disclosure. Do not promise a borrower that paying one card will raise the score by a specific amount.",
+  "example": {
+    "setting": "Credit report, score section, and any score disclosure given with an adverse action",
+    "text": "A sample report might list example scores of 681, 694, and 705. Which one qualifies the loan is a separate step. Example figures."
+  },
+  "citations": [
+    "fannie-b3-5-1-01",
+    "usc-15-1681m"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "authorized-user",
+    "co-borrower",
+    "credit-inquiry",
+    "faq-what-is-preapproval",
+    "fcra",
+    "regulation-v",
+    "representative-credit-score",
+    "revolving-debt",
+    "risk-based-pricing-notice",
+    "tradeline",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Puntaje de crédito",
+    "aliases": [],
+    "definition": "Un puntaje de crédito es un número que un modelo produce a partir de la información de su informe de crédito. Los prestamistas lo usan como una parte de la decisión de riesgo. No es su ingreso, y no es una calificación que asigne el gobierno.",
+    "details": "Fannie Mae B3-5.1-01 establece los requisitos generales de los puntajes de crédito, incluidos los modelos aceptables. El puntaje usado para el préstamo es el puntaje representativo según B3-5.1-02, que puede no ser el puntaje más alto de la página. Si un acreedor niega el crédito o toma otra acción adversa con base en un informe del consumidor, la Ley de Informes de Crédito Justos, 15 USC 1681m, exige información del puntaje y de la agencia en el aviso de acción adversa. Los avisos de precio basado en el riesgo son un deber distinto del Reglamento V.",
+    "complianceNotes": "Use un puntaje elegible y el método de puntaje representativo de la guía. Si niega la solicitud, incluya la divulgación de puntaje exigida. No le prometa a un prestatario que pagar una tarjeta subirá el puntaje en una cantidad específica.",
+    "example": {
+      "setting": "Informe de crédito, sección de puntaje, y cualquier divulgación de puntaje dada con una acción adversa",
+      "text": "Un informe de muestra puede listar puntajes de ejemplo de 681, 694 y 705. Cuál califica el préstamo es un paso distinto. Cifras de ejemplo."
+    }
+  }
+}

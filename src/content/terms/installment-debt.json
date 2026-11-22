@@ -1,0 +1,38 @@
+{
+  "slug": "installment-debt",
+  "term": "Installment debt",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Installment debt is a loan you repay in regular payments until it ends, such as a car loan or a personal loan. The payment is usually counted in your debt-to-income ratio. A loan with only a few payments left may be left out if the guide's conditions are met.",
+  "details": "Fannie Mae B3-6-05 tells the lender which installment payments to include and when a debt with few remaining payments may be omitted. The number of remaining payments is in that section and should be read there, not remembered. Paying the debt off at closing is a different rule, covered in B3-6-07, and the funds used to pay it must be documented.",
+  "complianceNotes": "Include the payment on the credit report unless an omission rule is documented. Do not drop a car lease because it feels small. If the borrower will pay the debt at closing, show the source of those funds and resubmit the file when the guide requires it.",
+  "example": {
+    "setting": "Credit report installment tradeline and the debt worksheet",
+    "text": "A sample car loan might show a $415 monthly payment with an example balance of $4,200. Whether that payment stays in the ratio depends on the current section, not on this illustration. Example figures."
+  },
+  "citations": [
+    "fannie-b3-6-05"
+  ],
+  "related": [
+    "alimony-child-support",
+    "debt-to-income-ratio",
+    "debts-paid-at-closing",
+    "faq-which-debts-count-in-dti",
+    "pitia",
+    "revolving-debt",
+    "student-loans",
+    "tradeline"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Deuda a plazos",
+    "aliases": [],
+    "definition": "Una deuda a plazos es un préstamo que usted paga en cuotas regulares hasta que termina, como un préstamo de automóvil o un préstamo personal. El pago por lo general se cuenta en su relación deuda-ingreso. Un préstamo al que le quedan pocos pagos puede omitirse si se cumplen las condiciones de la guía.",
+    "details": "Fannie Mae B3-6-05 indica al prestamista qué pagos a plazos incluir y cuándo una deuda con pocos pagos restantes puede omitirse. El número de pagos restantes está en esa sección y debe leerse allí, no recordarse. Pagar la deuda en el cierre es una regla distinta, cubierta en B3-6-07, y los fondos usados para pagarla deben documentarse.",
+    "complianceNotes": "Incluya el pago del informe de crédito salvo que documente una regla de omisión. No quite un arrendamiento de automóvil porque parece pequeño. Si el prestatario pagará la deuda en el cierre, muestre el origen de esos fondos y vuelva a enviar el expediente cuando la guía lo exija.",
+    "example": {
+      "setting": "Línea a plazos del informe de crédito y la hoja de deudas",
+      "text": "Un préstamo de automóvil de muestra puede mostrar un pago mensual de $415 con un saldo de ejemplo de $4,200. Si ese pago permanece en la relación depende de la sección vigente, no de esta ilustración. Cifras de ejemplo."
+    }
+  }
+}

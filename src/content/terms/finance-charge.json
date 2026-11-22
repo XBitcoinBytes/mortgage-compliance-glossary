@@ -1,0 +1,45 @@
+{
+  "slug": "finance-charge",
+  "term": "Finance charge",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "The finance charge is the dollar cost of consumer credit. It includes interest and certain other charges that are part of the cost of borrowing. It does not include every closing cost. A charge that is excluded because it is a real-estate fee can still appear on the Loan Estimate.",
+  "details": "12 CFR 1026.4 defines the finance charge and the exclusions, including some real-estate related fees if they are bona fide and reasonable. The annual percentage rate is built from the finance charge and the amount financed under 12 CFR 1026.22. Points and fees for QM and HOEPA are a different total. A tolerance error on a finance charge can also make the APR inaccurate.",
+  "complianceNotes": "Classify each fee as inside or outside the finance charge before you compute the APR. Do not treat title insurance and the origination fee the same way. Recalculate when points change.",
+  "example": {
+    "setting": "Closing Disclosure, page 5, Loan Calculations, finance charge",
+    "text": "A sample page 5 might show an example finance charge of $214,000 over the life of a loan with a much smaller amount financed. Example figures, not a quote."
+  },
+  "citations": [
+    "reg-1026-4",
+    "reg-1026-22"
+  ],
+  "related": [
+    "ability-to-repay",
+    "amount-financed",
+    "annual-percentage-rate",
+    "discount-points",
+    "faq-apr-vs-interest-rate",
+    "loan-calculations",
+    "note-rate",
+    "origination-charges",
+    "points-and-fees",
+    "regulation-z",
+    "tila",
+    "total-interest-percentage",
+    "trigger-terms",
+    "upfront-mortgage-insurance-premium"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cargo por financiamiento",
+    "aliases": [],
+    "definition": "El cargo por financiamiento es el costo en dólares del crédito al consumidor. Incluye el interés y ciertos otros cargos que forman parte del costo de pedir prestado. No incluye todo costo de cierre. Un cargo que se excluye porque es un cargo inmobiliario igual puede aparecer en la Estimación del préstamo.",
+    "details": "12 CFR 1026.4 define el cargo por financiamiento y las exclusiones, incluidos algunos cargos relacionados con bienes raíces si son de buena fe y razonables. La tasa porcentual anual se construye a partir del cargo por financiamiento y el monto financiado según 12 CFR 1026.22. Los puntos y cargos para la QM y HOEPA son un total distinto. Un error de tolerancia en un cargo por financiamiento también puede hacer que la tasa porcentual anual sea inexacta.",
+    "complianceNotes": "Clasifique cada cargo como dentro o fuera del cargo por financiamiento antes de calcular la tasa porcentual anual. No trate el seguro de título y la tarifa de originación del mismo modo. Recalcule cuando cambian los puntos.",
+    "example": {
+      "setting": "Divulgación del cierre, página 5, Cálculos del préstamo, cargo por financiamiento",
+      "text": "Una página 5 de muestra puede mostrar un cargo por financiamiento de ejemplo de $214,000 durante la vida de un préstamo con un monto financiado mucho menor. Cifras de ejemplo, no una cotización."
+    }
+  }
+}

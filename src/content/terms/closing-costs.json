@@ -1,0 +1,42 @@
+{
+  "slug": "closing-costs",
+  "term": "Closing costs",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Closing costs are the charges to complete the mortgage, other than the price of the house itself. They include lender fees, third-party services, taxes, prepaids, and the initial escrow deposit. There is no legal fixed amount. The Loan Estimate itemizes them so you can compare.",
+  "details": "12 CFR 1026.37 organizes the costs on page 2. Which costs can rise is the tolerance rule in 12 CFR 1026.19(e), not a percentage of the price. Seller credits and lender credits reduce what you bring. They do not erase the costs. A worksheet that quotes one number without sections is not a Loan Estimate.",
+  "complianceNotes": "Walk the borrower through Sections A through J instead of quoting a rule of thumb. Update the cash-to-close table when a credit changes. Do not promise that costs will match a percentage of the loan.",
+  "example": {
+    "setting": "Loan Estimate, page 2, total closing costs, Sections A through J",
+    "text": "A sample page 2 might total example closing costs of $9,400 before a $3,000 lender credit on a $360,000 loan. Example figures, not a typical percentage."
+  },
+  "citations": [
+    "reg-1026-37",
+    "cfpb-le"
+  ],
+  "related": [
+    "cash-to-close",
+    "faq-how-much-are-closing-costs",
+    "faq-what-is-cash-to-close",
+    "fee-worksheet",
+    "lender-credits",
+    "loan-estimate",
+    "origination-charges",
+    "prepaids",
+    "recording-fees",
+    "seller-credits",
+    "survey"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Costos de cierre",
+    "aliases": [],
+    "definition": "Los costos de cierre son los cargos para completar la hipoteca, distintos del precio de la casa. Incluyen cargos del prestamista, servicios de terceros, impuestos, prepagos y el depósito inicial en la cuenta de depósito en garantía. No hay un monto legal fijo. La Estimación del préstamo los detalla para que usted compare.",
+    "details": "12 CFR 1026.37 organiza los costos en la página 2. Qué costos pueden subir es la regla de tolerancia en 12 CFR 1026.19(e), no un porcentaje del precio. Los créditos del vendedor y los créditos del prestamista reducen lo que usted lleva. No borran los costos. Una hoja que cita un solo número sin secciones no es una Estimación del préstamo.",
+    "complianceNotes": "Recorra con el prestatario las Secciones A a J en lugar de citar una regla práctica. Actualice la tabla de efectivo para el cierre cuando cambia un crédito. No prometa que los costos coincidirán con un porcentaje del préstamo.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, costos de cierre totales, Secciones A a J",
+      "text": "Una página 2 de muestra podría totalizar costos de cierre de ejemplo de $9,400 antes de un crédito del prestamista de $3,000 en un préstamo de $360,000. Cifras de ejemplo, no un porcentaje típico."
+    }
+  }
+}

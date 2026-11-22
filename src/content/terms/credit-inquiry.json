@@ -1,0 +1,35 @@
+{
+  "slug": "credit-inquiry",
+  "term": "Credit inquiry",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A credit inquiry is a record that someone looked at your credit. Recent inquiries can mean you applied for new debt. Lenders ask about them so a new car loan or credit card is not left out of the debt ratio.",
+  "details": "Fannie Mae B3-5.3-04 addresses recent inquiries. The lender may need a letter and proof that no new debt was opened, or the payment on the new debt. Undisclosed debt discovered later can require an AUS resubmission under the data-accuracy rules. Inquiries from the mortgage process itself should be distinguished from inquiries for new credit.",
+  "complianceNotes": "Clear recent inquiries before documents. If a new payment exists, add it and resubmit. Do not accept a letter that says no new debt when a new tradeline has already reported.",
+  "example": {
+    "setting": "Credit report, inquiry section, and any letter explaining a recent inquiry",
+    "text": "A sample report might show three inquiries in the last example 90 days, one of them a car dealer. Example figures."
+  },
+  "citations": [
+    "fannie-b3-5-3-04"
+  ],
+  "related": [
+    "credit-score",
+    "debt-to-income-ratio",
+    "letter-of-explanation",
+    "tri-merge-credit-report",
+    "undisclosed-debt"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Consulta de crédito",
+    "aliases": [],
+    "definition": "Una consulta de crédito es un registro de que alguien miró su crédito. Las consultas recientes pueden significar que usted solicitó una deuda nueva. Los prestamistas preguntan por ellas para que un préstamo de automóvil o una tarjeta nueva no quede fuera de la relación de deudas.",
+    "details": "Fannie Mae B3-5.3-04 trata las consultas recientes. El prestamista puede necesitar una carta y prueba de que no se abrió una deuda nueva, o el pago de la deuda nueva. Una deuda no divulgada descubierta después puede exigir un reenvío al sistema automatizado según las reglas de exactitud de los datos. Las consultas del propio proceso hipotecario deben distinguirse de las consultas de crédito nuevo.",
+    "complianceNotes": "Resuelva las consultas recientes antes de los documentos. Si existe un pago nuevo, agréguelo y vuelva a enviar. No acepte una carta que dice que no hay deuda nueva cuando una línea nueva ya se reportó.",
+    "example": {
+      "setting": "Informe de crédito, sección de consultas, y cualquier carta que explique una consulta reciente",
+      "text": "Un informe de muestra puede mostrar tres consultas en los últimos 90 días de ejemplo, una de ellas de un concesionario de autos. Cifras de ejemplo."
+    }
+  }
+}

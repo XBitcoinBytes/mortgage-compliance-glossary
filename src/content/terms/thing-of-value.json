@@ -1,0 +1,34 @@
+{
+  "slug": "thing-of-value",
+  "term": "Thing of value",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A thing of value under RESPA is broad. It includes money, discounts, trips, free advertising, reduced rent, and other benefits. If it is given for a referral of settlement-service business, it is the thing Section 8 prohibits. It does not have to be a check.",
+  "details": "12 CFR 1024.14 and its official interpretations describe the breadth of the term. A thing of value can be small. There is no general de minimis exception you should invent. Ordinary business entertainment that is not tied to referrals is a different analysis and should be reviewed, not assumed to be safe.",
+  "complianceNotes": "Ask what was given and why. If the why is a referral, stop. Log gifts to referral sources. Do not create a points program for real-estate agents based on closed loans.",
+  "example": {
+    "setting": "Anything of value connected to a settlement-service referral",
+    "text": "A sample lunch program that becomes an example $50 gift card after each closing is still a thing of value. Example figures."
+  },
+  "citations": [
+    "reg-1024-14"
+  ],
+  "related": [
+    "affiliated-business-arrangement",
+    "kickback",
+    "marketing-services-agreement",
+    "respa-section-8"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cosa de valor",
+    "aliases": [],
+    "definition": "Una cosa de valor según RESPA es amplia. Incluye dinero, descuentos, viajes, publicidad gratis, renta reducida y otros beneficios. Si se da por una referencia de un negocio de servicios de liquidación, es la cosa que prohíbe la Sección 8. No tiene que ser un cheque.",
+    "details": "12 CFR 1024.14 y sus interpretaciones oficiales describen la amplitud del término. Una cosa de valor puede ser pequeña. No hay una excepción general de monto mínimo que usted deba inventar. El entretenimiento comercial ordinario que no está ligado a referencias es un análisis distinto y debe revisarse, no suponerse seguro.",
+    "complianceNotes": "Pregunte qué se dio y por qué. Si el porqué es una referencia, deténgase. Registre los regalos a fuentes de referencias. No cree un programa de puntos para agentes de bienes raíces basado en préstamos cerrados.",
+    "example": {
+      "setting": "Cualquier cosa de valor conectada con una referencia de un servicio de liquidación",
+      "text": "Un programa de almuerzos de muestra que se convierte en una tarjeta de regalo de ejemplo de $50 después de cada cierre sigue siendo una cosa de valor. Cifras de ejemplo."
+    }
+  }
+}

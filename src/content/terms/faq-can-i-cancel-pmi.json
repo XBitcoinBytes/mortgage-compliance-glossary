@@ -1,0 +1,35 @@
+{
+  "slug": "faq-can-i-cancel-pmi",
+  "term": "Can I cancel PMI?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "You can ask to cancel borrower-paid PMI when your loan is first scheduled to reach 80 percent of the home's original value, if you are current and have the payment history the statute requires. It ends on its own at 78 percent if you are current. FHA mortgage insurance does not follow this schedule.",
+  "details": "12 USC 4902 states both rights and the conditions, including a good payment history for borrower-requested cancellation. The value is original value, not a new appraisal, unless a provision you can cite says otherwise. Lender-paid mortgage insurance is priced into the rate and generally is not cancelled this way.",
+  "complianceNotes": "Give the scheduled date and the conditions. Do not refuse a request that meets the statute. Do not apply the statute to FHA MIP.",
+  "example": {
+    "setting": "Borrower request to cancel borrower-paid PMI, measured on original value",
+    "text": "On an example original value of $300,000, 80 percent is a scheduled balance of $240,000. Example figures illustrating the statute, still subject to the payment-history conditions."
+  },
+  "citations": [
+    "usc-12-4902"
+  ],
+  "related": [
+    "fha-mip",
+    "lender-paid-mortgage-insurance",
+    "pmi-automatic-termination",
+    "pmi-borrower-cancellation",
+    "private-mortgage-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Puedo cancelar el PMI?",
+    "aliases": [],
+    "definition": "Usted puede pedir la cancelación del PMI pagado por el prestatario cuando su préstamo está programado por primera vez para llegar al 80 por ciento del valor original de la vivienda, si usted está al día y tiene el historial de pago que exige la ley. Termina por sí solo al 78 por ciento si usted está al día. El seguro hipotecario de la FHA no sigue este calendario.",
+    "details": "12 USC 4902 establece ambos derechos y las condiciones, incluido un buen historial de pago para la cancelación pedida por el prestatario. El valor es el valor original, no una tasación nueva, salvo que una disposición que usted pueda citar diga otra cosa. El seguro hipotecario pagado por el prestamista está incluido en la tasa y por lo general no se cancela de este modo.",
+    "complianceNotes": "Dé la fecha programada y las condiciones. No rechace una solicitud que cumple la ley. No aplique la ley a la MIP de la FHA.",
+    "example": {
+      "setting": "Solicitud del prestatario para cancelar el PMI pagado por el prestatario, medida sobre el valor original",
+      "text": "Sobre un valor original de ejemplo de $300,000, el 80 por ciento es un saldo programado de $240,000. Cifras de ejemplo que ilustran la ley, todavía sujetas a las condiciones del historial de pago."
+    }
+  }
+}

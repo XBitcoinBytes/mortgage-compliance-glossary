@@ -1,0 +1,44 @@
+{
+  "slug": "homeowners-insurance",
+  "term": "Homeowners insurance",
+  "aliases": [
+    "hazard insurance",
+    "HOI"
+  ],
+  "category": "underwriting",
+  "definition": "Homeowners insurance, also called hazard insurance, covers the house against fire and similar damage. Lenders require it because the house is the collateral. It is not flood insurance, not title insurance, and not mortgage insurance.",
+  "details": "The Fannie Mae Selling Guide states coverage expectations, such as replacement cost or the unpaid principal balance, and deductible limits. Read the current section rather than quoting a coverage formula from memory. The premium is a prepaid in Section F and, if escrowed, a monthly amount in the housing payment. If the policy lapses later, the servicer may force-place insurance under Regulation X.",
+  "complianceNotes": "Collect a binder that names the lender as mortgagee before funding. Match the premium to Section F. Do not accept a flood-only policy as hazard insurance.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section F, homeowners insurance premium, and the binder in the file",
+    "text": "A sample binder might show an example annual premium of $1,560 for a dwelling coverage amount the guide accepts. Example figures, not a required premium."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "escrow-account",
+    "escrow-waiver",
+    "faq-what-is-an-escrow-account",
+    "flood-determination",
+    "flood-insurance",
+    "force-placed-insurance",
+    "initial-escrow-payment",
+    "pitia",
+    "planned-unit-development",
+    "prepaids",
+    "special-flood-hazard-area"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Seguro de la vivienda",
+    "aliases": [],
+    "definition": "El seguro de la vivienda, también llamado seguro de riesgos, cubre la casa contra incendio y daños similares. Los prestamistas lo exigen porque la casa es la garantía. No es seguro de inundación, no es seguro de título y no es seguro hipotecario.",
+    "details": "La Selling Guide de Fannie Mae establece expectativas de cobertura, como el costo de reposición o el saldo principal impago, y límites del deducible. Lea la sección vigente en lugar de citar de memoria una fórmula de cobertura. La prima es un prepago en la Sección F y, si está en depósito en garantía, un monto mensual en el pago de vivienda. Si la póliza vence después, el administrador puede imponer un seguro según el Reglamento X.",
+    "complianceNotes": "Recoja un comprobante que nombre al prestamista como acreedor hipotecario antes del desembolso. Haga coincidir la prima con la Sección F. No acepte una póliza solo de inundación como seguro de riesgos.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección F, prima del seguro de la vivienda, y el comprobante en el expediente",
+      "text": "Un comprobante de muestra puede mostrar una prima anual de ejemplo de $1,560 por un monto de cobertura de la vivienda que la guía acepta. Cifras de ejemplo, no una prima exigida."
+    }
+  }
+}

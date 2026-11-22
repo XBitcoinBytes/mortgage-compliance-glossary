@@ -1,0 +1,37 @@
+{
+  "slug": "borrower-paid-mortgage-insurance",
+  "term": "Borrower-paid mortgage insurance",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "Borrower-paid mortgage insurance is the premium you pay, usually each month, for conventional PMI. Because you pay it, the Homeowners Protection Act's cancellation and automatic-termination rules can apply. The premium is not part of the note rate.",
+  "details": "12 USC 4902 is the cancellation statute. The Loan Estimate shows the mortgage insurance payment. A single premium paid at closing can still be borrower-paid and needs to be disclosed and tested under the points-and-fees rules if it is a finance charge the regulation includes. FHA MIP is a different premium with different cancellation rules.",
+  "complianceNotes": "Show the monthly amount in the projected payment. Tell the borrower the HPA cancellation date and the conditions. Do not switch the file to lender-paid MI without a new disclosure of the rate.",
+  "example": {
+    "setting": "Monthly PMI line on the Loan Estimate, paid by the borrower",
+    "text": "A sample Loan Estimate might show an example $110 monthly mortgage insurance payment. Example figures."
+  },
+  "citations": [
+    "usc-12-4902"
+  ],
+  "related": [
+    "faq-what-is-pmi",
+    "fha-mip",
+    "homeowners-protection-act",
+    "lender-paid-mortgage-insurance",
+    "pmi-automatic-termination",
+    "pmi-borrower-cancellation",
+    "private-mortgage-insurance"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Seguro hipotecario pagado por el prestatario",
+    "aliases": [],
+    "definition": "El seguro hipotecario pagado por el prestatario es la prima que usted paga, por lo general cada mes, por el PMI convencional. Como usted la paga, pueden aplicarse las reglas de cancelación y de terminación automática de la Ley de Protección de los Propietarios. La prima no es parte de la tasa del pagaré.",
+    "details": "12 USC 4902 es la ley de cancelación. La Estimación del préstamo muestra el pago del seguro hipotecario. Una prima única pagada en el cierre igual puede ser pagada por el prestatario y necesita divulgarse y probarse según las reglas de puntos y cargos si es un cargo por financiamiento que el reglamento incluye. La MIP de la FHA es una prima distinta con reglas de cancelación distintas.",
+    "complianceNotes": "Muestre el monto mensual en el pago proyectado. Dígale al prestatario la fecha de cancelación de la HPA y las condiciones. No cambie el expediente a seguro pagado por el prestamista sin una nueva divulgación de la tasa.",
+    "example": {
+      "setting": "Línea mensual de PMI en la Estimación del préstamo, pagada por el prestatario",
+      "text": "Una Estimación del préstamo de muestra podría mostrar un pago mensual de seguro hipotecario de ejemplo de $110. Cifras de ejemplo."
+    }
+  }
+}

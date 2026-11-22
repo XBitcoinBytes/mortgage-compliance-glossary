@@ -1,0 +1,47 @@
+{
+  "slug": "private-mortgage-insurance",
+  "term": "Private mortgage insurance",
+  "aliases": [
+    "PMI",
+    "mortgage insurance"
+  ],
+  "category": "loan-programs",
+  "definition": "Private mortgage insurance protects the lender if a conventional loan defaults. Borrowers usually pay it when the loan-to-value ratio is above the guide's threshold, often discussed as 80 percent. It is not homeowners insurance and not FHA mortgage insurance. Borrower-paid PMI can be cancelled under the Homeowners Protection Act.",
+  "details": "The HPA, 12 USC 4902, sets borrower-requested cancellation and automatic termination for covered borrower-paid policies. Fannie Mae and Freddie Mac also publish mortgage-insurance rules in their guides. The premium rate is set by the insurer and the risk, not by a federal schedule. Lender-paid mortgage insurance is priced into the rate and does not cancel the same way.",
+  "complianceNotes": "Disclose PMI on the Loan Estimate separately from taxes and hazard insurance. Explain cancellation in HPA terms, not as an automatic drop at 80 percent without the conditions. Do not call FHA MIP private mortgage insurance.",
+  "example": {
+    "setting": "Loan Estimate, mortgage insurance line, on a conventional loan above the guide's LTV threshold",
+    "text": "A sample conventional loan might show an example monthly PMI of $95. Example figures, not a filed rate."
+  },
+  "citations": [
+    "usc-12-4902",
+    "fannie-guide"
+  ],
+  "related": [
+    "borrower-paid-mortgage-insurance",
+    "conventional-loan",
+    "down-payment",
+    "faq-can-i-cancel-pmi",
+    "faq-fha-vs-conventional",
+    "faq-what-is-a-down-payment",
+    "faq-what-is-pmi",
+    "fha-mip",
+    "homeowners-protection-act",
+    "lender-paid-mortgage-insurance",
+    "loan-to-value-ratio",
+    "pmi-automatic-termination",
+    "pmi-borrower-cancellation"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Seguro hipotecario privado",
+    "aliases": [],
+    "definition": "El seguro hipotecario privado protege al prestamista si un préstamo convencional entra en incumplimiento. Los prestatarios por lo general lo pagan cuando la relación préstamo-valor está por encima del umbral de la guía, a menudo discutido como el 80 por ciento. No es el seguro de la vivienda ni el seguro hipotecario de la FHA. El PMI pagado por el prestatario puede cancelarse según la Ley de Protección de los Propietarios.",
+    "details": "La HPA, 12 USC 4902, establece la cancelación pedida por el prestatario y la terminación automática para las pólizas cubiertas pagadas por el prestatario. Fannie Mae y Freddie Mac también publican reglas de seguro hipotecario en sus guías. La tasa de la prima la fijan el asegurador y el riesgo, no un calendario federal. El seguro hipotecario pagado por el prestamista está incluido en la tasa y no se cancela del mismo modo.",
+    "complianceNotes": "Divulgue el PMI en la Estimación del préstamo aparte de los impuestos y del seguro de riesgos. Explique la cancelación en términos de la HPA, no como una caída automática al 80 por ciento sin las condiciones. No llame seguro hipotecario privado a la MIP de la FHA.",
+    "example": {
+      "setting": "Estimación del préstamo, línea del seguro hipotecario, en un préstamo convencional por encima del umbral de LTV de la guía",
+      "text": "Un préstamo convencional de muestra podría mostrar un PMI mensual de ejemplo de $95. Cifras de ejemplo, no una tarifa registrada."
+    }
+  }
+}

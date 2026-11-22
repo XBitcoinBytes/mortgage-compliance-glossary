@@ -1,0 +1,34 @@
+{
+  "slug": "arm-margin",
+  "term": "ARM margin",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "The margin is the fixed percentage added to the index to calculate the adjustable rate before caps. It does not change when the index changes. It is not the starting rate, which may be lower than index plus margin during an initial fixed or discounted period.",
+  "details": "The margin is a term of the note and is part of the ARM disclosures under Regulation Z. A larger margin means a higher rate after adjustment, even if the index is the same. It should be visible to the borrower before they lock. It is not a lender credit and not a discount point.",
+  "complianceNotes": "Disclose the margin next to the index. Do not hide it in a rider the borrower does not see until the signing table. Compare it when you shop ARM offers.",
+  "example": {
+    "setting": "Note margin, disclosed with the ARM program",
+    "text": "A sample margin of 2.75 percentage points added to an example index of 4.20 percent points to 6.95 percent before caps. Example figures."
+  },
+  "citations": [
+    "reg-1026-37"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "arm-caps",
+    "arm-index",
+    "fully-indexed-rate"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Margen de la ARM",
+    "aliases": [],
+    "definition": "El margen es el porcentaje fijo que se suma al índice para calcular la tasa ajustable antes de los topes. No cambia cuando cambia el índice. No es la tasa inicial, que puede ser menor que el índice más el margen durante un período inicial fijo o con descuento.",
+    "details": "El margen es un término del pagaré y es parte de las divulgaciones de la ARM según el Reglamento Z. Un margen mayor significa una tasa más alta después del ajuste, aunque el índice sea el mismo. Debe ser visible para el prestatario antes de que fije. No es un crédito del prestamista ni un punto de descuento.",
+    "complianceNotes": "Divulgue el margen junto al índice. No lo esconda en un anexo que el prestatario no ve hasta la mesa de firma. Compárelo cuando compare ofertas de ARM.",
+    "example": {
+      "setting": "Margen del pagaré, divulgado con el programa de la ARM",
+      "text": "Un margen de muestra de 2.75 puntos porcentuales sumado a un índice de ejemplo del 4.20 por ciento apunta al 6.95 por ciento antes de los topes. Cifras de ejemplo."
+    }
+  }
+}

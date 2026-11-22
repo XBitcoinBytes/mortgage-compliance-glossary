@@ -1,0 +1,45 @@
+{
+  "slug": "value-acceptance",
+  "term": "Value acceptance",
+  "aliases": [
+    "appraisal waiver"
+  ],
+  "category": "underwriting",
+  "definition": "Value acceptance is Fannie Mae's offer, on some loans, to accept the value without a traditional appraisal. The older market name was appraisal waiver. The lender may use it only when DU offers it and the lender follows the conditions. It is not a waiver the lender invents.",
+  "details": "Selling Guide B4-1.4-10 states the offer and the ineligible transactions. A related option, value acceptance plus property data, is in B4-1.4-11. If no appraisal is obtained, Regulation B's appraisal-copy rule may not have an appraisal to copy, but any written valuation that is developed still has to be considered under 12 CFR 1002.14. The lender remains responsible for eligibility.",
+  "complianceNotes": "Use the offer only when the DU message allows it and the loan still meets every condition on that message. If the offer is lost because data change, order the appraisal. Do not call a skipped appraisal a value acceptance.",
+  "example": {
+    "setting": "DU findings, value-acceptance message, in place of an appraisal report",
+    "text": "A sample DU message might offer value acceptance on an example refinance of $275,000. Example figures. The offer is the message, not this sentence."
+  },
+  "citations": [
+    "fannie-b4-1-4-10",
+    "fannie-b4-1-1-02"
+  ],
+  "related": [
+    "appraisal",
+    "appraisal-delivery",
+    "appraisal-independence-requirements",
+    "desktop-underwriter",
+    "faq-what-if-the-appraisal-is-low",
+    "faq-what-is-an-appraisal",
+    "hpml-appraisal",
+    "loan-to-value-ratio",
+    "uniform-appraisal-dataset",
+    "uniform-collateral-data-portal"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aceptación de valor",
+    "aliases": [
+      "exención de tasación"
+    ],
+    "definition": "La aceptación de valor es la oferta de Fannie Mae, en algunos préstamos, de aceptar el valor sin una tasación tradicional. El nombre antiguo del mercado era exención de tasación. El prestamista puede usarla solo cuando DU la ofrece y el prestamista sigue las condiciones. No es una exención que el prestamista inventa.",
+    "details": "La Selling Guide B4-1.4-10 establece la oferta y las transacciones no elegibles. Una opción relacionada, aceptación de valor más datos de la propiedad, está en B4-1.4-11. Si no se obtiene una tasación, la regla de copia del Reglamento B puede no tener una tasación que copiar, pero cualquier valoración escrita que se elabore igual debe considerarse según 12 CFR 1002.14. El prestamista sigue siendo responsable de la elegibilidad.",
+    "complianceNotes": "Use la oferta solo cuando el mensaje de DU la permite y el préstamo cumple cada condición de ese mensaje. Si la oferta se pierde porque cambian los datos, pida la tasación. No llame aceptación de valor a una tasación simplemente omitida.",
+    "example": {
+      "setting": "Hallazgos de DU, mensaje de aceptación de valor, en lugar de un informe de tasación",
+      "text": "Un mensaje de DU de muestra puede ofrecer aceptación de valor en un refinanciamiento de ejemplo de $275,000. Cifras de ejemplo. La oferta es el mensaje, no esta frase."
+    }
+  }
+}

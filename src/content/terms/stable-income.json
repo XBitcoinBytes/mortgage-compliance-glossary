@@ -1,0 +1,49 @@
+{
+  "slug": "stable-income",
+  "term": "Stable monthly income",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Stable monthly income is earnings the lender can document and reasonably expect to continue. It is the income in the denominator of the debt-to-income ratio. A one-time bonus or a job that is about to end is not stable just because it appears on a stub.",
+  "details": "Fannie Mae B3-3.1-01 requires income that is stable, has a documented history, and is expected to continue. If the income has a defined expiration, the lender generally must document that it will continue for at least three years from application. If the borrower is moving to a lower pay, the lower amount is used. That three-year test is for income with an end date, not for ordinary wages.",
+  "complianceNotes": "Use the lower income when a decline is known. Do not gross up or average in a way the section does not allow. Document continuance when the income will stop.",
+  "example": {
+    "setting": "Income worksheet, stable monthly income used in the ratio",
+    "text": "A sample wage of $4,500 a month might be stable, while an example $2,000 contract that ends in six months would not be used without the continuance the guide requires. Example figures."
+  },
+  "citations": [
+    "fannie-b3-3-1-01"
+  ],
+  "related": [
+    "alimony-child-support",
+    "bonus-overtime-commission",
+    "debt-to-income-ratio",
+    "employment-gap",
+    "faq-what-is-dti",
+    "form-4506-c",
+    "form-w-2",
+    "gus",
+    "housing-expense-ratio",
+    "income-calculator",
+    "nontaxable-income",
+    "pay-stub",
+    "public-assistance-income",
+    "schedule-c",
+    "schedule-k-1",
+    "self-employment-income",
+    "student-loans",
+    "verification-of-employment",
+    "verification-of-income"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ingreso mensual estable",
+    "aliases": [],
+    "definition": "El ingreso mensual estable son las ganancias que el prestamista puede documentar y que razonablemente espera que continúen. Es el ingreso en el denominador de la relación deuda-ingreso. Un bono único o un empleo que está por terminar no es estable solo porque aparece en un talón.",
+    "details": "Fannie Mae B3-3.1-01 exige un ingreso que sea estable, tenga un historial documentado y se espere que continúe. Si el ingreso tiene una fecha de vencimiento definida, el prestamista por lo general debe documentar que continuará por lo menos tres años desde la solicitud. Si el prestatario pasa a un pago menor, se usa el monto menor. Esa prueba de tres años es para ingreso con fecha de término, no para salarios ordinarios.",
+    "complianceNotes": "Use el ingreso menor cuando se conoce una baja. No haga un aumento ni un promedio de un modo que la sección no permite. Documente la continuidad cuando el ingreso va a terminar.",
+    "example": {
+      "setting": "Hoja de ingresos, ingreso mensual estable usado en la relación",
+      "text": "Un salario de muestra de $4,500 al mes puede ser estable, mientras un contrato de ejemplo de $2,000 que termina en seis meses no se usaría sin la continuidad que exige la guía. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "representative-credit-score",
+  "term": "Representative credit score",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "The representative credit score is the one score the guide tells the lender to use for the loan. For one borrower with three scores, it is generally the middle score. It is not an average, and with two borrowers it is not automatically the higher person's score.",
+  "details": "Fannie Mae B3-5.1-02 states the method, including the lower of two scores when a repository is missing and the rule for multiple borrowers. Read that section rather than a shorthand. The representative score drives eligibility and pricing in the matrix. Desktop Underwriter uses the scores submitted. A mis-selected score can make an ineligible loan look eligible.",
+  "complianceNotes": "Document which score was selected and why. When a co-borrower is added or removed, recalculate. Do not average the three bureau scores.",
+  "example": {
+    "setting": "AUS findings and the underwriting transmittal, representative score field",
+    "text": "If example scores are 700, 720, and 742, the single-borrower representative score under the usual middle-of-three method is 720. Example figures. Confirm the current section when a score is missing."
+  },
+  "citations": [
+    "fannie-b3-5-1-02"
+  ],
+  "related": [
+    "co-borrower",
+    "credit-score",
+    "desktop-underwriter",
+    "loan-to-value-ratio",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Puntaje de crédito representativo",
+    "aliases": [],
+    "definition": "El puntaje de crédito representativo es el puntaje que la guía le dice al prestamista que use para el préstamo. Para un prestatario con tres puntajes, por lo general es el puntaje de en medio. No es un promedio, y con dos prestatarios no es automáticamente el puntaje de la persona con el número más alto.",
+    "details": "Fannie Mae B3-5.1-02 establece el método, incluido el menor de dos puntajes cuando falta un repositorio y la regla para varios prestatarios. Lea esa sección en lugar de un atajo. El puntaje representativo impulsa la elegibilidad y el precio en la matriz. Desktop Underwriter usa los puntajes enviados. Un puntaje mal elegido puede hacer que un préstamo no elegible parezca elegible.",
+    "complianceNotes": "Documente qué puntaje se eligió y por qué. Cuando se agrega o se quita un coprestatario, vuelva a calcular. No promedie los tres puntajes de las agencias.",
+    "example": {
+      "setting": "Hallazgos del AUS y la hoja de transmisión, campo del puntaje representativo",
+      "text": "Si los puntajes de ejemplo son 700, 720 y 742, el puntaje representativo de un solo prestatario según el método usual del puntaje de en medio es 720. Cifras de ejemplo. Confirme la sección vigente cuando falta un puntaje."
+    }
+  }
+}

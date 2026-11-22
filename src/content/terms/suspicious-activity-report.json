@@ -1,0 +1,39 @@
+{
+  "slug": "suspicious-activity-report",
+  "term": "Suspicious activity report",
+  "aliases": [
+    "SAR"
+  ],
+  "category": "compliance",
+  "definition": "A suspicious activity report is a confidential report to FinCEN about activity that may involve money laundering or other crime. Whether a report is required, and at what dollar level, depends on the FinCEN rule for that type of institution. A SAR is not a document you discuss with the customer.",
+  "details": "31 USC 5318 addresses reporting. 31 CFR Part 1029 contains the residential-mortgage SAR provisions. The report is confidential. Telling the customer that a report was filed, or structuring a transaction to stay under a threshold, is itself a serious problem. This glossary does not state a dollar threshold and does not describe how to avoid a filing.",
+  "complianceNotes": "Escalate unusual facts to the AML officer. Do not tell the borrower a report is being considered. Do not split a gift or a wire to change how it looks.",
+  "example": {
+    "setting": "Confidential SAR file, separate from the loan file the borrower can see",
+    "text": "A sample escalation might note an example third-party wire of $40,000 with no gift letter and no explanation. Example figures. Whether a SAR is required is the officer's decision under the current rule."
+  },
+  "citations": [
+    "usc-31-5318",
+    "cfr-31-1029",
+    "fincen"
+  ],
+  "related": [
+    "anti-money-laundering",
+    "bank-secrecy-act",
+    "customer-identification-program",
+    "ofac-screening",
+    "source-of-funds"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Reporte de actividad sospechosa",
+    "aliases": [],
+    "definition": "Un reporte de actividad sospechosa es un informe confidencial a FinCEN sobre actividad que puede involucrar lavado de dinero u otro delito. Si un reporte es exigido, y a qué nivel en dólares, depende de la regla de FinCEN para ese tipo de institución. Un SAR no es un documento que usted discute con el cliente.",
+    "details": "31 USC 5318 trata el reporte. 31 CFR Parte 1029 contiene las disposiciones de SAR de las hipotecas residenciales. El reporte es confidencial. Decirle al cliente que se presentó un reporte, o estructurar una transacción para quedarse bajo un umbral, es en sí un problema grave. Este glosario no indica un umbral en dólares y no describe cómo evitar una presentación.",
+    "complianceNotes": "Escale los hechos inusuales al oficial contra el lavado de dinero. No le diga al prestatario que se está considerando un reporte. No divida un regalo o una transferencia para cambiar cómo se ve.",
+    "example": {
+      "setting": "Expediente confidencial del SAR, separado del expediente del préstamo que el prestatario puede ver",
+      "text": "Una escalación de muestra puede anotar una transferencia de un tercero de ejemplo de $40,000 sin carta de regalo y sin explicación. Cifras de ejemplo. Si un SAR es exigido es la decisión del oficial según la regla vigente."
+    }
+  }
+}

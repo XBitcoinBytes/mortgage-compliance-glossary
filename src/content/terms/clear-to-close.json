@@ -1,0 +1,41 @@
+{
+  "slug": "clear-to-close",
+  "term": "Clear to close",
+  "aliases": [
+    "CTC"
+  ],
+  "category": "underwriting",
+  "definition": "Clear to close is an internal status meaning the lender has cleared the conditions it required before closing. It is not a federal status, not consummation, and not a promise that the Closing Disclosure waiting period is over.",
+  "details": "The status is industry file practice. The Closing Disclosure rules in 12 CFR 1026.19(f) still control when consummation may occur. A file can be clear to close and still have to wait until the third precise business day after the consumer receives the Closing Disclosure. A new condition, such as a fresh credit inquiry, can take the status away.",
+  "complianceNotes": "Do not schedule consummation on the clear-to-close stamp alone. Confirm the Closing Disclosure receipt date and any prior-to-funding items that remain. Tell the borrower the status in plain words, not as a guarantee of the rate.",
+  "example": {
+    "setting": "Internal status clear to close in the loan origination system, after conditions are cleared",
+    "text": "A sample system note might change an example file to clear to close on Tuesday, with consummation not before Friday because of the disclosure wait. The days are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "practice-file"
+  ],
+  "related": [
+    "approve-eligible",
+    "closing-disclosure",
+    "conditional-approval",
+    "faq-what-are-underwriting-conditions",
+    "faq-what-is-underwriting",
+    "prior-to-document",
+    "prior-to-funding",
+    "underwriting-conditions",
+    "verbal-verification-of-employment"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Autorización para cerrar",
+    "aliases": [],
+    "definition": "La autorización para cerrar es un estado interno que significa que el prestamista levantó las condiciones que exigía antes del cierre. No es un estado federal, no es la consumación y no es una promesa de que terminó el período de espera de la Divulgación del cierre.",
+    "details": "El estado es práctica del expediente. Las reglas de la Divulgación del cierre en 12 CFR 1026.19(f) igual controlan cuándo puede ocurrir la consumación. Un expediente puede estar autorizado para cerrar y todavía tener que esperar hasta el tercer día hábil preciso después de que el consumidor recibe la Divulgación del cierre. Una condición nueva, como una consulta de crédito reciente, puede quitar el estado.",
+    "complianceNotes": "No programe la consumación solo con el sello de autorización para cerrar. Confirme la fecha de recepción de la Divulgación del cierre y los puntos previos al desembolso que queden. Dígale el estado al prestatario en palabras claras, no como una garantía de la tasa.",
+    "example": {
+      "setting": "Estado interno de autorización para cerrar en el sistema de originación, después de levantar las condiciones",
+      "text": "Una nota de sistema de muestra puede cambiar un expediente de ejemplo a autorización para cerrar el martes, con consumación no antes del viernes por la espera de la divulgación. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

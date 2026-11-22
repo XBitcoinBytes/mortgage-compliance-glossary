@@ -1,0 +1,36 @@
+{
+  "slug": "risk-based-pricing-notice",
+  "term": "Risk-based pricing notice",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "A risk-based pricing notice tells a consumer that the terms they received are worse than the best terms the creditor offers a substantial share of consumers, based on a consumer report. Mortgage creditors often use the credit-score disclosure exception instead of that notice. Using neither, when one is required, is the violation.",
+  "details": "12 CFR 1022.72 states the notice and the exception. The exception has content and timing requirements, including the score and the distribution. An adverse-action notice is a different document used when credit is denied. A borrower who receives the loan can still be owed the risk-based pricing notice or the exception disclosure.",
+  "complianceNotes": "Decide which document the section requires and keep proof it was given. Do not treat the Loan Estimate APR as the risk-based pricing notice.",
+  "example": {
+    "setting": "Risk-based pricing notice or the credit-score disclosure exception",
+    "text": "A sample score disclosure might list an example score of 704. Example figures. The form must match 1022.72."
+  },
+  "citations": [
+    "reg-1022-72",
+    "usc-15-1681m"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "credit-score",
+    "fcra",
+    "note-rate",
+    "regulation-v"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aviso de precio basado en el riesgo",
+    "aliases": [],
+    "definition": "Un aviso de precio basado en el riesgo le dice a un consumidor que los términos que recibió son peores que los mejores términos que el acreedor ofrece a una parte sustancial de los consumidores, con base en un informe del consumidor. Los acreedores hipotecarios a menudo usan la excepción de divulgación del puntaje de crédito en lugar de ese aviso. No usar ninguno, cuando uno se exige, es la violación.",
+    "details": "12 CFR 1022.72 establece el aviso y la excepción. La excepción tiene requisitos de contenido y de plazo, incluido el puntaje y la distribución. Un aviso de acción adversa es un documento distinto que se usa cuando se niega el crédito. Un prestatario que recibe el préstamo igual puede tener derecho al aviso de precio basado en el riesgo o a la divulgación de la excepción.",
+    "complianceNotes": "Decida qué documento exige la sección y conserve la prueba de que se dio. No trate la tasa porcentual anual de la Estimación del préstamo como el aviso de precio basado en el riesgo.",
+    "example": {
+      "setting": "Aviso de precio basado en el riesgo o la excepción de divulgación del puntaje de crédito",
+      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 704. Cifras de ejemplo. El formulario debe coincidir con 1022.72."
+    }
+  }
+}

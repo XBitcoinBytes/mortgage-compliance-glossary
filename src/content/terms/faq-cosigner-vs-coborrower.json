@@ -1,0 +1,36 @@
+{
+  "slug": "faq-cosigner-vs-coborrower",
+  "term": "What is the difference between a co-signer and a co-borrower?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A co-borrower applies with you and is fully responsible for the loan. A co-signer also promises to pay but may not be an owner or an occupant. Both are on the note. A co-borrower who will not live in the home is a non-occupant co-borrower, and the guide may limit how their income is used.",
+  "details": "Regulation B, 12 CFR 1002.7, limits when a creditor may require another person's signature. The Fannie Mae guide addresses non-occupant co-borrowers and which debts and income count. Adding a person only to raise qualifying income is not the same as adding an occupant. Community-property debts can matter even when a spouse is not on the note.",
+  "complianceNotes": "Mark occupancy correctly. Include the co-borrower's debts. Do not require a spouse's signature just because the couple is married.",
+  "example": {
+    "setting": "Application showing whether the second person will occupy and whether they are on the note",
+    "text": "A sample file might add a co-borrower with example income of $3,000 and a $200 car payment. Example figures. Both numbers go into the ratio if the guide includes them."
+  },
+  "citations": [
+    "reg-1002-7",
+    "fannie-guide"
+  ],
+  "related": [
+    "co-borrower",
+    "co-signer",
+    "debt-to-income-ratio",
+    "non-occupant-co-borrower",
+    "occupancy"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Cuál es la diferencia entre un cofirmante y un coprestatario?",
+    "aliases": [],
+    "definition": "Un coprestatario solicita con usted y es plenamente responsable del préstamo. Un cofirmante también promete pagar pero puede no ser dueño ni ocupante. Ambos están en el pagaré. Un coprestatario que no vivirá en la vivienda es un coprestatario no ocupante, y la guía puede limitar cómo se usa su ingreso.",
+    "details": "El Reglamento B, 12 CFR 1002.7, limita cuándo un acreedor puede exigir la firma de otra persona. La guía de Fannie Mae trata a los coprestatarios no ocupantes y qué deudas e ingreso cuentan. Agregar a una persona solo para subir el ingreso de calificación no es lo mismo que agregar a un ocupante. Las deudas de comunidad conyugal pueden importar aunque un cónyuge no esté en el pagaré.",
+    "complianceNotes": "Marque la ocupación correctamente. Incluya las deudas del coprestatario. No exija la firma de un cónyuge solo porque la pareja está casada.",
+    "example": {
+      "setting": "Solicitud que muestra si la segunda persona ocupará y si está en el pagaré",
+      "text": "Un expediente de muestra podría agregar un coprestatario con un ingreso de ejemplo de $3,000 y un pago de automóvil de $200. Cifras de ejemplo. Ambos números entran en la relación si la guía los incluye."
+    }
+  }
+}

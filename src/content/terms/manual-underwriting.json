@@ -1,0 +1,47 @@
+{
+  "slug": "manual-underwriting",
+  "term": "Manual underwriting",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Manual underwriting means a person, not an automated system, makes the credit decision using the guide's risk factors. It is required when the system refers the file or when the product is not eligible for an automated decision. The underwriter signs the analysis.",
+  "details": "Fannie Mae B3-1-01 is the comprehensive risk assessment for manual loans. Documentation is usually heavier than on an Approve recommendation, and the debt-to-income maximums in B3-6-02 can be tighter. FHA manual underwriting follows HUD 4000.1, including compensating factors. A lender may not manually approve a loan the investor says must receive an automated approval.",
+  "complianceNotes": "Record the risk factors, the decision, and the conditions. Do not relabel a Refer finding as an Approve. If DU tolerances are exceeded and the loan is not resubmitted, the limited waiver can be lost and a manual assessment may be required.",
+  "example": {
+    "setting": "Underwriter's signed manual approval, not an AUS recommendation alone",
+    "text": "A sample manual transmittal might approve an example $220,000 loan with a listed housing payment and two documented compensating factors. Example figures."
+  },
+  "citations": [
+    "fannie-b3-1-01",
+    "hud-4000-1"
+  ],
+  "related": [
+    "approve-eligible",
+    "approve-ineligible",
+    "automated-underwriting-system",
+    "bankruptcy-seasoning",
+    "collection-account",
+    "compensating-factor",
+    "faq-what-is-underwriting",
+    "fha-loan",
+    "fha-total-scorecard",
+    "foreclosure-seasoning",
+    "gus",
+    "housing-expense-ratio",
+    "out-of-scope",
+    "refer-with-caution",
+    "residual-income",
+    "student-loans"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Suscripción manual",
+    "aliases": [],
+    "definition": "La suscripción manual significa que una persona, no un sistema automatizado, toma la decisión de crédito usando los factores de riesgo de la guía. Se exige cuando el sistema refiere el expediente o cuando el producto no es elegible para una decisión automatizada. El suscriptor firma el análisis.",
+    "details": "Fannie Mae B3-1-01 es la evaluación integral del riesgo para préstamos manuales. La documentación por lo general es más pesada que en una recomendación de aprobación, y los máximos de relación deuda-ingreso en B3-6-02 pueden ser más estrictos. La suscripción manual de la FHA sigue HUD 4000.1, incluidos los factores compensatorios. Un prestamista no puede aprobar manualmente un préstamo que el inversionista dice que debe recibir una aprobación automatizada.",
+    "complianceNotes": "Registre los factores de riesgo, la decisión y las condiciones. No vuelva a etiquetar un hallazgo de Referir como una aprobación. Si se exceden las tolerancias de DU y el préstamo no se reenvía, la renuncia limitada puede perderse y puede exigirse una evaluación manual.",
+    "example": {
+      "setting": "Aprobación manual firmada por el suscriptor, no solo una recomendación del AUS",
+      "text": "Una transmisión manual de muestra podría aprobar un préstamo de ejemplo de $220,000 con un pago de vivienda listado y dos factores compensatorios documentados. Cifras de ejemplo."
+    }
+  }
+}

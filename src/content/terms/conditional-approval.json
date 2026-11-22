@@ -1,0 +1,38 @@
+{
+  "slug": "conditional-approval",
+  "term": "Conditional approval",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "A conditional approval means the underwriter will approve the loan if the listed conditions are met. It is not clear to close. If a condition fails, the approval can be withdrawn and, if the application is denied, an adverse-action notice is required.",
+  "details": "Automated findings under B3-2-11 are themselves conditional on the messages. A manual conditional approval should state the conditions in writing. Marketing a conditional approval as a final approval is misleading. The Loan Estimate and lock are separate from this credit status.",
+  "complianceNotes": "List conditions the borrower can understand, and separate internal review items. When a condition cannot be met, make a real decision and send the Regulation B notice if the action is adverse.",
+  "example": {
+    "setting": "Approval letter stating the conditions that remain",
+    "text": "A sample letter might conditionally approve an example $305,000 purchase subject to the appraisal and a gift letter. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-11",
+    "practice-file"
+  ],
+  "related": [
+    "adverse-action-notice",
+    "approve-eligible",
+    "clear-to-close",
+    "faq-what-are-underwriting-conditions",
+    "pre-approval",
+    "prior-to-document",
+    "underwriting-conditions"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Aprobación condicional",
+    "aliases": [],
+    "definition": "Una aprobación condicional significa que el suscriptor aprobará el préstamo si se cumplen las condiciones listadas. No es una autorización para cerrar. Si una condición falla, la aprobación puede retirarse y, si la solicitud se niega, se exige un aviso de acción adversa.",
+    "details": "Los hallazgos automatizados según B3-2-11 son en sí condicionales a los mensajes. Una aprobación condicional manual debe indicar las condiciones por escrito. Anunciar una aprobación condicional como una aprobación final es engañoso. La Estimación del préstamo y la fijación son distintas de este estado de crédito.",
+    "complianceNotes": "Liste condiciones que el prestatario pueda entender, y separe los puntos de revisión interna. Cuando una condición no puede cumplirse, tome una decisión real y envíe el aviso del Reglamento B si la acción es adversa.",
+    "example": {
+      "setting": "Carta de aprobación que indica las condiciones que quedan",
+      "text": "Una carta de muestra puede aprobar condicionalmente una compra de ejemplo de $305,000 sujeta a la tasación y a una carta de regalo. Cifras de ejemplo."
+    }
+  }
+}

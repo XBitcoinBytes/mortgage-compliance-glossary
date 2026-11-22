@@ -1,0 +1,38 @@
+{
+  "slug": "prepaids",
+  "term": "Prepaids",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Prepaids are costs you pay at closing for a future period, before the monthly bills start. Section F of the Loan Estimate typically includes prepaid interest, homeowners insurance premium, and prepaid property taxes.",
+  "details": "12 CFR 1026.37 places prepaids in Section F. Prepaid interest, property insurance premiums, and amounts placed in escrow have special tolerance treatment under 12 CFR 1026.19(e)(3)(iii): they can change, because they depend on the closing date, the insurance bill, or the tax bill. They are not a blank check. The amounts still have to be estimated in good faith.",
+  "complianceNotes": "Estimate prepaid interest from a realistic closing date and update it when the date moves. Do not park lender fees in Section F to avoid zero tolerance. Compare the insurance premium to the binder.",
+  "example": {
+    "setting": "Loan Estimate, page 2, Section F: Prepaids",
+    "text": "A sample Section F might show 12 days of prepaid interest totaling $820 and a $1,400 homeowners insurance premium on an example loan. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-19"
+  ],
+  "related": [
+    "aggregate-adjustment",
+    "closing-costs",
+    "homeowners-insurance",
+    "initial-escrow-payment",
+    "no-tolerance-bucket",
+    "per-diem-interest",
+    "prepaid-interest"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Cargos pagados por adelantado",
+    "aliases": [],
+    "definition": "Los cargos pagados por adelantado son costos que usted paga en el cierre por un período futuro, antes de que empiecen las facturas mensuales. La Sección F de la Estimación del préstamo por lo general incluye el interés pagado por adelantado, la prima del seguro de la vivienda y los impuestos prediales pagados por adelantado.",
+    "details": "12 CFR 1026.37 coloca los prepagos en la Sección F. El interés pagado por adelantado, las primas del seguro de la propiedad y las cantidades puestas en depósito en garantía tienen un tratamiento especial de tolerancia según 12 CFR 1026.19(e)(3)(iii): pueden cambiar, porque dependen de la fecha de cierre, de la factura del seguro o de la factura de impuestos. No son un cheque en blanco. Los montos igual deben estimarse de buena fe.",
+    "complianceNotes": "Estime el interés pagado por adelantado a partir de una fecha de cierre realista y actualícelo cuando la fecha se mueva. No esconda cargos del prestamista en la Sección F para evitar la tolerancia cero. Compare la prima del seguro con el comprobante de la póliza.",
+    "example": {
+      "setting": "Estimación del préstamo, página 2, Sección F: Cargos pagados por adelantado",
+      "text": "Una Sección F de muestra puede mostrar 12 días de interés pagado por adelantado por un total de $820 y una prima de seguro de vivienda de $1,400 en un préstamo de ejemplo. Cifras de ejemplo."
+    }
+  }
+}

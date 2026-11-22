@@ -1,0 +1,40 @@
+{
+  "slug": "combined-loan-to-value",
+  "term": "Combined loan-to-value ratio",
+  "aliases": [
+    "CLTV"
+  ],
+  "category": "underwriting",
+  "definition": "The combined loan-to-value ratio adds the first mortgage and the other loans secured by the same home, then divides by the value. A home-equity loan or a down-payment assistance second lien belongs in this number.",
+  "details": "Fannie Mae B2-1.2-01 covers CLTV alongside LTV. The drawn balance of a HELOC is generally in the CLTV. The full credit limit is in the HCLTV, which is a different ratio. Community seconds and other subordinate financing can make a low first-lien LTV still a high CLTV. Caps are in the eligibility matrix.",
+  "complianceNotes": "Ask about every lien, including a silent second from a relative or an agency. Update the AUS when a subordinate loan appears. Do not confuse CLTV with HCLTV.",
+  "example": {
+    "setting": "Underwriting transmittal, first mortgage plus subordinate liens, over value",
+    "text": "An example first loan of $300,000 plus a $20,000 second on a $400,000 value is an 80 percent CLTV. Example figures."
+  },
+  "citations": [
+    "fannie-b2-1-2-01"
+  ],
+  "related": [
+    "community-seconds",
+    "hcltv",
+    "heloc",
+    "home-equity-loan",
+    "loan-to-value-ratio",
+    "subordinate-financing"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Relación combinada préstamo-valor",
+    "aliases": [
+      "CLTV"
+    ],
+    "definition": "La relación combinada préstamo-valor suma la primera hipoteca y los otros préstamos garantizados por la misma vivienda, y divide entre el valor. Un préstamo sobre el valor líquido o un segundo gravamen de asistencia para el pago inicial entra en este número.",
+    "details": "Fannie Mae B2-1.2-01 cubre la CLTV junto con la LTV. El saldo dispuesto de una HELOC por lo general entra en la CLTV. El límite completo de crédito entra en la HCLTV, que es otra relación. Los segundos comunitarios y otro financiamiento subordinado pueden hacer que una LTV baja del primer gravamen igual sea una CLTV alta. Los límites están en la matriz de elegibilidad.",
+    "complianceNotes": "Pregunte por todo gravamen, incluido un segundo oculto de un familiar o de una agencia. Actualice el sistema automatizado cuando aparezca un préstamo subordinado. No confunda la CLTV con la HCLTV.",
+    "example": {
+      "setting": "Hoja de transmisión de suscripción, primera hipoteca más gravámenes subordinados, sobre el valor",
+      "text": "Un primer préstamo de ejemplo de $300,000 más un segundo de $20,000 sobre un valor de $400,000 es una CLTV del 80 por ciento. Cifras de ejemplo."
+    }
+  }
+}

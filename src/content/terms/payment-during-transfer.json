@@ -1,0 +1,34 @@
+{
+  "slug": "payment-during-transfer",
+  "term": "Payment during a servicing transfer",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "If you send an on-time payment to the old servicer during the protection period in the transfer rule, the new servicer cannot treat that payment as late. The point is to protect you while the companies change the address on the coupon. The length of the period is in the regulation.",
+  "details": "12 CFR 1024.33 is the section. It also addresses application of the payment and late fees. This entry does not restate the day count so that servicing procedures are checked against the current sentence. A payment that was already late before the transfer is not cured by the protection.",
+  "complianceNotes": "Code the old servicer's receipt during the protected window as timely. Reverse late fees that violate the section. Tell borrowers, in the notices, where to send the payment and for how long the old address still works.",
+  "example": {
+    "setting": "Payment sent to the old servicer during the protected period after a transfer",
+    "text": "A sample on-time payment of $1,375 sent to the prior servicer during the protected window should not draw a late fee. Example figures."
+  },
+  "citations": [
+    "reg-1024-33"
+  ],
+  "related": [
+    "delinquency",
+    "mortgage-servicer",
+    "servicing-transfer",
+    "servicing-transfer-notices"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Pago durante una transferencia",
+    "aliases": [],
+    "definition": "Si usted envía un pago a tiempo al administrador anterior durante el período de protección de la regla de transferencia, el nuevo administrador no puede tratar ese pago como tardío. El punto es protegerlo mientras las empresas cambian la dirección del cupón. La duración del período está en el reglamento.",
+    "details": "12 CFR 1024.33 es la sección. También trata la aplicación del pago y los cargos por mora. Esta entrada no repite el conteo de días para que los procedimientos de administración se revisen contra la frase vigente. Un pago que ya estaba tarde antes de la transferencia no se cura con la protección.",
+    "complianceNotes": "Codifique el recibo del administrador anterior durante la ventana protegida como a tiempo. Revierta los cargos por mora que violan la sección. Dígales a los prestatarios, en los avisos, a dónde enviar el pago y por cuánto tiempo la dirección anterior todavía sirve.",
+    "example": {
+      "setting": "Pago enviado al administrador anterior durante el período protegido después de una transferencia",
+      "text": "Un pago a tiempo de muestra de $1,375 enviado al administrador anterior durante la ventana protegida no debería generar un cargo por mora. Cifras de ejemplo."
+    }
+  }
+}

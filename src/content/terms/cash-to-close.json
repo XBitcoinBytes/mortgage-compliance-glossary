@@ -1,0 +1,49 @@
+{
+  "slug": "cash-to-close",
+  "term": "Cash to close",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Cash to close is the amount you must bring, or that you receive, to finish the transaction. It includes the down payment and closing costs, minus deposits, seller credits, and lender credits. It is the bottom line, not a single fee.",
+  "details": "12 CFR 1026.37 requires the Calculating Cash to Close table on the Loan Estimate, and 12 CFR 1026.38 requires the Closing Disclosure version that compares the final number with the Loan Estimate. A change in the loan amount, credits, or prorations changes the cash. Tolerance rules still apply to the individual charges inside the number.",
+  "complianceNotes": "Walk the borrower through the table, not only the cash figure. When page 3 of the Closing Disclosure does not match the table, fix it before signing. A shortage discovered at the table is a disclosure problem, not only a funding problem.",
+  "example": {
+    "setting": "Loan Estimate and Closing Disclosure, Calculating Cash to Close table",
+    "text": "A sample table might show cash to close of $28,400 on the Loan Estimate and $27,150 on the Closing Disclosure after an example seller credit. Example figures."
+  },
+  "citations": [
+    "reg-1026-37",
+    "reg-1026-38"
+  ],
+  "related": [
+    "cash-to-close-calculation",
+    "closing-costs",
+    "closing-wire-fraud",
+    "debts-paid-at-closing",
+    "down-payment",
+    "earnest-money",
+    "faq-how-do-i-avoid-wire-fraud",
+    "faq-how-much-are-closing-costs",
+    "faq-what-is-a-closing-disclosure",
+    "faq-what-is-cash-to-close",
+    "faq-what-is-earnest-money",
+    "lender-credits",
+    "prorations",
+    "purchase-agreement",
+    "reserves",
+    "seller-closing-disclosure",
+    "seller-concessions",
+    "seller-credits"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Efectivo para el cierre",
+    "aliases": [],
+    "definition": "El efectivo para el cierre es la cantidad que usted debe llevar, o que usted recibe, para terminar la transacción. Incluye el pago inicial y los costos de cierre, menos depósitos, créditos del vendedor y créditos del prestamista. Es la cifra final, no un solo cargo.",
+    "details": "12 CFR 1026.37 exige la tabla de Cálculo del efectivo para el cierre en la Estimación del préstamo, y 12 CFR 1026.38 exige la versión de la Divulgación del cierre que compara la cifra final con la Estimación del préstamo. Un cambio del monto, de los créditos o de los prorrateos cambia el efectivo. Las reglas de tolerancia igual se aplican a los cargos individuales dentro de la cifra.",
+    "complianceNotes": "Recorra la tabla con el prestatario, no solo la cifra de efectivo. Cuando la página 3 de la Divulgación del cierre no coincide con la tabla, corríjala antes de la firma. Un faltante descubierto en la mesa es un problema de divulgación, no solo de desembolso.",
+    "example": {
+      "setting": "Estimación del préstamo y Divulgación del cierre, tabla de Cálculo del efectivo para el cierre",
+      "text": "Una tabla de muestra puede mostrar efectivo para el cierre de $28,400 en la Estimación del préstamo y $27,150 en la Divulgación del cierre después de un crédito del vendedor de ejemplo. Cifras de ejemplo."
+    }
+  }
+}

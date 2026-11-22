@@ -1,0 +1,35 @@
+{
+  "slug": "e-sign-act",
+  "term": "E-SIGN Act",
+  "aliases": [],
+  "category": "origination",
+  "definition": "The E-SIGN Act is the federal law that lets an electronic signature or electronic record count as a signed writing, if the consumer consents in the way the law requires. It is what makes an emailed Loan Estimate possible. It is not the same as agreeing to proceed with the loan.",
+  "details": "15 USC 7001 requires consumer consent, including a demonstration that the consumer can access the electronic records, before electronic delivery can replace certain written disclosures. Consent can be withdrawn. A creditor that cannot show consent should deliver paper. Intent to proceed under Regulation Z is a separate act.",
+  "complianceNotes": "Complete the consent and the hardware-and-software demonstration before the first electronic Loan Estimate. Keep the consent, the demonstration, and the delivery log. If the consumer withdraws consent, switch to paper and recount timing from a compliant delivery.",
+  "example": {
+    "setting": "E-sign consent record in the origination file, before electronic delivery of the Loan Estimate",
+    "text": "A sample consent might be signed electronically at 2:10 p.m., and the Loan Estimate emailed at 2:14 p.m., on an example application. The times are example figures. Example figures, not a quote or a legal limit."
+  },
+  "citations": [
+    "usc-15-7001"
+  ],
+  "related": [
+    "closing-disclosure",
+    "electronic-consent",
+    "intent-to-proceed",
+    "loan-estimate",
+    "uniform-residential-loan-application"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Ley E-SIGN",
+    "aliases": [],
+    "definition": "La Ley E-SIGN es la ley federal que permite que una firma electrónica o un registro electrónico cuente como un escrito firmado, si el consumidor consiente del modo que la ley exige. Es lo que hace posible una Estimación del préstamo enviada por correo electrónico. No es lo mismo que aceptar continuar con el préstamo.",
+    "details": "15 USC 7001 exige el consentimiento del consumidor, incluida una demostración de que el consumidor puede acceder a los registros electrónicos, antes de que la entrega electrónica reemplace ciertas divulgaciones escritas. El consentimiento se puede retirar. Un acreedor que no puede mostrar el consentimiento debe entregar papel. La intención de continuar según el Reglamento Z es un acto distinto.",
+    "complianceNotes": "Complete el consentimiento y la demostración de equipo y programas antes de la primera Estimación del préstamo electrónica. Conserve el consentimiento, la demostración y el registro de entrega. Si el consumidor retira el consentimiento, pase a papel y vuelva a contar el plazo desde una entrega que cumpla.",
+    "example": {
+      "setting": "Registro del consentimiento de E-SIGN en el expediente, antes de la entrega electrónica de la Estimación del préstamo",
+      "text": "Un consentimiento de muestra puede firmarse electrónicamente a las 2:10 p.m., y la Estimación del préstamo enviarse por correo a las 2:14 p.m., en una solicitud de ejemplo. Las horas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+    }
+  }
+}

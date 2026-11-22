@@ -1,0 +1,36 @@
+{
+  "slug": "arm-caps",
+  "term": "ARM caps",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "ARM caps limit how much the interest rate can change at the first adjustment, at later adjustments, and over the life of the loan. They are contract terms. There is no single federal cap for every adjustable mortgage. The Loan Estimate discloses the caps that apply to the loan you are offered.",
+  "details": "12 CFR 1026.37 requires the disclosure of the maximum rate and the adjustment limits. A 2/1/5 example means different things on different notes. Read the note's cap section rather than assuming a market shorthand. The index plus the margin can point above the cap. The cap wins. The adjustment notice later estimates the payment inside those caps.",
+  "complianceNotes": "Match the caps on the Loan Estimate, the note, and the early ARM disclosure. Explain the lifetime maximum in dollars of payment, not only in rate points.",
+  "example": {
+    "setting": "Loan Estimate, page 1, interest rate caps on an adjustable-rate product",
+    "text": "A sample note might cap the first change at an example 2 percentage points and the life of the loan at 5 percentage points above the start rate. Example figures, not a required cap."
+  },
+  "citations": [
+    "reg-1026-37"
+  ],
+  "related": [
+    "adjustable-rate-mortgage",
+    "arm-adjustment-notice",
+    "arm-index",
+    "arm-margin",
+    "faq-what-is-an-arm",
+    "hybrid-arm"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Topes de la ARM",
+    "aliases": [],
+    "definition": "Los topes de la ARM limitan cuánto puede cambiar la tasa de interés en el primer ajuste, en los ajustes posteriores y durante la vida del préstamo. Son términos del contrato. No hay un solo tope federal para toda hipoteca ajustable. La Estimación del préstamo divulga los topes que se aplican al préstamo que le ofrecen.",
+    "details": "12 CFR 1026.37 exige la divulgación de la tasa máxima y de los límites de ajuste. Un ejemplo 2/1/5 significa cosas distintas en pagarés distintos. Lea la sección de topes del pagaré en lugar de suponer un atajo del mercado. El índice más el margen puede apuntar por encima del tope. Gana el tope. El aviso de ajuste posterior estima el pago dentro de esos topes.",
+    "complianceNotes": "Haga coincidir los topes de la Estimación del préstamo, del pagaré y de la divulgación temprana de la ARM. Explique el máximo de por vida en dólares de pago, no solo en puntos de tasa.",
+    "example": {
+      "setting": "Estimación del préstamo, página 1, topes de la tasa de interés en un producto de tasa ajustable",
+      "text": "Un pagaré de muestra podría limitar el primer cambio a un ejemplo de 2 puntos porcentuales y la vida del préstamo a 5 puntos porcentuales por encima de la tasa inicial. Cifras de ejemplo, no un tope exigido."
+    }
+  }
+}

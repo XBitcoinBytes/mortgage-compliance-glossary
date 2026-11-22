@@ -1,0 +1,36 @@
+{
+  "slug": "general-qualified-mortgage",
+  "term": "General qualified mortgage",
+  "aliases": [],
+  "category": "compliance",
+  "definition": "The general qualified mortgage is the Regulation Z definition that remains after the temporary agency patch ended. It still requires the product limits and the points-and-fees cap, and it uses the consider-and-verify underwriting standard in the current section. Read 12 CFR 1026.43(e) rather than a summary of the old patch.",
+  "details": "The CFPB amended the qualified-mortgage definition so the general category is not the expired GSE patch. Price thresholds that separate safe harbor from rebuttable presumption, and annual dollar adjustments, are in the regulation and the CFPB's adjustment notices. A loan can be eligible for Fannie Mae or Freddie Mac and still need this Regulation Z test. The two systems are not the same.",
+  "complianceNotes": "Do not label a file QM because DU returned Approve/Eligible. Complete the Regulation Z test. Flag files underwritten to an outdated patch checklist for a current review.",
+  "example": {
+    "setting": "General QM underwriting and price worksheet in the closed file",
+    "text": "A sample test might show an example note rate and APR compared with the current price threshold in 12 CFR 1026.43, without stating this year's cutoff here. Example figures are not a threshold. A sample loan amount of $360,000 only illustrates the file."
+  },
+  "citations": [
+    "reg-1026-43"
+  ],
+  "related": [
+    "ability-to-repay",
+    "higher-priced-mortgage-loan",
+    "points-and-fees",
+    "qm-safe-harbor",
+    "qualified-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca calificada general",
+    "aliases": [],
+    "definition": "La hipoteca calificada general es la definición del Reglamento Z que queda después de que terminó el parche temporal de las agencias. Igual exige los límites del producto y el tope de puntos y cargos, y usa el estándar de considerar y verificar de la sección vigente. Lea 12 CFR 1026.43(e) en lugar de un resumen del parche antiguo.",
+    "details": "La CFPB modificó la definición de hipoteca calificada para que la categoría general no sea el parche vencido de las GSE. Los umbrales de precio que separan el puerto seguro de la presunción refutable, y los ajustes anuales en dólares, están en el reglamento y en los avisos de ajuste de la CFPB. Un préstamo puede ser elegible para Fannie Mae o Freddie Mac y igual necesitar esta prueba del Reglamento Z. Los dos sistemas no son lo mismo.",
+    "complianceNotes": "No etiquete un expediente como QM porque DU devolvió Approve/Eligible. Complete la prueba del Reglamento Z. Marque los expedientes suscritos con una lista vieja del parche para una revisión vigente.",
+    "example": {
+      "setting": "Hoja de suscripción y de precio de la QM general en el expediente cerrado",
+      "text": "Una prueba de muestra puede mostrar una tasa del pagaré y una tasa porcentual anual de ejemplo comparadas con el umbral de precio vigente en 12 CFR 1026.43, sin indicar aquí el corte de este año. Las cifras de ejemplo no son un umbral. Un monto de préstamo de muestra de $360,000 solo ilustra el expediente. Cifras de ejemplo."
+    }
+  },
+  "reviewFlag": "Confirm the current general QM definition in 12 CFR 1026.43(e), including any price-based threshold, before training staff on the expired GSE patch."
+}

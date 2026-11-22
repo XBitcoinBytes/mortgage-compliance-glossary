@@ -1,0 +1,36 @@
+{
+  "slug": "undisclosed-debt",
+  "term": "Undisclosed debt",
+  "aliases": [],
+  "category": "underwriting",
+  "definition": "Undisclosed debt is a loan or payment that was not on the original application or credit report and shows up later, often from a new inquiry or a monitoring service. It can change the debt ratio and the automated findings. Hiding it is not a paperwork issue only.",
+  "details": "Fannie Mae B3-2-10 requires accurate DU data and resubmission when tolerances are exceeded. B3-5.3-04 addresses new credit inquiries. A debt the borrower opened after the application is new information. The lender adds the payment, resubmits if required, and, if the loan no longer qualifies, does not fund it.",
+  "complianceNotes": "Run a credit refresh before documents or funding, as the investor requires. If a new payment appears, stop and recalculate. Do not tell the borrower the inquiry will be ignored.",
+  "example": {
+    "setting": "Credit refresh or undisclosed-debt monitoring report before closing",
+    "text": "A sample refresh might find a new example car payment of $390 opened after the application. Example figures."
+  },
+  "citations": [
+    "fannie-b3-2-10",
+    "fannie-b3-5-3-04"
+  ],
+  "related": [
+    "credit-inquiry",
+    "debt-to-income-ratio",
+    "desktop-underwriter",
+    "letter-of-explanation",
+    "tri-merge-credit-report"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Deuda no divulgada",
+    "aliases": [],
+    "definition": "La deuda no divulgada es un préstamo o un pago que no estaba en la solicitud original ni en el informe de crédito y aparece después, a menudo por una consulta nueva o un servicio de monitoreo. Puede cambiar la relación de deudas y los hallazgos automatizados. Ocultarla no es solo un problema de papeles.",
+    "details": "Fannie Mae B3-2-10 exige datos exactos de DU y un reenvío cuando se exceden las tolerancias. B3-5.3-04 trata las consultas de crédito nuevas. Una deuda que el prestatario abrió después de la solicitud es información nueva. El prestamista agrega el pago, vuelve a enviar si se exige y, si el préstamo ya no califica, no lo desembolsa.",
+    "complianceNotes": "Ejecute una actualización de crédito antes de los documentos o del desembolso, como exija el inversionista. Si aparece un pago nuevo, deténgase y recalcule. No le diga al prestatario que la consulta se ignorará.",
+    "example": {
+      "setting": "Actualización de crédito o informe de monitoreo de deuda no divulgada antes del cierre",
+      "text": "Una actualización de muestra puede encontrar un pago de automóvil nuevo de ejemplo de $390 abierto después de la solicitud. Cifras de ejemplo."
+    }
+  }
+}

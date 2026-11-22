@@ -1,0 +1,34 @@
+{
+  "slug": "servicing-transfer-notices",
+  "term": "Servicing transfer notices",
+  "aliases": [],
+  "category": "servicing",
+  "definition": "The goodbye notice comes from the servicer that is transferring your loan. The hello notice comes from the servicer that will collect next. Together they tell you the effective date, the new address, and how to question the transfer. The timing of each notice is in Regulation X.",
+  "details": "12 CFR 1024.33 states when each notice is due relative to the effective date of transfer. Quote those day counts from the section when you build the letter, rather than from memory. The notices must include the content the section lists, including a statement that the transfer does not affect the terms or the continuing escrow duties.",
+  "complianceNotes": "Use the effective date in both letters and keep proof of mailing. If a notice is late, fix the borrower harm, including any late fee caused by confusion, and document it.",
+  "example": {
+    "setting": "Goodbye letter from the old servicer and hello letter from the new servicer",
+    "text": "A sample hello letter might name an effective date and an example new payment address for a loan with a $1,450 installment. Example figures."
+  },
+  "citations": [
+    "reg-1024-33"
+  ],
+  "related": [
+    "mortgage-servicer",
+    "payment-during-transfer",
+    "periodic-statement",
+    "servicing-transfer"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Avisos de transferencia de la administración",
+    "aliases": [],
+    "definition": "El aviso de despedida viene del administrador que transfiere su préstamo. El aviso de bienvenida viene del administrador que cobrará después. Juntos le dicen la fecha efectiva, la nueva dirección y cómo cuestionar la transferencia. El plazo de cada aviso está en el Reglamento X.",
+    "details": "12 CFR 1024.33 establece cuándo vence cada aviso en relación con la fecha efectiva de la transferencia. Cite esos conteos de días desde la sección cuando arme la carta, en lugar de hacerlo de memoria. Los avisos deben incluir el contenido que enumera la sección, incluida una declaración de que la transferencia no afecta los términos ni los deberes continuos del depósito en garantía.",
+    "complianceNotes": "Use la fecha efectiva en ambas cartas y conserve la prueba del envío. Si un aviso llega tarde, corrija el daño al prestatario, incluido cualquier cargo por mora causado por la confusión, y documéntelo.",
+    "example": {
+      "setting": "Carta de despedida del administrador anterior y carta de bienvenida del administrador nuevo",
+      "text": "Una carta de bienvenida de muestra podría nombrar una fecha efectiva y una dirección de pago nueva de ejemplo para un préstamo con una cuota de $1,450. Cifras de ejemplo."
+    }
+  }
+}

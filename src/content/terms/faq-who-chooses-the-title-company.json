@@ -1,0 +1,38 @@
+{
+  "slug": "faq-who-chooses-the-title-company",
+  "term": "Who chooses the title company?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "You can often choose the title company. The lender gives a written list when you are allowed to shop. A seller generally cannot require you to use a particular title company as a condition of the sale. That limit is a RESPA rule. The exact statutory section should be confirmed before it is quoted, because it is not one of the section numbers in this glossary's citation catalog.",
+  "details": "RESPA's settlement-service rules are in 12 USC 2601 and following, and the kickback rules are in 12 CFR 1024.14. The tolerance rule in 12 CFR 1026.19 rewards using a provider on the lender's list. Required use of an affiliate is a separate limit. This entry is flagged so the seller-required title-company section is checked before anyone cites a section number in a letter.",
+  "complianceNotes": "Give a real written list. Do not tell the buyer the seller's title company is mandatory. If the buyer shops off the list, explain the tolerance consequence.",
+  "example": {
+    "setting": "Written list of providers and the purchase contract, which together show who may choose title",
+    "text": "A sample list might include three title companies, with an example lender's title fee of $1,150 if the borrower stays on the list. Example figures."
+  },
+  "citations": [
+    "usc-12-2601",
+    "reg-1024-14",
+    "reg-1026-19"
+  ],
+  "related": [
+    "required-use",
+    "services-you-can-shop-for",
+    "settlement-agent",
+    "title-insurance",
+    "written-list-of-providers"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Quién elige la compañía de título?",
+    "aliases": [],
+    "definition": "Usted a menudo puede elegir la compañía de título. El prestamista da una lista escrita cuando a usted se le permite comparar. Un vendedor por lo general no puede exigirle que use una compañía de título particular como condición de la venta. Ese límite es una regla de RESPA. La sección exacta de la ley debe confirmarse antes de citarse, porque no es uno de los números de sección del catálogo de citas de este glosario.",
+    "details": "Las reglas de servicios de liquidación de RESPA están en 12 USC 2601 y siguientes, y las reglas de comisiones están en 12 CFR 1024.14. La regla de tolerancia en 12 CFR 1026.19 premia el uso de un proveedor de la lista del prestamista. El uso obligatorio de un afiliado es un límite separado. Esta entrada está marcada para que la sección sobre la compañía de título exigida por el vendedor se revise antes de que alguien cite un número de sección en una carta.",
+    "complianceNotes": "Dé una lista escrita real. No le diga al comprador que la compañía de título del vendedor es obligatoria. Si el comprador compara fuera de la lista, explique la consecuencia de tolerancia.",
+    "example": {
+      "setting": "Lista escrita de proveedores y el contrato de compra, que juntos muestran quién puede elegir el título",
+      "text": "Una lista de muestra podría incluir tres compañías de título, con un cargo de título del prestamista de ejemplo de $1,150 si el prestatario se queda en la lista. Cifras de ejemplo."
+    }
+  },
+  "reviewFlag": "RESPA's ban on a seller requiring a particular title company is commonly discussed as 12 USC 2608. That section is not in the citation catalog. Cite 12 USC 2601 and confirm 2608 before quoting it."
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "planned-unit-development",
+  "term": "Planned unit development",
+  "aliases": [
+    "PUD"
+  ],
+  "category": "underwriting",
+  "definition": "A planned unit development, or PUD, is a project of individually owned lots or units with common areas maintained by an association. You typically own the land under your home. That is different from a condominium, where you own the interior and a share of the common elements.",
+  "details": "The Fannie Mae Selling Guide defines PUDs and when a project review is required. Misclassifying a condo as a PUD, or the reverse, sends the file down the wrong review path. HOA dues still belong in the housing payment. Insurance may be on the unit, the master policy, or both.",
+  "complianceNotes": "Use the legal description and the appraisal, not the listing headline, to classify the project. Complete the PUD review the guide requires before delivery.",
+  "example": {
+    "setting": "Appraisal and project file identifying the property as a PUD, not a condominium",
+    "text": "A sample appraisal might identify an example townhouse as a PUD with $95 monthly dues. Example figures."
+  },
+  "citations": [
+    "fannie-guide"
+  ],
+  "related": [
+    "appraisal",
+    "condominium-project",
+    "homeowners-association",
+    "homeowners-insurance",
+    "occupancy"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Desarrollo de unidades planificado",
+    "aliases": [],
+    "definition": "Un desarrollo de unidades planificado, o PUD, es un proyecto de lotes o unidades de propiedad individual con áreas comunes que mantiene una asociación. Usted por lo general es dueño del terreno bajo su vivienda. Eso es distinto de un condominio, en el que usted es dueño del interior y de una parte de los elementos comunes.",
+    "details": "La Selling Guide de Fannie Mae define los PUD y cuándo se exige una revisión del proyecto. Clasificar mal un condominio como PUD, o al revés, manda el expediente por la vía de revisión equivocada. Las cuotas de la asociación igual pertenecen al pago de la vivienda. El seguro puede estar en la unidad, en la póliza maestra, o en ambas.",
+    "complianceNotes": "Use la descripción legal y la tasación, no el título del anuncio, para clasificar el proyecto. Complete la revisión de PUD que exige la guía antes de la entrega.",
+    "example": {
+      "setting": "Tasación y expediente del proyecto que identifican la propiedad como un PUD, no como un condominio",
+      "text": "Una tasación de muestra puede identificar una casa adosada de ejemplo como un PUD con cuotas mensuales de $95. Cifras de ejemplo."
+    }
+  }
+}

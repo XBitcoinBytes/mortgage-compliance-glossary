@@ -1,0 +1,35 @@
+{
+  "slug": "faq-what-is-a-reverse-mortgage",
+  "term": "What is a reverse mortgage?",
+  "aliases": [],
+  "category": "borrower-faqs",
+  "definition": "A reverse mortgage lets an older homeowner turn equity into payments or a line that is generally repaid when they die, sell, or move out. Interest is added to the balance, so the debt grows. It is not free money. You must keep paying taxes and insurance and live in the home.",
+  "details": "The FHA version is the HECM, under 24 CFR Part 206, and counseling is required. The amount available depends on age, rates, and value, using factors HUD changes. A reverse mortgage does not use the TRID Loan Estimate. Proprietary reverse mortgages are not HECMs.",
+  "complianceNotes": "Require counseling. Explain that the balance grows and that leaving the home can make the loan due. Do not quote a principal limit from memory.",
+  "example": {
+    "setting": "Reverse mortgage counseling and the product disclosure, not a forward Loan Estimate",
+    "text": "A sample discussion might use an example home value of $320,000. The proceeds are not stated because the factor changes. Example figures."
+  },
+  "citations": [
+    "cfr-24-206",
+    "hud-4000-1"
+  ],
+  "related": [
+    "fha-loan",
+    "hecm",
+    "occupancy",
+    "reverse-mortgage"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "¿Qué es una hipoteca inversa?",
+    "aliases": [],
+    "definition": "Una hipoteca inversa permite a un propietario mayor convertir la plusvalía en pagos o en una línea que por lo general se paga cuando muere, vende o se muda. El interés se suma al saldo, así que la deuda crece. No es dinero gratis. Usted debe seguir pagando impuestos y seguro y vivir en la vivienda.",
+    "details": "La versión de la FHA es la HECM, según 24 CFR Parte 206, y se exige consejería. El monto disponible depende de la edad, las tasas y el valor, usando factores que HUD cambia. Una hipoteca inversa no usa la Estimación del préstamo de TRID. Las hipotecas inversas privadas no son HECM.",
+    "complianceNotes": "Exija la consejería. Explique que el saldo crece y que dejar la vivienda puede hacer que el préstamo venza. No cite un límite de capital de memoria.",
+    "example": {
+      "setting": "Consejería de hipoteca inversa y la divulgación del producto, no una Estimación del préstamo tradicional",
+      "text": "Una conversación de muestra podría usar un valor de vivienda de ejemplo de $320,000. Los fondos no se indican porque el factor cambia. Cifras de ejemplo."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "wholesale-lending",
+  "term": "Wholesale lending",
+  "aliases": [],
+  "category": "origination",
+  "definition": "Wholesale lending is the channel in which a creditor funds loans that a mortgage broker originates. The broker meets the consumer. The wholesale creditor is the lender on the Loan Estimate if the note will be payable to it.",
+  "details": "The channel is industry structure, not a separate disclosure form. Loan-originator compensation under 12 CFR 1026.36 still applies to the broker and to any individual originator. The wholesale creditor is responsible for the Loan Estimate if it is the creditor. Dual compensation, term-based pay, and steering rules do not relax because the file is wholesale.",
+  "complianceNotes": "Identify the channel in the file so compensation, the broker agreement, and the creditor name are reviewed together. A wholesale rate sheet is not a consumer disclosure.",
+  "example": {
+    "setting": "Wholesale file: broker agreement plus the creditor named on the Loan Estimate, page 3",
+    "text": "A sample wholesale lock might show a broker compensation election of lender-paid, 1.500 percent of an example $200,000 loan, while the consumer's Loan Estimate shows no broker fee in Section A. Example figures."
+  },
+  "citations": [
+    "reg-1026-36",
+    "practice-file"
+  ],
+  "related": [
+    "correspondent-lender",
+    "lender-paid-compensation",
+    "mortgage-broker",
+    "mortgage-lender",
+    "retail-lending",
+    "table-funding"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Originación mayorista",
+    "aliases": [],
+    "definition": "La originación mayorista es el canal en el que un acreedor financia préstamos que origina un corredor hipotecario. El corredor atiende al consumidor. El acreedor mayorista es el prestamista en la Estimación del préstamo si el pagaré será pagadero a él.",
+    "details": "El canal es una estructura de la industria, no un formulario de divulgación distinto. La compensación del originador según 12 CFR 1026.36 igual se aplica al corredor y a cualquier originador individual. El acreedor mayorista es responsable de la Estimación del préstamo si es el acreedor. La compensación doble, el pago basado en términos y las reglas de dirección indebida no se relajan porque el expediente sea mayorista.",
+    "complianceNotes": "Identifique el canal en el expediente para que la compensación, el acuerdo del corredor y el nombre del acreedor se revisen juntos. Una hoja de tasas mayorista no es una divulgación al consumidor.",
+    "example": {
+      "setting": "Expediente mayorista: acuerdo del corredor más el acreedor nombrado en la Estimación del préstamo, página 3",
+      "text": "Una fijación mayorista de muestra puede mostrar una elección de compensación del corredor pagada por el prestamista, 1.500 por ciento de un préstamo de ejemplo de $200,000, mientras la Estimación del préstamo del consumidor no muestra un cargo del corredor en la Sección A. Cifras de ejemplo."
+    }
+  }
+}

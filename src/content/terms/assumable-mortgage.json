@@ -1,0 +1,37 @@
+{
+  "slug": "assumable-mortgage",
+  "term": "Assumable mortgage",
+  "aliases": [],
+  "category": "loan-programs",
+  "definition": "An assumable mortgage can be taken over by a later buyer if the lender and, for FHA or VA, the agency approve the new borrower. The buyer is not free to take the loan without that review. Many conventional loans are not assumable because of a due-on-sale clause.",
+  "details": "HUD 4000.1 and the VA handbook state the assumption process, including creditworthiness and whether the seller is released. 12 CFR 1026.37 requires the Loan Estimate to say whether assumption is allowed. An assumption is not a refinance. The existing note stays in place if the assumption is approved. The rate does not automatically become a market rate.",
+  "complianceNotes": "Disclose assumption accurately. Process an FHA or VA assumption through the handbook, including the credit review. Do not release the original borrower unless the release is actually issued.",
+  "example": {
+    "setting": "Assumption disclosure on the Loan Estimate, yes for many FHA and VA loans",
+    "text": "A sample FHA assumption might keep an example remaining balance of $205,000 at the existing note rate after approval. Example figures."
+  },
+  "citations": [
+    "hud-4000-1",
+    "va-pamphlet",
+    "reg-1026-37"
+  ],
+  "related": [
+    "assumption",
+    "conventional-loan",
+    "due-on-sale-clause",
+    "fha-loan",
+    "va-loan"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Hipoteca asumible",
+    "aliases": [],
+    "definition": "Una hipoteca asumible puede ser tomada por un comprador posterior si el prestamista y, para la FHA o VA, la agencia aprueban al nuevo prestatario. El comprador no es libre de tomar el préstamo sin esa revisión. Muchos préstamos convencionales no son asumibles por una cláusula de vencimiento por venta.",
+    "details": "HUD 4000.1 y el manual de VA establecen el proceso de asunción, incluida la solvencia y si el vendedor queda liberado. 12 CFR 1026.37 exige que la Estimación del préstamo diga si la asunción está permitida. Una asunción no es un refinanciamiento. El pagaré existente sigue en pie si la asunción se aprueba. La tasa no se vuelve automáticamente una tasa de mercado.",
+    "complianceNotes": "Divulgue la asunción con exactitud. Procese una asunción FHA o VA por el manual, incluida la revisión de crédito. No libere al prestatario original salvo que la liberación se emita de verdad.",
+    "example": {
+      "setting": "Divulgación de asunción en la Estimación del préstamo, sí para muchos préstamos FHA y VA",
+      "text": "Una asunción FHA de muestra podría conservar un saldo restante de ejemplo de $205,000 a la tasa existente del pagaré después de la aprobación. Cifras de ejemplo."
+    }
+  }
+}
