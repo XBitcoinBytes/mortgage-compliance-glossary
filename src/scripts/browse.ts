@@ -29,6 +29,7 @@ export function initBrowse() {
 
   const fuse = new Fuse(rows, {
     threshold: 0.35,
+    ignoreDiacritics: true,
     ignoreLocation: true,
     minMatchCharLength: 2,
     keys: ["name"],

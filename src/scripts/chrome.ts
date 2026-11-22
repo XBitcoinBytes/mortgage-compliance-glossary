@@ -87,14 +87,17 @@ function initTheme() {
   });
 }
 
-function readIndex(): SearchRecord[] {
-  const node = document.querySelector("#search-index");
-  if (!node?.textContent) return [];
-  try {
-    return JSON.parse(node.textContent) as SearchRecord[];
-  } catch {
-    return [];
+let indexPromise: Promise<SearchRecord[]> | null = null;
+function loadIndex(): Promise<SearchRecord[]> {
+  if (!indexPromise) {
+    indexPromise = fetch("/search-index.json")
+      .then((res) => (res.ok ? (res.json() as Promise<SearchRecord[]>) : []))
+      .catch(() => {
+        indexPromise = null; // allow a retry on the next open
+        return [];
+      });
   }
+  return indexPromise;
 }
 
 function initSearch() {
@@ -108,9 +111,12 @@ function initSearch() {
   const homeInput = document.querySelector<HTMLInputElement>("#home-search");
   if (!dialog || !input || !results || !cats) return;
 
-  const records = readIndex();
-  const fuse = new Fuse(records, {
+  let records: SearchRecord[] = [];
+  let fuse = new Fuse<SearchRecord>([], {});
+  let ready = false;
+  const fuseOptions = {
     threshold: 0.35,
+    ignoreDiacritics: true,
     ignoreLocation: true,
     minMatchCharLength: 2,
     keys: [
@@ -121,7 +127,13 @@ function initSearch() {
       { name: "definition", weight: 0.04 },
       { name: "esDefinition", weight: 0.04 },
     ],
-  });
+  };
+  async function ensureIndex() {
+    if (ready) return;
+    records = await loadIndex();
+    fuse = new Fuse(records, fuseOptions);
+    ready = records.length > 0;
+  }
 
   let category = "";
   let active = 0;
@@ -177,7 +189,13 @@ function initSearch() {
     });
     if (list.length === 0) {
       const li = document.createElement("li");
-      li.textContent = language === "es" ? "No hay términos que coincidan." : "No matching terms.";
+      li.textContent = !ready
+        ? language === "es"
+          ? "Cargando el índice… Si no carga, use el índice A–Z."
+          : "Loading the index… If it does not load, use the A–Z index."
+        : language === "es"
+          ? "No hay términos que coincidan."
+          : "No matching terms.";
       results.append(li);
     }
     if (live) {
@@ -193,6 +211,7 @@ function initSearch() {
     render();
     input.focus();
     input.select();
+    if (!ready) ensureIndex().then(render);
   }
 
   function closeSearch() {
