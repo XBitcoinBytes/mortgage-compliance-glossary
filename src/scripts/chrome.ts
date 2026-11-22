@@ -343,7 +343,39 @@ function initSearch() {
   });
 }
 
+function initShare() {
+  document.querySelectorAll<HTMLButtonElement>("[data-copy-link]").forEach((button) => {
+    button.addEventListener("click", async () => {
+      // Share the canonical URL plus the current section anchor, and the reader's view.
+      const url = new URL(button.dataset.copyLink ?? location.href);
+      if (location.hash) url.hash = location.hash;
+      if (currentView() === "borrower") url.searchParams.set("view", "borrower");
+      const text = url.toString();
+      let ok = false;
+      try {
+        await navigator.clipboard.writeText(text);
+        ok = true;
+      } catch {
+        const area = document.createElement("textarea");
+        area.value = text;
+        document.body.append(area);
+        area.select();
+        ok = document.execCommand("copy");
+        area.remove();
+      }
+      const status = document.querySelector<HTMLElement>("#copy-status");
+      if (status && ok) status.textContent = button.dataset.copied ?? "";
+      if (ok) {
+        const label = button.textContent;
+        button.textContent = button.dataset.copied ?? label;
+        setTimeout(() => (button.textContent = label), 1800);
+      }
+    });
+  });
+}
+
 export function initChrome() {
+  initShare();
   initTheme();
   initView();
   initSearch();

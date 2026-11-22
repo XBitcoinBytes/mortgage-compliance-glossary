@@ -36,6 +36,9 @@ const kindLabel: Record<string, string> = {
   "industry-practice": ui.industry,
 };
 
+const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
+const pageUrl = new URL(hrefFor(lang, `/terms/${term.slug}`), origin).toString();
+const citeText = `${ui.siteName}, “${name},” ${ui.reviewed.toLowerCase()} ${term.reviewed}, ${pageUrl}`;
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
@@ -69,19 +72,19 @@ const jsonLd = {
     </p>
     {term.reviewFlag && <div class="flag-panel"><strong>{ui.flagged}.</strong> {term.reviewFlag}</div>}
 
-    <section class="definition" aria-labelledby="def-h">
-      <h2 id="def-h">{ui.definition}</h2>
+    <section class="definition" id="definition" aria-labelledby="def-h">
+      <h2 id="def-h">{ui.definition} <a class="anchor" href="#definition" aria-label={ui.sectionLink}>#</a></h2>
       <p>{definition}</p>
     </section>
 
-    <section class="example-panel" aria-labelledby="ex-h">
-      <h2 id="ex-h">{ui.onTheForm}</h2>
+    <section class="example-panel" id="example" aria-labelledby="ex-h">
+      <h2 id="ex-h">{ui.onTheForm} <a class="anchor" href="#example" aria-label={ui.sectionLink}>#</a></h2>
       <p class="setting">{example.setting}</p>
       <p>{example.text}</p>
       <p class="example-tag">{ui.exampleTag}</p>
     </section>
 
-    <section class="pro-panel" data-pro-section>
+    <section class="pro-panel" id="why" data-pro-section>
       <h2>
         <button type="button" class="pro-toggle" aria-expanded="true" aria-controls="why-body">{ui.why}</button>
       </h2>
@@ -91,7 +94,7 @@ const jsonLd = {
       </div>
     </section>
 
-    <section class="pro-panel" data-pro-section>
+    <section class="pro-panel" id="notes" data-pro-section>
       <h2>
         <button type="button" class="pro-toggle" aria-expanded="true" aria-controls="notes-body">{ui.notes}</button>
       </h2>
@@ -100,7 +103,7 @@ const jsonLd = {
       </div>
     </section>
 
-    <section class="pro-panel" data-pro-section>
+    <section class="pro-panel" id="sources" data-pro-section>
       <h2>
         <button type="button" class="pro-toggle" aria-expanded="true" aria-controls="sources-body">{ui.sources}</button>
       </h2>
@@ -123,7 +126,15 @@ const jsonLd = {
         </ul>
       </div>
     </section>
-    <p class="no-print"><button type="button" class="btn secondary" onclick="window.print()">{ui.print}</button></p>
+    <section class="cite-panel" id="cite" aria-labelledby="cite-h">
+      <h2 id="cite-h">{ui.citeThis}</h2>
+      <p class="cite-text" id="cite-text">{citeText}</p>
+    </section>
+    <p class="no-print share-row">
+      <button type="button" class="btn secondary" data-copy-link={pageUrl} data-copied={ui.copied}>{ui.copyLink}</button>
+      <button type="button" class="btn secondary" onclick="window.print()">{ui.print}</button>
+      <span class="sr-only" aria-live="polite" id="copy-status"></span>
+    </p>
   </div>
   <aside class="rail">
     <h2>{ui.related}</h2>

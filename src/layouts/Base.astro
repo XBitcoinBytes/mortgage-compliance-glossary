@@ -43,6 +43,9 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
           }
           document.documentElement.setAttribute("data-theme", theme);
           var view = localStorage.getItem("mcg-view");
+          // A shared link can carry ?view=borrower or ?view=professional.
+          var shared = new URLSearchParams(location.search).get("view");
+          if (shared === "borrower" || shared === "professional") view = shared;
           if (view !== "borrower" && view !== "professional") view = "professional";
           document.documentElement.setAttribute("data-view", view);
         } catch (e) {}
