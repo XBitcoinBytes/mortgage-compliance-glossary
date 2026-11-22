@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Porcentaje total de interés",
-    "aliases": [],
+    "aliases": [
+      "TIP"
+    ],
     "definition": "El porcentaje total de interés, o TIP, es el monto total de interés que usted pagará durante la vida del préstamo, mostrado como un porcentaje del monto del préstamo. No es la tasa de interés y no es la tasa porcentual anual. Un préstamo largo puede tener un TIP grande aunque la tasa parezca ordinaria.",
     "details": "12 CFR 1026.38 exige el TIP en las comparaciones de la Divulgación del cierre. Supone que se hacen los pagos programados. Los pagos extra al capital reducirían el interés realmente pagado. El TIP es una herramienta de comparación. No es un cargo debido en el cierre.",
     "complianceNotes": "Explique el TIP junto a la tasa del pagaré y la tasa porcentual anual para que el prestatario vea tres números distintos. No describa el TIP como la tasa que pagará cada año.",

@@ -1,7 +1,10 @@
 {
   "slug": "zero-tolerance",
   "term": "Zero tolerance",
-  "aliases": [],
+  "aliases": [
+    "0% tolerance",
+    "zero-tolerance bucket"
+  ],
   "category": "closing",
   "definition": "Zero tolerance means a charge generally may not increase at all from the Loan Estimate to the Closing Disclosure. The group includes the creditor's or broker's own charges, transfer taxes, and charges paid to an affiliate or to a provider the consumer cannot shop for, subject to the exceptions in the rule.",
   "details": "12 CFR 1026.19(e)(3)(i) is the zero-tolerance provision. A changed circumstance or another permitted revision can reset the baseline. An increase that is not permitted must be cured. Putting a shoppable title fee in Section B by mistake freezes it at zero tolerance. Transfer taxes are in this group even though they are government charges. Recording fees are not. They are in the 10 percent group.",

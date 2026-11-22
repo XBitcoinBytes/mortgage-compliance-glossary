@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Programa contra el lavado de dinero",
-    "aliases": [],
+    "aliases": [
+      "AML"
+    ],
     "definition": "Un programa contra el lavado de dinero es el sistema escrito que una empresa hipotecaria cubierta usa para detectar y reportar actividad sospechosa. Nombra un oficial de cumplimiento, capacita al personal y se prueba de manera independiente. No es una política de una página en un cajón.",
     "details": "31 CFR Parte 1029 se aplica a los prestamistas y originadores de hipotecas residenciales como compañías de préstamos o de financiamiento. El requisito del programa está en esa parte. Cite la parte en lugar de una subsección adivinada si usted no está mirando el texto vigente. El programa debe tratar los hechos hipotecarios que importan, incluidos regalos inusuales, transferencias de terceros y clientes que rechazan información ordinaria. No debe incluir consejos sobre cómo evitar un reporte.",
     "complianceNotes": "Pruebe el programa en un calendario y registre la prueba. Capacite a los originadores para escalar problemas de origen de los fondos. No deje que producción decida que un hecho sospechoso es demasiado incómodo para reportar.",

@@ -2,7 +2,8 @@
   "slug": "pitia",
   "term": "PITIA",
   "aliases": [
-    "PITI"
+    "PITI",
+    "housing payment"
   ],
   "category": "underwriting",
   "definition": "PITIA is principal, interest, taxes, insurance, and association dues or similar assessments. It is the full monthly housing cost lenders use for the debt ratio and for counting months of reserves. Leaving out dues or mortgage insurance understates the payment.",
@@ -33,7 +34,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "PITIA",
-    "aliases": [],
+    "aliases": [
+      "PITI"
+    ],
     "definition": "PITIA es capital, interés, impuestos, seguro y cuotas de la asociación o cargos similares. Es el costo mensual completo de la vivienda que los prestamistas usan para la relación de deudas y para contar los meses de reservas. Dejar fuera las cuotas o el seguro hipotecario subestima el pago.",
     "details": "Fannie Mae B3-6-03 describe el gasto mensual de vivienda, y B3-6-04 describe el pago de calificación. La parte de capital e interés usa la tasa de calificación, que puede no ser el pago inicial de una reducción temporal. Las partidas de depósito en garantía de la Estimación del préstamo son estimados de algunos de estos costos, pero el PITIA de calificación es una cifra de suscripción.",
     "complianceNotes": "Arme el PITIA con el pago del pagaré, la factura de impuestos, el comprobante del seguro, el seguro hipotecario si lo hay y la factura de la asociación. Use esa cifra tanto para la relación como para los meses de reservas.",

@@ -1,7 +1,10 @@
 {
   "slug": "periodic-statement",
   "term": "Periodic statement",
-  "aliases": [],
+  "aliases": [
+    "mortgage statement",
+    "monthly statement"
+  ],
   "category": "servicing",
   "definition": "A periodic statement is the regular mortgage bill. It shows the payment due, how it will be applied, the fees, and the account history. Many residential mortgage loans must receive one. Some loans are exempt, including certain small-servicer loans and some fixed-rate loans that use a coupon book meeting the rule.",
   "details": "12 CFR 1026.41 states the content, the timing, and the exemptions. A statement that hides fees or shows a suspense balance without explanation is a problem. The statement is also how many borrowers first see an escrow change. It does not replace the annual escrow analysis.",

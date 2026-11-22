@@ -1,7 +1,10 @@
 {
   "slug": "conforming-loan-limit",
   "term": "Conforming loan limit",
-  "aliases": [],
+  "aliases": [
+    "loan limit",
+    "FHFA loan limit"
+  ],
   "category": "loan-programs",
   "definition": "The conforming loan limit is the maximum loan amount Fannie Mae and Freddie Mac may buy in a county for a given year. FHFA sets a baseline limit and higher limits in high-cost areas. The figures change. Quote them from FHFA, not from memory or from this page.",
   "details": "The FHFA conforming loan limit page is the official source. One-unit, two-unit, three-unit, and four-unit properties have different limits. A loan amount that includes financed mortgage insurance can push a file over the limit. The limit is not an FHA or VA limit. Those agencies publish their own.",

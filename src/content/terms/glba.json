@@ -26,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley Gramm-Leach-Bliley",
-    "aliases": [],
+    "aliases": [
+      "GLBA"
+    ],
     "definition": "La Ley Gramm-Leach-Bliley exige a las instituciones financieras explicar cómo comparten la información personal no pública y protegerla. Los avisos de privacidad que reciben muchos prestatarios vienen de esta ley. El programa de seguridad es un deber distinto.",
     "details": "El deber de privacidad está en 15 USC 6801 y siguientes. El Reglamento P de la CFPB, 12 CFR Parte 1016, cubre los avisos de privacidad de las instituciones bajo su jurisdicción. La Regla de Salvaguardas para muchas instituciones financieras no bancarias es la regla de la FTC en 16 CFR Parte 314, no una divulgación hipotecaria de la CFPB. No cite el Reglamento Z por una falla del aviso de privacidad.",
     "complianceNotes": "Dé el aviso de privacidad que exige el reglamento y mantenga vigente el programa de salvaguardas si 16 CFR 314 se aplica a la empresa. Un expediente de divulgación hipotecaria no reemplaza ninguno de los dos.",

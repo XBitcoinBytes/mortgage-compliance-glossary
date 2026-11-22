@@ -29,7 +29,8 @@
   "es": {
     "term": "Formulario 4506-C",
     "aliases": [
-      "4506-C"
+      "4506-C",
+      "4506-T"
     ],
     "definition": "El Formulario 4506-C es el formulario del IRS que autoriza a un prestamista a recibir una transcripción de su declaración de impuestos. Permite al prestamista comprobar que la declaración del expediente coincide con la que usted presentó. El Formulario 4506-T anterior es la versión antigua.",
     "details": "Fannie Mae B3-3.1-02 describe cuándo se exigen transcripciones y cómo se usa el 4506-C. Un formulario firmado no es en sí la transcripción. El prestamista debe obtener de verdad la transcripción cuando la guía lo exige y comparar los salarios y el ingreso de trabajo por cuenta propia. Una diferencia es una razón para detenerse, no una nota administrativa.",

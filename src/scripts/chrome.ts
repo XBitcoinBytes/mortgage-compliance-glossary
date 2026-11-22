@@ -159,9 +159,72 @@ function initSearch() {
     ids.forEach((id) => make(id, CATEGORIES[id][language]));
   }
 
+  const norm = (value: string) => value.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase().trim();
+  function exactHits(query: string): SearchRecord[] {
+    const q = norm(query);
+    const names = (item: SearchRecord) =>
+      [item.term, item.esTerm, ...item.aliases.split("|"), ...item.esAliases.split("|")].map(norm);
+    const exact = records.filter((item) => names(item).includes(q));
+    // An exact name or acronym match outranks fuzzy matches; the term's own name outranks an alias.
+    return exact.sort((a, b) => Number(norm(b.term) === q || norm(b.esTerm) === q) - Number(norm(a.term) === q || norm(a.esTerm) === q));
+  }
+
+  const STOP = new Set(["a", "an", "the", "of", "for", "to", "in", "on", "is", "my", "what", "how", "do", "i", "can", "de", "la", "el", "los", "las", "del", "y", "en", "un", "una", "que", "es", "mi"]);
+  const words = (value: string) => norm(value).split(/[^a-z0-9%]+/).filter((w) => w.length > 0);
+  // Word-level scorer for multi-word, natural-language queries ("denied loan letter").
+  // Each query word must prefix-match a word in the name, aliases, or definition;
+  // name and alias hits weigh more than definition hits.
+  // Borrower phrasing -> glossary vocabulary. Small and editorial; extend from real search logs later.
+  const EXPAND: Record<string, string[]> = {
+    removal: ["cancellation", "termination"], remove: ["cancellation", "termination"], drop: ["cancellation", "termination"],
+    cancel: ["cancellation", "rescission"], denied: ["adverse"], denial: ["adverse"], declined: ["adverse"], turned: ["adverse"],
+    late: ["delinquency", "delinquent"], behind: ["delinquency", "delinquent"], missed: ["delinquency"],
+    gfe: ["estimate"], lock: ["lock"], fee: ["fee", "charge"], fees: ["fees", "charges"],
+  };
+  const COMMON = new Set(["loan", "loans", "mortgage", "home", "credit", "payment", "rate", "prestamo", "hipoteca", "hipotecario", "credito", "pago", "tasa"]);
+  function wordHits(query: string): SearchRecord[] {
+    const raw = words(query).filter((w) => !STOP.has(w));
+    const acronyms = new Set(raw.filter((w) => w.length >= 2 && w.length <= 6));
+    const q = raw;
+    if (q.length < 2) return [];
+    const scored: { item: SearchRecord; score: number }[] = [];
+    for (const item of records) {
+      const name = words(`${item.term} ${item.esTerm}`);
+      const alias = words(`${item.aliases} ${item.esAliases}`);
+      const body = words(`${item.definition} ${item.esDefinition}`);
+      let score = 0;
+      let matched = 0;
+      const aliasExact = new Set(`${item.aliases} | ${item.esAliases} | ${item.term}`.split("|").map(norm));
+      for (const w of q) {
+        const forms = [w, ...(EXPAND[w] ?? [])];
+        const hit = (list: string[]) =>
+          forms.some((f) => list.some((x) => x.startsWith(f) || (f.length > 4 && x.startsWith(f.slice(0, -1)))));
+        // Words that appear in many names ("loan", "mortgage") carry little signal.
+        const weak = COMMON.has(w) ? 0.25 : 1;
+        if (acronyms.has(w) && aliasExact.has(w)) { score += 8; matched += 1; }
+        else if (hit(name)) { score += 5 * weak; matched += 1; }
+        else if (hit(alias)) { score += 4 * weak; matched += 1; }
+        else if (hit(body)) { score += 1 * weak; matched += 1; }
+      }
+      if (score >= 4 && matched >= Math.max(1, q.length - 1)) scored.push({ item, score: score + matched });
+    }
+    return scored.sort((a, b) => b.score - a.score).map((row) => row.item);
+  }
+
   function pool(): SearchRecord[] {
     const query = input.value.trim();
-    let list = query ? fuse.search(query).map((result) => result.item) : records.slice(0, 12);
+    let list: SearchRecord[];
+    if (query) {
+      const exact = exactHits(query);
+      const seen = new Set(exact.map((item) => item.slug));
+      const byWords = wordHits(query).filter((item) => !seen.has(item.slug));
+      byWords.slice(0, 5).forEach((item) => seen.add(item.slug));
+      const fuzzy = fuse.search(query).map((result) => result.item).filter((item) => !seen.has(item.slug));
+      // Exact names first, then the best word matches, then fuzzy (typo-tolerant) matches.
+      list = [...exact, ...byWords.slice(0, 5), ...fuzzy];
+    } else {
+      list = records.slice(0, 12);
+    }
     if (!query && records.length === 0) list = [];
     if (category) list = list.filter((item) => item.category === category);
     return list.slice(0, 20);

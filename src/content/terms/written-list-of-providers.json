@@ -29,7 +29,8 @@
   "es": {
     "term": "Lista escrita de proveedores",
     "aliases": [
-      "lista de proveedores"
+      "lista de proveedores",
+      "SSPL"
     ],
     "definition": "La lista escrita de proveedores nombra al menos un proveedor disponible para cada servicio que a usted se le permite comparar. Si usted elige un proveedor de esa lista, el cargo por lo general permanece en el grupo de tolerancia del 10 por ciento. Si elige a otra persona, el cargo puede cambiar sin ese límite.",
     "details": "12 CFR 1026.19 exige la lista cuando el consumidor puede comparar. Debe identificar los servicios que el consumidor puede comparar e incluir información de contacto suficiente. Entregar la lista a tiempo es lo que hace funcionar la regla. Una lista entregada después de que el consumidor ya fue dirigido a un solo proveedor no corrige el tratamiento de la tolerancia.",

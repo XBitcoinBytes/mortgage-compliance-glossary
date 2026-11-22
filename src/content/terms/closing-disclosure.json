@@ -1,7 +1,9 @@
 {
   "slug": "closing-disclosure",
   "term": "Closing Disclosure",
-  "aliases": [],
+  "aliases": [
+    "CD"
+  ],
   "category": "closing",
   "definition": "The Closing Disclosure is the five-page form that states the final loan terms, the final closing costs, and who pays what. For most closed-end mortgages you must receive it at least three business days before you become obligated on the loan. It replaced the HUD-1 and the final Truth in Lending disclosure for those loans.",
   "details": "12 CFR 1026.19(f) sets the timing. 12 CFR 1026.38 sets the content. The three-business-day wait uses the specific business-day definition: all calendar days except Sundays and federal legal holidays. Receipt, not the day the creditor sent it, starts the count when the rule measures receipt. A signature on the form confirms receipt. It is not an acceptance of the loan and it does not waive a right of rescission.",
@@ -55,7 +57,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Divulgación del cierre",
-    "aliases": [],
+    "aliases": [
+      "CD"
+    ],
     "definition": "La Divulgación del cierre es el formulario de cinco páginas que indica los términos finales del préstamo, los costos finales de cierre y quién paga qué. Para la mayoría de las hipotecas de crédito cerrado usted debe recibirla al menos tres días hábiles antes de quedar obligado en el préstamo. Reemplazó al HUD-1 y a la divulgación final de Truth in Lending para esos préstamos.",
     "details": "12 CFR 1026.19(f) fija el plazo. 12 CFR 1026.38 fija el contenido. La espera de tres días hábiles usa la definición específica de día hábil: todos los días del calendario excepto los domingos y los feriados legales federales. La recepción, no el día en que el acreedor lo envió, inicia el conteo cuando la regla mide la recepción. Una firma en el formulario confirma la recepción. No es una aceptación del préstamo y no renuncia a un derecho de rescisión.",
     "complianceNotes": "Pruebe cuándo recibió el consumidor la Divulgación del cierre antes de programar la consumación. Compárela con la Estimación del préstamo por violaciones de tolerancia. No emita una Estimación del préstamo revisada el día en que sale la Divulgación del cierre o después.",

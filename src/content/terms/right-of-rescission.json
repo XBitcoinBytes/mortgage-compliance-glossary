@@ -1,7 +1,10 @@
 {
   "slug": "right-of-rescission",
   "term": "Right of rescission",
-  "aliases": [],
+  "aliases": [
+    "rescission",
+    "right to cancel"
+  ],
   "category": "compliance",
   "definition": "The right of rescission lets each person with an ownership interest cancel certain loans on a principal dwelling until midnight of the third business day after the later of consummation, delivery of the material disclosures, or delivery of the rescission notice. Purchase loans are generally not rescindable. Many refinances and closed-end home-equity loans are.",
   "details": "12 CFR 1026.23 states who may rescind, which transactions are exempt, and the three-business-day period. Use the specific business-day definition: all calendar days except Sundays and federal legal holidays. Each consumer with an ownership interest gets the notice. Waivers are tightly limited to bona fide personal financial emergencies. Funding before the rescission period ends, when the right applies, is a serious violation.",

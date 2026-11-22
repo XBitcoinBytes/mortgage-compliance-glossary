@@ -1,7 +1,10 @@
 {
   "slug": "escrow-account",
   "term": "Escrow account",
-  "aliases": [],
+  "aliases": [
+    "escrow",
+    "impound account"
+  ],
   "category": "servicing",
   "definition": "An escrow account is the account the servicer keeps to pay your property taxes and insurance. Part of your monthly payment goes into it. It is not the earnest-money deposit from your purchase contract, and it is not mortgage insurance, although the mortgage insurance premium may also be collected with the payment.",
   "details": "Regulation X, 12 CFR 1024.17, governs the analysis, the cushion, shortages, and surpluses. The Loan Estimate states whether the loan has an escrow account. Some higher-priced loans must have one under 12 CFR 1026.35. A waiver is allowed only when the loan and the law permit it. The servicer must pay the bills on time if the account is adequately funded.",
@@ -42,7 +45,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Cuenta de depósito en garantía",
-    "aliases": [],
+    "aliases": [
+      "reserva",
+      "escrow"
+    ],
     "definition": "Una cuenta de depósito en garantía es la cuenta que el administrador mantiene para pagar sus impuestos de la propiedad y el seguro. Parte de su pago mensual entra en ella. No es el depósito de arras de su contrato de compra, y no es el seguro hipotecario, aunque la prima del seguro hipotecario también puede cobrarse con el pago.",
     "details": "El Reglamento X, 12 CFR 1024.17, rige el análisis, el colchón, los faltantes y los excedentes. La Estimación del préstamo indica si el préstamo tiene una cuenta de depósito en garantía. Algunos préstamos de precio más alto deben tener una según 12 CFR 1026.35. Una renuncia se permite solo cuando el préstamo y la ley lo permiten. El administrador debe pagar las facturas a tiempo si la cuenta está financiada de manera adecuada.",
     "complianceNotes": "Establezca la cuenta a partir de las facturas reales de impuestos y de seguro. Ejecute el análisis anual. No llame cuenta de depósito en garantía a un saldo en suspenso. Pague los impuestos antes de que se acumulen penalidades cuando el prestatario está al día y la cuenta puede cubrirlos.",

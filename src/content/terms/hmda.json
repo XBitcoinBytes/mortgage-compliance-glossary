@@ -28,7 +28,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley de Divulgación de Hipotecas para Viviendas",
-    "aliases": [],
+    "aliases": [
+      "HMDA"
+    ],
     "definition": "La Ley de Divulgación de Hipotecas para Viviendas exige a muchos prestamistas recopilar y reportar datos de solicitudes y préstamos hipotecarios. Los datos apoyan la revisión de préstamos justos y la investigación pública. HMDA no es una divulgación que usted entrega al prestatario en la solicitud, y no es una regla de decisión.",
     "details": "La ley es 12 USC 2801. El Reglamento C, 12 CFR Parte 1003, indica quién reporta, qué solicitudes están cubiertas, los campos de datos y la presentación anual. Los datos demográficos recopilados para HMDA se superponen con la información de monitoreo del Reglamento B y no deben usarse para discriminar. Los umbrales de reporte y la fecha de presentación están en el reglamento y deben leerse en el texto vigente.",
     "complianceNotes": "Complete los campos del registro a partir del expediente real, no de suposiciones sobre un vecindario. No use los datos de HMDA en el precio. Presente en el calendario de 12 CFR 1003.5.",

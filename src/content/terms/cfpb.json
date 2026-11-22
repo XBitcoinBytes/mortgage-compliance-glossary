@@ -33,7 +33,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Oficina para la Protección Financiera del Consumidor",
-    "aliases": [],
+    "aliases": [
+      "CFPB"
+    ],
     "definition": "La Oficina para la Protección Financiera del Consumidor es la agencia federal que administra el Reglamento Z, el Reglamento X, el Reglamento B, el Reglamento C, el Reglamento V y el Reglamento P para la mayoría de los acreedores hipotecarios. Publica los formularios de la Estimación del préstamo y de la Divulgación del cierre. No es un prestamista y no asegura depósitos.",
     "details": "La Oficina fue creada por la Ley Dodd-Frank. Sus recursos hipotecarios incluyen los formularios de divulgación integrados, los reglamentos interactivos y las explicaciones para el consumidor. La autoridad de supervisión y de ejecución depende de la institución. Algunos bancos son examinados por un regulador prudencial para las leyes del consumidor, con la Oficina involucrada como indica la ley. El sitio de la Oficina es el lugar para confirmar un formulario y un umbral anual.",
     "complianceNotes": "Use el formulario vigente de la Oficina y el texto del eCFR, no una fotocopia de un año anterior, cuando cambia un umbral o un formulario. La Oficina no es el inversionista. Fannie Mae, Freddie Mac, la FHA, VA y USDA igual tienen sus propias guías.",

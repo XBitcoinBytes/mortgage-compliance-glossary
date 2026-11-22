@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Hipoteca de eficiencia energética",
-    "aliases": [],
+    "aliases": [
+      "EEM"
+    ],
     "definition": "Una hipoteca de eficiencia energética financia mejoras de energía junto con el préstamo de la vivienda. La FHA, VA y los programas convencionales tienen cada uno una versión. Las mejoras elegibles y los topes en dólares no son los mismos. Use el programa que de verdad está cerrando.",
     "details": "HUD 4000.1 describe la hipoteca de eficiencia energética de la FHA. El manual de VA describe la versión de VA. La guía de Fannie Mae describe cualquier característica de energía convencional que aceptará. Puede exigirse un informe de energía. Los fondos extra son para las mejoras, no efectivo irrestricto. No sume los topes de tres agencias.",
     "complianceNotes": "Nombre la agencia y siga solo ese tope y esa lista de mejoras. Documente el informe de energía si el programa lo exige. Desembolse los fondos para el trabajo.",

@@ -1,7 +1,9 @@
 {
   "slug": "escrow-analysis",
   "term": "Escrow analysis",
-  "aliases": [],
+  "aliases": [
+    "annual escrow statement"
+  ],
   "category": "servicing",
   "definition": "An escrow analysis is the servicer's yearly review of the account. It estimates the taxes and insurance that will be paid, sets the new monthly escrow payment, and tells you whether there is a shortage or a surplus. You should receive the statement.",
   "details": "12 CFR 1024.17 requires the annual analysis and describes the projection, the cushion, and the treatment of shortages and surpluses. A shortage can be collected over 12 months or, in the cases the section allows, in a lump sum. A surplus at or above the section's refund threshold is refunded. Do not invent a different refund amount. Read the section. The longstanding regulatory text uses a surplus of $50 or more as the refund point. Confirm the current sentence before you rely on that figure.",

@@ -26,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Programa de identificación del cliente",
-    "aliases": [],
+    "aliases": [
+      "CIP"
+    ],
     "definition": "Un programa de identificación del cliente es el conjunto de pasos que una institución financiera usa para saber quién es el cliente. Los bancos tienen una regla detallada de CIP. Los prestamistas hipotecarios no bancarios no deben suponer que esa regla bancaria es su reglamento. Sus pasos de identificación están dentro del programa de FinCEN para compañías de préstamos o de financiamiento y de sus propios procedimientos.",
     "details": "31 CFR Parte 1029 es el marco contra el lavado de dinero de las empresas hipotecarias. El CIP bancario en 31 CFR 1020.220 es una regla de bancos y no se cita aquí como si obligara automáticamente a todo corredor hipotecario. El procedimiento que adopte la empresa debe ser lo bastante sólido para apoyar el programa contra el lavado de dinero y la revisión de OFAC. Esta entrada está marcada porque los detalles de identificación de las entidades no bancarias son fáciles de exagerar.",
     "complianceNotes": "Siga el procedimiento escrito de identificación de la empresa y el programa de la Parte 1029. No fotocopie un manual de CIP bancario y llámelo la regla hipotecaria. Escale a un cliente que no proporciona información de identidad.",

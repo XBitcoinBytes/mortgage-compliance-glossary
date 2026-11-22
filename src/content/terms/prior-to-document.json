@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Condición previa a los documentos",
-    "aliases": [],
+    "aliases": [
+      "PTD"
+    ],
     "definition": "Una condición previa a los documentos es jerga de la industria para un punto que el prestamista quiere resuelto antes de preparar el paquete de cierre. Es lenguaje del expediente, no un término definido en el Reglamento Z. Puntos típicos son los documentos de ingreso y la tasación.",
     "details": "Las divulgaciones legales igual corren en sus propios plazos. Levantar condiciones previas a los documentos no reemplaza el período de espera de la Divulgación del cierre. Las condiciones de DU en B3-2-11 pueden etiquetarse así dentro del sistema del prestamista. La etiqueta debe coincidir con lo que los hallazgos de verdad exigen.",
     "complianceNotes": "No pida documentos mientras una condición previa de ingreso o de garantía está abierta, salvo que el procedimiento del prestamista permita expresamente un borrador. Vuelva a revisar las tolerancias de la Estimación del préstamo si una condición cambia un cargo.",

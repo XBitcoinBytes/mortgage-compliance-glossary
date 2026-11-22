@@ -30,7 +30,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley de Informes de Crédito Justos",
-    "aliases": [],
+    "aliases": [
+      "FCRA"
+    ],
     "definition": "La Ley de Informes de Crédito Justos rige los informes del consumidor. Un prestamista puede obtener un informe de crédito hipotecario solo con un propósito permitido, y si el informe lleva a una denegación u otra acción adversa, el prestamista debe dar las divulgaciones que la ley exige, incluido el puntaje y la agencia en las situaciones que enumera la ley.",
     "details": "La ley empieza en 15 USC 1681. Los propósitos permitidos están en 15 USC 1681b. Los deberes de los usuarios que toman una acción adversa están en 15 USC 1681m. El Reglamento V, 12 CFR Parte 1022, incluye el aviso de precio basado en el riesgo. Un propósito permitido para una transacción de crédito no es permiso para obtener un informe de una persona que es solo una referencia.",
     "complianceNotes": "Documente el propósito antes de obtener el informe. Si niega con base en el informe, incluya el contenido de la FCRA en el aviso de acción adversa, no solo las razones de ECOA. No obtenga el informe de un cónyuge sin un propósito.",

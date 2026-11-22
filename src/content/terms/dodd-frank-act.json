@@ -1,7 +1,9 @@
 {
   "slug": "dodd-frank-act",
   "term": "Dodd-Frank Act",
-  "aliases": [],
+  "aliases": [
+    "Dodd-Frank Wall Street Reform and Consumer Protection Act"
+  ],
   "category": "compliance",
   "definition": "The Dodd-Frank Act is the 2010 federal statute that created the Consumer Financial Protection Bureau and put ability to repay, many mortgage-disclosure authorities, and UDAAP standards into federal law. It is a statute, not a CFR part you cite for a fee tolerance.",
   "details": "Title X created the Bureau. Title XIV contained many mortgage reforms now implemented in Regulation Z, including ability to repay at 15 USC 1639c and the loan-originator provisions. UDAAP authority is at 12 USC 5531 and 5536. When you need an operative rule for a file, cite the regulation. Cite Dodd-Frank when the question is the Bureau's authority or the statute behind the rule.",

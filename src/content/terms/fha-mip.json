@@ -34,7 +34,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Prima del seguro hipotecario de la FHA",
-    "aliases": [],
+    "aliases": [
+      "MIP"
+    ],
     "definition": "La prima del seguro hipotecario de la FHA, a menudo llamada MIP, es la prima anual cobrada mensualmente en un préstamo FHA, más una prima inicial separada. Las tasas y cuánto dura la prima anual las fija HUD y cambian. No son el calendario de la Ley de Protección de los Propietarios usado para el PMI convencional.",
     "details": "El Manual HUD 4000.1 y las cartas a los acreedores publican la MIP vigente. No se le debe decir a un prestatario que la prima cae al 80 por ciento de relación préstamo-valor salvo que la carta vigente lo diga para ese préstamo. Muchos préstamos FHA mantienen la MIP anual por un período largo o por la vida del préstamo. Confirme la duración vigente antes de prometer una fecha de fin.",
     "complianceNotes": "Divulgue la MIP mensual en el pago. No la llame PMI. Recalculela cuando HUD cambia las tasas, usando la carta vigente para el caso.",

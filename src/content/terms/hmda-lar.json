@@ -26,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Registro de préstamos y solicitudes de HMDA",
-    "aliases": [],
+    "aliases": [
+      "LAR"
+    ],
     "definition": "El registro de préstamos y solicitudes de HMDA, o LAR, es el archivo de datos que presenta un prestamista cubierto. Cada fila es una solicitud o un préstamo. Los campos se especifican en el Reglamento C. El registro no es un documento que el prestatario firma.",
     "details": "12 CFR 1003.4 enumera los datos que se deben compilar. 12 CFR 1003.5 establece el calendario de reporte y divulgación, incluida la presentación anual. Cite el plazo desde la sección vigente y no de memoria, porque la regla también trata lo que ocurre cuando la fecha cae en un fin de semana o un feriado. Los errores en la acción tomada, el propósito del préstamo o los datos demográficos son hallazgos de examen.",
     "complianceNotes": "Concilie el registro con el sistema de registro antes de presentar. Corrija los errores conocidos dentro del proceso de la regla. No deje que los campos demográficos dirijan la suscripción.",

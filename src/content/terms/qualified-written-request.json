@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Solicitud escrita calificada",
-    "aliases": [],
+    "aliases": [
+      "QWR"
+    ],
     "definition": "Solicitud escrita calificada es el nombre antiguo de RESPA para una consulta por escrito al administrador. Bajo la regla vigente de administración hipotecaria, los deberes viven en las secciones del aviso de error y del pedido de información. Una carta que cumple cualquiera de las dos secciones debe manejarse según esa sección aunque use el nombre antiguo.",
     "details": "12 CFR 1024.35 y 1024.36 reemplazaron el manejo práctico del antiguo concepto de solicitud escrita calificada para los préstamos cubiertos. El personal no debe rechazar una carta porque no dice QWR, y no debe ignorar una carta que sí lo dice. El contenido decide qué sección se aplica. Algunos préstamos y administradores tienen exenciones. Lea las reglas de cobertura.",
     "complianceNotes": "Enrute la carta el día que llega. Si alega un error y pide documentos, ejecute ambos relojes. Conserve la respuesta.",

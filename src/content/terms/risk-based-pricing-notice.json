@@ -1,7 +1,9 @@
 {
   "slug": "risk-based-pricing-notice",
   "term": "Risk-based pricing notice",
-  "aliases": [],
+  "aliases": [
+    "RBPN"
+  ],
   "category": "compliance",
   "definition": "A risk-based pricing notice tells a consumer that the terms they received are worse than the best terms the creditor offers a substantial share of consumers, based on a consumer report. Mortgage creditors often use the credit-score disclosure exception instead of that notice. Using neither, when one is required, is the violation.",
   "details": "12 CFR 1022.72 states the notice and the exception. The exception has content and timing requirements, including the score and the distribution. An adverse-action notice is a different document used when credit is denied. A borrower who receives the loan can still be owed the risk-based pricing notice or the exception disclosure.",
@@ -24,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Aviso de precio basado en el riesgo",
-    "aliases": [],
+    "aliases": [
+      "RBPN"
+    ],
     "definition": "Un aviso de precio basado en el riesgo le dice a un consumidor que los términos que recibió son peores que los mejores términos que el acreedor ofrece a una parte sustancial de los consumidores, con base en un informe del consumidor. Los acreedores hipotecarios a menudo usan la excepción de divulgación del puntaje de crédito en lugar de ese aviso. No usar ninguno, cuando uno se exige, es la violación.",
     "details": "12 CFR 1022.72 establece el aviso y la excepción. La excepción tiene requisitos de contenido y de plazo, incluido el puntaje y la distribución. Un aviso de acción adversa es un documento distinto que se usa cuando se niega el crédito. Un prestatario que recibe el préstamo igual puede tener derecho al aviso de precio basado en el riesgo o a la divulgación de la excepción.",
     "complianceNotes": "Decida qué documento exige la sección y conserve la prueba de que se dio. No trate la tasa porcentual anual de la Estimación del préstamo como el aviso de precio basado en el riesgo.",

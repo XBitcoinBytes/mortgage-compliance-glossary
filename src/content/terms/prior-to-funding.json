@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Condición previa al desembolso",
-    "aliases": [],
+    "aliases": [
+      "PTF"
+    ],
     "definition": "Una condición previa al desembolso es jerga de la industria para un punto que vence antes de que el prestamista envíe el dinero. Una verificación verbal de empleo y una actualización final de título son ejemplos comunes. El día de la firma puede ocurrir mientras uno de estos puntos sigue abierto, si el proceso del prestamista lo permite.",
     "details": "Esta etiqueta no está en el Reglamento Z. El desembolso no siempre es el mismo día que la consumación. La condición igual debe satisfacerse antes del desembolso si la aprobación lo dice. Los mensajes de DU según B3-2-11 pueden recibir este plazo dentro del sistema del prestamista.",
     "complianceNotes": "No desembolse porque la ceremonia de cierre terminó si una condición previa al desembolso está abierta. Quien desembolsa debe ver el punto resuelto, no una promesa de que llegará.",

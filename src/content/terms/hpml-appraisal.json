@@ -1,7 +1,10 @@
 {
   "slug": "hpml-appraisal",
   "term": "HPML appraisal rule",
-  "aliases": [],
+  "aliases": [
+    "HPML appraisal",
+    "higher-priced mortgage appraisal"
+  ],
   "category": "compliance",
   "definition": "The higher-priced mortgage appraisal rule generally requires a written appraisal by a certified or licensed appraiser who inspects the interior. Some purchases that are quick resales, often called flips, can require a second appraisal. The details, including which price increases trigger the second appraisal, are in the regulation.",
   "details": "12 CFR 1026.35(c) is the appraisal rule. It has exemptions. A value-acceptance offer from Fannie Mae does not erase a Regulation Z appraisal requirement if the loan is a covered higher-priced mortgage and no exemption applies. The borrower still receives appraisal copies under Regulation B. Interior inspection and independence under 12 CFR 1026.42 still matter.",

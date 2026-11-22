@@ -1,7 +1,9 @@
 {
   "slug": "kickback",
   "term": "Kickback",
-  "aliases": [],
+  "aliases": [
+    "referral fee"
+  ],
   "category": "compliance",
   "definition": "A kickback, in mortgage compliance, is a thing of value given or received for referring settlement-service business. It is illegal under RESPA Section 8 even when the borrower still got a loan and even when the fee was disclosed. The word covers cash, gifts, free rent, and other benefits.",
   "details": "12 CFR 1024.14 and 12 USC 2607 are the authorities. The violation is the exchange for the referral, not a particular job title. A bona fide salary for an employee who does not refer business in exchange for extra pay is different. This glossary does not describe structures that try to hide a referral payment inside a marketing invoice.",

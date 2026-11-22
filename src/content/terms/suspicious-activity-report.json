@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Reporte de actividad sospechosa",
-    "aliases": [],
+    "aliases": [
+      "SAR"
+    ],
     "definition": "Un reporte de actividad sospechosa es un informe confidencial a FinCEN sobre actividad que puede involucrar lavado de dinero u otro delito. Si un reporte es exigido, y a qué nivel en dólares, depende de la regla de FinCEN para ese tipo de institución. Un SAR no es un documento que usted discute con el cliente.",
     "details": "31 USC 5318 trata el reporte. 31 CFR Parte 1029 contiene las disposiciones de SAR de las hipotecas residenciales. El reporte es confidencial. Decirle al cliente que se presentó un reporte, o estructurar una transacción para quedarse bajo un umbral, es en sí un problema grave. Este glosario no indica un umbral en dólares y no describe cómo evitar una presentación.",
     "complianceNotes": "Escale los hechos inusuales al oficial contra el lavado de dinero. No le diga al prestatario que se está considerando un reporte. No divida un regalo o una transferencia para cambiar cómo se ve.",

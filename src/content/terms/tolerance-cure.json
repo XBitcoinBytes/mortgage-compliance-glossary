@@ -1,7 +1,10 @@
 {
   "slug": "tolerance-cure",
   "term": "Tolerance cure",
-  "aliases": [],
+  "aliases": [
+    "cure",
+    "tolerance refund"
+  ],
   "category": "closing",
   "definition": "A tolerance cure is the creditor's refund of the amount by which a charge exceeded the allowed tolerance. The creditor generally must provide the refund at consummation or within 60 days afterward. The 60-day period is in the regulation. A cure is not a reason to pretend the Loan Estimate was right.",
   "details": "12 CFR 1026.19(f)(2)(v) addresses the cure for a closing cost that exceeds the tolerance. A principal reduction is one method the rule discusses. A lender credit on the Closing Disclosure can also make the consumer whole if it is large enough and is disclosed correctly. Lowering a previously disclosed lender credit can itself be a tolerance problem.",

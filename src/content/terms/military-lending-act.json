@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley de Préstamos para Militares",
-    "aliases": [],
+    "aliases": [
+      "MLA"
+    ],
     "definition": "La Ley de Préstamos para Militares limita el costo de cierto crédito al consumidor para miembros del servicio cubiertos y sus dependientes. Una hipoteca residencial garantizada por una vivienda está excluida de la definición de crédito al consumidor de la ley. Esa exclusión no apaga la Ley de Alivio Civil para Miembros del Servicio.",
     "details": "10 USC 987 es la ley. 32 CFR 232.3(f)(2) excluye una hipoteca residencial, incluida una compra, un préstamo de construcción, un refinanciamiento, un préstamo o línea sobre el valor líquido y una hipoteca inversa, cuando el crédito está garantizado por una vivienda. La exclusión es la razón por la que la tasa porcentual anual de una hipoteca típica no se reescribe al cálculo del 36 por ciento de la MLA. El crédito sin garantía y algunos préstamos personales siguen cubiertos. No use la exclusión para un préstamo que no está garantizado por la vivienda.",
     "complianceNotes": "Documente por qué un producto está fuera de la MLA, y todavía revise los beneficios de la SCRA. No le diga a un miembro del servicio que las reglas hipotecarias no se aplican porque la MLA no se aplica.",

@@ -1,7 +1,11 @@
 {
   "slug": "servicing-transfer",
   "term": "Servicing transfer",
-  "aliases": [],
+  "aliases": [
+    "transfer of servicing",
+    "hello letter",
+    "goodbye letter"
+  ],
   "category": "servicing",
   "definition": "A servicing transfer moves the right to collect your payments from one servicer to another. Your loan terms do not change because the servicer changes. You should receive notices from the old servicer and the new one. For a period the rule specifies, a payment sent to the old servicer on time cannot be treated as late.",
   "details": "12 CFR 1024.33 requires the notices and the payment protection. The exact day counts for the notices and for the protection are in that section. This entry does not restate them, so the file is checked against the current text. The new servicer must also honor pending loss-mitigation information as the section and 1024.41 require.",

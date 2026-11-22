@@ -1,7 +1,9 @@
 {
   "slug": "loss-mitigation",
   "term": "Loss mitigation",
-  "aliases": [],
+  "aliases": [
+    "loss mit"
+  ],
   "category": "servicing",
   "definition": "Loss mitigation is the set of options that can avoid foreclosure, such as a forbearance, a repayment plan, a modification, or a short sale. The procedure for reviewing an application is federal. The offer you actually get depends on the investor, which may be Fannie Mae, Freddie Mac, FHA, VA, USDA, or a private owner.",
   "details": "12 CFR 1024.41 sets the application, acknowledgment, evaluation, and appeal framework, and it limits foreclosure steps while a complete application is being reviewed. It does not require a particular modification. The investor's guide states the waterfall. A servicer that offers an option the investor did not authorize, or that ignores a complete application, has two different problems.",

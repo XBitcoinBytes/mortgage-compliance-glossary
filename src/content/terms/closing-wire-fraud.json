@@ -1,7 +1,10 @@
 {
   "slug": "closing-wire-fraud",
   "term": "Closing wire fraud",
-  "aliases": [],
+  "aliases": [
+    "wire fraud",
+    "business email compromise"
+  ],
   "category": "closing",
   "definition": "Closing wire fraud is a crime in which someone impersonates the settlement agent or the lender and sends fake wiring instructions. The buyer's money goes to the criminal. The defense is to verify any wiring instruction by a phone number you look up yourself, not by a number in the email.",
   "details": "This is a security practice, not a TRID rule. The CFPB and other agencies warn consumers about it. The Closing Disclosure states the cash to close, but the wiring instructions usually come from the settlement agent. A last-minute email that changes the bank is the usual scheme. This entry does not describe how the fraud is carried out beyond that warning.",

@@ -1,7 +1,10 @@
 {
   "slug": "respa-section-8",
   "term": "RESPA Section 8",
-  "aliases": [],
+  "aliases": [
+    "Section 8",
+    "12 USC 2607"
+  ],
   "category": "compliance",
   "definition": "RESPA Section 8 prohibits giving or receiving a thing of value for the referral of settlement-service business, and it prohibits splitting a charge except for services actually performed. A thank-you payment to a real-estate agent for sending a borrower is the classic violation.",
   "details": "The statute is 12 USC 2607. The regulation is 12 CFR 1024.14. The thing of value is broad. A payment for a real service, priced at the market value of that service, is different from a payment for the referral. Affiliated business arrangements have a narrow permission in 1024.15. There is no safe harbor for a marketing agreement that is really a referral fee.",
