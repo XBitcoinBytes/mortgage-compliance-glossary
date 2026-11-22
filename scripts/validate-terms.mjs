@@ -122,6 +122,17 @@ for (const figure of figures) {
   if (/\$\s?\d/.test(`${figure.cadence} ${figure.esCadence}`)) fail(`figure ${figure.id} must not hard-code a dollar figure`);
 }
 
+// Warnings: do not fail the build, but print for an editor.
+const warnings = [];
+for (const term of terms.values()) {
+  if ((term.related ?? []).length > 30) warnings.push(`${term.slug} has ${term.related.length} related terms (hub pages over 30 are hard to scan)`);
+  const text = JSON.stringify([term.definition, term.borrower, term.example]);
+  for (const m of text.matchAll(/(?<![A-Za-z])a (?:[aeiou]\w+)/g)) {
+    if (!/^a (?:one|uni|use|usu|eu|uti|ura)/i.test(m[0])) warnings.push(`${term.slug}: check article "${m[0]}"`);
+  }
+}
+if (warnings.length) console.warn(`${warnings.length} editorial warning(s):\n  ` + warnings.slice(0, 20).join("\n  "));
+
 if (errors.length) {
   console.error(`validation failed with ${errors.length} error(s):`);
   for (const error of errors.slice(0, 80)) console.error(`- ${error}`);
