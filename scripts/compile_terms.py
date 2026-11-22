@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).parent))
 
 from alias_overlay import apply as apply_aliases  # noqa: E402
+from pinpoint_overlay import apply as apply_pins  # noqa: E402
 
 MODULES = ["o", "u1", "u2", "c1", "c2", "l", "s", "p", "f"]
 
@@ -65,7 +66,7 @@ def main() -> None:
                     "example": {"setting": entry["es_setting"], "text": entry["es_example"]},
                 },
             }
-            doc = apply_aliases(doc)
+            doc = apply_pins(apply_aliases(doc))
             if entry.get("flag"):
                 doc["reviewFlag"] = entry["flag"]
             (out / f"{slug}.json").write_text(json.dumps(doc, indent=2, ensure_ascii=False) + "\n")

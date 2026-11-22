@@ -1383,5 +1383,143 @@
     "url": "https://guide.freddiemac.com/app/guide/",
     "kind": "industry-practice",
     "partId": "practice"
+  },
+  {
+    "id": "reg-1026-19-e-1-iii",
+    "label": "12 CFR 1026.19(e)(1)(iii)",
+    "title": "Regulation Z \u2014 Loan Estimate delivery timing (third business day after application)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(1)(iii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-1-iii",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-1-iii-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-1-vi-C",
+    "label": "12 CFR 1026.19(e)(1)(vi)(C)",
+    "title": "Regulation Z \u2014 Written list of providers",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(1)(vi)(C)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-1-vi-C"
+  },
+  {
+    "id": "reg-1026-19-e-2-i-A",
+    "label": "12 CFR 1026.19(e)(2)(i)(A)",
+    "title": "Regulation Z \u2014 Fee restriction before the Loan Estimate and intent to proceed",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(2)(i)(A)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-2-i-A",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-2-i-A-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-2-ii",
+    "label": "12 CFR 1026.19(e)(2)(ii)",
+    "title": "Regulation Z \u2014 Written estimates given before the Loan Estimate",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(2)(ii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-2-ii",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-2-ii-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-3-i",
+    "label": "12 CFR 1026.19(e)(3)(i)",
+    "title": "Regulation Z \u2014 Good faith general rule (zero tolerance)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(3)(i)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-3-i",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-3-i-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-3-ii",
+    "label": "12 CFR 1026.19(e)(3)(ii)",
+    "title": "Regulation Z \u2014 Limited increases for certain charges (10 percent tolerance)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(3)(ii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-3-ii",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-3-ii-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-3-iii",
+    "label": "12 CFR 1026.19(e)(3)(iii)",
+    "title": "Regulation Z \u2014 Variations permitted for certain charges",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(3)(iii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-3-iii",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-3-iii-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-3-iv",
+    "label": "12 CFR 1026.19(e)(3)(iv)",
+    "title": "Regulation Z \u2014 Revised estimates and changed circumstances",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(3)(iv)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-3-iv",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-3-iv-Interp"
+  },
+  {
+    "id": "reg-1026-19-e-4",
+    "label": "12 CFR 1026.19(e)(4)",
+    "title": "Regulation Z \u2014 Provision and receipt of revised Loan Estimates",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(e)(4)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#e-4",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-e-4-Interp"
+  },
+  {
+    "id": "reg-1026-19-f-1-ii",
+    "label": "12 CFR 1026.19(f)(1)(ii)",
+    "title": "Regulation Z \u2014 Closing Disclosure timing (three business days before consummation)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(f)(1)(ii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#f-1-ii",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-f-1-ii-Interp"
+  },
+  {
+    "id": "reg-1026-19-f-2-ii",
+    "label": "12 CFR 1026.19(f)(2)(ii)",
+    "title": "Regulation Z \u2014 Changes before consummation requiring a new waiting period",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(f)(2)(ii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#f-2-ii",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-f-2-ii-Interp"
+  },
+  {
+    "id": "reg-1026-19-f-2-v",
+    "label": "12 CFR 1026.19(f)(2)(v)",
+    "title": "Regulation Z \u2014 Refunds related to the good faith analysis",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19#p-1026.19(f)(2)(v)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#f-2-v",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/#19-f-2-v-Interp"
+  },
+  {
+    "id": "reg-1026-2-a-3-ii",
+    "label": "12 CFR 1026.2(a)(3)(ii)",
+    "title": "Regulation Z \u2014 Application (six pieces of information) for TRID loans",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.2#p-1026.2(a)(3)(ii)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/2/#a-3-ii"
+  },
+  {
+    "id": "reg-1026-2-a-6",
+    "label": "12 CFR 1026.2(a)(6)",
+    "title": "Regulation Z \u2014 Business day (general and specific definitions)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.2#p-1026.2(a)(6)",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/2/#a-6",
+    "interpUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/2/#2-a-6-Interp"
   }
 ]

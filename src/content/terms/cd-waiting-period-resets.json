@@ -11,6 +11,7 @@
     "text": "A sample APR that moves from an example 6.61 percent to 6.90 percent might become inaccurate and reset the wait. Whether it is inaccurate is the test in 1026.22. Example figures."
   },
   "citations": [
+    "reg-1026-19-f-2-ii",
     "reg-1026-19",
     "reg-1026-22"
   ],

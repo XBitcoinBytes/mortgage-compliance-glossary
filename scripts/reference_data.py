@@ -802,6 +802,44 @@ CATS = {
 }
 
 
+# Pinpoint citations (paragraph level). Each paragraph id and its wording were
+# checked against the eCFR text current as of 2026-11-19 before it was added.
+def pin(part, sec, para, name, interp=True):
+    section = f"{part}.{sec}"
+    pid = para.replace(")(", "-").strip("()")
+    row = C(
+        f"reg-{part}-{sec}-{pid}",
+        f"12 CFR {section}{para}",
+        name,
+        ECFR12S.format(part=part, section=section) + f"#p-{section}{para}",
+        "regulation",
+        part,
+        CFPB.format(part=part, sec=sec) + "#" + pid,
+    )
+    if interp:
+        # Official Interpretation (Supplement I) comment anchor on the CFPB page; verified present.
+        row["interpUrl"] = CFPB.format(part=part, sec=sec) + f"#{sec}-{pid}-Interp"
+    return row
+
+
+citations += [
+    pin("1026", "19", "(e)(1)(iii)", "Regulation Z — Loan Estimate delivery timing (third business day after application)"),
+    pin("1026", "19", "(e)(1)(vi)(C)", "Regulation Z — Written list of providers", interp=False),
+    pin("1026", "19", "(e)(2)(i)(A)", "Regulation Z — Fee restriction before the Loan Estimate and intent to proceed"),
+    pin("1026", "19", "(e)(2)(ii)", "Regulation Z — Written estimates given before the Loan Estimate"),
+    pin("1026", "19", "(e)(3)(i)", "Regulation Z — Good faith general rule (zero tolerance)"),
+    pin("1026", "19", "(e)(3)(ii)", "Regulation Z — Limited increases for certain charges (10 percent tolerance)"),
+    pin("1026", "19", "(e)(3)(iii)", "Regulation Z — Variations permitted for certain charges"),
+    pin("1026", "19", "(e)(3)(iv)", "Regulation Z — Revised estimates and changed circumstances"),
+    pin("1026", "19", "(e)(4)", "Regulation Z — Provision and receipt of revised Loan Estimates"),
+    pin("1026", "19", "(f)(1)(ii)", "Regulation Z — Closing Disclosure timing (three business days before consummation)"),
+    pin("1026", "19", "(f)(2)(ii)", "Regulation Z — Changes before consummation requiring a new waiting period"),
+    pin("1026", "19", "(f)(2)(v)", "Regulation Z — Refunds related to the good faith analysis"),
+    pin("1026", "2", "(a)(3)(ii)", "Regulation Z — Application (six pieces of information) for TRID loans", interp=False),
+    pin("1026", "2", "(a)(6)", "Regulation Z — Business day (general and specific definitions)"),
+]
+
+
 def build_manifest():
     seen = set()
     manifest = []

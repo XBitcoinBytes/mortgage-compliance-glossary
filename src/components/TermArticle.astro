@@ -118,6 +118,12 @@ const jsonLd = {
                 {source.cfpbUrl && (
                   <div>
                     <a href={source.cfpbUrl} rel="noopener noreferrer">{ui.cfpbText}</a>
+                    {source.interpUrl && (
+                      <>
+                        {" · "}
+                        <a href={source.interpUrl} rel="noopener noreferrer">{ui.interpText}</a>
+                      </>
+                    )}
                   </div>
                 )}
               </li>

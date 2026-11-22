@@ -18,6 +18,7 @@ export interface Citation {
   title: string;
   url: string;
   cfpbUrl?: string;
+  interpUrl?: string;
   kind: CitationKind;
   partId: string;
 }
