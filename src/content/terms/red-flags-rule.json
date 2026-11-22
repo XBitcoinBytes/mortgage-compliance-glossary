@@ -1,7 +1,9 @@
 {
   "slug": "red-flags-rule",
   "term": "Red Flags Rule",
-  "aliases": [],
+  "aliases": [
+    "identity theft red flags"
+  ],
   "category": "compliance",
   "definition": "The Red Flags Rule requires creditors and financial institutions that offer covered accounts to maintain a written identity-theft prevention program. A mortgage loan can be a covered account. The rule is 16 CFR Part 681. It is not the same as an OFAC screen or an AML program, though a company may coordinate them.",
   "details": "Part 681 requires the program to detect, prevent, and mitigate identity theft in connection with covered accounts. Red flags include altered documents, an address that does not match, and a credit report that contains a fraud alert. The program should say what staff do when a flag appears. Ignoring a fraud alert because the closing is scheduled is the failure mode.",

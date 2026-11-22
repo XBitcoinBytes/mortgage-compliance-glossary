@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley de Protección de los Propietarios",
-    "aliases": [],
+    "aliases": [
+      "HPA"
+    ],
     "definition": "La Ley de Protección de los Propietarios es la ley federal que permite a un prestatario cancelar el seguro hipotecario privado y que exige que el seguro termine automáticamente. Se aplica al PMI pagado por el prestatario en hipotecas cubiertas. No cancela las primas del seguro hipotecario de la FHA.",
     "details": "12 USC 4901 define el valor original y los términos relacionados. 12 USC 4902 establece la cancelación pedida por el prestatario y la terminación automática. La cancelación está ligada a la fecha en que el saldo de capital está programado por primera vez para llegar al 80 por ciento del valor original, si el prestatario está al día y tiene un buen historial de pago y cumple las otras condiciones de la ley. La terminación automática está ligada al 78 por ciento si el prestatario está al día. No omita esas condiciones.",
     "complianceNotes": "Use el valor original como lo define la ley, no una tasación nueva que el prestatario prefiere, salvo que una disposición que usted pueda citar lo permita. No aplique la ley a la MIP de la FHA ni al seguro hipotecario pagado por el prestamista del mismo modo.",

@@ -32,7 +32,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Seguro de la vivienda",
-    "aliases": [],
+    "aliases": [
+      "HOI"
+    ],
     "definition": "El seguro de la vivienda, también llamado seguro de riesgos, cubre la casa contra incendio y daños similares. Los prestamistas lo exigen porque la casa es la garantía. No es seguro de inundación, no es seguro de título y no es seguro hipotecario.",
     "details": "La Selling Guide de Fannie Mae establece expectativas de cobertura, como el costo de reposición o el saldo principal impago, y límites del deducible. Lea la sección vigente en lugar de citar de memoria una fórmula de cobertura. La prima es un prepago en la Sección F y, si está en depósito en garantía, un monto mensual en el pago de vivienda. Si la póliza vence después, el administrador puede imponer un seguro según el Reglamento X.",
     "complianceNotes": "Recoja un comprobante que nombre al prestamista como acreedor hipotecario antes del desembolso. Haga coincidir la prima con la Sección F. No acepte una póliza solo de inundación como seguro de riesgos.",

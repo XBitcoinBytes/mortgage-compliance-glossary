@@ -26,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Deuda a plazos",
-    "aliases": [],
+    "aliases": [
+      "Deuda en cuotas"
+    ],
     "definition": "Una deuda a plazos es un préstamo que usted paga en cuotas regulares hasta que termina, como un préstamo de automóvil o un préstamo personal. El pago por lo general se cuenta en su relación deuda-ingreso. Un préstamo al que le quedan pocos pagos puede omitirse si se cumplen las condiciones de la guía.",
     "details": "Fannie Mae B3-6-05 indica al prestamista qué pagos a plazos incluir y cuándo una deuda con pocos pagos restantes puede omitirse. El número de pagos restantes está en esa sección y debe leerse allí, no recordarse. Pagar la deuda en el cierre es una regla distinta, cubierta en B3-6-07, y los fondos usados para pagarla deben documentarse.",
     "complianceNotes": "Incluya el pago del informe de crédito salvo que documente una regla de omisión. No quite un arrendamiento de automóvil porque parece pequeño. Si el prestatario pagará la deuda en el cierre, muestre el origen de esos fondos y vuelva a enviar el expediente cuando la guía lo exija.",

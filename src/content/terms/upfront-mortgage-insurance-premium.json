@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Prima inicial del seguro hipotecario",
-    "aliases": [],
+    "aliases": [
+      "UFMIP"
+    ],
     "definition": "La prima inicial del seguro hipotecario es la prima única de la FHA cobrada en el cierre. A menudo puede financiarse dentro del préstamo. El porcentaje lo fija HUD y cambia. No use un porcentaje recordado.",
     "details": "HUD 4000.1 y la carta vigente a los acreedores indican la tasa inicial y si es reembolsable en un refinanciamiento posterior. Financiarla aumenta el monto del préstamo y puede afectar la hipoteca máxima. No es un punto de descuento. No es PMI convencional. La MIP anual es un cargo mensual distinto.",
     "complianceNotes": "Obtenga el porcentaje vigente antes de divulgar. Muestre la prima en la Estimación del préstamo si se cobra. No financie más de lo que permite el manual.",

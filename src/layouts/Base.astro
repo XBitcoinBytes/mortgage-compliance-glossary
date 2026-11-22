@@ -1,7 +1,6 @@
 ---
 import type { Lang } from "../lib/types";
 import { hrefFor, t } from "../lib/i18n";
-import { searchRecords } from "../lib/content";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "@fontsource/fraunces/latin-600.css";
@@ -27,7 +26,6 @@ const canonicalPath = hrefFor(lang, path);
 const canonical = new URL(canonicalPath, origin).toString();
 const enUrl = new URL(hrefFor("en", path), origin).toString();
 const esUrl = new URL(hrefFor("es", path), origin).toString();
-const indexJson = JSON.stringify(searchRecords()).replace(/</g, "\\u003c");
 const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
 ---
 
@@ -45,6 +43,9 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
           }
           document.documentElement.setAttribute("data-theme", theme);
           var view = localStorage.getItem("mcg-view");
+          // A shared link can carry ?view=borrower or ?view=professional.
+          var shared = new URLSearchParams(location.search).get("view");
+          if (shared === "borrower" || shared === "professional") view = shared;
           if (view !== "borrower" && view !== "professional") view = "professional";
           document.documentElement.setAttribute("data-view", view);
         } catch (e) {}
@@ -88,7 +89,6 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
         <ul class="results" id="search-results" role="listbox"></ul>
       </div>
     </dialog>
-    <script type="application/json" id="search-index" set:html={indexJson} />
     <script>
       import { initChrome } from "../scripts/chrome";
       initChrome();

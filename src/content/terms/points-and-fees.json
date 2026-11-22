@@ -1,7 +1,10 @@
 {
   "slug": "points-and-fees",
   "term": "Points and fees",
-  "aliases": [],
+  "aliases": [
+    "QM points and fees",
+    "HOEPA points and fees"
+  ],
   "category": "compliance",
   "definition": "Points and fees are the charges Regulation Z adds up to test a qualified mortgage and a high-cost mortgage. The total is not the same as all closing costs and not the same as the finance charge. Some charges count and some do not.",
   "details": "The inclusions and exclusions are in 12 CFR 1026.32(b). Bona fide discount points can be excluded only if they meet that section. The qualified-mortgage cap in 12 CFR 1026.43 uses this total. For larger loans the cap is 3 percent of the total loan amount. Smaller loans use higher percentage or dollar caps. The dollar breakpoints are adjusted each year. Confirm the current adjustment before you apply a cutoff.",

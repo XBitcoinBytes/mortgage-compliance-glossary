@@ -38,7 +38,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Hipoteca calificada",
-    "aliases": [],
+    "aliases": [
+      "QM"
+    ],
     "definition": "Una hipoteca calificada es una hipoteca cubierta que cumple los límites del producto, el tope de puntos y cargos y los requisitos de suscripción del Reglamento Z. Hacer una hipoteca calificada da al acreedor una presunción de cumplimiento de la capacidad de pago. La fuerza de esa presunción depende de si el préstamo es de precio más alto.",
     "details": "La definición está en 12 CFR 1026.43(e). Características como la amortización negativa, los períodos de solo interés y la mayoría de los pagos globales no se permiten. El tope de puntos y cargos usa el cálculo de 12 CFR 1026.32, y los cortes en dólares que deciden qué porcentaje se aplica se ajustan periódicamente. No use el corte en dólares del año pasado. El parche temporal de la hipoteca calificada de las GSE terminó. No trate la entrega a una agencia por sí sola como la definición general vigente.",
     "complianceNotes": "Ejecute la prueba de puntos y cargos con los números finales antes de la consumación. Separe el puerto seguro de la presunción refutable usando la prueba de precio más alto. Conserve la hoja.",

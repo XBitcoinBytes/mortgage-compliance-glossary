@@ -2,7 +2,9 @@
   "slug": "loan-estimate",
   "term": "Loan Estimate",
   "aliases": [
-    "LE"
+    "LE",
+    "Good Faith Estimate (replaced)",
+    "GFE"
   ],
   "category": "origination",
   "definition": "A Loan Estimate is the three-page form a creditor must give you after you apply for most closed-end mortgages secured by a home. It shows the rate, the payment, and the closing costs the creditor expects, so you can compare offers before you choose one.",
@@ -13,6 +15,7 @@
     "text": "On a sample purchase, page 1 might show a 30-year fixed product and an example note rate of 6.50 percent, and page 2, Section A, an origination charge of $1,195 on a $360,000 example loan. Example figures, not a quote or a current market rate."
   },
   "citations": [
+    "reg-1026-19-e-1-iii",
     "reg-1026-19",
     "reg-1026-37",
     "cfpb-le"
@@ -66,7 +69,8 @@
   "es": {
     "term": "Estimación del préstamo",
     "aliases": [
-      "LE"
+      "LE",
+      "GFE"
     ],
     "definition": "La Estimación del préstamo es el formulario de tres páginas que el acreedor debe darle después de que usted solicita la mayoría de las hipotecas de crédito cerrado garantizadas por una vivienda. Muestra la tasa, el pago y los costos de cierre que el acreedor espera, para que usted compare ofertas.",
     "details": "El Reglamento Z exige que el acreedor entregue la Estimación del préstamo, o la ponga en el correo, dentro de los tres días hábiles siguientes a la solicitud, y por lo general no más tarde del séptimo día hábil antes de la consumación. El contenido está en 12 CFR 1026.37. La solicitud existe cuando el acreedor tiene los seis datos de 12 CFR 1026.2(a)(3)(ii). Este formulario reemplazó al Good Faith Estimate y a la divulgación temprana de TILA en los préstamos cubiertos. Las hipotecas inversas, las HELOC y ciertos préstamos de asistencia quedan fuera.",

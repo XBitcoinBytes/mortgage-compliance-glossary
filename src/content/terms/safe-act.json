@@ -1,7 +1,9 @@
 {
   "slug": "safe-act",
   "term": "SAFE Act",
-  "aliases": [],
+  "aliases": [
+    "Secure and Fair Enforcement for Mortgage Licensing Act"
+  ],
   "category": "origination",
   "definition": "The SAFE Act is the federal law that requires mortgage loan originators to be licensed or registered, to pass background checks, and to meet education standards set out in the statute and in state law. It is the license law. Compensation limits live in Regulation Z.",
   "details": "12 USC 5101 states the purposes. 12 USC 5104 addresses state licensing. Regulation G, 12 CFR 1007, covers originators at depository institutions. Regulation H, 12 CFR 1008, is the federal floor for state licensing of other originators. States add their own applications, bonds, and fees. Education hour requirements should be read from the statute and the current state rule rather than from memory.",

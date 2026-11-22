@@ -38,7 +38,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Tasa porcentual anual",
-    "aliases": [],
+    "aliases": [
+      "APR"
+    ],
     "definition": "La tasa porcentual anual, o APR, es el costo del préstamo expresado como una tasa anual. Incluye la tasa de interés y ciertos cargos por financiamiento, como los puntos. Casi siempre es más alta que la tasa del pagaré. No es la tasa de su pagaré y no es el pago.",
     "details": "12 CFR 1026.22 establece cómo se determina la tasa porcentual anual. La Divulgación del cierre la muestra en los cálculos del préstamo según 12 CFR 1026.38. Una tasa porcentual anual que se vuelve inexacta es uno de los tres eventos que pueden reiniciar la espera de tres días hábiles de la Divulgación del cierre según 12 CFR 1026.19(f)(2). La tasa porcentual anual también es la tasa usada en las pruebas de precio más alto y de alto costo. Una tolerancia de exactitud está en el reglamento. No invente una.",
     "complianceNotes": "Recalcule la tasa porcentual anual cuando cambian los puntos, los créditos del prestamista o la tasa. Compárela con la tasa del pagaré antes de explicar el formulario al prestatario. Si la tasa porcentual anual se mueve más allá de la tolerancia de exactitud, reinicie la espera de la Divulgación del cierre.",

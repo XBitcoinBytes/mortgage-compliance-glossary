@@ -495,3 +495,19 @@ html:not([data-view="borrower"]) .pro-panel[data-open="false"] .pro-body { displ
   a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.85em; }
   .term-layout { display: block; }
 }
+
+/* Loop pass 5: section anchors, citation line, share row */
+.anchor { font-size: 0.8em; margin-left: 0.35em; text-decoration: none; opacity: 0; color: var(--ink-soft); }
+h2:hover .anchor, .anchor:focus { opacity: 1; }
+@media (hover: none) { .anchor { opacity: 0.55; } }
+.cite-panel { margin-top: 2rem; padding: 0.9rem 1rem; border: 1px dashed var(--line, #ccc); border-radius: 10px; }
+.cite-panel h2 { font-size: 1rem; margin: 0 0 0.35rem; }
+.cite-text { font-size: 0.92rem; word-break: break-word; margin: 0; }
+.share-row { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1rem; }
+:target { scroll-margin-top: 5rem; }
+.figures { list-style: none; padding: 0; }
+.figures li { border-top: 1px solid var(--line); padding: 0.9rem 0; }
+.figures h2 { font-size: 1.1rem; margin: 0 0 0.3rem; }
+.figures p { margin: 0.25rem 0; }
+.fig-terms { font-size: 0.92rem; }
+.figure-note { font-size: 0.92rem; border-left: 3px solid var(--line); padding: 0.4rem 0.7rem; margin: 0.8rem 0; }

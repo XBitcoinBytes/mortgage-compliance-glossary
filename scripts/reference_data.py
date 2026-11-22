@@ -16,10 +16,9 @@ DATA = ROOT / "src" / "data"
 ECFR12 = "https://www.ecfr.gov/current/title-12/chapter-X/part-{part}"
 ECFR12S = ECFR12 + "/section-{section}"
 CFPB = "https://www.consumerfinance.gov/rules-policy/regulations/{part}/{sec}/"
-USC = (
-    "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title{title}-section{section}"
-    "&num=0&edition=prelim"
-)
+# uscode.house.gov retired the view.xhtml?req=granuleid links in 2026; the
+# unversioned /us/usc/t{title}/s{section}/ route serves the current text.
+USC = "https://uscode.house.gov/us/usc/t{title}/s{section}/"
 
 
 def C(id_, label, title, url, kind, part, cfpb=None):
@@ -36,6 +35,10 @@ def C(id_, label, title, url, kind, part, cfpb=None):
     return row
 
 
+# The CFPB interactive-regulations site has no page for these parts (404 as of Nov 2026).
+NO_CFPB_REG_PAGE = {"1014"}
+
+
 def reg(part, section, name, part_id=None):
     sec = str(section)
     pid = part_id or part
@@ -48,6 +51,8 @@ def reg(part, section, name, part_id=None):
         url = ECFR12S.format(part=part, section=f"{part}.{sec}")
         cfpb = CFPB.format(part=part, sec=sec)
         cid = f"reg-{part}-{sec.replace('.', '-')}"
+    if part in NO_CFPB_REG_PAGE:
+        cfpb = None
     return C(cid, label, name, url, "regulation", pid, cfpb)
 
 
@@ -94,7 +99,7 @@ for sec, name in [
     ("17", "Regulation X — Escrow accounts"),
     ("20", "Regulation X — List of homeownership counseling organizations"),
     ("33", "Regulation X — Mortgage servicing transfers"),
-    ("34", "Regulation X — Timely escrow payments and payoff-related responses"),
+    ("34", "Regulation X — Timely escrow payments and treatment of escrow account balances"),
     ("35", "Regulation X — Error resolution procedures"),
     ("36", "Regulation X — Requests for information"),
     ("37", "Regulation X — Force-placed insurance"),
@@ -107,7 +112,7 @@ for sec, name in [
 
 for sec, name in [
     ("part", "Regulation B (Equal Credit Opportunity Act)"),
-    ("4", "Regulation B — Discrimination"),
+    ("4", "Regulation B — General rules, including the prohibition on discrimination"),
     ("5", "Regulation B — Rules concerning requests for information"),
     ("6", "Regulation B — Rules concerning evaluation of applications"),
     ("7", "Regulation B — Rules concerning extensions of credit"),
@@ -260,38 +265,38 @@ fannie_sections = [
     ("fannie-b3-2-05", "B3-2-05", "Approve/Eligible recommendations", "b3-2-05/approveeligible-recommendations", "agency-guide"),
     ("fannie-b3-2-06", "B3-2-06", "Approve/Ineligible recommendations", "b3-2-06/approveineligible-recommendations", "agency-guide"),
     ("fannie-b3-2-07", "B3-2-07", "Refer with Caution recommendations", "b3-2-07/refer-caution-recommendations", "agency-guide"),
-    ("fannie-b3-2-08", "B3-2-08", "Out of Scope recommendations", "b3-2-08", "agency-guide"),
+    ("fannie-b3-2-08", "B3-2-08", "Out of Scope recommendations", "b3-2-08/out-scope-recommendations", "agency-guide"),
     ("fannie-b3-2-10", "B3-2-10", "Accuracy of DU data, tolerances, and credit-report errors", "b3-2-10/accuracy-du-data-du-tolerances-and-errors-credit-report", "agency-guide"),
-    ("fannie-b3-2-11", "B3-2-11", "DU Underwriting Findings report", "b3-2-11", "agency-guide"),
+    ("fannie-b3-2-11", "B3-2-11", "DU Underwriting Findings report", "b3-2-11/du-underwriting-findings-report", "agency-guide"),
     ("fannie-b3-3-1-01", "B3-3.1-01", "General income information", "b3-3.1-01/general-income-information", "agency-guide"),
-    ("fannie-b3-3-1-02", "B3-3.1-02", "Tax return and transcript documentation", "b3-3.1-02", "agency-guide"),
-    ("fannie-b3-3-1-03", "B3-3.1-03", "Income Calculator", "b3-3.1-03", "agency-guide"),
-    ("fannie-b3-3-1-04", "B3-3.1-04", "Verbal verification of employment", "b3-3.1-04", "agency-guide"),
-    ("fannie-b3-3-2-01", "B3-3.2-01", "Standards for employment and income documentation", "b3-3.2-01", "agency-guide"),
-    ("fannie-b3-3-3-01", "B3-3.3-01", "Base income", "b3-3.3-01", "agency-guide"),
-    ("fannie-b3-3-3-02", "B3-3.3-02", "Bonus, commission, overtime, and tip income", "b3-3.3-02", "agency-guide"),
-    ("fannie-b3-3-4-02", "B3-3.4-02", "Alimony, child support, equalization payments, or separate maintenance", "b3-3.4-02", "agency-guide"),
-    ("fannie-b3-3-4-12", "B3-3.4-12", "Public assistance income", "b3-3.4-12", "agency-guide"),
-    ("fannie-b3-3-5", "Section B3-3.5", "Self-employment income", "b3-3.5", "agency-guide"),
+    ("fannie-b3-3-1-02", "B3-3.1-02", "Tax return and transcript documentation", "b3-3.1-02/tax-return-and-transcript-documentation-requirements", "agency-guide"),
+    ("fannie-b3-3-1-03", "B3-3.1-03", "Income Calculator", "b3-3.1-03/income-calculator", "agency-guide"),
+    ("fannie-b3-3-1-04", "B3-3.1-04", "Verbal verification of employment", "b3-3.1-04/verbal-verification-employment", "agency-guide"),
+    ("fannie-b3-3-2-01", "B3-3.2-01", "Standards for employment and income documentation", "b3-3.2-01/standards-employment-and-income-documentation", "agency-guide"),
+    ("fannie-b3-3-3-01", "B3-3.3-01", "Base income", "b3-3.3-01/base-income", "agency-guide"),
+    ("fannie-b3-3-3-02", "B3-3.3-02", "Bonus, commission, overtime, and tip income", "b3-3.3-02/bonus-commission-overtime-and-tip-income", "agency-guide"),
+    ("fannie-b3-3-4-02", "B3-3.4-02", "Alimony, child support, equalization payments, or separate maintenance", "b3-3.4-02/alimony-child-support-equalization-payments-or-separate-maintenance", "agency-guide"),
+    ("fannie-b3-3-4-12", "B3-3.4-12", "Public assistance income", "b3-3.4-12/public-assistance-income", "agency-guide"),
+    ("fannie-b3-3-5", "Section B3-3.5", "Self-employment income", "b3-3.5/self-employment-income", "agency-guide"),
     ("fannie-b3-4-1-01", "B3-4.1-01", "Minimum reserve requirements", "b3-4.1-01/minimum-reserve-requirements", "agency-guide"),
     ("fannie-b3-4-3-04", "B3-4.3-04", "Personal gifts", "b3-4.3-04/personal-gifts", "agency-guide"),
-    ("fannie-b3-4-3-05", "B3-4.3-05", "Gifts of equity", "b3-4.3-05", "agency-guide"),
-    ("fannie-b3-5-1-01", "B3-5.1-01", "General requirements for credit scores", "b3-5.1-01", "agency-guide"),
-    ("fannie-b3-5-1-02", "B3-5.1-02", "Determining the credit score for a mortgage loan", "b3-5.1-02", "agency-guide"),
-    ("fannie-b3-5-2-01", "B3-5.2-01", "Requirements for credit reports", "b3-5.2-01", "agency-guide"),
-    ("fannie-b3-5-3-04", "B3-5.3-04", "Inquiries: recent attempts to obtain new credit", "b3-5.3-04", "agency-guide"),
-    ("fannie-b3-5-3-06", "B3-5.3-06", "Authorized users of credit", "b3-5.3-06", "agency-guide"),
-    ("fannie-b3-5-3-07", "B3-5.3-07", "Significant derogatory credit events", "b3-5.3-07", "agency-guide"),
+    ("fannie-b3-4-3-05", "B3-4.3-05", "Gifts of equity", "b3-4.3-05/gifts-equity", "agency-guide"),
+    ("fannie-b3-5-1-01", "B3-5.1-01", "General requirements for credit scores", "b3-5.1-01/general-requirements-credit-scores", "agency-guide"),
+    ("fannie-b3-5-1-02", "B3-5.1-02", "Determining the credit score for a mortgage loan", "b3-5.1-02/determining-credit-score-mortgage-loan", "agency-guide"),
+    ("fannie-b3-5-2-01", "B3-5.2-01", "Requirements for credit reports", "b3-5.2-01/requirements-credit-reports", "agency-guide"),
+    ("fannie-b3-5-3-04", "B3-5.3-04", "Inquiries: recent attempts to obtain new credit", "b3-5.3-04/inquiries-recent-attempts-obtain-new-credit", "agency-guide"),
+    ("fannie-b3-5-3-06", "B3-5.3-06", "Authorized users of credit", "b3-5.3-06/authorized-users-credit", "agency-guide"),
+    ("fannie-b3-5-3-07", "B3-5.3-07", "Significant derogatory credit events", "b3-5.3-07/significant-derogatory-credit-events-waiting-periods-and-re-establishing-credit", "agency-guide"),
     ("fannie-b3-6-02", "B3-6-02", "Debt-to-income ratios", "b3-6-02/debt-income-ratios", "agency-guide"),
-    ("fannie-b3-6-03", "B3-6-03", "Monthly housing expense for the subject property", "b3-6-03", "agency-guide"),
-    ("fannie-b3-6-04", "B3-6-04", "Qualifying payment requirements", "b3-6-04", "agency-guide"),
-    ("fannie-b3-6-05", "B3-6-05", "Monthly debt obligations", "b3-6-05", "agency-guide"),
-    ("fannie-b3-6-07", "B3-6-07", "Debts paid off at or prior to closing", "b3-6-07", "agency-guide"),
-    ("fannie-b4-1-1-01", "B4-1.1-01", "Definition of market value", "b4-1.1-01", "agency-guide"),
+    ("fannie-b3-6-03", "B3-6-03", "Monthly housing expense for the subject property", "b3-6-03/monthly-housing-expense-subject-property", "agency-guide"),
+    ("fannie-b3-6-04", "B3-6-04", "Qualifying payment requirements", "b3-6-04/qualifying-payment-requirements", "agency-guide"),
+    ("fannie-b3-6-05", "B3-6-05", "Monthly debt obligations", "b3-6-05/monthly-debt-obligations", "agency-guide"),
+    ("fannie-b3-6-07", "B3-6-07", "Debts paid off at or prior to closing", "b3-6-07/debts-paid-or-prior-closing", "agency-guide"),
+    ("fannie-b4-1-1-01", "B4-1.1-01", "Definition of market value", "b4-1.1-01/definition-market-value", "agency-guide"),
     ("fannie-b4-1-1-02", "B4-1.1-02", "Appraisal lender responsibilities", "b4-1.1-02/lender-responsibilities", "agency-guide"),
-    ("fannie-b4-1-4-10", "B4-1.4-10", "Value acceptance", "b4-1.4-10", "agency-guide"),
-    ("fannie-b4-1-4-11", "B4-1.4-11", "Value acceptance + property data", "b4-1.4-11", "agency-guide"),
-    ("fannie-b5-6-02", "B5-6-02", "HomeReady mortgage underwriting", "b5-6-02", "agency-guide"),
+    ("fannie-b4-1-4-10", "B4-1.4-10", "Value acceptance", "b4-1.4-10/value-acceptance", "agency-guide"),
+    ("fannie-b4-1-4-11", "B4-1.4-11", "Value acceptance + property data", "b4-1.4-11/value-acceptance-property-data", "agency-guide"),
+    ("fannie-b5-6-02", "B5-6-02", "HomeReady mortgage underwriting", "b5-6-02/homeready-mortgage-underwriting-methods-and-requirements", "agency-guide"),
     ("fannie-air", "Appraiser Independence Requirements", "Appraiser Independence Requirements", "", "agency-guide"),
 ]
 for id_, label, title, path, kind in fannie_sections:
@@ -306,11 +311,11 @@ for id_, label, title, path, kind in fannie_sections:
 citations += [
     C("fannie-urla", "URLA / Form 1003", "Uniform Residential Loan Application (Fannie Mae Form 1003 / Freddie Mac Form 65)", "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application", "agency-guide", "urla"),
     C("freddie-guide", "Freddie Mac Seller/Servicer Guide", "Freddie Mac Single-Family Seller/Servicer Guide", "https://guide.freddiemac.com/app/guide/", "agency-guide", "freddie"),
-    C("freddie-lpa", "Loan Product Advisor", "Freddie Mac Loan Product Advisor", "https://sf.freddiemac.com/tools-learning/loan-product-advisor/overview", "agency-guide", "freddie"),
+    C("freddie-lpa", "Loan Product Advisor", "Freddie Mac Loan Product Advisor", "https://sf.freddiemac.com/tools-learning/technology-tools/our-solutions/loan-product-advisor", "agency-guide", "freddie"),
     C("hud-4000-1", "HUD Handbook 4000.1", "FHA Single Family Housing Policy Handbook 4000.1", "https://www.hud.gov/program_offices/housing/sfh/handbook_4000-1", "agency-guide", "fha"),
-    C("va-pamphlet", "VA Pamphlet 26-7", "VA Lenders Handbook, Pamphlet 26-7", "https://www.benefits.va.gov/warms/pam26_7.asp", "agency-guide", "va"),
+    C("va-pamphlet", "VA Pamphlet 26-7", "VA Lenders Handbook, Pamphlet 26-7", "https://www.benefits.va.gov/homeloans/lenders.asp", "agency-guide", "va"),
     C("usda-hb", "USDA HB-1-3555", "USDA Single Family Housing Guaranteed Loan Program Technical Handbook", "https://www.rd.usda.gov/resources/directives/handbooks", "agency-guide", "usda"),
-    C("fhfa-cll", "FHFA conforming loan limits", "FHFA conforming loan limit data", "https://www.fhfa.gov/data/conforming-loan-limits", "agency-guide", "fhfa"),
+    C("fhfa-cll", "FHFA conforming loan limits", "FHFA conforming loan limit data", "https://www.fhfa.gov/data/conforming-loan-limit", "agency-guide", "fhfa"),
     C("ginnie", "Ginnie Mae", "Ginnie Mae mortgage-backed securities program", "https://www.ginniemae.gov/", "agency-guide", "ginnie"),
     C("nmls", "NMLS", "Nationwide Multistate Licensing System", "https://mortgage.nationwidelicensingsystem.org/", "agency-guide", "nmls"),
     C("cfpb-le", "CFPB Loan Estimate", "CFPB interactive Loan Estimate", "https://www.consumerfinance.gov/owning-a-home/loan-estimate/", "agency-guide", "cfpb"),
@@ -328,7 +333,7 @@ citations += [
     C("practice-urla", "URLA instructions", "Uniform Residential Loan Application", "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application", "industry-practice", "practice"),
     C("practice-nmls", "NMLS Resource Center", "NMLS for mortgage originators", "https://mortgage.nationwidelicensingsystem.org/", "industry-practice", "practice"),
     C("practice-hud", "HUD Handbook 4000.1", "FHA Single Family Housing Policy Handbook 4000.1", "https://www.hud.gov/program_offices/housing/sfh/handbook_4000-1", "industry-practice", "practice"),
-    C("practice-va", "VA Pamphlet 26-7", "VA Lenders Handbook", "https://www.benefits.va.gov/warms/pam26_7.asp", "industry-practice", "practice"),
+    C("practice-va", "VA Pamphlet 26-7", "VA Lenders Handbook", "https://www.benefits.va.gov/homeloans/lenders.asp", "industry-practice", "practice"),
     C("practice-freddie", "Freddie Mac Guide", "Freddie Mac Single-Family Seller/Servicer Guide", "https://guide.freddiemac.com/app/guide/", "industry-practice", "practice"),
 ]
 
@@ -361,13 +366,13 @@ parts = [
     {"id": "bsa", "label": "31 USC 5311 / 31 CFR Chapter X", "short": "BSA/AML", "name": "Bank Secrecy Act and FinCEN rules", "summary": "Anti-money-laundering programs, suspicious-activity reporting, and customer identification. Residential mortgage lenders and originators have a FinCEN rule at 31 CFR Part 1029.", "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1029"},
     {"id": "mla", "label": "32 CFR Part 232", "short": "MLA", "name": "Military Lending Act", "summary": "Limits on certain consumer credit to covered borrowers. A residential mortgage secured by a dwelling is excluded from the MLA definition of consumer credit.", "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-M/part-232"},
     {"id": "fha", "label": "12 USC 1709 / HUD 4000.1", "short": "FHA", "name": "FHA single-family mortgage insurance", "summary": "The National Housing Act insurance program and HUD's Single Family Housing Policy Handbook 4000.1.", "url": "https://www.hud.gov/program_offices/housing/sfh/handbook_4000-1"},
-    {"id": "va", "label": "38 USC Chapter 37 / VA Pamphlet 26-7", "short": "VA", "name": "VA-guaranteed home loans", "summary": "Eligibility, guaranty, underwriting, and refinance rules for VA loans, in the statute, 38 CFR Part 36, and the Lenders Handbook.", "url": "https://www.benefits.va.gov/warms/pam26_7.asp"},
+    {"id": "va", "label": "38 USC Chapter 37 / VA Pamphlet 26-7", "short": "VA", "name": "VA-guaranteed home loans", "summary": "Eligibility, guaranty, underwriting, and refinance rules for VA loans, in the statute, 38 CFR Part 36, and the Lenders Handbook.", "url": "https://www.benefits.va.gov/homeloans/lenders.asp"},
     {"id": "usda", "label": "7 CFR Part 3555", "short": "USDA", "name": "USDA guaranteed rural housing", "summary": "The Single Family Housing Guaranteed Loan Program and HB-1-3555.", "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-XXXV/part-3555"},
     {"id": "hecm", "label": "24 CFR Part 206", "short": "HECM", "name": "Home Equity Conversion Mortgage", "summary": "FHA-insured reverse mortgages under the National Housing Act and 24 CFR Part 206.", "url": "https://www.ecfr.gov/current/title-24/subtitle-B/chapter-II/subchapter-B/part-206"},
     {"id": "fannie", "label": "Fannie Mae Selling Guide", "short": "Fannie", "name": "Fannie Mae Selling Guide", "summary": "Eligibility, underwriting, property, and mortgage-insurance rules for loans delivered to Fannie Mae, including Desktop Underwriter.", "url": "https://selling-guide.fanniemae.com/"},
     {"id": "freddie", "label": "Freddie Mac Guide", "short": "Freddie", "name": "Freddie Mac Seller/Servicer Guide", "summary": "Eligibility and servicing standards for loans sold to or serviced for Freddie Mac, including Loan Product Advisor.", "url": "https://guide.freddiemac.com/app/guide/"},
     {"id": "ginnie", "label": "Ginnie Mae", "short": "Ginnie", "name": "Ginnie Mae MBS", "summary": "The guarantor of securities backed by FHA, VA, USDA, and other government loans. Ginnie Mae is not a lender and does not set underwriting overlays.", "url": "https://www.ginniemae.gov/"},
-    {"id": "fhfa", "label": "FHFA loan limits", "short": "FHFA", "name": "Conforming loan limits", "summary": "The Federal Housing Finance Agency publishes the baseline and high-cost-area conforming loan limits. The dollar amounts change.", "url": "https://www.fhfa.gov/data/conforming-loan-limits"},
+    {"id": "fhfa", "label": "FHFA loan limits", "short": "FHFA", "name": "Conforming loan limits", "summary": "The Federal Housing Finance Agency publishes the baseline and high-cost-area conforming loan limits. The dollar amounts change.", "url": "https://www.fhfa.gov/data/conforming-loan-limit"},
     {"id": "cfpb", "label": "CFPB mortgage resources", "short": "CFPB", "name": "Consumer Financial Protection Bureau", "summary": "Official explainers, model forms, and the interactive regulations for the mortgage rules the Bureau administers.", "url": "https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/"},
     {"id": "esign", "label": "15 USC 7001", "short": "E-SIGN", "name": "Electronic Signatures in Global and National Commerce Act", "summary": "When an electronic signature or record can satisfy a writing requirement, and the consumer-consent rules that go with it.", "url": USC.format(title=15, section=7001)},
     {"id": "nmls", "label": "NMLS", "short": "NMLS", "name": "Nationwide Multistate Licensing System", "summary": "The registry used for SAFE Act licensing and registration. NMLS is the system; the SAFE Act and state law are the license rules.", "url": "https://mortgage.nationwidelicensingsystem.org/"},
@@ -795,6 +800,44 @@ CATS = {
     "p": "loan-programs",
     "f": "borrower-faqs",
 }
+
+
+# Pinpoint citations (paragraph level). Each paragraph id and its wording were
+# checked against the eCFR text current as of 2026-11-19 before it was added.
+def pin(part, sec, para, name, interp=True):
+    section = f"{part}.{sec}"
+    pid = para.replace(")(", "-").strip("()")
+    row = C(
+        f"reg-{part}-{sec}-{pid}",
+        f"12 CFR {section}{para}",
+        name,
+        ECFR12S.format(part=part, section=section) + f"#p-{section}{para}",
+        "regulation",
+        part,
+        CFPB.format(part=part, sec=sec) + "#" + pid,
+    )
+    if interp:
+        # Official Interpretation (Supplement I) comment anchor on the CFPB page; verified present.
+        row["interpUrl"] = CFPB.format(part=part, sec=sec) + f"#{sec}-{pid}-Interp"
+    return row
+
+
+citations += [
+    pin("1026", "19", "(e)(1)(iii)", "Regulation Z — Loan Estimate delivery timing (third business day after application)"),
+    pin("1026", "19", "(e)(1)(vi)(C)", "Regulation Z — Written list of providers", interp=False),
+    pin("1026", "19", "(e)(2)(i)(A)", "Regulation Z — Fee restriction before the Loan Estimate and intent to proceed"),
+    pin("1026", "19", "(e)(2)(ii)", "Regulation Z — Written estimates given before the Loan Estimate"),
+    pin("1026", "19", "(e)(3)(i)", "Regulation Z — Good faith general rule (zero tolerance)"),
+    pin("1026", "19", "(e)(3)(ii)", "Regulation Z — Limited increases for certain charges (10 percent tolerance)"),
+    pin("1026", "19", "(e)(3)(iii)", "Regulation Z — Variations permitted for certain charges"),
+    pin("1026", "19", "(e)(3)(iv)", "Regulation Z — Revised estimates and changed circumstances"),
+    pin("1026", "19", "(e)(4)", "Regulation Z — Provision and receipt of revised Loan Estimates"),
+    pin("1026", "19", "(f)(1)(ii)", "Regulation Z — Closing Disclosure timing (three business days before consummation)"),
+    pin("1026", "19", "(f)(2)(ii)", "Regulation Z — Changes before consummation requiring a new waiting period"),
+    pin("1026", "19", "(f)(2)(v)", "Regulation Z — Refunds related to the good faith analysis"),
+    pin("1026", "2", "(a)(3)(ii)", "Regulation Z — Application (six pieces of information) for TRID loans", interp=False),
+    pin("1026", "2", "(a)(6)", "Regulation Z — Business day (general and specific definitions)"),
+]
 
 
 def build_manifest():

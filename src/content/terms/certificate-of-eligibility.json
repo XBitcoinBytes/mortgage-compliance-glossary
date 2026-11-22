@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Certificado de elegibilidad",
-    "aliases": [],
+    "aliases": [
+      "COE"
+    ],
     "definition": "El certificado de elegibilidad es la declaración de VA del derecho del veterano. El prestamista lo usa para mostrar que el prestatario puede recibir un préstamo garantizado por VA y cuánto derecho hay disponible. No es la aprobación del préstamo.",
     "details": "El capítulo 2 del Folleto VA 26-7 explica cómo obtener el certificado y qué le dice al prestamista. Los registros de servicio, un reclamo de cónyuge sobreviviente o una solicitud de restauración pueden ser parte del expediente. Un certificado no reemplaza la suscripción del ingreso residual ni la regla de ocupación.",
     "complianceNotes": "Pida el certificado temprano. No cierre un préstamo VA con la palabra del prestatario de que es elegible. Haga coincidir el nombre con la solicitud.",

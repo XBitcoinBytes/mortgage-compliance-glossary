@@ -24,7 +24,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Rehabilitación",
-    "aliases": [],
+    "aliases": [
+      "Restitución"
+    ],
     "definition": "Rehabilitación significa poner el préstamo al día pagando los pagos no realizados, los cargos y los costos que exigen el pagaré o la ley estatal, para que la aceleración se detenga. No es un derecho federal con una sola fórmula nacional. Tampoco es una modificación del préstamo.",
     "details": "El pagaré y la ley estatal de ejecución hipotecaria indican si la rehabilitación está disponible y hasta cuándo. Un administrador debe cotizar el monto con exactitud. El Reglamento X no crea un derecho universal de rehabilitación, pero una negativa indebida puede ser un aviso de error, y los deberes de mitigación de pérdidas continúan. Una indulgencia o un plan de pago es un acuerdo distinto.",
     "complianceNotes": "Proporcione una cifra de rehabilitación que coincida con el pagaré y con el plazo estatal. Acepte los fondos si el derecho todavía existe. No agregue cargos que el pagaré no permite.",

@@ -26,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley de Secreto Bancario",
-    "aliases": [],
+    "aliases": [
+      "BSA"
+    ],
     "definition": "La Ley de Secreto Bancario es el marco federal para detectar y reportar el lavado de dinero y delitos relacionados. Los prestamistas y originadores de hipotecas residenciales tienen obligaciones de FinCEN. La ley no es una divulgación en la Estimación del préstamo.",
     "details": "31 USC 5311 establece el propósito. 31 CFR Parte 1029 contiene las reglas de FinCEN para compañías de préstamos o de financiamiento, incluidos los prestamistas y originadores de hipotecas residenciales. El programa, el oficial de cumplimiento, la capacitación, la prueba independiente y el reporte de actividades sospechosas están en esa parte. Las reglas de identificación de clientes de los bancos no son automáticamente el mismo texto. No describa cómo estructurar una transacción para evitar un reporte.",
     "complianceNotes": "Mantenga un programa contra el lavado de dinero que coincida con la Parte 1029 si la empresa está cubierta. Escale los hechos inusuales del origen de los fondos. No le diga al personal el umbral que hace opcional un reporte como una forma de quedarse por debajo.",

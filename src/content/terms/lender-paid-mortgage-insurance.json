@@ -1,7 +1,9 @@
 {
   "slug": "lender-paid-mortgage-insurance",
   "term": "Lender-paid mortgage insurance",
-  "aliases": [],
+  "aliases": [
+    "LPMI"
+  ],
   "category": "loan-programs",
   "definition": "Lender-paid mortgage insurance means the lender pays the mortgage insurance premium and charges a higher interest rate or a different price. You do not see a monthly PMI line. You also generally cannot cancel it at 80 percent under the Homeowners Protection Act the way you cancel borrower-paid PMI, because you are not paying a PMI premium.",
   "details": "The HPA's cancellation rights are built for borrower-paid private mortgage insurance. 12 USC 4901's definitions matter before anyone promises cancellation. The higher rate lasts according to the note. A refinance into a loan without MI is a new transaction, not an HPA cancellation. This point is flagged so the HPA scope sentence is confirmed before it is used as advice.",
@@ -25,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Seguro hipotecario pagado por el prestamista",
-    "aliases": [],
+    "aliases": [
+      "LPMI"
+    ],
     "definition": "El seguro hipotecario pagado por el prestamista significa que el prestamista paga la prima del seguro hipotecario y cobra una tasa de interés más alta o un precio distinto. Usted no ve una línea mensual de PMI. Tampoco puede, por lo general, cancelarlo al 80 por ciento según la Ley de Protección de los Propietarios del modo en que cancela el PMI pagado por el prestatario, porque usted no está pagando una prima de PMI.",
     "details": "Los derechos de cancelación de la HPA están hechos para el seguro hipotecario privado pagado por el prestatario. Las definiciones de 12 USC 4901 importan antes de que alguien prometa una cancelación. La tasa más alta dura según el pagaré. Un refinanciamiento a un préstamo sin seguro hipotecario es una transacción nueva, no una cancelación de la HPA. Este punto está marcado para que la frase sobre el alcance de la HPA se confirme antes de usarse como consejo.",
     "complianceNotes": "Divulgue la tasa más alta con honestidad y no prometa la cancelación de la HPA al 80 por ciento. Compare el costo de por vida con el MI pagado por el prestatario usando números de ejemplo etiquetados como ejemplos.",

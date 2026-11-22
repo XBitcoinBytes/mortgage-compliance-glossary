@@ -1,7 +1,10 @@
 {
   "slug": "representative-credit-score",
   "term": "Representative credit score",
-  "aliases": [],
+  "aliases": [
+    "middle score",
+    "qualifying credit score"
+  ],
   "category": "underwriting",
   "definition": "The representative credit score is the one score the guide tells the lender to use for the loan. For one borrower with three scores, it is generally the middle score. It is not an average, and with two borrowers it is not automatically the higher person's score.",
   "details": "Fannie Mae B3-5.1-02 states the method, including the lower of two scores when a repository is missing and the rule for multiple borrowers. Read that section rather than a shorthand. The representative score drives eligibility and pricing in the matrix. Desktop Underwriter uses the scores submitted. A mis-selected score can make an ineligible loan look eligible.",

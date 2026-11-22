@@ -27,7 +27,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Asociación de propietarios",
-    "aliases": [],
+    "aliases": [
+      "HOA"
+    ],
     "definition": "Una asociación de propietarios cobra cuotas por las áreas comunes y puede hacer cumplir reglas y gravámenes. Las cuotas son parte del pago mensual de la vivienda. Las cuotas atrasadas pueden volverse un gravamen que el título debe limpiar. La asociación no es lo mismo que el seguro hipotecario.",
     "details": "Fannie Mae B3-6-03 incluye las cuotas de la asociación en el gasto de vivienda. Las revisiones de proyectos de condominios y de algunos desarrollos planificados son un trabajo de garantía distinto en la Selling Guide. Las cuotas especiales también pueden contar. Un cuestionario de la asociación es prueba común de las cuotas, el seguro y la morosidad.",
     "complianceNotes": "Incluya las cuotas vigentes en el PITIA y pregunte por cuotas especiales. No levante un expediente de condominio solo con la tasación de la unidad. Obtenga el cuestionario que exige la guía.",

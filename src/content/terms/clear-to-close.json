@@ -29,7 +29,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Autorización para cerrar",
-    "aliases": [],
+    "aliases": [
+      "CTC"
+    ],
     "definition": "La autorización para cerrar es un estado interno que significa que el prestamista levantó las condiciones que exigía antes del cierre. No es un estado federal, no es la consumación y no es una promesa de que terminó el período de espera de la Divulgación del cierre.",
     "details": "El estado es práctica del expediente. Las reglas de la Divulgación del cierre en 12 CFR 1026.19(f) igual controlan cuándo puede ocurrir la consumación. Un expediente puede estar autorizado para cerrar y todavía tener que esperar hasta el tercer día hábil preciso después de que el consumidor recibe la Divulgación del cierre. Una condición nueva, como una consulta de crédito reciente, puede quitar el estado.",
     "complianceNotes": "No programe la consumación solo con el sello de autorización para cerrar. Confirme la fecha de recepción de la Divulgación del cierre y los puntos previos al desembolso que queden. Dígale el estado al prestatario en palabras claras, no como una garantía de la tasa.",

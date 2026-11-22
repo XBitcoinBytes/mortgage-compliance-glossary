@@ -1,7 +1,10 @@
 {
   "slug": "loan-originator-compensation",
   "term": "Loan originator compensation",
-  "aliases": [],
+  "aliases": [
+    "LO comp",
+    "LO compensation"
+  ],
   "category": "origination",
   "definition": "Loan originator compensation is what a loan originator is paid for originating a mortgage. Federal rules limit basing that pay on the terms of the loan, such as the rate or a higher-cost product. The amount of the loan can still affect pay.",
   "details": "12 CFR 1026.36(d) prohibits compensation based on a term of a transaction, or a proxy for a term, other than the amount of credit extended. A loan originator may not be paid by both the consumer and another person in the same transaction. The rule covers individual originators and brokerage companies that are loan originators. It is separate from the SAFE Act license.",

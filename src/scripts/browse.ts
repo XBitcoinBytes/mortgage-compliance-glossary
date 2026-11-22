@@ -29,6 +29,7 @@ export function initBrowse() {
 
   const fuse = new Fuse(rows, {
     threshold: 0.35,
+    ignoreDiacritics: true,
     ignoreLocation: true,
     minMatchCharLength: 2,
     keys: ["name"],
@@ -59,10 +60,10 @@ export function initBrowse() {
       count.textContent = lang === "es" ? `${visible} términos` : `${visible} terms`;
     }
     if (empty) empty.hidden = visible !== 0;
-    root.querySelectorAll<HTMLButtonElement>("[data-cat]").forEach((button) => {
+    root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {
       button.setAttribute("aria-pressed", (button.dataset.cat ?? "") === category ? "true" : "false");
     });
-    root.querySelectorAll<HTMLButtonElement>("[data-letter]").forEach((button) => {
+    root.querySelectorAll<HTMLButtonElement>("button[data-letter]").forEach((button) => {
       button.setAttribute("aria-pressed", (button.dataset.letter ?? "") === letter ? "true" : "false");
     });
     const url = new URL(location.href);
@@ -76,13 +77,13 @@ export function initBrowse() {
   }
 
   input?.addEventListener("input", apply);
-  root.querySelectorAll<HTMLButtonElement>("[data-cat]").forEach((button) => {
+  root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {
     button.addEventListener("click", () => {
       category = button.dataset.cat ?? "";
       apply();
     });
   });
-  root.querySelectorAll<HTMLButtonElement>("[data-letter]").forEach((button) => {
+  root.querySelectorAll<HTMLButtonElement>("button[data-letter]").forEach((button) => {
     button.addEventListener("click", () => {
       letter = button.dataset.letter ?? "";
       apply();

@@ -77,7 +77,7 @@
     "short": "TILA",
     "name": "Truth in Lending Act",
     "summary": "The statute behind Regulation Z, including ability-to-repay and HOEPA provisions now implemented in 12 CFR 1026.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t15/s1601/"
   },
   {
     "id": "respa",
@@ -85,7 +85,7 @@
     "short": "RESPA",
     "name": "Real Estate Settlement Procedures Act",
     "summary": "The statute behind Regulation X, including the Section 8 prohibition on kickbacks and unearned fees.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t12/s2601/"
   },
   {
     "id": "ecoa",
@@ -93,7 +93,7 @@
     "short": "ECOA",
     "name": "Equal Credit Opportunity Act",
     "summary": "The statute prohibiting discrimination in credit transactions, implemented by Regulation B.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t15/s1691/"
   },
   {
     "id": "hmda",
@@ -101,7 +101,7 @@
     "short": "HMDA",
     "name": "Home Mortgage Disclosure Act",
     "summary": "The statute requiring mortgage data collection and reporting, implemented by Regulation C.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2801&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t12/s2801/"
   },
   {
     "id": "fcra",
@@ -109,7 +109,7 @@
     "short": "FCRA",
     "name": "Fair Credit Reporting Act",
     "summary": "Permissible purposes, adverse-action duties, and the accuracy framework for consumer reports.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t15/s1681/"
   },
   {
     "id": "glba",
@@ -117,7 +117,7 @@
     "short": "GLBA",
     "name": "Gramm-Leach-Bliley Act privacy",
     "summary": "The privacy and safeguard duties for nonpublic personal information of customers.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t15/s6801/"
   },
   {
     "id": "safe",
@@ -125,7 +125,7 @@
     "short": "SAFE Act",
     "name": "SAFE Mortgage Licensing Act",
     "summary": "Licensing and registration of mortgage loan originators through NMLS, implemented in part by Regulations G and H and by state law.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5101&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t12/s5101/"
   },
   {
     "id": "hpa",
@@ -133,7 +133,7 @@
     "short": "HPA",
     "name": "Homeowners Protection Act",
     "summary": "Borrower-requested cancellation and automatic termination of private mortgage insurance on covered residential mortgages.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4901&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t12/s4901/"
   },
   {
     "id": "udaap",
@@ -141,7 +141,7 @@
     "short": "UDAAP",
     "name": "Unfair, deceptive, or abusive acts or practices",
     "summary": "The Dodd-Frank standards the CFPB uses against unfair, deceptive, or abusive conduct. There is no separate UDAAP part of Regulation Z.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5531&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t12/s5531/"
   },
   {
     "id": "scra",
@@ -149,7 +149,7 @@
     "short": "SCRA",
     "name": "Servicemembers Civil Relief Act",
     "summary": "Interest-rate relief and foreclosure protections for servicemembers. Distinct from the Military Lending Act.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t50/s3937/"
   },
   {
     "id": "flood",
@@ -157,7 +157,7 @@
     "short": "Flood",
     "name": "Flood insurance purchase requirement",
     "summary": "Mandatory flood insurance in a special flood hazard area for designated loans, and the FEMA National Flood Insurance Program.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4012a&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t42/s4012a/"
   },
   {
     "id": "fair-housing",
@@ -165,7 +165,7 @@
     "short": "FHA Act",
     "name": "Fair Housing Act",
     "summary": "Discrimination prohibitions in housing and in residential real estate-related transactions, enforced primarily by HUD and the Department of Justice.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3604&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t42/s3604/"
   },
   {
     "id": "bsa",
@@ -197,7 +197,7 @@
     "short": "VA",
     "name": "VA-guaranteed home loans",
     "summary": "Eligibility, guaranty, underwriting, and refinance rules for VA loans, in the statute, 38 CFR Part 36, and the Lenders Handbook.",
-    "url": "https://www.benefits.va.gov/warms/pam26_7.asp"
+    "url": "https://www.benefits.va.gov/homeloans/lenders.asp"
   },
   {
     "id": "usda",
@@ -245,7 +245,7 @@
     "short": "FHFA",
     "name": "Conforming loan limits",
     "summary": "The Federal Housing Finance Agency publishes the baseline and high-cost-area conforming loan limits. The dollar amounts change.",
-    "url": "https://www.fhfa.gov/data/conforming-loan-limits"
+    "url": "https://www.fhfa.gov/data/conforming-loan-limit"
   },
   {
     "id": "cfpb",
@@ -261,7 +261,7 @@
     "short": "E-SIGN",
     "name": "Electronic Signatures in Global and National Commerce Act",
     "summary": "When an electronic signature or record can satisfy a writing requirement, and the consumer-consent rules that go with it.",
-    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001&num=0&edition=prelim"
+    "url": "https://uscode.house.gov/us/usc/t15/s7001/"
   },
   {
     "id": "nmls",

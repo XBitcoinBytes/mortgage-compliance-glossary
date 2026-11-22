@@ -1,7 +1,10 @@
 {
   "slug": "high-cost-mortgage",
   "term": "High-cost mortgage",
-  "aliases": [],
+  "aliases": [
+    "Section 32 loan",
+    "HOEPA loan"
+  ],
   "category": "compliance",
   "definition": "A high-cost mortgage is a loan that trips the HOEPA rate test or the HOEPA points-and-fees test. Once it is high-cost, the creditor must follow the extra bans and the counseling requirement. Calling it a higher-priced loan instead does not avoid those duties.",
   "details": "12 CFR 1026.32 defines coverage. 12 CFR 1026.34 contains prohibited acts, including restrictions on balloon payments, prepayment penalties, and financing of points and fees, and it requires homeownership counseling. Thresholds adjust. Read the current section and the CFPB's annual notice. A purchase-money loan can be high-cost. The old idea that HOEPA was only for refinances is outdated.",

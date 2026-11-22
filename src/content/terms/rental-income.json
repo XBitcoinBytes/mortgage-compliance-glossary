@@ -24,7 +24,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ingreso de alquiler",
-    "aliases": [],
+    "aliases": [
+      "Ingresos del alquiler"
+    ],
     "definition": "El ingreso de alquiler es la renta de una propiedad que usted posee, a veces incluida una unidad en la vivienda que está comprando. Los prestamistas no cuentan la renta completa. Restan gastos del modo que exige la guía, lo que puede incluir un factor de vacancia. El factor está en la guía, no en un porcentaje universal que usted deba memorizar.",
     "details": "La Selling Guide de Fannie Mae distingue el ingreso de alquiler de la propiedad del ingreso de otros inmuebles, y distingue el historial de la declaración de impuestos de un contrato en un alquiler nuevo. La depreciación del Anexo E puede reincorporarse cuando la guía lo dice. El PITIA del alquiler es parte del cálculo. Un contrato por encima del mercado no aumenta automáticamente el ingreso de calificación.",
     "complianceNotes": "Use la hoja de la guía para el tipo de propiedad. No sume la renta bruta al ingreso salarial. Documente el contrato y la declaración de impuestos que correspondan.",

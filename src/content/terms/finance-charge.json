@@ -33,7 +33,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Cargo por financiamiento",
-    "aliases": [],
+    "aliases": [
+      "Cargo financiero"
+    ],
     "definition": "El cargo por financiamiento es el costo en dólares del crédito al consumidor. Incluye el interés y ciertos otros cargos que forman parte del costo de pedir prestado. No incluye todo costo de cierre. Un cargo que se excluye porque es un cargo inmobiliario igual puede aparecer en la Estimación del préstamo.",
     "details": "12 CFR 1026.4 define el cargo por financiamiento y las exclusiones, incluidos algunos cargos relacionados con bienes raíces si son de buena fe y razonables. La tasa porcentual anual se construye a partir del cargo por financiamiento y el monto financiado según 12 CFR 1026.22. Los puntos y cargos para la QM y HOEPA son un total distinto. Un error de tolerancia en un cargo por financiamiento también puede hacer que la tasa porcentual anual sea inexacta.",
     "complianceNotes": "Clasifique cada cargo como dentro o fuera del cargo por financiamiento antes de calcular la tasa porcentual anual. No trate el seguro de título y la tarifa de originación del mismo modo. Recalcule cuando cambian los puntos.",

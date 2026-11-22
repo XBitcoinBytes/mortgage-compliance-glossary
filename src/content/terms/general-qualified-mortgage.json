@@ -1,7 +1,10 @@
 {
   "slug": "general-qualified-mortgage",
   "term": "General qualified mortgage",
-  "aliases": [],
+  "aliases": [
+    "General QM",
+    "price-based QM"
+  ],
   "category": "compliance",
   "definition": "The general qualified mortgage is the Regulation Z definition that remains after the temporary agency patch ended. It still requires the product limits and the points-and-fees cap, and it uses the consider-and-verify underwriting standard in the current section. Read 12 CFR 1026.43(e) rather than a summary of the old patch.",
   "details": "The CFPB amended the qualified-mortgage definition so the general category is not the expired GSE patch. Price thresholds that separate safe harbor from rebuttable presumption, and annual dollar adjustments, are in the regulation and the CFPB's adjustment notices. A loan can be eligible for Fannie Mae or Freddie Mac and still need this Regulation Z test. The two systems are not the same.",

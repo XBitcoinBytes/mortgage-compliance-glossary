@@ -1,0 +1,138 @@
+[
+  {
+    "id": "conforming-limits",
+    "en": "Conforming loan limits (baseline and high-cost area)",
+    "es": "Límites de préstamos conformes (base y zonas de alto costo)",
+    "cadence": "Annual, published by FHFA late in the year for the next calendar year.",
+    "esCadence": "Anual; la FHFA los publica a fines de año para el año siguiente.",
+    "url": "https://www.fhfa.gov/data/conforming-loan-limit",
+    "source": "FHFA conforming loan limit data",
+    "terms": [
+      "conforming-loan-limit",
+      "conforming-loan",
+      "high-balance-loan",
+      "jumbo-loan"
+    ]
+  },
+  {
+    "id": "fha-limits",
+    "en": "FHA mortgage limits by county",
+    "es": "Límites hipotecarios de la FHA por condado",
+    "cadence": "Annual, published by HUD; look up the county.",
+    "esCadence": "Anual, publicados por HUD; consulte el condado.",
+    "url": "https://entp.hud.gov/idapp/html/hicostlook.cfm",
+    "source": "HUD FHA Mortgage Limits lookup",
+    "terms": [
+      "fha-loan"
+    ]
+  },
+  {
+    "id": "hoepa-points-fees",
+    "en": "HOEPA points-and-fees dollar trigger and loan-amount breakpoint",
+    "es": "Umbral en dólares de puntos y cargos de HOEPA y monto de préstamo de referencia",
+    "cadence": "Adjusted every year for inflation; the current figures are in the Official Interpretation to 12 CFR 1026.32(a)(1)(ii).",
+    "esCadence": "Se ajustan cada año por inflación; las cifras vigentes están en la Interpretación oficial de 12 CFR 1026.32(a)(1)(ii).",
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-32/",
+    "source": "CFPB, Official Interpretation to 12 CFR 1026.32",
+    "terms": [
+      "high-cost-mortgage",
+      "hoepa",
+      "points-and-fees"
+    ]
+  },
+  {
+    "id": "qm-thresholds",
+    "en": "Qualified-mortgage points-and-fees tiers and General QM price-based loan-amount tiers",
+    "es": "Niveles de puntos y cargos de QM y niveles de monto de la QM general basada en precio",
+    "cadence": "Adjusted every year; the current figures are in the Official Interpretation to 12 CFR 1026.43(e).",
+    "esCadence": "Se ajustan cada año; las cifras vigentes están en la Interpretación oficial de 12 CFR 1026.43(e).",
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-43/",
+    "source": "CFPB, Official Interpretation to 12 CFR 1026.43",
+    "terms": [
+      "qualified-mortgage",
+      "general-qualified-mortgage",
+      "points-and-fees"
+    ]
+  },
+  {
+    "id": "apor",
+    "en": "Average prime offer rates (APOR) and HMDA rate spread",
+    "es": "Tasas promedio de oferta preferencial (APOR) y diferencial de tasa de HMDA",
+    "cadence": "Weekly APOR tables; the FFIEC rate spread calculator applies them.",
+    "esCadence": "Tablas APOR semanales; la calculadora de diferencial de tasa de la FFIEC las aplica.",
+    "url": "https://ffiec.cfpb.gov/tools/rate-spread",
+    "source": "FFIEC HMDA rate spread calculator",
+    "terms": [
+      "higher-priced-mortgage-loan",
+      "general-qualified-mortgage",
+      "hmda"
+    ]
+  },
+  {
+    "id": "hpml-thresholds",
+    "en": "HPML appraisal exemption amount and small-creditor escrow exemption asset threshold",
+    "es": "Monto de exención de tasación de HPML y umbral de activos para la exención de depósito en garantía",
+    "cadence": "Adjusted every year; see 12 CFR 1026.35 and its Official Interpretation.",
+    "esCadence": "Se ajustan cada año; vea 12 CFR 1026.35 y su Interpretación oficial.",
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-35/",
+    "source": "CFPB, Official Interpretation to 12 CFR 1026.35",
+    "terms": [
+      "hpml-appraisal",
+      "hpml-escrow",
+      "higher-priced-mortgage-loan",
+      "small-creditor"
+    ]
+  },
+  {
+    "id": "hmda-asset",
+    "en": "HMDA asset-size threshold for banks, savings associations, and credit unions",
+    "es": "Umbral de tamaño de activos de HMDA para bancos, asociaciones de ahorro y cooperativas",
+    "cadence": "Adjusted every year; see 12 CFR 1003.2(g) and its Official Interpretation.",
+    "esCadence": "Se ajusta cada año; vea 12 CFR 1003.2(g) y su Interpretación oficial.",
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1003/interp-2/",
+    "source": "CFPB, Official Interpretation to 12 CFR 1003.2",
+    "terms": [
+      "hmda",
+      "regulation-c"
+    ]
+  },
+  {
+    "id": "fha-mip",
+    "en": "FHA upfront and annual mortgage insurance premiums",
+    "es": "Primas inicial y anual del seguro hipotecario de la FHA",
+    "cadence": "Changed by HUD Mortgagee Letter when HUD decides; read the current letter and Handbook 4000.1.",
+    "esCadence": "HUD las cambia por Mortgagee Letter cuando lo decide; lea la carta vigente y el Manual 4000.1.",
+    "url": "https://www.hud.gov/program_offices/administration/hudclips/letters/mortgagee",
+    "source": "HUD Single Family Mortgagee Letters",
+    "terms": [
+      "fha-mip",
+      "upfront-mortgage-insurance-premium"
+    ]
+  },
+  {
+    "id": "usda-fees",
+    "en": "USDA guarantee fee and annual fee",
+    "es": "Cargo de garantía y cargo anual de USDA",
+    "cadence": "Set by USDA Rural Development, typically for each fiscal year.",
+    "esCadence": "Los fija USDA Desarrollo Rural, normalmente para cada año fiscal.",
+    "url": "https://www.rd.usda.gov/resources/directives/handbooks",
+    "source": "USDA HB-1-3555 and Rural Development notices",
+    "terms": [
+      "usda-guarantee-fee",
+      "usda-annual-fee",
+      "usda-guaranteed-loan"
+    ]
+  },
+  {
+    "id": "va-funding-fee",
+    "en": "VA funding fee table",
+    "es": "Tabla del cargo de financiamiento de VA",
+    "cadence": "Set by statute and VA; the table changes over time and by loan type and use.",
+    "esCadence": "Lo fijan la ley y el VA; la tabla cambia con el tiempo y según el tipo y uso del préstamo.",
+    "url": "https://www.va.gov/housing-assistance/home-loans/funding-fee-and-closing-costs/",
+    "source": "VA, Funding fee and closing costs",
+    "terms": [
+      "va-funding-fee"
+    ]
+  }
+]

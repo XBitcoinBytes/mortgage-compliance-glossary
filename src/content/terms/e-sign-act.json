@@ -1,7 +1,10 @@
 {
   "slug": "e-sign-act",
   "term": "E-SIGN Act",
-  "aliases": [],
+  "aliases": [
+    "ESIGN",
+    "Electronic Signatures in Global and National Commerce Act"
+  ],
   "category": "origination",
   "definition": "The E-SIGN Act is the federal law that lets an electronic signature or electronic record count as a signed writing, if the consumer consents in the way the law requires. It is what makes an emailed Loan Estimate possible. It is not the same as agreeing to proceed with the loan.",
   "details": "15 USC 7001 requires consumer consent, including a demonstration that the consumer can access the electronic records, before electronic delivery can replace certain written disclosures. Consent can be withdrawn. A creditor that cannot show consent should deliver paper. Intent to proceed under Regulation Z is a separate act.",
@@ -23,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ley E-SIGN",
-    "aliases": [],
+    "aliases": [
+      "ESIGN"
+    ],
     "definition": "La Ley E-SIGN es la ley federal que permite que una firma electrónica o un registro electrónico cuente como un escrito firmado, si el consumidor consiente del modo que la ley exige. Es lo que hace posible una Estimación del préstamo enviada por correo electrónico. No es lo mismo que aceptar continuar con el préstamo.",
     "details": "15 USC 7001 exige el consentimiento del consumidor, incluida una demostración de que el consumidor puede acceder a los registros electrónicos, antes de que la entrega electrónica reemplace ciertas divulgaciones escritas. El consentimiento se puede retirar. Un acreedor que no puede mostrar el consentimiento debe entregar papel. La intención de continuar según el Reglamento Z es un acto distinto.",
     "complianceNotes": "Complete el consentimiento y la demostración de equipo y programas antes de la primera Estimación del préstamo electrónica. Conserve el consentimiento, la demostración y el registro de entrega. Si el consumidor retira el consentimiento, pase a papel y vuelva a contar el plazo desde una entrega que cumpla.",

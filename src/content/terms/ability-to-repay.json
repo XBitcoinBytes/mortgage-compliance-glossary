@@ -38,7 +38,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Capacidad de pago",
-    "aliases": [],
+    "aliases": [
+      "ATR",
+      "Capacidad de reembolso"
+    ],
     "definition": "La capacidad de pago es el deber del acreedor, antes de hacer una hipoteca cubierta, de determinar de manera razonable y de buena fe que usted puede pagar el préstamo. Una hipoteca calificada es una forma de presumir que ese deber se cumplió. No es la única hipoteca legal.",
     "details": "12 CFR 1026.43(c) enumera ocho factores: el ingreso o los activos actuales o razonablemente esperados; el estado de empleo actual; el pago mensual de la transacción cubierta; el pago de un préstamo simultáneo; las obligaciones relacionadas con la hipoteca, como impuestos y seguro; otras deudas, pensión alimenticia y pensión de menores; la relación deuda-ingreso mensual o el ingreso residual; y el historial de crédito. El acreedor debe verificar la información con registros de terceros razonablemente confiables. La ley es 15 USC 1639c.",
     "complianceNotes": "Documente los ocho factores aunque sea una hipoteca calificada, porque la presunción tiene sus propias condiciones. Un préstamo sin documentos no es una estrategia de cumplimiento. Si el préstamo no es una QM, el expediente igual necesita la determinación razonable.",

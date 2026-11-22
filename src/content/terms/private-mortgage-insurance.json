@@ -35,7 +35,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Seguro hipotecario privado",
-    "aliases": [],
+    "aliases": [
+      "PMI"
+    ],
     "definition": "El seguro hipotecario privado protege al prestamista si un préstamo convencional entra en incumplimiento. Los prestatarios por lo general lo pagan cuando la relación préstamo-valor está por encima del umbral de la guía, a menudo discutido como el 80 por ciento. No es el seguro de la vivienda ni el seguro hipotecario de la FHA. El PMI pagado por el prestatario puede cancelarse según la Ley de Protección de los Propietarios.",
     "details": "La HPA, 12 USC 4902, establece la cancelación pedida por el prestatario y la terminación automática para las pólizas cubiertas pagadas por el prestatario. Fannie Mae y Freddie Mac también publican reglas de seguro hipotecario en sus guías. La tasa de la prima la fijan el asegurador y el riesgo, no un calendario federal. El seguro hipotecario pagado por el prestamista está incluido en la tasa y no se cancela del mismo modo.",
     "complianceNotes": "Divulgue el PMI en la Estimación del préstamo aparte de los impuestos y del seguro de riesgos. Explique la cancelación en términos de la HPA, no como una caída automática al 80 por ciento sin las condiciones. No llame seguro hipotecario privado a la MIP de la FHA.",

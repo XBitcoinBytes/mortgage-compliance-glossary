@@ -31,7 +31,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Línea de crédito con garantía hipotecaria",
-    "aliases": [],
+    "aliases": [
+      "HELOC"
+    ],
     "definition": "Una HELOC es una línea de crédito con garantía hipotecaria. Usted puede pedir prestado, pagar y volver a pedir hasta un límite durante el período de disposición. Es crédito abierto. La Estimación del préstamo y la Divulgación del cierre de TRID no son los formularios usados para una HELOC.",
     "details": "12 CFR 1026.40 establece los requisitos de divulgación de los planes sobre el valor líquido. Una HELOC sobre una vivienda principal puede llevar un derecho de rescisión según 12 CFR 1026.23. El límite no dispuesto cuenta en la HCLTV cuando también se está suscribiendo una primera hipoteca. El pago usado en una relación de deudas depende de la guía cuando la línea es una deuda en la solicitud de otro préstamo. Las tasas variables y las tasas promocionales deben divulgarse como exigen las reglas de la HELOC.",
     "complianceNotes": "No emita una Estimación del préstamo para una HELOC. Dé las divulgaciones de crédito abierto. Si la línea está detrás de una nueva primera hipoteca, ingrese el límite completo en la HCLTV.",

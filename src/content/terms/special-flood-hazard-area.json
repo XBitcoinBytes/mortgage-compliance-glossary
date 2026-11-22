@@ -26,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Zona especial de riesgo de inundación",
-    "aliases": [],
+    "aliases": [
+      "SFHA"
+    ],
     "definition": "Una zona especial de riesgo de inundación es terreno que FEMA mapea con un riesgo de inundación definido, por lo general zonas que empiezan con A o V. Un préstamo designado garantizado por un edificio en esa área por lo general necesita seguro de inundación. La palabra por lo general importa porque los paneles del mapa, las cartas de enmienda del mapa y los detalles de la ley dependen de los hechos.",
     "details": "42 USC 4012a es el requisito de compra. Los mapas de inundación de FEMA y el Programa Nacional de Seguro de Inundación explican las zonas. Una determinación de Zona X ordinariamente no activa la compra obligatoria. Un prestamista no debe reclasificar una zona para evitar la prima. Un topógrafo o un certificado de elevación puede apoyar un cambio del mapa. Ese cambio es el proceso de FEMA, no el del oficial de préstamos.",
     "complianceNotes": "Lea la zona en la determinación y pida el seguro antes del cierre cuando la zona lo exige. No le diga al prestatario que una zona es segura porque un vecino no está en ella.",

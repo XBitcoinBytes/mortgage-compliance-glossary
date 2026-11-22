@@ -26,3 +26,4 @@ pnpm-debug.log*
 # python bytecode
 __pycache__/
 *.pyc
+__pycache__/

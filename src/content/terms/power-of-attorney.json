@@ -24,7 +24,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Poder notarial",
-    "aliases": [],
+    "aliases": [
+      "Poder legal"
+    ],
     "definition": "Un poder notarial permite que una persona nombrada firme los documentos del préstamo por el prestatario. Los prestamistas y las agencias lo permiten solo en casos limitados, como un prestatario que está desplegado o que no puede firmar por razones médicas. No es un atajo de conveniencia.",
     "details": "La Selling Guide de Fannie Mae fija condiciones para un poder notarial en los préstamos que se entregan a Fannie Mae, incluido quién puede ser el apoderado y si el prestatario igual debe firmar algunos documentos. Las compañías de título y la ley estatal agregan formalidades. Un poder notarial no cambia quién es el prestatario y no dispensa la Estimación del préstamo ni la Divulgación del cierre.",
     "complianceNotes": "Apruebe el formulario antes de preparar el paquete de cierre. No deje que una parte interesada, como el vendedor, actúe como apoderado salvo que la guía y la aseguradora de título lo permitan. Conserve una copia del instrumento registrado si el registro es necesario.",

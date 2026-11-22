@@ -1,7 +1,9 @@
 {
   "slug": "udaap",
   "term": "UDAAP",
-  "aliases": [],
+  "aliases": [
+    "unfair, deceptive, or abusive acts or practices"
+  ],
   "category": "compliance",
   "definition": "UDAAP means unfair, deceptive, or abusive acts or practices. The Dodd-Frank Act gives the Consumer Financial Protection Bureau authority over those practices by banks and many nonbanks. There is no separate UDAAP part of the Code of Federal Regulations.",
   "details": "12 USC 5531 authorizes the Bureau to take action against unfair, deceptive, or abusive acts or practices. 12 USC 5536 prohibits offering or providing a consumer financial product that is not in conformity with federal consumer financial law, and it reaches the UDAAP standards. Unfairness, deception, and abusiveness are defined in the statute, not in a mortgage form. A practice can be a UDAAP even when a disclosure form was issued on time.",
