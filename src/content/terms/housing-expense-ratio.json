@@ -6,7 +6,7 @@
   ],
   "category": "underwriting",
   "definition": "The housing expense ratio compares the new monthly housing payment with your gross monthly income. People call it the front-end ratio. It looks only at housing, not at car loans or credit cards.",
-  "details": "The payment generally includes principal, interest, taxes, insurance, and association dues. Fannie Mae emphasizes the total debt-to-income ratio in B3-6-02 and describes the housing payment in B3-6-03. FHA manual underwriting still looks at a housing ratio in HUD Handbook 4000.1. A old rule of thumb such as 28 percent is not a federal law.",
+  "details": "The payment generally includes principal, interest, taxes, insurance, and association dues. Fannie Mae emphasizes the total debt-to-income ratio in B3-6-02 and describes the housing payment in B3-6-03. FHA manual underwriting still looks at a housing ratio in HUD Handbook 4000.1. An old rule of thumb such as 28 percent is not a federal law.",
   "complianceNotes": "Show the borrower which items are inside the housing payment. Do not quote a universal front-end cap. On FHA manual files, use the current handbook, not a conventional overlay, unless the creditor has documented an overlay.",
   "example": {
     "setting": "Underwriting worksheet, proposed housing payment over income",
