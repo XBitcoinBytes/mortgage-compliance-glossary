@@ -1,0 +1,40 @@
+{
+  "slug": "zero-tolerance",
+  "term": "Zero tolerance",
+  "aliases": [],
+  "category": "closing",
+  "definition": "Zero tolerance means a charge generally may not increase at all from the Loan Estimate to the Closing Disclosure. The group includes the creditor's or broker's own charges, transfer taxes, and charges paid to an affiliate or to a provider the consumer cannot shop for, subject to the exceptions in the rule.",
+  "details": "12 CFR 1026.19(e)(3)(i) is the zero-tolerance provision. A changed circumstance or another permitted revision can reset the baseline. An increase that is not permitted must be cured. Putting a shoppable title fee in Section B by mistake freezes it at zero tolerance. Transfer taxes are in this group even though they are government charges. Recording fees are not. They are in the 10 percent group.",
+  "complianceNotes": "Compare Section A and the cannot-shop fees line by line. Cure any increase you cannot tie to a permitted revision. Do not relabel a lender fee as a third-party fee to escape the bucket.",
+  "example": {
+    "setting": "Loan Estimate Section A compared with Closing Disclosure Section A",
+    "text": "A sample Section A origination fee of $1,195 on the Loan Estimate that becomes $1,395 on the Closing Disclosure is a $200 increase that generally must be cured. Example figures."
+  },
+  "citations": [
+    "reg-1026-19"
+  ],
+  "related": [
+    "changed-circumstance",
+    "faq-what-is-a-loan-estimate",
+    "faq-why-did-my-closing-costs-change",
+    "no-tolerance-bucket",
+    "origination-charges",
+    "revised-loan-estimate",
+    "services-you-cannot-shop-for",
+    "ten-percent-tolerance",
+    "tolerance-cure",
+    "transfer-taxes"
+  ],
+  "reviewed": "2026-11-19",
+  "es": {
+    "term": "Tolerancia cero",
+    "aliases": [],
+    "definition": "Tolerancia cero significa que un cargo por lo general no puede aumentar en absoluto de la Estimación del préstamo a la Divulgación del cierre. El grupo incluye los cargos propios del acreedor o del corredor, los impuestos de transferencia y los cargos pagados a un afiliado o a un proveedor que el consumidor no puede comparar, sujetos a las excepciones de la regla.",
+    "details": "12 CFR 1026.19(e)(3)(i) es la disposición de tolerancia cero. Una circunstancia cambiada u otra revisión permitida puede reajustar la base. Un aumento que no está permitido debe corregirse. Poner por error un cargo de título comparable en la Sección B lo congela en tolerancia cero. Los impuestos de transferencia están en este grupo aunque son cargos del gobierno. Los cargos de registro no. Están en el grupo del 10 por ciento.",
+    "complianceNotes": "Compare la Sección A y los cargos que no se pueden comparar línea por línea. Corrija cualquier aumento que no pueda atar a una revisión permitida. No vuelva a etiquetar un cargo del prestamista como un cargo de un tercero para escapar del grupo.",
+    "example": {
+      "setting": "Sección A de la Estimación del préstamo comparada con la Sección A de la Divulgación del cierre",
+      "text": "Una tarifa de originación de muestra de $1,195 en la Estimación del préstamo que se vuelve $1,395 en la Divulgación del cierre es un aumento de $200 que por lo general debe corregirse. Cifras de ejemplo."
+    }
+  }
+}

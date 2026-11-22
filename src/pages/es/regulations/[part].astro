@@ -1,0 +1,43 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { citations, displayName, parts, termsCitingPart } from "../../../lib/content";
+import { hrefFor, t } from "../../../lib/i18n";
+import type { Part } from "../../../lib/types";
+
+export function getStaticPaths() {
+  return parts.map((part) => ({ params: { part: part.id }, props: { part } }));
+}
+interface Props { part: Part }
+const { part } = Astro.props;
+const ui = t("es");
+const terms = termsCitingPart(part.id);
+const sections = citations.filter((citation) => citation.partId === part.id);
+---
+<Base lang="es" title={part.name} description={part.summary} path={`/regulations/${part.id}`}>
+  <div class="wrap" style="padding:1.4rem 0 2rem">
+    <p class="crumbs"><a href={hrefFor("es", "/regulations")}>{ui.regsTitle}</a></p>
+    <p class="kicker">{part.label}</p>
+    <h1>{part.name}</h1>
+    <p class="dek">{part.summary}</p>
+    <p><a href={part.url}>{ui.official}</a></p>
+    <h2>{ui.sections}</h2>
+    <ul class="source-list">
+      {sections.map((section) => (
+        <li>
+          <a href={section.url}>{section.label}</a>
+          <div lang="en">{section.title}</div>
+        </li>
+      ))}
+    </ul>
+    <h2>{ui.citedBy}</h2>
+    <ul class="dict">
+      {terms.map((term) => (
+        <li>
+          <a class="entry" href={hrefFor("es", `/terms/${term.slug}`)}>
+            <strong>{displayName(term, "es")}</strong>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

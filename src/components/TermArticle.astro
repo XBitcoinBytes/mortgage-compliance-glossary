@@ -1,0 +1,159 @@
+---
+import type { Lang, Term } from "../lib/types";
+import {
+  categoryLabel,
+  displayName,
+  excerpt,
+  pathsForTerm,
+  relatedTerms,
+  resolvedCitations,
+} from "../lib/content";
+import { hrefFor, t } from "../lib/i18n";
+import { categoryMap } from "../data/categories";
+
+interface Props {
+  lang: Lang;
+  term: Term;
+}
+const { lang, term } = Astro.props;
+const ui = t(lang);
+const es = lang === "es";
+const name = displayName(term, lang);
+const otherName = es ? term.term : term.es.term;
+const definition = es ? term.es.definition : term.definition;
+const details = es ? term.es.details : term.details;
+const notes = es ? term.es.complianceNotes : term.complianceNotes;
+const example = es ? term.es.example : term.example;
+const aliases = es ? term.es.aliases : term.aliases;
+const sources = resolvedCitations(term);
+const related = relatedTerms(term);
+const memberships = pathsForTerm(term.slug);
+const category = categoryMap.get(term.category);
+const kindLabel: Record<string, string> = {
+  regulation: ui.regulation,
+  statute: ui.statute,
+  "agency-guide": ui.agency,
+  "industry-practice": ui.industry,
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  name,
+  description: definition,
+  inDefinedTermSet: hrefFor(lang, "/terms"),
+  url: hrefFor(lang, `/terms/${term.slug}`),
+};
+---
+
+<article class="wrap term-layout">
+  <div>
+    <p class="crumbs">
+      <a href={hrefFor(lang, "/terms")}>{ui.termsIndex}</a>
+      <span aria-hidden="true"> / </span>
+      <a href={hrefFor(lang, `/categories/${term.category}`)}>{categoryLabel(term.category, lang)}</a>
+    </p>
+    <div class="term-kicker">
+      <span class="badge">{category ? (es ? category.esLabel : category.label) : term.category}</span>
+      <span>{ui.reviewed} {term.reviewed}</span>
+      {term.reviewFlag && <span class="badge flag">{ui.flagged}</span>}
+    </div>
+    <h1 class="term" lang={lang}>{name}</h1>
+    <p class="aka">
+      <span class="cross-name" lang={es ? "en" : "es"}>{otherName}</span>
+      {aliases.length > 0 && <> · {ui.also} {aliases.join(", ")}</>}
+    </p>
+    <p class="view-status">
+      <span class="when-pro">{ui.viewStatusPro}</span>
+      <span class="when-borrower">{ui.viewStatusBorrower}</span>
+    </p>
+    {term.reviewFlag && <div class="flag-panel"><strong>{ui.flagged}.</strong> {term.reviewFlag}</div>}
+
+    <section class="definition" aria-labelledby="def-h">
+      <h2 id="def-h">{ui.definition}</h2>
+      <p>{definition}</p>
+    </section>
+
+    <section class="example-panel" aria-labelledby="ex-h">
+      <h2 id="ex-h">{ui.onTheForm}</h2>
+      <p class="setting">{example.setting}</p>
+      <p>{example.text}</p>
+      <p class="example-tag">{ui.exampleTag}</p>
+    </section>
+
+    <section class="pro-panel" data-pro-section>
+      <h2>
+        <button type="button" class="pro-toggle" aria-expanded="true" aria-controls="why-body">{ui.why}</button>
+      </h2>
+      <div class="pro-body" id="why-body">
+        <p class="pro-dek">{ui.whyDek}</p>
+        <p>{details}</p>
+      </div>
+    </section>
+
+    <section class="pro-panel" data-pro-section>
+      <h2>
+        <button type="button" class="pro-toggle" aria-expanded="true" aria-controls="notes-body">{ui.notes}</button>
+      </h2>
+      <div class="pro-body" id="notes-body">
+        <p>{notes}</p>
+      </div>
+    </section>
+
+    <section class="pro-panel" data-pro-section>
+      <h2>
+        <button type="button" class="pro-toggle" aria-expanded="true" aria-controls="sources-body">{ui.sources}</button>
+      </h2>
+      <div class="pro-body" id="sources-body">
+        <ul class="source-list">
+          {
+            sources.map((source) => (
+              <li>
+                <a href={source.url} rel="noopener noreferrer">{source.label}</a>
+                <span class="kind">{kindLabel[source.kind] ?? source.kind}</span>
+                <div>{source.title}</div>
+                {source.cfpbUrl && (
+                  <div>
+                    <a href={source.cfpbUrl} rel="noopener noreferrer">{ui.cfpbText}</a>
+                  </div>
+                )}
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </section>
+    <p class="no-print"><button type="button" class="btn secondary" onclick="window.print()">{ui.print}</button></p>
+  </div>
+  <aside class="rail">
+    <h2>{ui.related}</h2>
+    <ul>
+      {
+        related.map((item) => (
+          <li>
+            <a href={hrefFor(lang, `/terms/${item.slug}`)}>{displayName(item, lang)}</a>
+            <div>{excerpt(lang === "es" ? item.es.definition : item.definition, 110)}</div>
+          </li>
+        ))
+      }
+    </ul>
+    {
+      memberships.length > 0 && (
+        <>
+          <h2>{ui.inPaths}</h2>
+          <ul>
+            {memberships.map(({ path, index }) => (
+              <li>
+                <a href={hrefFor(lang, `/paths/${path.slug}`)}>{lang === "es" ? path.esTitle : path.title}</a>
+                <div>
+                  {ui.step} {index + 1} / {path.steps.length}
+                </div>
+              </li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+  </aside>
+</article>
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd).replace(/</g, "\\u003c")} />

@@ -1,0 +1,21 @@
+---
+import TermArticle from "../../components/TermArticle.astro";
+import Base from "../../layouts/Base.astro";
+import { getTerms } from "../../lib/content";
+import { t } from "../../lib/i18n";
+import type { Term } from "../../lib/types";
+
+export function getStaticPaths() {
+  return getTerms().map((term) => ({ params: { slug: term.slug }, props: { term } }));
+}
+
+interface Props {
+  term: Term;
+}
+const { term } = Astro.props;
+const ui = t("en");
+---
+<Base lang="en" title={term.term} description={term.definition} path={`/terms/${term.slug}`}>
+  <TermArticle lang="en" term={term} />
+  <p class="wrap" style="color:var(--ink-soft); max-width:42rem">{ui.disclaimer}</p>
+</Base>

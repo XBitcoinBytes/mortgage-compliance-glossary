@@ -1,0 +1,82 @@
+---
+import type { CategoryId, Lang, Term } from "../lib/types";
+import { categories } from "../data/categories";
+import { categoryLabel, displayDefinition, displayName, excerpt, groupByLetter } from "../lib/content";
+import { hrefFor, t } from "../lib/i18n";
+
+interface Props {
+  lang: Lang;
+  terms: Term[];
+  lockedCategory?: CategoryId;
+}
+const { lang, terms, lockedCategory } = Astro.props;
+const ui = t(lang);
+const groups = groupByLetter(terms, lang);
+const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+---
+
+<div id="browse" data-locked={lockedCategory ?? ""} data-lang={lang}>
+  <div class="filter-bar">
+    <label>
+      <span class="sr-only">{ui.searchHint}</span>
+      <input id="browse-q" type="search" placeholder={ui.searchPlaceholder} autocomplete="off" />
+    </label>
+    {
+      !lockedCategory && (
+        <div class="pills" id="browse-cats">
+          <button type="button" data-cat="" aria-pressed="true">{ui.allTopics}</button>
+          {categories.map((category) => (
+            <button type="button" data-cat={category.id} aria-pressed="false">
+              {lang === "es" ? category.esLabel : category.label}
+            </button>
+          ))}
+        </div>
+      )
+    }
+    <div class="letters" id="browse-letters">
+      <button type="button" data-letter="" aria-pressed="true">{ui.allLetters}</button>
+      {letters.map((letter) => <button type="button" data-letter={letter} aria-pressed="false">{letter}</button>)}
+    </div>
+  </div>
+  <p id="browse-count" aria-live="polite">{terms.length} {ui.resultCount}</p>
+  <noscript>
+    <p>
+      {
+        lang === "es"
+          ? "Sin JavaScript, use las páginas de tema y los encabezados de letra."
+          : "Without JavaScript, use the topic pages and the letter headings."
+      }
+    </p>
+  </noscript>
+  <div id="browse-groups">
+    {
+      groups.map((group) => (
+        <section class="letter-group" id={`letter-${group.letter}`} data-letter-group={group.letter}>
+          <h2>{group.letter}</h2>
+          <ul class="dict">
+            {group.terms.map((term) => (
+              <li
+                data-slug={term.slug}
+                data-cat={term.category}
+                data-letter={group.letter}
+                data-name={`${term.term} ${term.es.term} ${term.aliases.join(" ")} ${term.es.aliases.join(" ")}`}
+              >
+                <a class="entry" href={hrefFor(lang, `/terms/${term.slug}`)}>
+                  <strong>{displayName(term, lang)}</strong>
+                  <span class="cat">{categoryLabel(term.category, lang)}</span>
+                  <p>{excerpt(displayDefinition(term, lang))}</p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+  </div>
+  <p id="browse-empty" hidden>{ui.noResults}</p>
+</div>
+
+<script>
+  import { initBrowse } from "../scripts/browse";
+  initBrowse();
+</script>

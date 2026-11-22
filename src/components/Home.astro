@@ -1,0 +1,132 @@
+---
+import type { Lang } from "../lib/types";
+import { categories } from "../data/categories";
+import {
+  HOME_PARTS,
+  displayName,
+  excerpt,
+  getTerms,
+  partCounts,
+  partMap,
+  paths,
+  termsInCategory,
+  trending,
+} from "../lib/content";
+import { hrefFor, t } from "../lib/i18n";
+import Base from "../layouts/Base.astro";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const ui = t(lang);
+const terms = getTerms();
+const bySlug = new Map(terms.map((term) => [term.slug, term]));
+const counts = partCounts();
+const proPaths = paths.filter((path) => path.audience === "professional").slice(0, 6);
+---
+
+<Base lang={lang} title={ui.siteName} description={ui.homeDek} path="/">
+  <section class="wrap hero">
+    <p class="kicker">{ui.siteKicker}</p>
+    <h1>{ui.homeTitle}</h1>
+    <p class="dek">{ui.homeDek}</p>
+    <div class="home-search">
+      <label class="sr-only" for="home-search">{ui.searchHint}</label>
+      <input id="home-search" type="search" placeholder={ui.searchPlaceholder} autocomplete="off" />
+      <a class="btn secondary" href={hrefFor(lang, "/terms")}>{ui.browseAll}</a>
+    </div>
+    <p class="view-status">
+      <span class="when-pro">{ui.viewStatusPro}</span>
+      <span class="when-borrower">{ui.viewStatusBorrower}</span>
+    </p>
+  </section>
+
+  <section class="wrap home-grid">
+    <article class="panel home-pro">
+      <p class="kicker">{ui.forPros}</p>
+      <h2>{ui.pathsTitle}</h2>
+      <p class="sub">{ui.forProsDek}</p>
+      <ol class="path-list">
+        {
+          proPaths.map((path) => (
+            <li>
+              <a href={hrefFor(lang, `/paths/${path.slug}`)}>
+                <strong>{lang === "es" ? path.esTitle : path.title}</strong>
+                <span>{lang === "es" ? path.esSummary : path.summary}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ol>
+      <p><a href={hrefFor(lang, "/paths")}>{ui.allPaths}</a></p>
+      <h2>{ui.regIndex}</h2>
+      <p class="sub">{ui.regIndexDek}</p>
+      <div class="reg-grid">
+        {
+          HOME_PARTS.map((id) => {
+            const part = partMap.get(id);
+            if (!part) return null;
+            return (
+              <a href={hrefFor(lang, `/regulations/${part.id}`)}>
+                <strong>{part.short}</strong>
+                <small>
+                  {part.label} · {counts.get(part.id) ?? 0}
+                </small>
+              </a>
+            );
+          })
+        }
+      </div>
+      <p><a href={hrefFor(lang, "/regulations")}>{ui.fullIndex}</a></p>
+    </article>
+
+    <article class="panel home-borrowers">
+      <p class="kicker">{ui.popular}</p>
+      <h2>{lang === "es" ? trending.esHeading : trending.heading}</h2>
+      <p class="disclosure">{lang === "es" ? trending.esDisclosure : trending.disclosure}</p>
+      <ul class="plain-list">
+        {
+          trending.slugs.map((slug) => {
+            const term = bySlug.get(slug);
+            if (!term) return null;
+            return (
+              <li>
+                <a href={hrefFor(lang, `/terms/${slug}`)}>
+                  <strong>{displayName(term, lang)}</strong>
+                  <span>{excerpt(lang === "es" ? term.es.definition : term.definition, 120)}</span>
+                </a>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </article>
+  </section>
+
+  <section class="wrap">
+    <h2>{ui.topics}</h2>
+    <div class="topic-grid">
+      {
+        categories.map((category) => (
+          <a class="topic-card" href={hrefFor(lang, `/categories/${category.id}`)}>
+            <strong>{lang === "es" ? category.esLabel : category.label}</strong>
+            <span class="count">{termsInCategory(category.id).length}</span>
+            <span> {lang === "es" ? category.esDek : category.dek}</span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="wrap how" aria-label={ui.howTitle}>
+    {
+      ui.how.map(([title, body]) => (
+        <article>
+          <h3>{title}</h3>
+          <p>{body}</p>
+        </article>
+      ))
+    }
+  </section>
+</Base>

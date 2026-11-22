@@ -1,0 +1,314 @@
+[
+  {
+    "id": "1026",
+    "label": "12 CFR Part 1026",
+    "short": "Reg Z",
+    "name": "Regulation Z \u2014 Truth in Lending",
+    "summary": "Closed-end mortgage disclosures, the Loan Estimate and Closing Disclosure, advertising, high-cost and higher-priced mortgages, loan-originator compensation, right of rescission, periodic statements, and ability-to-repay / qualified mortgage standards.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026"
+  },
+  {
+    "id": "1024",
+    "label": "12 CFR Part 1024",
+    "short": "Reg X",
+    "name": "Regulation X \u2014 RESPA",
+    "summary": "Settlement-service kickbacks, affiliated business arrangements, escrow accounts, servicing transfers, error resolution, requests for information, force-placed insurance, and loss-mitigation procedures.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024"
+  },
+  {
+    "id": "1002",
+    "label": "12 CFR Part 1002",
+    "short": "Reg B",
+    "name": "Regulation B \u2014 ECOA",
+    "summary": "Discrimination in credit transactions, what a creditor may ask, evaluation rules, adverse-action notices, record retention, government monitoring information, and appraisal copies.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002"
+  },
+  {
+    "id": "1003",
+    "label": "12 CFR Part 1003",
+    "short": "Reg C",
+    "name": "Regulation C \u2014 HMDA",
+    "summary": "Which applications and loans are reported, the data fields on the loan/application register, and the annual filing.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1003"
+  },
+  {
+    "id": "1022",
+    "label": "12 CFR Part 1022",
+    "short": "Reg V",
+    "name": "Regulation V \u2014 FCRA",
+    "summary": "Consumer-report duties that sit with mortgage creditors, including risk-based pricing notices. The statute is the Fair Credit Reporting Act.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1022"
+  },
+  {
+    "id": "1016",
+    "label": "12 CFR Part 1016",
+    "short": "Reg P",
+    "name": "Regulation P \u2014 GLBA privacy",
+    "summary": "Privacy notices and the limits on sharing nonpublic personal information by financial institutions under the CFPB's Regulation P.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1016"
+  },
+  {
+    "id": "1007",
+    "label": "12 CFR Part 1007",
+    "short": "Reg G",
+    "name": "Regulation G \u2014 SAFE Act registration",
+    "summary": "Registration of mortgage loan originators who are employees of depository institutions and certain subsidiaries.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1007"
+  },
+  {
+    "id": "1008",
+    "label": "12 CFR Part 1008",
+    "short": "Reg H",
+    "name": "Regulation H \u2014 SAFE Act state licensing",
+    "summary": "The federal floor for state licensing and registration of mortgage loan originators who are not covered by Regulation G.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1008"
+  },
+  {
+    "id": "1014",
+    "label": "12 CFR Part 1014",
+    "short": "Reg N",
+    "name": "Regulation N \u2014 MAP Rule",
+    "summary": "Mortgage Acts and Practices advertising. Commercial communications about mortgage credit terms cannot be materially misleading.",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1014"
+  },
+  {
+    "id": "tila",
+    "label": "15 USC 1601 et seq.",
+    "short": "TILA",
+    "name": "Truth in Lending Act",
+    "summary": "The statute behind Regulation Z, including ability-to-repay and HOEPA provisions now implemented in 12 CFR 1026.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim"
+  },
+  {
+    "id": "respa",
+    "label": "12 USC 2601 et seq.",
+    "short": "RESPA",
+    "name": "Real Estate Settlement Procedures Act",
+    "summary": "The statute behind Regulation X, including the Section 8 prohibition on kickbacks and unearned fees.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim"
+  },
+  {
+    "id": "ecoa",
+    "label": "15 USC 1691 et seq.",
+    "short": "ECOA",
+    "name": "Equal Credit Opportunity Act",
+    "summary": "The statute prohibiting discrimination in credit transactions, implemented by Regulation B.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691&num=0&edition=prelim"
+  },
+  {
+    "id": "hmda",
+    "label": "12 USC 2801 et seq.",
+    "short": "HMDA",
+    "name": "Home Mortgage Disclosure Act",
+    "summary": "The statute requiring mortgage data collection and reporting, implemented by Regulation C.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2801&num=0&edition=prelim"
+  },
+  {
+    "id": "fcra",
+    "label": "15 USC 1681 et seq.",
+    "short": "FCRA",
+    "name": "Fair Credit Reporting Act",
+    "summary": "Permissible purposes, adverse-action duties, and the accuracy framework for consumer reports.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim"
+  },
+  {
+    "id": "glba",
+    "label": "15 USC 6801 et seq.",
+    "short": "GLBA",
+    "name": "Gramm-Leach-Bliley Act privacy",
+    "summary": "The privacy and safeguard duties for nonpublic personal information of customers.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801&num=0&edition=prelim"
+  },
+  {
+    "id": "safe",
+    "label": "12 USC 5101 et seq.",
+    "short": "SAFE Act",
+    "name": "SAFE Mortgage Licensing Act",
+    "summary": "Licensing and registration of mortgage loan originators through NMLS, implemented in part by Regulations G and H and by state law.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5101&num=0&edition=prelim"
+  },
+  {
+    "id": "hpa",
+    "label": "12 USC 4901 et seq.",
+    "short": "HPA",
+    "name": "Homeowners Protection Act",
+    "summary": "Borrower-requested cancellation and automatic termination of private mortgage insurance on covered residential mortgages.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4901&num=0&edition=prelim"
+  },
+  {
+    "id": "udaap",
+    "label": "12 USC 5531 and 5536",
+    "short": "UDAAP",
+    "name": "Unfair, deceptive, or abusive acts or practices",
+    "summary": "The Dodd-Frank standards the CFPB uses against unfair, deceptive, or abusive conduct. There is no separate UDAAP part of Regulation Z.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5531&num=0&edition=prelim"
+  },
+  {
+    "id": "scra",
+    "label": "50 USC 3901 et seq.",
+    "short": "SCRA",
+    "name": "Servicemembers Civil Relief Act",
+    "summary": "Interest-rate relief and foreclosure protections for servicemembers. Distinct from the Military Lending Act.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim"
+  },
+  {
+    "id": "flood",
+    "label": "42 USC 4012a",
+    "short": "Flood",
+    "name": "Flood insurance purchase requirement",
+    "summary": "Mandatory flood insurance in a special flood hazard area for designated loans, and the FEMA National Flood Insurance Program.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4012a&num=0&edition=prelim"
+  },
+  {
+    "id": "fair-housing",
+    "label": "42 USC 3601 et seq.",
+    "short": "FHA Act",
+    "name": "Fair Housing Act",
+    "summary": "Discrimination prohibitions in housing and in residential real estate-related transactions, enforced primarily by HUD and the Department of Justice.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3604&num=0&edition=prelim"
+  },
+  {
+    "id": "bsa",
+    "label": "31 USC 5311 / 31 CFR Chapter X",
+    "short": "BSA/AML",
+    "name": "Bank Secrecy Act and FinCEN rules",
+    "summary": "Anti-money-laundering programs, suspicious-activity reporting, and customer identification. Residential mortgage lenders and originators have a FinCEN rule at 31 CFR Part 1029.",
+    "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1029"
+  },
+  {
+    "id": "mla",
+    "label": "32 CFR Part 232",
+    "short": "MLA",
+    "name": "Military Lending Act",
+    "summary": "Limits on certain consumer credit to covered borrowers. A residential mortgage secured by a dwelling is excluded from the MLA definition of consumer credit.",
+    "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-M/part-232"
+  },
+  {
+    "id": "fha",
+    "label": "12 USC 1709 / HUD 4000.1",
+    "short": "FHA",
+    "name": "FHA single-family mortgage insurance",
+    "summary": "The National Housing Act insurance program and HUD's Single Family Housing Policy Handbook 4000.1.",
+    "url": "https://www.hud.gov/program_offices/housing/sfh/handbook_4000-1"
+  },
+  {
+    "id": "va",
+    "label": "38 USC Chapter 37 / VA Pamphlet 26-7",
+    "short": "VA",
+    "name": "VA-guaranteed home loans",
+    "summary": "Eligibility, guaranty, underwriting, and refinance rules for VA loans, in the statute, 38 CFR Part 36, and the Lenders Handbook.",
+    "url": "https://www.benefits.va.gov/warms/pam26_7.asp"
+  },
+  {
+    "id": "usda",
+    "label": "7 CFR Part 3555",
+    "short": "USDA",
+    "name": "USDA guaranteed rural housing",
+    "summary": "The Single Family Housing Guaranteed Loan Program and HB-1-3555.",
+    "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-XXXV/part-3555"
+  },
+  {
+    "id": "hecm",
+    "label": "24 CFR Part 206",
+    "short": "HECM",
+    "name": "Home Equity Conversion Mortgage",
+    "summary": "FHA-insured reverse mortgages under the National Housing Act and 24 CFR Part 206.",
+    "url": "https://www.ecfr.gov/current/title-24/subtitle-B/chapter-II/subchapter-B/part-206"
+  },
+  {
+    "id": "fannie",
+    "label": "Fannie Mae Selling Guide",
+    "short": "Fannie",
+    "name": "Fannie Mae Selling Guide",
+    "summary": "Eligibility, underwriting, property, and mortgage-insurance rules for loans delivered to Fannie Mae, including Desktop Underwriter.",
+    "url": "https://selling-guide.fanniemae.com/"
+  },
+  {
+    "id": "freddie",
+    "label": "Freddie Mac Guide",
+    "short": "Freddie",
+    "name": "Freddie Mac Seller/Servicer Guide",
+    "summary": "Eligibility and servicing standards for loans sold to or serviced for Freddie Mac, including Loan Product Advisor.",
+    "url": "https://guide.freddiemac.com/app/guide/"
+  },
+  {
+    "id": "ginnie",
+    "label": "Ginnie Mae",
+    "short": "Ginnie",
+    "name": "Ginnie Mae MBS",
+    "summary": "The guarantor of securities backed by FHA, VA, USDA, and other government loans. Ginnie Mae is not a lender and does not set underwriting overlays.",
+    "url": "https://www.ginniemae.gov/"
+  },
+  {
+    "id": "fhfa",
+    "label": "FHFA loan limits",
+    "short": "FHFA",
+    "name": "Conforming loan limits",
+    "summary": "The Federal Housing Finance Agency publishes the baseline and high-cost-area conforming loan limits. The dollar amounts change.",
+    "url": "https://www.fhfa.gov/data/conforming-loan-limits"
+  },
+  {
+    "id": "cfpb",
+    "label": "CFPB mortgage resources",
+    "short": "CFPB",
+    "name": "Consumer Financial Protection Bureau",
+    "summary": "Official explainers, model forms, and the interactive regulations for the mortgage rules the Bureau administers.",
+    "url": "https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/"
+  },
+  {
+    "id": "esign",
+    "label": "15 USC 7001",
+    "short": "E-SIGN",
+    "name": "Electronic Signatures in Global and National Commerce Act",
+    "summary": "When an electronic signature or record can satisfy a writing requirement, and the consumer-consent rules that go with it.",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001&num=0&edition=prelim"
+  },
+  {
+    "id": "nmls",
+    "label": "NMLS",
+    "short": "NMLS",
+    "name": "Nationwide Multistate Licensing System",
+    "summary": "The registry used for SAFE Act licensing and registration. NMLS is the system; the SAFE Act and state law are the license rules.",
+    "url": "https://mortgage.nationwidelicensingsystem.org/"
+  },
+  {
+    "id": "urla",
+    "label": "URLA / Form 1003",
+    "short": "URLA",
+    "name": "Uniform Residential Loan Application",
+    "summary": "The standard application dataset used by Fannie Mae and Freddie Mac. It is a form, not a disclosure under TRID.",
+    "url": "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application"
+  },
+  {
+    "id": "safeguards",
+    "label": "16 CFR Part 314",
+    "short": "Safeguards",
+    "name": "FTC Safeguards Rule",
+    "summary": "Information-security program requirements for nonbank financial institutions under the Gramm-Leach-Bliley Act.",
+    "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314"
+  },
+  {
+    "id": "red-flags",
+    "label": "16 CFR Part 681",
+    "short": "Red Flags",
+    "name": "Identity theft red flags",
+    "summary": "The identity-theft prevention program required of creditors that offer covered accounts.",
+    "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-F/part-681"
+  },
+  {
+    "id": "ofac",
+    "label": "OFAC",
+    "short": "OFAC",
+    "name": "Sanctions screening",
+    "summary": "Treasury's Office of Foreign Assets Control administers economic sanctions. Mortgage lenders screen parties against the sanctions lists.",
+    "url": "https://ofac.treasury.gov/"
+  },
+  {
+    "id": "practice",
+    "label": "Industry practice",
+    "short": "Practice",
+    "name": "File practice and market vocabulary",
+    "summary": "Terms that desks use \u2014 clear to close, prior-to-doc, float-down \u2014 when no single regulation defines the phrase. The citation is the closest official source, marked industry practice.",
+    "url": "https://selling-guide.fanniemae.com/"
+  }
+]

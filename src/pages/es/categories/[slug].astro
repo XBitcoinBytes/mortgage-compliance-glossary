@@ -1,0 +1,24 @@
+---
+import Browse from "../../../components/Browse.astro";
+import Base from "../../../layouts/Base.astro";
+import { categories } from "../../../data/categories";
+import { termsInCategory } from "../../../lib/content";
+import type { CategoryId } from "../../../lib/types";
+
+export function getStaticPaths() {
+  return categories.map((category) => ({ params: { slug: category.id }, props: { category } }));
+}
+
+interface Props {
+  category: (typeof categories)[number];
+}
+const { category } = Astro.props;
+---
+<Base lang="es" title={category.esLabel} description={category.esDek} path={`/categories/${category.id}`}>
+  <div class="wrap" style="padding-top:1.4rem">
+    <p class="kicker">Tema</p>
+    <h1>{category.esLabel}</h1>
+    <p class="dek">{category.esDek}</p>
+    <Browse lang="es" terms={termsInCategory(category.id as CategoryId)} lockedCategory={category.id} />
+  </div>
+</Base>

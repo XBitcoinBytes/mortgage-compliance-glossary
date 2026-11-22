@@ -1,0 +1,18 @@
+{
+  "heading": "Most looked-up by borrowers",
+  "esHeading": "Lo m\u00e1s consultado por prestatarios",
+  "disclosure": "A curated list of topics borrowers ask loan officers about. It is not a count of searches on this site. There is no live traffic yet. When analytics are added, replace the slugs in this file. Do not display fabricated counts.",
+  "esDisclosure": "Una lista seleccionada de temas que los prestatarios preguntan a los oficiales de pr\u00e9stamos. No es un conteo de b\u00fasquedas en este sitio. Todav\u00eda no hay tr\u00e1fico en vivo. Cuando haya anal\u00edtica, reemplace los slugs de este archivo. No muestre conteos inventados.",
+  "slugs": [
+    "loan-estimate",
+    "closing-costs",
+    "faq-apr-vs-interest-rate",
+    "private-mortgage-insurance",
+    "escrow-account",
+    "rate-lock",
+    "debt-to-income-ratio",
+    "discount-points",
+    "closing-disclosure",
+    "pre-approval"
+  ]
+}

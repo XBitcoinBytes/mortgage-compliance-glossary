@@ -1,0 +1,747 @@
+[
+  {
+    "slug": "trid-application-to-closing",
+    "title": "TRID from application to closing",
+    "esTitle": "TRID de la solicitud al cierre",
+    "summary": "The disclosure clock compliance staff actually administer: when an application exists, what the Loan Estimate locks in, which changes permit a revision, and when the Closing Disclosure waiting period starts over.",
+    "esSummary": "El reloj de divulgaci\u00f3n que administra el personal de cumplimiento: cu\u00e1ndo existe una solicitud, qu\u00e9 fija la Estimaci\u00f3n del pr\u00e9stamo, qu\u00e9 cambios permiten una revisi\u00f3n y cu\u00e1ndo vuelve a empezar la espera de la Divulgaci\u00f3n del cierre.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "application-definition",
+        "note": "The six items start the LE clock.",
+        "esNote": "Los seis datos inician el plazo de la Estimaci\u00f3n del pr\u00e9stamo."
+      },
+      {
+        "slug": "loan-estimate",
+        "note": "Content and the three-business-day delivery.",
+        "esNote": "Contenido y entrega en tres d\u00edas h\u00e1biles."
+      },
+      {
+        "slug": "intent-to-proceed",
+        "note": "Fee restriction before the consumer proceeds.",
+        "esNote": "Restricci\u00f3n de cargos antes de que el consumidor contin\u00fae."
+      },
+      {
+        "slug": "your-home-loan-toolkit",
+        "note": "The purchase booklet is a separate Reg X duty.",
+        "esNote": "El folleto de compra es un deber distinto del Reglamento X."
+      },
+      {
+        "slug": "written-list-of-providers",
+        "note": "Shopping affects the tolerance bucket.",
+        "esNote": "Comparar proveedores afecta la tolerancia."
+      },
+      {
+        "slug": "changed-circumstance",
+        "note": "Not every change permits a new LE.",
+        "esNote": "No todo cambio permite una nueva Estimaci\u00f3n."
+      },
+      {
+        "slug": "revised-loan-estimate",
+        "note": "Timing and the ban on a late LE.",
+        "esNote": "Plazos y la prohibici\u00f3n de una Estimaci\u00f3n tard\u00eda."
+      },
+      {
+        "slug": "zero-tolerance",
+        "note": "Lender charges that generally cannot increase.",
+        "esNote": "Cargos del prestamista que por lo general no pueden subir."
+      },
+      {
+        "slug": "ten-percent-tolerance",
+        "note": "The cumulative 10 percent bucket.",
+        "esNote": "El grupo acumulado del 10 por ciento."
+      },
+      {
+        "slug": "closing-disclosure",
+        "note": "The final form and its delivery.",
+        "esNote": "El formulario final y su entrega."
+      },
+      {
+        "slug": "three-business-day-rule",
+        "note": "Separate the LE, CD, and rescission clocks.",
+        "esNote": "Separe los plazos de la Estimaci\u00f3n, la Divulgaci\u00f3n y la rescisi\u00f3n."
+      },
+      {
+        "slug": "cd-waiting-period-resets",
+        "note": "Only three events restart the CD wait.",
+        "esNote": "Solo tres eventos reinician la espera de la Divulgaci\u00f3n."
+      },
+      {
+        "slug": "tolerance-cure",
+        "note": "How an excess is refunded.",
+        "esNote": "C\u00f3mo se reembolsa el exceso."
+      },
+      {
+        "slug": "consummation",
+        "note": "State law, not the signing table, defines the moment.",
+        "esNote": "La ley estatal, no la mesa de firma, define el momento."
+      }
+    ]
+  },
+  {
+    "slug": "reading-the-loan-estimate",
+    "title": "Reading the Loan Estimate",
+    "esTitle": "C\u00f3mo leer la Estimaci\u00f3n del pr\u00e9stamo",
+    "summary": "A page-by-page reading order for LOs and processors: Loan Terms, the Section A through G costs, credits, and the APR comparison.",
+    "esSummary": "Un orden de lectura para oficiales de pr\u00e9stamos y procesadores: t\u00e9rminos del pr\u00e9stamo, costos de las secciones A a G, cr\u00e9ditos y la comparaci\u00f3n de la tasa porcentual anual.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "loan-estimate",
+        "note": "What the three pages are for.",
+        "esNote": "Para qu\u00e9 sirven las tres p\u00e1ginas."
+      },
+      {
+        "slug": "origination-charges",
+        "note": "Section A and the zero-tolerance baseline.",
+        "esNote": "Secci\u00f3n A y la base de tolerancia cero."
+      },
+      {
+        "slug": "services-you-cannot-shop-for",
+        "note": "Section B.",
+        "esNote": "Secci\u00f3n B."
+      },
+      {
+        "slug": "services-you-can-shop-for",
+        "note": "Section C and the written list.",
+        "esNote": "Secci\u00f3n C y la lista escrita."
+      },
+      {
+        "slug": "discount-points",
+        "note": "A price paid to lower the note rate.",
+        "esNote": "Un precio para bajar la tasa del pagar\u00e9."
+      },
+      {
+        "slug": "lender-credits",
+        "note": "A credit, often for a higher rate.",
+        "esNote": "Un cr\u00e9dito, a menudo por una tasa m\u00e1s alta."
+      },
+      {
+        "slug": "prepaids",
+        "note": "Section F, including prepaid interest.",
+        "esNote": "Secci\u00f3n F, incluido el inter\u00e9s pagado por adelantado."
+      },
+      {
+        "slug": "initial-escrow-payment",
+        "note": "Section G.",
+        "esNote": "Secci\u00f3n G."
+      },
+      {
+        "slug": "cash-to-close",
+        "note": "The bottom line the borrower will ask about.",
+        "esNote": "La cifra que preguntar\u00e1 el prestatario."
+      },
+      {
+        "slug": "annual-percentage-rate",
+        "note": "Why APR is not the note rate.",
+        "esNote": "Por qu\u00e9 la APR no es la tasa del pagar\u00e9."
+      },
+      {
+        "slug": "total-interest-percentage",
+        "note": "TIP is a third, different number.",
+        "esNote": "El TIP es un tercer n\u00famero, distinto."
+      }
+    ]
+  },
+  {
+    "slug": "closing-disclosure-and-tolerances",
+    "title": "Closing Disclosure and tolerance cures",
+    "esTitle": "Divulgaci\u00f3n del cierre y correcciones de tolerancia",
+    "summary": "For closers and compliance: which bucket a fee sits in, when the waiting period resets, and how a cure is documented.",
+    "esSummary": "Para el cierre y el cumplimiento: en qu\u00e9 grupo cae un cargo, cu\u00e1ndo se reinicia la espera y c\u00f3mo se documenta una correcci\u00f3n.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "closing-disclosure",
+        "note": "The five-page form.",
+        "esNote": "El formulario de cinco p\u00e1ginas."
+      },
+      {
+        "slug": "three-business-day-rule",
+        "note": "Receipt at least three business days before consummation.",
+        "esNote": "Recepci\u00f3n al menos tres d\u00edas h\u00e1biles antes de la consumaci\u00f3n."
+      },
+      {
+        "slug": "zero-tolerance",
+        "note": "Charges that should match the LE.",
+        "esNote": "Cargos que deben coincidir con la Estimaci\u00f3n."
+      },
+      {
+        "slug": "ten-percent-tolerance",
+        "note": "The cumulative shoppable and recording bucket.",
+        "esNote": "El grupo acumulado de cargos comparables y de registro."
+      },
+      {
+        "slug": "no-tolerance-bucket",
+        "note": "Charges the rule allows to move.",
+        "esNote": "Cargos que la regla permite que cambien."
+      },
+      {
+        "slug": "changed-circumstance",
+        "note": "The legal reason, not a pricing preference.",
+        "esNote": "La raz\u00f3n legal, no una preferencia de precio."
+      },
+      {
+        "slug": "tolerance-cure",
+        "note": "Refund timing and method.",
+        "esNote": "Plazo y m\u00e9todo del reembolso."
+      },
+      {
+        "slug": "seller-credits",
+        "note": "Where the seller's money appears.",
+        "esNote": "D\u00f3nde aparece el dinero del vendedor."
+      },
+      {
+        "slug": "cash-to-close-calculation",
+        "note": "The comparison table against the LE.",
+        "esNote": "La tabla de comparaci\u00f3n con la Estimaci\u00f3n."
+      },
+      {
+        "slug": "prepaid-interest",
+        "note": "The per diem that moves with the funding date.",
+        "esNote": "El inter\u00e9s diario que cambia con la fecha de desembolso."
+      },
+      {
+        "slug": "aggregate-adjustment",
+        "note": "Why Section G can show a negative number.",
+        "esNote": "Por qu\u00e9 la secci\u00f3n G puede mostrar un n\u00famero negativo."
+      }
+    ]
+  },
+  {
+    "slug": "underwriting-conditions-101",
+    "title": "Underwriting conditions 101",
+    "esTitle": "Condiciones de suscripci\u00f3n",
+    "summary": "How a conditional approval moves through prior-to-document and prior-to-funding to clear to close, and which conditions are guide requirements rather than internal slang.",
+    "esSummary": "C\u00f3mo una aprobaci\u00f3n condicional pasa de las condiciones previas a los documentos y al desembolso hasta la autorizaci\u00f3n para cerrar.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "underwriting-conditions",
+        "note": "What a condition is.",
+        "esNote": "Qu\u00e9 es una condici\u00f3n."
+      },
+      {
+        "slug": "conditional-approval",
+        "note": "Approved only if the list is cleared.",
+        "esNote": "Aprobado solo si se cumple la lista."
+      },
+      {
+        "slug": "prior-to-document",
+        "note": "Due before the package is drawn.",
+        "esNote": "Se debe antes de preparar el paquete."
+      },
+      {
+        "slug": "prior-to-funding",
+        "note": "Due before money moves.",
+        "esNote": "Se debe antes de que salga el dinero."
+      },
+      {
+        "slug": "clear-to-close",
+        "note": "An internal status, not consummation.",
+        "esNote": "Un estado interno, no la consumaci\u00f3n."
+      },
+      {
+        "slug": "verification-of-employment",
+        "note": "The written file.",
+        "esNote": "El expediente escrito."
+      },
+      {
+        "slug": "verbal-verification-of-employment",
+        "note": "The closer-in-time call.",
+        "esNote": "La verificaci\u00f3n verbal m\u00e1s cercana al cierre."
+      },
+      {
+        "slug": "bank-statements",
+        "note": "Assets and large deposits.",
+        "esNote": "Activos y dep\u00f3sitos grandes."
+      },
+      {
+        "slug": "large-deposit",
+        "note": "What has to be sourced.",
+        "esNote": "Qu\u00e9 hay que documentar."
+      },
+      {
+        "slug": "letter-of-explanation",
+        "note": "What a letter can and cannot cure.",
+        "esNote": "Qu\u00e9 puede y qu\u00e9 no puede resolver una carta."
+      },
+      {
+        "slug": "appraisal",
+        "note": "Collateral condition.",
+        "esNote": "Condici\u00f3n de la garant\u00eda."
+      },
+      {
+        "slug": "title-commitment",
+        "note": "Lien and exception condition.",
+        "esNote": "Condici\u00f3n de grav\u00e1menes y excepciones."
+      }
+    ]
+  },
+  {
+    "slug": "income-assets-and-credit",
+    "title": "Income, assets, and credit",
+    "esTitle": "Ingresos, activos y cr\u00e9dito",
+    "summary": "The borrower-qualification file: stable income, the two ratios, reserves, gifts, and the representative credit score.",
+    "esSummary": "El expediente de calificaci\u00f3n: ingreso estable, las dos relaciones, reservas, regalos y el puntaje de cr\u00e9dito representativo.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "stable-income",
+        "note": "The standard the rest of the file has to meet.",
+        "esNote": "El est\u00e1ndar que debe cumplir el resto del expediente."
+      },
+      {
+        "slug": "debt-to-income-ratio",
+        "note": "The total ratio.",
+        "esNote": "La relaci\u00f3n total."
+      },
+      {
+        "slug": "housing-expense-ratio",
+        "note": "The housing payment alone.",
+        "esNote": "Solo el pago de la vivienda."
+      },
+      {
+        "slug": "pay-stub",
+        "note": "Current employment income.",
+        "esNote": "Ingreso de empleo actual."
+      },
+      {
+        "slug": "form-w-2",
+        "note": "The annual wage record.",
+        "esNote": "El registro anual de salarios."
+      },
+      {
+        "slug": "tax-returns",
+        "note": "Self-employment and other income.",
+        "esNote": "Trabajo por cuenta propia y otros ingresos."
+      },
+      {
+        "slug": "form-4506-c",
+        "note": "The transcript authorization.",
+        "esNote": "La autorizaci\u00f3n de transcripciones."
+      },
+      {
+        "slug": "self-employment-income",
+        "note": "Business income is not W-2 income.",
+        "esNote": "El ingreso del negocio no es ingreso de W-2."
+      },
+      {
+        "slug": "reserves",
+        "note": "What is left after closing.",
+        "esNote": "Lo que queda despu\u00e9s del cierre."
+      },
+      {
+        "slug": "gift-funds",
+        "note": "Eligible gifts and the letter.",
+        "esNote": "Regalos permitidos y la carta."
+      },
+      {
+        "slug": "tri-merge-credit-report",
+        "note": "The report itself.",
+        "esNote": "El informe."
+      },
+      {
+        "slug": "representative-credit-score",
+        "note": "Which score the guide uses.",
+        "esNote": "Qu\u00e9 puntaje usa la gu\u00eda."
+      }
+    ]
+  },
+  {
+    "slug": "servicing-and-loss-mitigation",
+    "title": "Servicing and loss mitigation",
+    "esTitle": "Administraci\u00f3n y mitigaci\u00f3n de p\u00e9rdidas",
+    "summary": "Regulation X from transfer and escrow through early intervention, a complete application, and the foreclosure hold.",
+    "esSummary": "El Reglamento X desde la transferencia y el dep\u00f3sito en garant\u00eda hasta la intervenci\u00f3n temprana, una solicitud completa y la pausa de ejecuci\u00f3n hipotecaria.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "mortgage-servicer",
+        "note": "Who the borrower pays, and who owns the loan.",
+        "esNote": "A qui\u00e9n le paga el prestatario y qui\u00e9n es due\u00f1o del pr\u00e9stamo."
+      },
+      {
+        "slug": "servicing-transfer",
+        "note": "Notices and misdirected payments.",
+        "esNote": "Avisos y pagos enviados al administrador anterior."
+      },
+      {
+        "slug": "escrow-account",
+        "note": "Taxes and insurance.",
+        "esNote": "Impuestos y seguros."
+      },
+      {
+        "slug": "escrow-analysis",
+        "note": "The annual review.",
+        "esNote": "La revisi\u00f3n anual."
+      },
+      {
+        "slug": "periodic-statement",
+        "note": "The monthly accounting.",
+        "esNote": "El estado de cuenta."
+      },
+      {
+        "slug": "early-intervention",
+        "note": "The delinquency outreach.",
+        "esNote": "El contacto al inicio de la morosidad."
+      },
+      {
+        "slug": "notice-of-error",
+        "note": "How a borrower challenges an error.",
+        "esNote": "C\u00f3mo el prestatario disputa un error."
+      },
+      {
+        "slug": "request-for-information",
+        "note": "How a borrower asks for information.",
+        "esNote": "C\u00f3mo el prestatario pide informaci\u00f3n."
+      },
+      {
+        "slug": "loss-mitigation",
+        "note": "The menu of alternatives.",
+        "esNote": "Las alternativas."
+      },
+      {
+        "slug": "forbearance",
+        "note": "A pause is not forgiveness.",
+        "esNote": "Una pausa no es perd\u00f3n de la deuda."
+      },
+      {
+        "slug": "loan-modification",
+        "note": "A permanent change to terms.",
+        "esNote": "Un cambio permanente de los t\u00e9rminos."
+      },
+      {
+        "slug": "dual-tracking",
+        "note": "What must stop once an application is complete.",
+        "esNote": "Qu\u00e9 debe detenerse cuando la solicitud est\u00e1 completa."
+      },
+      {
+        "slug": "foreclosure",
+        "note": "State procedure plus the federal timing overlay.",
+        "esNote": "El procedimiento estatal m\u00e1s el plazo federal."
+      }
+    ]
+  },
+  {
+    "slug": "fair-lending-and-udaap",
+    "title": "Fair lending and UDAAP",
+    "esTitle": "Pr\u00e9stamos justos y UDAAP",
+    "summary": "ECOA, the Fair Housing Act, and unfair, deceptive, or abusive conduct, including the monitoring data examiners compare to the decision.",
+    "esSummary": "ECOA, la Ley de Vivienda Justa y las pr\u00e1cticas injustas, enga\u00f1osas o abusivas, incluidos los datos de monitoreo que los examinadores comparan con la decisi\u00f3n.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "fair-lending",
+        "note": "The map of the laws.",
+        "esNote": "El mapa de las leyes."
+      },
+      {
+        "slug": "ecoa",
+        "note": "The credit-discrimination statute.",
+        "esNote": "La ley contra la discriminaci\u00f3n en el cr\u00e9dito."
+      },
+      {
+        "slug": "regulation-b",
+        "note": "The implementing rule.",
+        "esNote": "El reglamento que la aplica."
+      },
+      {
+        "slug": "disparate-treatment",
+        "note": "Different treatment on a prohibited basis.",
+        "esNote": "Trato distinto por un motivo prohibido."
+      },
+      {
+        "slug": "disparate-impact",
+        "note": "A neutral policy with a disproportionate effect.",
+        "esNote": "Una pol\u00edtica neutra con un efecto desproporcionado."
+      },
+      {
+        "slug": "fair-housing-act",
+        "note": "Housing and real-estate credit.",
+        "esNote": "Vivienda y cr\u00e9dito inmobiliario."
+      },
+      {
+        "slug": "redlining",
+        "note": "Geographic discouragement.",
+        "esNote": "Desaliento por zona geogr\u00e1fica."
+      },
+      {
+        "slug": "steering",
+        "note": "Directing borrowers for the wrong reason.",
+        "esNote": "Dirigir a los prestatarios por una raz\u00f3n indebida."
+      },
+      {
+        "slug": "udaap",
+        "note": "Unfair, deceptive, or abusive.",
+        "esNote": "Injusto, enga\u00f1oso o abusivo."
+      },
+      {
+        "slug": "adverse-action-notice",
+        "note": "The written decision.",
+        "esNote": "La decisi\u00f3n por escrito."
+      },
+      {
+        "slug": "demographic-information",
+        "note": "Collected, and not used to discriminate.",
+        "esNote": "Se recopila y no se usa para discriminar."
+      },
+      {
+        "slug": "hmda",
+        "note": "The data examiners will already have.",
+        "esNote": "Los datos que el examinador ya tendr\u00e1."
+      }
+    ]
+  },
+  {
+    "slug": "atr-qm-hoepa-hpml",
+    "title": "ATR, QM, HOEPA, and HPML",
+    "esTitle": "Capacidad de pago, QM, HOEPA y HPML",
+    "summary": "The price-and-terms ladder: ability to repay, the qualified-mortgage presumption, high-cost coverage, and higher-priced appraisal and escrow duties.",
+    "esSummary": "La escala de precio y t\u00e9rminos: capacidad de pago, la presunci\u00f3n de hipoteca calificada, la cobertura de alto costo y los deberes de tasaci\u00f3n y dep\u00f3sito en garant\u00eda de una hipoteca de precio m\u00e1s alto.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "ability-to-repay",
+        "note": "The eight-factor duty.",
+        "esNote": "El deber de los ocho factores."
+      },
+      {
+        "slug": "qualified-mortgage",
+        "note": "One way to presume compliance.",
+        "esNote": "Una forma de presumir el cumplimiento."
+      },
+      {
+        "slug": "qm-safe-harbor",
+        "note": "Not higher-priced.",
+        "esNote": "No es de precio m\u00e1s alto."
+      },
+      {
+        "slug": "rebuttable-presumption",
+        "note": "Higher-priced QM.",
+        "esNote": "QM de precio m\u00e1s alto."
+      },
+      {
+        "slug": "points-and-fees",
+        "note": "The cap and its exclusions.",
+        "esNote": "El l\u00edmite y sus exclusiones."
+      },
+      {
+        "slug": "prepayment-penalty",
+        "note": "A restricted feature.",
+        "esNote": "Una caracter\u00edstica restringida."
+      },
+      {
+        "slug": "higher-priced-mortgage-loan",
+        "note": "The APOR spread test.",
+        "esNote": "La prueba del diferencial sobre el APOR."
+      },
+      {
+        "slug": "hoepa",
+        "note": "The high-cost statute.",
+        "esNote": "La ley de alto costo."
+      },
+      {
+        "slug": "high-cost-mortgage",
+        "note": "What triggers the extra restrictions.",
+        "esNote": "Qu\u00e9 activa las restricciones adicionales."
+      },
+      {
+        "slug": "finance-charge",
+        "note": "The dollar cost inside the APR.",
+        "esNote": "El costo en d\u00f3lares dentro de la APR."
+      },
+      {
+        "slug": "annual-percentage-rate",
+        "note": "The rate used in the price tests.",
+        "esNote": "La tasa que se usa en las pruebas de precio."
+      }
+    ]
+  },
+  {
+    "slug": "mortgage-insurance-and-hpa",
+    "title": "Mortgage insurance and the HPA",
+    "esTitle": "Seguro hipotecario y la HPA",
+    "summary": "Borrower-paid PMI, lender-paid MI, FHA MIP, the VA funding fee, and the USDA fee \u2014 and which of them the Homeowners Protection Act actually cancels.",
+    "esSummary": "El PMI pagado por el prestatario, el seguro pagado por el prestamista, la MIP de la FHA, la cuota VA y la cuota USDA, y cu\u00e1l de ellos cancela la Ley de Protecci\u00f3n de los Propietarios.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "private-mortgage-insurance",
+        "note": "Conventional MI.",
+        "esNote": "Seguro hipotecario convencional."
+      },
+      {
+        "slug": "borrower-paid-mortgage-insurance",
+        "note": "The premium the HPA can cancel.",
+        "esNote": "La prima que la HPA puede cancelar."
+      },
+      {
+        "slug": "lender-paid-mortgage-insurance",
+        "note": "Priced into the rate, not a monthly PMI line.",
+        "esNote": "Incluido en la tasa, no como una l\u00ednea mensual de PMI."
+      },
+      {
+        "slug": "homeowners-protection-act",
+        "note": "The statute.",
+        "esNote": "La ley."
+      },
+      {
+        "slug": "pmi-borrower-cancellation",
+        "note": "The 80 percent request.",
+        "esNote": "La solicitud al 80 por ciento."
+      },
+      {
+        "slug": "pmi-automatic-termination",
+        "note": "The 78 percent termination.",
+        "esNote": "La terminaci\u00f3n al 78 por ciento."
+      },
+      {
+        "slug": "fha-mip",
+        "note": "Not PMI.",
+        "esNote": "No es PMI."
+      },
+      {
+        "slug": "upfront-mortgage-insurance-premium",
+        "note": "The FHA upfront premium.",
+        "esNote": "La prima inicial de la FHA."
+      },
+      {
+        "slug": "va-funding-fee",
+        "note": "Not mortgage insurance.",
+        "esNote": "No es seguro hipotecario."
+      },
+      {
+        "slug": "usda-guarantee-fee",
+        "note": "The USDA upfront fee.",
+        "esNote": "La cuota inicial de USDA."
+      }
+    ]
+  },
+  {
+    "slug": "loan-program-comparison",
+    "title": "Loan programs side by side",
+    "esTitle": "Programas de pr\u00e9stamo comparados",
+    "summary": "A desk comparison of conventional, FHA, VA, USDA, jumbo, ARM, and home-equity products without treating program numbers as permanent.",
+    "esSummary": "Una comparaci\u00f3n de trabajo de los productos convencional, FHA, VA, USDA, jumbo, ARM y de valor l\u00edquido, sin tratar las cifras de los programas como permanentes.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "conventional-loan",
+        "note": "Not government-insured.",
+        "esNote": "No est\u00e1 asegurado por el gobierno."
+      },
+      {
+        "slug": "conforming-loan-limit",
+        "note": "The line between conforming and jumbo.",
+        "esNote": "La l\u00ednea entre conforme y jumbo."
+      },
+      {
+        "slug": "fha-loan",
+        "note": "FHA insurance.",
+        "esNote": "Seguro de la FHA."
+      },
+      {
+        "slug": "va-loan",
+        "note": "VA guaranty.",
+        "esNote": "Garant\u00eda VA."
+      },
+      {
+        "slug": "usda-guaranteed-loan",
+        "note": "Rural housing guaranty.",
+        "esNote": "Garant\u00eda de vivienda rural."
+      },
+      {
+        "slug": "jumbo-loan",
+        "note": "Above the local conforming limit.",
+        "esNote": "Por encima del l\u00edmite conforme local."
+      },
+      {
+        "slug": "adjustable-rate-mortgage",
+        "note": "A rate that can change.",
+        "esNote": "Una tasa que puede cambiar."
+      },
+      {
+        "slug": "fixed-rate-mortgage",
+        "note": "A note rate that does not.",
+        "esNote": "Una tasa del pagar\u00e9 que no cambia."
+      },
+      {
+        "slug": "heloc",
+        "note": "Open-end equity line.",
+        "esNote": "L\u00ednea de cr\u00e9dito abierta."
+      },
+      {
+        "slug": "reverse-mortgage",
+        "note": "Equity drawn, repaid later.",
+        "esNote": "Valor l\u00edquido que se paga despu\u00e9s."
+      }
+    ]
+  },
+  {
+    "slug": "origination-conduct",
+    "title": "Origination conduct",
+    "esTitle": "Conducta en la originaci\u00f3n",
+    "summary": "Licensing, compensation, steering, Section 8, and advertising: the conduct rules for MLOs and the companies that pay them.",
+    "esSummary": "Licencias, compensaci\u00f3n, direcci\u00f3n indebida, Secci\u00f3n 8 y publicidad: las reglas de conducta para los originadores y las empresas que les pagan.",
+    "audience": "professional",
+    "steps": [
+      {
+        "slug": "safe-act",
+        "note": "The license statute.",
+        "esNote": "La ley de licencias."
+      },
+      {
+        "slug": "nmls",
+        "note": "The registry, not the license grantor.",
+        "esNote": "El registro, no quien otorga la licencia."
+      },
+      {
+        "slug": "mortgage-loan-originator",
+        "note": "Who is covered.",
+        "esNote": "Qui\u00e9n est\u00e1 cubierto."
+      },
+      {
+        "slug": "loan-originator-compensation",
+        "note": "The Reg Z compensation rule.",
+        "esNote": "La regla de compensaci\u00f3n del Reglamento Z."
+      },
+      {
+        "slug": "borrower-paid-compensation",
+        "note": "Paid by the consumer.",
+        "esNote": "Pagada por el consumidor."
+      },
+      {
+        "slug": "lender-paid-compensation",
+        "note": "Paid by the creditor.",
+        "esNote": "Pagada por el acreedor."
+      },
+      {
+        "slug": "anti-steering",
+        "note": "The loan-option safe harbor.",
+        "esNote": "El puerto seguro de las opciones de pr\u00e9stamo."
+      },
+      {
+        "slug": "respa-section-8",
+        "note": "Referrals are not a thing you sell.",
+        "esNote": "Las referencias no se venden."
+      },
+      {
+        "slug": "affiliated-business-arrangement",
+        "note": "The narrow permission.",
+        "esNote": "El permiso limitado."
+      },
+      {
+        "slug": "mortgage-advertising",
+        "note": "Reg Z and the MAP Rule.",
+        "esNote": "El Reglamento Z y la regla MAP."
+      },
+      {
+        "slug": "trigger-terms",
+        "note": "A rate or payment that pulls in more disclosures.",
+        "esNote": "Una tasa o un pago que exige m\u00e1s divulgaciones."
+      }
+    ]
+  }
+]

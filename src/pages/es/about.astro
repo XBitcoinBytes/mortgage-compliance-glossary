@@ -1,0 +1,21 @@
+---
+import Base from "../../layouts/Base.astro";
+import { t } from "../../lib/i18n";
+const ui = t("es");
+---
+<Base lang="es" title={ui.aboutTitle} description={ui.disclaimer} path="/about">
+  <div class="wrap wrap-narrow" style="padding:1.4rem 0 2.5rem">
+    <p class="kicker">{ui.siteKicker}</p>
+    <h1>{ui.aboutTitle}</h1>
+    <p class="dek">Una referencia pública de originación, suscripción, divulgación y administración hipotecaria. El nombre de trabajo es Mortgage Compliance Glossary.</p>
+    <h2>Cómo leer una entrada</h2>
+    <p>La definición en lenguaje claro va siempre primero. La vista profesional, que es la predeterminada, deja abiertos el detalle del reglamento, el ejemplo del formulario o del expediente, la nota de cumplimiento y las citas. La vista de prestatario lidera con la definición y el ejemplo, y pliega las secciones profesionales. El control está en el encabezado y se recuerda en este navegador.</p>
+    <p>Las cantidades de muestra dicen «Cifras de ejemplo». No son tasas, límites ni umbrales oficiales vigentes.</p>
+    <h2>{ui.authorTitle}</h2>
+    <p>{ui.authorBody}</p>
+    <h2>Español</h2>
+    <p>{ui.spanishNote}</p>
+    <h2>{ui.disclaimerTitle}</h2>
+    <p>{ui.disclaimer}</p>
+  </div>
+</Base>

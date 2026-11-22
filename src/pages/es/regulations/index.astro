@@ -1,0 +1,23 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { partCounts, parts } from "../../../lib/content";
+import { hrefFor, t } from "../../../lib/i18n";
+const ui = t("es");
+const counts = partCounts();
+---
+<Base lang="es" title={ui.regsTitle} description={ui.regsDek} path="/regulations">
+  <div class="wrap" style="padding:1.4rem 0 2rem">
+    <p class="kicker">{ui.forPros}</p>
+    <h1>{ui.regsTitle}</h1>
+    <p class="dek">{ui.regsDek}</p>
+    <div class="topic-grid">
+      {parts.map((part) => (
+        <a class="topic-card" href={hrefFor("es", `/regulations/${part.id}`)}>
+          <strong>{part.short}</strong>
+          <span class="count">{counts.get(part.id) ?? 0}</span>
+          <span> {part.name}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

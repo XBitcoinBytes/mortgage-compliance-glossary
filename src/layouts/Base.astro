@@ -1,0 +1,97 @@
+---
+import type { Lang } from "../lib/types";
+import { hrefFor, t } from "../lib/i18n";
+import { searchRecords } from "../lib/content";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "@fontsource/fraunces/latin-600.css";
+import "@fontsource/fraunces/latin-700.css";
+import "@fontsource/source-serif-4/latin-400.css";
+import "@fontsource/source-serif-4/latin-600.css";
+import "@fontsource/source-sans-3/latin-400.css";
+import "@fontsource/source-sans-3/latin-600.css";
+import "@fontsource/source-sans-3/latin-700.css";
+import "../styles/global.css";
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  path: string;
+}
+
+const { lang, title, description, path } = Astro.props;
+const ui = t(lang);
+const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
+const canonicalPath = hrefFor(lang, path);
+const canonical = new URL(canonicalPath, origin).toString();
+const enUrl = new URL(hrefFor("en", path), origin).toString();
+const esUrl = new URL(hrefFor("es", path), origin).toString();
+const indexJson = JSON.stringify(searchRecords()).replace(/</g, "\\u003c");
+const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline>
+      (function () {
+        try {
+          var theme = localStorage.getItem("mcg-theme");
+          if (theme !== "light" && theme !== "dark") {
+            theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+          }
+          document.documentElement.setAttribute("data-theme", theme);
+          var view = localStorage.getItem("mcg-view");
+          if (view !== "borrower" && view !== "professional") view = "professional";
+          document.documentElement.setAttribute("data-view", view);
+        } catch (e) {}
+      })();
+    </script>
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="en" href={enUrl} />
+    <link rel="alternate" hreflang="es" href={esUrl} />
+    <link rel="alternate" hreflang="x-default" href={enUrl} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={ui.siteName} />
+    <meta property="og:locale" content={lang === "es" ? "es_ES" : "en_US"} />
+    <meta property="og:locale:alternate" content={lang === "es" ? "en_US" : "es_ES"} />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="skip" href="#main">{ui.skip}</a>
+    <Header lang={lang} path={path} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer lang={lang} />
+    <dialog class="dialog" id="search-dialog" aria-labelledby="search-dialog-title">
+      <div class="dialog-card">
+        <div class="dialog-head">
+          <h2 id="search-dialog-title">{ui.dialogTitle}</h2>
+          <button type="button" class="icon-btn" id="search-close">{lang === "es" ? "Cerrar" : "Close"}</button>
+        </div>
+        <p id="search-help">{ui.dialogHelp}</p>
+        <label class="sr-only" for="search-input">{ui.searchHint}</label>
+        <input id="search-input" type="search" autocomplete="off" placeholder={ui.searchPlaceholder} />
+        <div class="pills" id="search-cats"></div>
+        <p id="search-live" class="sr-only" aria-live="polite"></p>
+        <ul class="results" id="search-results" role="listbox"></ul>
+      </div>
+    </dialog>
+    <script type="application/json" id="search-index" set:html={indexJson} />
+    <script>
+      import { initChrome } from "../scripts/chrome";
+      initChrome();
+    </script>
+  </body>
+</html>

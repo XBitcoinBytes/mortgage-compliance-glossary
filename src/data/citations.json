@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "reg-1026",
+    "label": "12 CFR Part 1026",
+    "title": "Regulation Z (Truth in Lending Act)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/"
+  },
+  {
+    "id": "reg-1026-2",
+    "label": "12 CFR 1026.2",
+    "title": "Regulation Z \u2014 Definitions, including application and business day",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.2",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/2/"
+  },
+  {
+    "id": "reg-1026-4",
+    "label": "12 CFR 1026.4",
+    "title": "Regulation Z \u2014 Finance charge",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.4",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/4/"
+  },
+  {
+    "id": "reg-1026-17",
+    "label": "12 CFR 1026.17",
+    "title": "Regulation Z \u2014 General disclosure requirements",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.17",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/17/"
+  },
+  {
+    "id": "reg-1026-18",
+    "label": "12 CFR 1026.18",
+    "title": "Regulation Z \u2014 Content of disclosures for closed-end credit",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.18",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/18/"
+  },
+  {
+    "id": "reg-1026-19",
+    "label": "12 CFR 1026.19",
+    "title": "Regulation Z \u2014 Mortgage disclosure timing, Loan Estimate, and Closing Disclosure",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.19",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/19/"
+  },
+  {
+    "id": "reg-1026-20",
+    "label": "12 CFR 1026.20",
+    "title": "Regulation Z \u2014 Post-consummation disclosures, including ARM adjustments",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.20",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/20/"
+  },
+  {
+    "id": "reg-1026-22",
+    "label": "12 CFR 1026.22",
+    "title": "Regulation Z \u2014 Determination of the annual percentage rate",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.22",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/22/"
+  },
+  {
+    "id": "reg-1026-23",
+    "label": "12 CFR 1026.23",
+    "title": "Regulation Z \u2014 Right of rescission",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.23",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/23/"
+  },
+  {
+    "id": "reg-1026-24",
+    "label": "12 CFR 1026.24",
+    "title": "Regulation Z \u2014 Advertising",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.24",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/24/"
+  },
+  {
+    "id": "reg-1026-32",
+    "label": "12 CFR 1026.32",
+    "title": "Regulation Z \u2014 High-cost mortgages (HOEPA)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.32",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/32/"
+  },
+  {
+    "id": "reg-1026-34",
+    "label": "12 CFR 1026.34",
+    "title": "Regulation Z \u2014 Prohibited acts and practices for high-cost mortgages",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.34",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/34/"
+  },
+  {
+    "id": "reg-1026-35",
+    "label": "12 CFR 1026.35",
+    "title": "Regulation Z \u2014 Higher-priced mortgage loans",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.35",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/35/"
+  },
+  {
+    "id": "reg-1026-36",
+    "label": "12 CFR 1026.36",
+    "title": "Regulation Z \u2014 Loan originator compensation and mortgage-related prohibitions",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.36",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/36/"
+  },
+  {
+    "id": "reg-1026-37",
+    "label": "12 CFR 1026.37",
+    "title": "Regulation Z \u2014 Content of the Loan Estimate",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.37",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/37/"
+  },
+  {
+    "id": "reg-1026-38",
+    "label": "12 CFR 1026.38",
+    "title": "Regulation Z \u2014 Content of the Closing Disclosure",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.38",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/38/"
+  },
+  {
+    "id": "reg-1026-39",
+    "label": "12 CFR 1026.39",
+    "title": "Regulation Z \u2014 Mortgage transfer disclosures",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.39",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/39/"
+  },
+  {
+    "id": "reg-1026-40",
+    "label": "12 CFR 1026.40",
+    "title": "Regulation Z \u2014 Requirements for home-equity plans",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.40",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/40/"
+  },
+  {
+    "id": "reg-1026-41",
+    "label": "12 CFR 1026.41",
+    "title": "Regulation Z \u2014 Periodic statements for residential mortgage loans",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.41",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/41/"
+  },
+  {
+    "id": "reg-1026-42",
+    "label": "12 CFR 1026.42",
+    "title": "Regulation Z \u2014 Valuation independence",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.42",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/42/"
+  },
+  {
+    "id": "reg-1026-43",
+    "label": "12 CFR 1026.43",
+    "title": "Regulation Z \u2014 Ability to repay and qualified mortgages",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/section-1026.43",
+    "kind": "regulation",
+    "partId": "1026",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1026/43/"
+  },
+  {
+    "id": "reg-1024",
+    "label": "12 CFR Part 1024",
+    "title": "Regulation X (Real Estate Settlement Procedures Act)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/"
+  },
+  {
+    "id": "reg-1024-2",
+    "label": "12 CFR 1024.2",
+    "title": "Regulation X \u2014 Definitions",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.2",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/2/"
+  },
+  {
+    "id": "reg-1024-6",
+    "label": "12 CFR 1024.6",
+    "title": "Regulation X \u2014 Special information booklet",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.6",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/6/"
+  },
+  {
+    "id": "reg-1024-7",
+    "label": "12 CFR 1024.7",
+    "title": "Regulation X \u2014 Good Faith Estimate (legacy open-end and other covered transactions)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.7",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/7/"
+  },
+  {
+    "id": "reg-1024-8",
+    "label": "12 CFR 1024.8",
+    "title": "Regulation X \u2014 HUD-1 settlement statement (legacy transactions)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.8",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/8/"
+  },
+  {
+    "id": "reg-1024-14",
+    "label": "12 CFR 1024.14",
+    "title": "Regulation X \u2014 Prohibition against kickbacks and unearned fees",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.14",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/14/"
+  },
+  {
+    "id": "reg-1024-15",
+    "label": "12 CFR 1024.15",
+    "title": "Regulation X \u2014 Affiliated business arrangements",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.15",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/15/"
+  },
+  {
+    "id": "reg-1024-17",
+    "label": "12 CFR 1024.17",
+    "title": "Regulation X \u2014 Escrow accounts",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.17",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/17/"
+  },
+  {
+    "id": "reg-1024-20",
+    "label": "12 CFR 1024.20",
+    "title": "Regulation X \u2014 List of homeownership counseling organizations",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.20",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/20/"
+  },
+  {
+    "id": "reg-1024-33",
+    "label": "12 CFR 1024.33",
+    "title": "Regulation X \u2014 Mortgage servicing transfers",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.33",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/33/"
+  },
+  {
+    "id": "reg-1024-34",
+    "label": "12 CFR 1024.34",
+    "title": "Regulation X \u2014 Timely escrow payments and payoff-related responses",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.34",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/34/"
+  },
+  {
+    "id": "reg-1024-35",
+    "label": "12 CFR 1024.35",
+    "title": "Regulation X \u2014 Error resolution procedures",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.35",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/35/"
+  },
+  {
+    "id": "reg-1024-36",
+    "label": "12 CFR 1024.36",
+    "title": "Regulation X \u2014 Requests for information",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.36",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/36/"
+  },
+  {
+    "id": "reg-1024-37",
+    "label": "12 CFR 1024.37",
+    "title": "Regulation X \u2014 Force-placed insurance",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.37",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/37/"
+  },
+  {
+    "id": "reg-1024-38",
+    "label": "12 CFR 1024.38",
+    "title": "Regulation X \u2014 General servicing policies, procedures, and requirements",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.38",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/38/"
+  },
+  {
+    "id": "reg-1024-39",
+    "label": "12 CFR 1024.39",
+    "title": "Regulation X \u2014 Early intervention requirements for certain borrowers",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.39",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/39/"
+  },
+  {
+    "id": "reg-1024-40",
+    "label": "12 CFR 1024.40",
+    "title": "Regulation X \u2014 Continuity of contact",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.40",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/40/"
+  },
+  {
+    "id": "reg-1024-41",
+    "label": "12 CFR 1024.41",
+    "title": "Regulation X \u2014 Loss mitigation procedures",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/section-1024.41",
+    "kind": "regulation",
+    "partId": "1024",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1024/41/"
+  },
+  {
+    "id": "reg-1002",
+    "label": "12 CFR Part 1002",
+    "title": "Regulation B (Equal Credit Opportunity Act)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/"
+  },
+  {
+    "id": "reg-1002-4",
+    "label": "12 CFR 1002.4",
+    "title": "Regulation B \u2014 Discrimination",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.4",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/4/"
+  },
+  {
+    "id": "reg-1002-5",
+    "label": "12 CFR 1002.5",
+    "title": "Regulation B \u2014 Rules concerning requests for information",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.5",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/5/"
+  },
+  {
+    "id": "reg-1002-6",
+    "label": "12 CFR 1002.6",
+    "title": "Regulation B \u2014 Rules concerning evaluation of applications",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.6",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/6/"
+  },
+  {
+    "id": "reg-1002-7",
+    "label": "12 CFR 1002.7",
+    "title": "Regulation B \u2014 Rules concerning extensions of credit",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.7",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/7/"
+  },
+  {
+    "id": "reg-1002-9",
+    "label": "12 CFR 1002.9",
+    "title": "Regulation B \u2014 Notifications",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.9",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/9/"
+  },
+  {
+    "id": "reg-1002-12",
+    "label": "12 CFR 1002.12",
+    "title": "Regulation B \u2014 Record retention",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.12",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/12/"
+  },
+  {
+    "id": "reg-1002-13",
+    "label": "12 CFR 1002.13",
+    "title": "Regulation B \u2014 Information for monitoring purposes",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.13",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/13/"
+  },
+  {
+    "id": "reg-1002-14",
+    "label": "12 CFR 1002.14",
+    "title": "Regulation B \u2014 Appraisals and other valuations",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1002/section-1002.14",
+    "kind": "regulation",
+    "partId": "1002",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1002/14/"
+  },
+  {
+    "id": "reg-1003",
+    "label": "12 CFR Part 1003",
+    "title": "Regulation C (Home Mortgage Disclosure Act)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1003",
+    "kind": "regulation",
+    "partId": "1003",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1003/"
+  },
+  {
+    "id": "reg-1003-2",
+    "label": "12 CFR 1003.2",
+    "title": "Regulation C \u2014 Definitions",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1003/section-1003.2",
+    "kind": "regulation",
+    "partId": "1003",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1003/2/"
+  },
+  {
+    "id": "reg-1003-4",
+    "label": "12 CFR 1003.4",
+    "title": "Regulation C \u2014 Compilation of reportable data",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1003/section-1003.4",
+    "kind": "regulation",
+    "partId": "1003",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1003/4/"
+  },
+  {
+    "id": "reg-1003-5",
+    "label": "12 CFR 1003.5",
+    "title": "Regulation C \u2014 Disclosure and reporting",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1003/section-1003.5",
+    "kind": "regulation",
+    "partId": "1003",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1003/5/"
+  },
+  {
+    "id": "reg-1022",
+    "label": "12 CFR Part 1022",
+    "title": "Regulation V (Fair Credit Reporting Act)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1022",
+    "kind": "regulation",
+    "partId": "1022",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1022/"
+  },
+  {
+    "id": "reg-1022-72",
+    "label": "12 CFR 1022.72",
+    "title": "Regulation V \u2014 Risk-based pricing notice",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1022/subpart-H/section-1022.72",
+    "kind": "regulation",
+    "partId": "1022",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1022/72/"
+  },
+  {
+    "id": "reg-1016",
+    "label": "12 CFR Part 1016",
+    "title": "Regulation P (Privacy of consumer financial information)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1016",
+    "kind": "regulation",
+    "partId": "1016",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1016/"
+  },
+  {
+    "id": "reg-1007",
+    "label": "12 CFR Part 1007",
+    "title": "Regulation G (SAFE Act \u2014 depository institution MLOs)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1007",
+    "kind": "regulation",
+    "partId": "1007",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1007/"
+  },
+  {
+    "id": "reg-1008",
+    "label": "12 CFR Part 1008",
+    "title": "Regulation H (SAFE Act \u2014 state-licensed MLOs)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1008",
+    "kind": "regulation",
+    "partId": "1008",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1008/"
+  },
+  {
+    "id": "reg-1014",
+    "label": "12 CFR Part 1014",
+    "title": "Regulation N (Mortgage Acts and Practices \u2014 Advertising)",
+    "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1014",
+    "kind": "regulation",
+    "partId": "1014",
+    "cfpbUrl": "https://www.consumerfinance.gov/rules-policy/regulations/1014/"
+  },
+  {
+    "id": "reg-232",
+    "label": "32 CFR Part 232",
+    "title": "Military Lending Act regulation \u2014 limitations on consumer credit to covered borrowers",
+    "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-M/part-232",
+    "kind": "regulation",
+    "partId": "mla"
+  },
+  {
+    "id": "reg-232-3",
+    "label": "32 CFR 232.3",
+    "title": "Military Lending Act regulation \u2014 definitions, including the residential-mortgage exception",
+    "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-M/part-232/section-232.3",
+    "kind": "regulation",
+    "partId": "mla"
+  },
+  {
+    "id": "cfr-38-36",
+    "label": "38 CFR Part 36",
+    "title": "VA loan guaranty regulations",
+    "url": "https://www.ecfr.gov/current/title-38/chapter-I/part-36",
+    "kind": "regulation",
+    "partId": "va"
+  },
+  {
+    "id": "cfr-24-206",
+    "label": "24 CFR Part 206",
+    "title": "Home Equity Conversion Mortgage insurance",
+    "url": "https://www.ecfr.gov/current/title-24/subtitle-B/chapter-II/subchapter-B/part-206",
+    "kind": "regulation",
+    "partId": "hecm"
+  },
+  {
+    "id": "cfr-7-3555",
+    "label": "7 CFR Part 3555",
+    "title": "USDA Single Family Housing Guaranteed Loan Program",
+    "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-XXXV/part-3555",
+    "kind": "regulation",
+    "partId": "usda"
+  },
+  {
+    "id": "cfr-16-314",
+    "label": "16 CFR Part 314",
+    "title": "Standards for safeguarding customer information (Safeguards Rule)",
+    "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314",
+    "kind": "regulation",
+    "partId": "safeguards"
+  },
+  {
+    "id": "cfr-16-681",
+    "label": "16 CFR Part 681",
+    "title": "Identity theft red flags",
+    "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-F/part-681",
+    "kind": "regulation",
+    "partId": "red-flags"
+  },
+  {
+    "id": "cfr-31-1029",
+    "label": "31 CFR Part 1029",
+    "title": "FinCEN rules for loan or finance companies, including residential mortgage lenders and originators",
+    "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1029",
+    "kind": "regulation",
+    "partId": "bsa"
+  },
+  {
+    "id": "cfr-31-1010-230",
+    "label": "31 CFR 1010.230",
+    "title": "FinCEN beneficial-ownership customer due diligence",
+    "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/section-1010.230",
+    "kind": "regulation",
+    "partId": "bsa"
+  },
+  {
+    "id": "usc-15-1601",
+    "label": "15 USC 1601",
+    "title": "Truth in Lending Act \u2014 congressional findings and purpose",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "tila"
+  },
+  {
+    "id": "usc-15-1639c",
+    "label": "15 USC 1639c",
+    "title": "TILA \u2014 minimum standards for residential mortgage loans (ability to repay)",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639c&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "tila"
+  },
+  {
+    "id": "usc-15-1639",
+    "label": "15 USC 1639",
+    "title": "TILA \u2014 requirements for certain mortgages (HOEPA)",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "tila"
+  },
+  {
+    "id": "usc-12-2601",
+    "label": "12 USC 2601",
+    "title": "Real Estate Settlement Procedures Act \u2014 congressional findings and purpose",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "respa"
+  },
+  {
+    "id": "usc-12-2607",
+    "label": "12 USC 2607",
+    "title": "RESPA \u2014 prohibition against kickbacks and unearned fees",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2607&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "respa"
+  },
+  {
+    "id": "usc-15-1691",
+    "label": "15 USC 1691",
+    "title": "Equal Credit Opportunity Act \u2014 scope of prohibition",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "ecoa"
+  },
+  {
+    "id": "usc-12-2801",
+    "label": "12 USC 2801",
+    "title": "Home Mortgage Disclosure Act \u2014 congressional findings and purpose",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2801&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "hmda"
+  },
+  {
+    "id": "usc-15-1681",
+    "label": "15 USC 1681",
+    "title": "Fair Credit Reporting Act \u2014 congressional findings and statement of purpose",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "fcra"
+  },
+  {
+    "id": "usc-15-1681b",
+    "label": "15 USC 1681b",
+    "title": "Fair Credit Reporting Act \u2014 permissible purposes of consumer reports",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "fcra"
+  },
+  {
+    "id": "usc-15-1681m",
+    "label": "15 USC 1681m",
+    "title": "Fair Credit Reporting Act \u2014 requirements on users of consumer reports",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "fcra"
+  },
+  {
+    "id": "usc-15-6801",
+    "label": "15 USC 6801",
+    "title": "Gramm-Leach-Bliley Act \u2014 protection of nonpublic personal information",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "glba"
+  },
+  {
+    "id": "usc-12-5101",
+    "label": "12 USC 5101",
+    "title": "SAFE Act \u2014 purposes and methods for licensing and registration",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5101&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "safe"
+  },
+  {
+    "id": "usc-12-5104",
+    "label": "12 USC 5104",
+    "title": "SAFE Act \u2014 state license and registration",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5104&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "safe"
+  },
+  {
+    "id": "usc-12-4901",
+    "label": "12 USC 4901",
+    "title": "Homeowners Protection Act \u2014 definitions",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4901&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "hpa"
+  },
+  {
+    "id": "usc-12-4902",
+    "label": "12 USC 4902",
+    "title": "Homeowners Protection Act \u2014 termination of private mortgage insurance",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "hpa"
+  },
+  {
+    "id": "usc-12-5531",
+    "label": "12 USC 5531",
+    "title": "Dodd-Frank Act \u2014 prohibiting unfair, deceptive, or abusive acts or practices",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5531&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "udaap"
+  },
+  {
+    "id": "usc-12-5536",
+    "label": "12 USC 5536",
+    "title": "Dodd-Frank Act \u2014 prohibited acts",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5536&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "udaap"
+  },
+  {
+    "id": "usc-50-3937",
+    "label": "50 USC 3937",
+    "title": "Servicemembers Civil Relief Act \u2014 maximum rate of interest",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "scra"
+  },
+  {
+    "id": "usc-50-3953",
+    "label": "50 USC 3953",
+    "title": "Servicemembers Civil Relief Act \u2014 mortgages and trust deeds",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3953&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "scra"
+  },
+  {
+    "id": "usc-42-4012a",
+    "label": "42 USC 4012a",
+    "title": "National Flood Insurance Act \u2014 flood insurance purchase and compliance",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4012a&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "flood"
+  },
+  {
+    "id": "usc-42-4001",
+    "label": "42 USC 4001",
+    "title": "National Flood Insurance Act \u2014 congressional findings and declaration of purpose",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "flood"
+  },
+  {
+    "id": "usc-42-3604",
+    "label": "42 USC 3604",
+    "title": "Fair Housing Act \u2014 discrimination in the sale or rental of housing",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3604&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "fair-housing"
+  },
+  {
+    "id": "usc-42-3605",
+    "label": "42 USC 3605",
+    "title": "Fair Housing Act \u2014 discrimination in residential real estate-related transactions",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3605&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "fair-housing"
+  },
+  {
+    "id": "usc-31-5311",
+    "label": "31 USC 5311",
+    "title": "Bank Secrecy Act \u2014 declaration of purpose",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5311&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "bsa"
+  },
+  {
+    "id": "usc-31-5318",
+    "label": "31 USC 5318",
+    "title": "Bank Secrecy Act \u2014 compliance, exemptions, and summons authority",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "bsa"
+  },
+  {
+    "id": "usc-15-7001",
+    "label": "15 USC 7001",
+    "title": "E-SIGN Act \u2014 general validity of electronic signatures and records",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "esign"
+  },
+  {
+    "id": "usc-10-987",
+    "label": "10 USC 987",
+    "title": "Military Lending Act",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section987&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "mla"
+  },
+  {
+    "id": "usc-12-1709",
+    "label": "12 USC 1709",
+    "title": "National Housing Act \u2014 mortgage insurance (FHA)",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1709&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "fha"
+  },
+  {
+    "id": "usc-12-1715z20",
+    "label": "12 USC 1715z-20",
+    "title": "National Housing Act \u2014 home equity conversion mortgages",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715z-20&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "hecm"
+  },
+  {
+    "id": "usc-38-3701",
+    "label": "38 USC 3701",
+    "title": "VA housing loan program \u2014 definitions",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3701&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "va"
+  },
+  {
+    "id": "usc-38-3703",
+    "label": "38 USC 3703",
+    "title": "VA housing \u2014 basic provisions relating to loan guaranty and insurance",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703&num=0&edition=prelim",
+    "kind": "statute",
+    "partId": "va"
+  },
+  {
+    "id": "fannie-guide",
+    "label": "Fannie Mae Selling Guide",
+    "title": "Fannie Mae Selling Guide \u2014 Selling Guide",
+    "url": "https://selling-guide.fanniemae.com/",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b2-1-2-01",
+    "label": "B2-1.2-01",
+    "title": "Fannie Mae Selling Guide \u2014 Loan-to-value (LTV) ratios",
+    "url": "https://selling-guide.fanniemae.com/sel/b2-1.2-01/loan-value-ltv-ratios",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-1-01",
+    "label": "B3-1-01",
+    "title": "Fannie Mae Selling Guide \u2014 Comprehensive risk assessment",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-1-01/comprehensive-risk-assessment",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2",
+    "label": "Chapter B3-2",
+    "title": "Fannie Mae Selling Guide \u2014 Desktop Underwriter (DU)",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2/desktop-underwriter-du",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-01",
+    "label": "B3-2-01",
+    "title": "Fannie Mae Selling Guide \u2014 General information on DU",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-01/general-information-du",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-02",
+    "label": "B3-2-02",
+    "title": "Fannie Mae Selling Guide \u2014 DU validation service",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-02/du-validation-service",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-05",
+    "label": "B3-2-05",
+    "title": "Fannie Mae Selling Guide \u2014 Approve/Eligible recommendations",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-05/approveeligible-recommendations",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-06",
+    "label": "B3-2-06",
+    "title": "Fannie Mae Selling Guide \u2014 Approve/Ineligible recommendations",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-06/approveineligible-recommendations",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-07",
+    "label": "B3-2-07",
+    "title": "Fannie Mae Selling Guide \u2014 Refer with Caution recommendations",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-07/refer-caution-recommendations",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-08",
+    "label": "B3-2-08",
+    "title": "Fannie Mae Selling Guide \u2014 Out of Scope recommendations",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-08",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-10",
+    "label": "B3-2-10",
+    "title": "Fannie Mae Selling Guide \u2014 Accuracy of DU data, tolerances, and credit-report errors",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-10/accuracy-du-data-du-tolerances-and-errors-credit-report",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-2-11",
+    "label": "B3-2-11",
+    "title": "Fannie Mae Selling Guide \u2014 DU Underwriting Findings report",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-2-11",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-1-01",
+    "label": "B3-3.1-01",
+    "title": "Fannie Mae Selling Guide \u2014 General income information",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-01/general-income-information",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-1-02",
+    "label": "B3-3.1-02",
+    "title": "Fannie Mae Selling Guide \u2014 Tax return and transcript documentation",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-02",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-1-03",
+    "label": "B3-3.1-03",
+    "title": "Fannie Mae Selling Guide \u2014 Income Calculator",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-03",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-1-04",
+    "label": "B3-3.1-04",
+    "title": "Fannie Mae Selling Guide \u2014 Verbal verification of employment",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-04",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-2-01",
+    "label": "B3-3.2-01",
+    "title": "Fannie Mae Selling Guide \u2014 Standards for employment and income documentation",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.2-01",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-3-01",
+    "label": "B3-3.3-01",
+    "title": "Fannie Mae Selling Guide \u2014 Base income",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-01",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-3-02",
+    "label": "B3-3.3-02",
+    "title": "Fannie Mae Selling Guide \u2014 Bonus, commission, overtime, and tip income",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-02",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-4-02",
+    "label": "B3-3.4-02",
+    "title": "Fannie Mae Selling Guide \u2014 Alimony, child support, equalization payments, or separate maintenance",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-02",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-4-12",
+    "label": "B3-3.4-12",
+    "title": "Fannie Mae Selling Guide \u2014 Public assistance income",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-12",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-3-5",
+    "label": "Section B3-3.5",
+    "title": "Fannie Mae Selling Guide \u2014 Self-employment income",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-3.5",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-4-1-01",
+    "label": "B3-4.1-01",
+    "title": "Fannie Mae Selling Guide \u2014 Minimum reserve requirements",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-4-3-04",
+    "label": "B3-4.3-04",
+    "title": "Fannie Mae Selling Guide \u2014 Personal gifts",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-04/personal-gifts",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-4-3-05",
+    "label": "B3-4.3-05",
+    "title": "Fannie Mae Selling Guide \u2014 Gifts of equity",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-05",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-5-1-01",
+    "label": "B3-5.1-01",
+    "title": "Fannie Mae Selling Guide \u2014 General requirements for credit scores",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-5.1-01",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-5-1-02",
+    "label": "B3-5.1-02",
+    "title": "Fannie Mae Selling Guide \u2014 Determining the credit score for a mortgage loan",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-5.1-02",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-5-2-01",
+    "label": "B3-5.2-01",
+    "title": "Fannie Mae Selling Guide \u2014 Requirements for credit reports",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-5.2-01",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-5-3-04",
+    "label": "B3-5.3-04",
+    "title": "Fannie Mae Selling Guide \u2014 Inquiries: recent attempts to obtain new credit",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-04",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-5-3-06",
+    "label": "B3-5.3-06",
+    "title": "Fannie Mae Selling Guide \u2014 Authorized users of credit",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-06",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-5-3-07",
+    "label": "B3-5.3-07",
+    "title": "Fannie Mae Selling Guide \u2014 Significant derogatory credit events",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-07",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-6-02",
+    "label": "B3-6-02",
+    "title": "Fannie Mae Selling Guide \u2014 Debt-to-income ratios",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-6-02/debt-income-ratios",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-6-03",
+    "label": "B3-6-03",
+    "title": "Fannie Mae Selling Guide \u2014 Monthly housing expense for the subject property",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-6-03",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-6-04",
+    "label": "B3-6-04",
+    "title": "Fannie Mae Selling Guide \u2014 Qualifying payment requirements",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-6-04",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-6-05",
+    "label": "B3-6-05",
+    "title": "Fannie Mae Selling Guide \u2014 Monthly debt obligations",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-6-05",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b3-6-07",
+    "label": "B3-6-07",
+    "title": "Fannie Mae Selling Guide \u2014 Debts paid off at or prior to closing",
+    "url": "https://selling-guide.fanniemae.com/sel/b3-6-07",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b4-1-1-01",
+    "label": "B4-1.1-01",
+    "title": "Fannie Mae Selling Guide \u2014 Definition of market value",
+    "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-01",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b4-1-1-02",
+    "label": "B4-1.1-02",
+    "title": "Fannie Mae Selling Guide \u2014 Appraisal lender responsibilities",
+    "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-02/lender-responsibilities",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b4-1-4-10",
+    "label": "B4-1.4-10",
+    "title": "Fannie Mae Selling Guide \u2014 Value acceptance",
+    "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-10",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b4-1-4-11",
+    "label": "B4-1.4-11",
+    "title": "Fannie Mae Selling Guide \u2014 Value acceptance + property data",
+    "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-11",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-b5-6-02",
+    "label": "B5-6-02",
+    "title": "Fannie Mae Selling Guide \u2014 HomeReady mortgage underwriting",
+    "url": "https://selling-guide.fanniemae.com/sel/b5-6-02",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-air",
+    "label": "Appraiser Independence Requirements",
+    "title": "Fannie Mae Selling Guide \u2014 Appraiser Independence Requirements",
+    "url": "https://selling-guide.fanniemae.com/",
+    "kind": "agency-guide",
+    "partId": "fannie"
+  },
+  {
+    "id": "fannie-urla",
+    "label": "URLA / Form 1003",
+    "title": "Uniform Residential Loan Application (Fannie Mae Form 1003 / Freddie Mac Form 65)",
+    "url": "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application",
+    "kind": "agency-guide",
+    "partId": "urla"
+  },
+  {
+    "id": "freddie-guide",
+    "label": "Freddie Mac Seller/Servicer Guide",
+    "title": "Freddie Mac Single-Family Seller/Servicer Guide",
+    "url": "https://guide.freddiemac.com/app/guide/",
+    "kind": "agency-guide",
+    "partId": "freddie"
+  },
+  {
+    "id": "freddie-lpa",
+    "label": "Loan Product Advisor",
+    "title": "Freddie Mac Loan Product Advisor",
+    "url": "https://sf.freddiemac.com/tools-learning/loan-product-advisor/overview",
+    "kind": "agency-guide",
+    "partId": "freddie"
+  },
+  {
+    "id": "hud-4000-1",
+    "label": "HUD Handbook 4000.1",
+    "title": "FHA Single Family Housing Policy Handbook 4000.1",
+    "url": "https://www.hud.gov/program_offices/housing/sfh/handbook_4000-1",
+    "kind": "agency-guide",
+    "partId": "fha"
+  },
+  {
+    "id": "va-pamphlet",
+    "label": "VA Pamphlet 26-7",
+    "title": "VA Lenders Handbook, Pamphlet 26-7",
+    "url": "https://www.benefits.va.gov/warms/pam26_7.asp",
+    "kind": "agency-guide",
+    "partId": "va"
+  },
+  {
+    "id": "usda-hb",
+    "label": "USDA HB-1-3555",
+    "title": "USDA Single Family Housing Guaranteed Loan Program Technical Handbook",
+    "url": "https://www.rd.usda.gov/resources/directives/handbooks",
+    "kind": "agency-guide",
+    "partId": "usda"
+  },
+  {
+    "id": "fhfa-cll",
+    "label": "FHFA conforming loan limits",
+    "title": "FHFA conforming loan limit data",
+    "url": "https://www.fhfa.gov/data/conforming-loan-limits",
+    "kind": "agency-guide",
+    "partId": "fhfa"
+  },
+  {
+    "id": "ginnie",
+    "label": "Ginnie Mae",
+    "title": "Ginnie Mae mortgage-backed securities program",
+    "url": "https://www.ginniemae.gov/",
+    "kind": "agency-guide",
+    "partId": "ginnie"
+  },
+  {
+    "id": "nmls",
+    "label": "NMLS",
+    "title": "Nationwide Multistate Licensing System",
+    "url": "https://mortgage.nationwidelicensingsystem.org/",
+    "kind": "agency-guide",
+    "partId": "nmls"
+  },
+  {
+    "id": "cfpb-le",
+    "label": "CFPB Loan Estimate",
+    "title": "CFPB interactive Loan Estimate",
+    "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "cfpb-cd",
+    "label": "CFPB Closing Disclosure",
+    "title": "CFPB interactive Closing Disclosure",
+    "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "cfpb-toolkit",
+    "label": "Your Home Loan Toolkit",
+    "title": "CFPB Your Home Loan Toolkit",
+    "url": "https://www.consumerfinance.gov/owning-a-home/explore/home-loan-toolkit/",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "cfpb-owning",
+    "label": "CFPB Owning a Home",
+    "title": "CFPB Owning a Home mortgage tools",
+    "url": "https://www.consumerfinance.gov/owning-a-home/",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "cfpb-forms",
+    "label": "TRID model forms",
+    "title": "CFPB TILA-RESPA integrated disclosure forms and samples",
+    "url": "https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "cfpb-spanish",
+    "label": "CFPB Spanish glossary",
+    "title": "CFPB Spanish-English glossary of financial terms",
+    "url": "https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "cfpb-mortgage-resources",
+    "label": "CFPB mortgage resources",
+    "title": "CFPB mortgage compliance resources",
+    "url": "https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/",
+    "kind": "agency-guide",
+    "partId": "cfpb"
+  },
+  {
+    "id": "fema-flood",
+    "label": "FEMA flood insurance",
+    "title": "FEMA National Flood Insurance Program",
+    "url": "https://www.fema.gov/flood-insurance",
+    "kind": "agency-guide",
+    "partId": "flood"
+  },
+  {
+    "id": "ofac",
+    "label": "OFAC",
+    "title": "Treasury Office of Foreign Assets Control sanctions programs",
+    "url": "https://ofac.treasury.gov/",
+    "kind": "agency-guide",
+    "partId": "ofac"
+  },
+  {
+    "id": "fincen",
+    "label": "FinCEN",
+    "title": "Financial Crimes Enforcement Network",
+    "url": "https://www.fincen.gov/",
+    "kind": "agency-guide",
+    "partId": "bsa"
+  },
+  {
+    "id": "practice-file",
+    "label": "Industry file practice",
+    "title": "Fannie Mae Selling Guide \u2014 origination through closing (file-stage vocabulary)",
+    "url": "https://selling-guide.fanniemae.com/",
+    "kind": "industry-practice",
+    "partId": "practice"
+  },
+  {
+    "id": "practice-cfpb",
+    "label": "CFPB consumer guidance",
+    "title": "CFPB Owning a Home \u2014 consumer-facing mortgage guidance",
+    "url": "https://www.consumerfinance.gov/owning-a-home/",
+    "kind": "industry-practice",
+    "partId": "practice"
+  },
+  {
+    "id": "practice-urla",
+    "label": "URLA instructions",
+    "title": "Uniform Residential Loan Application",
+    "url": "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application",
+    "kind": "industry-practice",
+    "partId": "practice"
+  },
+  {
+    "id": "practice-nmls",
+    "label": "NMLS Resource Center",
+    "title": "NMLS for mortgage originators",
+    "url": "https://mortgage.nationwidelicensingsystem.org/",
+    "kind": "industry-practice",
+    "partId": "practice"
+  },
+  {
+    "id": "practice-hud",
+    "label": "HUD Handbook 4000.1",
+    "title": "FHA Single Family Housing Policy Handbook 4000.1",
+    "url": "https://www.hud.gov/program_offices/housing/sfh/handbook_4000-1",
+    "kind": "industry-practice",
+    "partId": "practice"
+  },
+  {
+    "id": "practice-va",
+    "label": "VA Pamphlet 26-7",
+    "title": "VA Lenders Handbook",
+    "url": "https://www.benefits.va.gov/warms/pam26_7.asp",
+    "kind": "industry-practice",
+    "partId": "practice"
+  },
+  {
+    "id": "practice-freddie",
+    "label": "Freddie Mac Guide",
+    "title": "Freddie Mac Single-Family Seller/Servicer Guide",
+    "url": "https://guide.freddiemac.com/app/guide/",
+    "kind": "industry-practice",
+    "partId": "practice"
+  }
+]

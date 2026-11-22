@@ -1,0 +1,34 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { getTerm, paths } from "../../../lib/content";
+import { hrefFor, t } from "../../../lib/i18n";
+import type { LearningPath } from "../../../lib/types";
+
+export function getStaticPaths() {
+  return paths.map((path) => ({ params: { slug: path.slug }, props: { path } }));
+}
+interface Props { path: LearningPath }
+const { path } = Astro.props;
+const ui = t("es");
+---
+<Base lang="es" title={path.esTitle} description={path.esSummary} path={`/paths/${path.slug}`}>
+  <div class="wrap wrap-narrow" style="padding:1.4rem 0 2rem">
+    <p class="crumbs"><a href={hrefFor("es", "/paths")}>{ui.pathsTitle}</a></p>
+    <p class="kicker">{ui.forPros}</p>
+    <h1>{path.esTitle}</h1>
+    <p class="dek">{path.esSummary}</p>
+    <ol class="path-steps">
+      {path.steps.map((step) => {
+        const term = getTerm(step.slug);
+        return (
+          <li>
+            <div>
+              <a href={hrefFor("es", `/terms/${step.slug}`)}><strong>{term?.es.term ?? step.slug}</strong></a>
+              <div>{step.esNote}</div>
+            </div>
+          </li>
+        );
+      })}
+    </ol>
+  </div>
+</Base>
