@@ -604,3 +604,31 @@ h2:hover .anchor, .anchor:focus { opacity: 1; }
 @media (max-width: 560px) {
   .how { grid-template-columns: 1fr; }
 }
+
+.dict-home { padding: 1.6rem 0 2.5rem; }
+.dict-home > .dek { max-width: 42rem; }
+.dict-home #browse-q {
+  width: 100%;
+  font-size: 1.15rem;
+  padding: 0.75rem 0.9rem;
+}
+.letters { position: sticky; top: 4.1rem; z-index: 20; padding: 0.55rem 0 0.4rem; background: color-mix(in srgb, var(--paper) 92%, transparent); backdrop-filter: blur(10px); }
+.letter-nav-label { margin: 0 0 0.35rem; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-soft); }
+.letter-row { display: flex; flex-wrap: wrap; gap: 0.2rem; }
+.letter-jump, .letter-off {
+  min-width: 1.85rem;
+  height: 1.85rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.3rem;
+  border-radius: 0.3rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--ink);
+}
+.letter-jump { border: 1px solid var(--line); background: var(--paper); }
+.letter-jump:hover { border-color: var(--accent); text-decoration: none; }
+.letter-off { color: color-mix(in srgb, var(--ink-soft) 55%, var(--paper)); cursor: not-allowed; }
+.letter-group { scroll-margin-top: 8.5rem; }

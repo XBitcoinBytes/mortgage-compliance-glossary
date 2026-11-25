@@ -19,7 +19,6 @@ export function initBrowse() {
   const lang = root.dataset.lang === "es" ? "es" : "en";
   const locked = root.dataset.locked ?? "";
   let category = locked;
-  let letter = "";
   let part = "";
 
   const rows: Row[] = [...root.querySelectorAll<HTMLElement>("[data-slug]")].map((el) => ({
@@ -41,7 +40,6 @@ export function initBrowse() {
 
   const params = new URLSearchParams(location.search);
   if (!locked && params.get("category")) category = params.get("category") ?? "";
-  if (params.get("letter")) letter = (params.get("letter") ?? "").toUpperCase();
   if (params.get("reg")) {
     part = params.get("reg") ?? "";
     if (regSelect) regSelect.value = part;
@@ -56,7 +54,6 @@ export function initBrowse() {
       const show =
         matched.has(row.slug) &&
         (!category || row.cat === category) &&
-        (!letter || row.letter === letter) &&
         (!part || row.parts.split(" ").includes(part));
       row.el.hidden = !show;
       if (show) visible += 1;
@@ -72,14 +69,9 @@ export function initBrowse() {
     root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {
       button.setAttribute("aria-pressed", (button.dataset.cat ?? "") === category ? "true" : "false");
     });
-    root.querySelectorAll<HTMLButtonElement>("button[data-letter]").forEach((button) => {
-      button.setAttribute("aria-pressed", (button.dataset.letter ?? "") === letter ? "true" : "false");
-    });
     const url = new URL(location.href);
     if (query) url.searchParams.set("q", query);
     else url.searchParams.delete("q");
-    if (letter) url.searchParams.set("letter", letter);
-    else url.searchParams.delete("letter");
     if (part) url.searchParams.set("reg", part);
     else url.searchParams.delete("reg");
     if (!locked && category) url.searchParams.set("category", category);
@@ -91,12 +83,6 @@ export function initBrowse() {
   root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {
     button.addEventListener("click", () => {
       category = button.dataset.cat ?? "";
-      apply();
-    });
-  });
-  root.querySelectorAll<HTMLButtonElement>("button[data-letter]").forEach((button) => {
-    button.addEventListener("click", () => {
-      letter = button.dataset.letter ?? "";
       apply();
     });
   });

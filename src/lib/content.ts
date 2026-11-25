@@ -27,10 +27,7 @@ export const paths = pathsData as LearningPath[];
 export const trending = trendingData as Trending;
 
 function letterOf(name: string): string {
-  const stripped = name
-    .normalize("NFD")
-    .replace(/\p{M}/gu, "")
-    .replace(/^[^A-Za-z]+/, "");
+  const stripped = name.normalize("NFD").replace(/\p{M}/gu, "").trim();
   const ch = stripped[0]?.toUpperCase() ?? "#";
   return /[A-Z]/.test(ch) ? ch : "#";
 }
@@ -91,7 +88,11 @@ export function groupByLetter(terms: Term[], lang: Lang): { letter: string; term
     groups.set(letter, bucket);
   }
   return [...groups.entries()]
-    .sort(([a], [b]) => a.localeCompare(b))
+    .sort(([a], [b]) => {
+      if (a === "#" && b !== "#") return -1;
+      if (b === "#" && a !== "#") return 1;
+      return a.localeCompare(b);
+    })
     .map(([letter, grouped]) => ({ letter, terms: grouped }));
 }
 
