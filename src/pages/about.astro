@@ -3,18 +3,40 @@ import Base from "../layouts/Base.astro";
 import { t } from "../lib/i18n";
 const ui = t("en");
 ---
-<Base lang="en" title={ui.aboutTitle} description={ui.disclaimer} path="/about">
+<Base lang="en" title={ui.aboutTitle} description={ui.homeDek} path="/about">
   <div class="wrap wrap-narrow" style="padding:1.4rem 0 2.5rem">
     <p class="kicker">{ui.siteKicker}</p>
     <h1>{ui.aboutTitle}</h1>
-    <p class="dek">A public reference for mortgage origination, underwriting, disclosure, and servicing. The working title is Mortgage Compliance Glossary.</p>
+    <p class="dek">The Mortgage Compliance Glossary is an open-source English and Spanish desk reference of 393 terms for mortgage origination, underwriting, disclosure, and servicing.</p>
     <h2>How to read an entry</h2>
-    <p>The plain-English definition is always first. Professional view, the default, then keeps the regulation detail, the form or file example, the compliance note, and the citations open. Borrower view leads with the definition and the example and collapses the professional sections. The control is in the header and is remembered on this browser.</p>
-    <p>Sample dollar amounts are marked “Example figures.” They are not rates, limits, or current official thresholds. Loan limits, HOEPA and qualified-mortgage dollar breakpoints, FHA mortgage insurance, and the VA funding fee change and are cited rather than copied.</p>
+    <p>The plain-English definition is always first, followed by the same term in the other language. Professional view, the default, then keeps the regulation detail, the form or file example, the compliance note, and the citations open. Borrower view leads with the definition and the illustrative example and collapses the professional sections. The control is in the header and is remembered on this browser.</p>
+    <p>Sample dollar amounts are marked as illustrative examples. They are not rates, limits, or current official thresholds. Loan limits, HOEPA and qualified-mortgage dollar breakpoints, FHA mortgage insurance, and the VA funding fee change and are cited rather than copied.</p>
     <h2>{ui.authorTitle}</h2>
     <p>{ui.authorBody}</p>
+    <h2>How to run it</h2>
+    <p>To run a local copy, install Node.js 22 or later, then:</p>
+    <pre><code>npm install
+npm run dev</code></pre>
+    <p>The dev server listens on http://127.0.0.1:4327.</p>
+    <pre><code>npm run validate   # related links, citations, required fields, Spanish
+npm run build      # validate, then write the static site to dist/</code></pre>
+    <h2>Add a term</h2>
+    <p>The data format, citation rules, and review process are in the <a href="/contribute">contribution guide</a>.</p>
+    <ol class="plain-steps">
+      <li>Add the slug to <code>scripts/reference_data.py</code> and run <code>npm run data</code>.</li>
+      <li>Create <code>src/content/terms/{"{slug}"}.json</code> with English and Spanish fields, citations, related terms, and an illustrative example.</li>
+      <li>English examples include the words <code>Example figures</code>. Spanish examples include <code>Cifras de ejemplo</code>. Do not hard-code figures that change every year.</li>
+      <li>Run <code>npm run validate</code>. Related links must resolve in both directions.</li>
+    </ol>
     <h2>Spanish</h2>
     <p lang="es">{ui.spanishNote}</p>
+    <h2>{ui.relatedWorkTitle}</h2>
+    <ul>
+      <li><a href="https://mortgageeval.com">{ui.relatedEval}</a> — {ui.relatedEvalDek}</li>
+      <li>{ui.relatedClear} — {ui.relatedClearDek}</li>
+      <li><a href="https://shaun-barry-portfolio.vercel.app">{ui.relatedPortfolio}</a> — {ui.relatedPortfolioDek}</li>
+      <li><a href="https://github.com/XBitcoinBytes">{ui.relatedGithub}</a> — {ui.relatedGithubDek}</li>
+    </ul>
     <h2>{ui.disclaimerTitle}</h2>
     <p>{ui.disclaimer}</p>
   </div>

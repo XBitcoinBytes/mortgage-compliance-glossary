@@ -26,7 +26,7 @@ npm run validate   # related links, citations, required fields, Spanish
 npm run build      # validate, then write the static site to dist/
 ```
 
-Set `SITE_URL` before a future publication so canonical links and the sitemap use the real origin. Nothing in this repo deploys the site.
+Set `SITE_URL=https://mortgagecomplianceglossary.com` before a production build so canonical links and the sitemap use the public origin. Deploy only with the steps in `DEPLOY.md`.
 
 ### Add a term
 
@@ -39,6 +39,10 @@ Categories: `origination`, `underwriting`, `compliance`, `closing`, `servicing`,
 
 Curated borrower topics live in `src/data/trending.json`. The list is editorial. It is not a search count. Learning paths live in `src/data/paths.json`. The regulation index is built from the citation catalog.
 
+## Contribute
+
+How to add or improve terms, citation rules, and the review process are in [CONTRIBUTING.md](CONTRIBUTING.md) and on the site at `/contribute`.
+
 ## Related work
 
 Other mortgage projects by Shaun Barry:
@@ -46,7 +50,8 @@ Other mortgage projects by Shaun Barry:
 - **[MortgageEval](https://mortgageeval.com)** — a public site where anyone can test a mortgage AI against an open-source benchmark. Answers are checked against a licensed loan officer's answer key.
 - **ClearEstimate** — a TRID compliance checker that reads Loan Estimates and Closing Disclosures in the browser. Files stay on the device. It is in development and does not have a public site yet.
 - **[Portfolio](https://shaun-barry-portfolio.vercel.app)** — Shaun's portfolio of mortgage and AI product work.
+- **[GitHub](https://github.com/XBitcoinBytes)** — other public work under XBitcoinBytes. This glossary repository is currently private, so it is not linked here.
 
 ## Domain
 
-`mortgagecomplianceglossary.com` is available and may be registered later. It has not been purchased.
+`mortgagecomplianceglossary.com` is the public domain for this glossary. See `DEPLOY.md` for the current production host.

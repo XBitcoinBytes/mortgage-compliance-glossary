@@ -1,0 +1,36 @@
+---
+import Base from "../../layouts/Base.astro";
+import { t } from "../../lib/i18n";
+const ui = t("es");
+---
+<Base lang="es" title={ui.contributeTitle} description={ui.contributeDek} path="/contribute">
+  <div class="wrap wrap-narrow contribute" style="padding:1.4rem 0 2.5rem">
+    <p class="kicker">{ui.siteKicker}</p>
+    <h1>{ui.contributeTitle}</h1>
+    <p class="dek">{ui.contributeDek}</p>
+    <p>{ui.creditLine}. Este glosario es material educativo de código abierto. No es asesoría legal.</p>
+
+    <h2>Qué pertenece aquí</h2>
+    <p>Agregue o mejore términos usados en originación, suscripción, divulgación o administración hipotecaria. Cada entrada necesita una definición en lenguaje claro, un ejemplo ilustrativo del formulario o del expediente, al menos una cita de fuente primaria (reglamento, ley o guía de agencia) y una versión en español que siga la terminología de la CFPB cuando la Oficina haya publicado el término.</p>
+
+    <h2>Formato de datos</h2>
+    <p>Cada término es un archivo JSON en <code>src/content/terms/{"{slug}"}.json</code>. Campos requeridos: <code>term</code>, <code>aliases</code>, <code>category</code>, <code>definition</code>, <code>details</code>, <code>complianceNotes</code>, <code>example</code> (<code>setting</code> y <code>text</code>), <code>citations</code>, <code>related</code>, <code>reviewed</code> y un objeto <code>es</code> equivalente.</p>
+
+    <h2>Requisitos de cita</h2>
+    <ul>
+      <li>Cite el texto oficial, no solo un artículo secundario.</li>
+      <li>Prefiera eCFR, el Código de los EE. UU., los reglamentos e interpretaciones de la CFPB, y las guías vigentes de Fannie Mae, Freddie Mac, FHA, VA o USDA.</li>
+      <li>No invente números de sección, umbrales en dólares ni plazos. Si una cifra cambia cada año, cite la fuente y no la fije en el ejemplo. Marque los ejemplos con «Cifras de ejemplo».</li>
+    </ul>
+
+    <h2>Cómo agregar o editar un término</h2>
+    <ol>
+      <li>Agregue el slug a <code>scripts/reference_data.py</code> y ejecute <code>npm run data</code>.</li>
+      <li>Cree o actualice el JSON, incluido el objeto <code>es</code>.</li>
+      <li>Ejecute <code>npm run validate</code>.</li>
+    </ol>
+
+    <h2>Proceso de revisión</h2>
+    <p>Las entradas se contrastan con la fuente citada y se revisan en lenguaje claro en inglés y en español. Shaun Barry, NMLS #30170, revisa el texto de cumplimiento antes de tratar una entrada como final. El repositorio está privado en esta primera publicación. Para ofrecer una corrección o un término nuevo, use el contacto del <a href="https://shaun-barry-portfolio.vercel.app">portafolio</a>, o siga <a href="https://github.com/XBitcoinBytes">GitHub bajo XBitcoinBytes</a> si más adelante se abre una vía pública. No envíe datos reales de prestatarios.</p>
+  </div>
+</Base>

@@ -129,6 +129,15 @@ export function partCounts(): Map<string, number> {
   return counts;
 }
 
+export function partIdsForTerm(term: Term): string[] {
+  const ids = new Set<string>();
+  for (const id of term.citations) {
+    const partId = citationMap.get(id)?.partId;
+    if (partId) ids.add(partId);
+  }
+  return [...ids];
+}
+
 export function searchRecords(): SearchRecord[] {
   return getTerms().map((term) => ({
     slug: term.slug,
@@ -141,6 +150,7 @@ export function searchRecords(): SearchRecord[] {
     esDefinition: term.es.definition.slice(0, 220),
     letter: letterOf(term.term),
     esLetter: letterOf(term.es.term),
+    parts: partIdsForTerm(term).join(" "),
   }));
 }
 

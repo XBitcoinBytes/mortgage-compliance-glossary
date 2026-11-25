@@ -7,18 +7,42 @@ interface Props {
 }
 const { lang } = Astro.props;
 const ui = t(lang);
+const es = lang === "es";
 ---
 
 <footer class="site-footer">
   <div class="wrap">
+    <p class="footer-credit">{ui.creditLine}</p>
     <p><strong>{ui.disclaimerTitle}.</strong> {ui.disclaimer}</p>
-    {lang === "es" && <p>{ui.spanishNote}</p>}
+    {es && <p>{ui.spanishNote}</p>}
     <div class="footer-row">
       <a href={hrefFor(lang, "/about")}>{ui.navAbout}</a>
       <a href={hrefFor(lang, "/terms")}>{ui.navGlossary}</a>
       <a href={hrefFor(lang, "/regulations")}>{ui.navRegulations}</a>
       <a href={hrefFor(lang, "/paths")}>{ui.navPaths}</a>
-      <a href={hrefFor(lang, "/figures")}>{lang === "es" ? "Cifras que cambian" : "Figures that change"}</a>
+      <a href={hrefFor(lang, "/figures")}>{es ? "Cifras que cambian" : "Figures that change"}</a>
+      <a href={hrefFor(lang, "/contribute")}>{ui.navContribute}</a>
+    </div>
+    <div class="related-work">
+      <h2>{ui.relatedWorkTitle}</h2>
+      <ul>
+        <li>
+          <a href="https://mortgageeval.com">{ui.relatedEval}</a>
+          <span>{ui.relatedEvalDek}</span>
+        </li>
+        <li>
+          <strong>{ui.relatedClear}</strong>
+          <span>{ui.relatedClearDek}</span>
+        </li>
+        <li>
+          <a href="https://shaun-barry-portfolio.vercel.app">{ui.relatedPortfolio}</a>
+          <span>{ui.relatedPortfolioDek}</span>
+        </li>
+        <li>
+          <a href="https://github.com/XBitcoinBytes">{ui.relatedGithub}</a>
+          <span>{ui.relatedGithubDek}</span>
+        </li>
+      </ul>
     </div>
   </div>
 </footer>

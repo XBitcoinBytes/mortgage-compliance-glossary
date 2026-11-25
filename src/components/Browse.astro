@@ -1,7 +1,7 @@
 ---
 import type { CategoryId, Lang, Term } from "../lib/types";
 import { categories } from "../data/categories";
-import { categoryLabel, displayDefinition, displayName, excerpt, groupByLetter } from "../lib/content";
+import { categoryLabel, displayDefinition, displayName, excerpt, groupByLetter, partIdsForTerm, parts } from "../lib/content";
 import { hrefFor, t } from "../lib/i18n";
 
 interface Props {
@@ -20,6 +20,17 @@ const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     <label>
       <span class="sr-only">{ui.searchHint}</span>
       <input id="browse-q" type="search" placeholder={ui.searchPlaceholder} autocomplete="off" />
+    </label>
+    <label class="reg-filter">
+      <span class="sr-only">{ui.filterReg}</span>
+      <select id="browse-reg" aria-label={ui.filterReg}>
+        <option value="">{ui.allRegs}</option>
+        {parts.map((part) => (
+          <option value={part.id}>
+            {part.short} · {lang === "es" ? part.label : part.label}
+          </option>
+        ))}
+      </select>
     </label>
     {
       !lockedCategory && (
@@ -59,7 +70,8 @@ const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
                 data-slug={term.slug}
                 data-cat={term.category}
                 data-letter={group.letter}
-                data-name={`${term.term} ${term.es.term} ${term.aliases.join(" ")} ${term.es.aliases.join(" ")}`}
+                data-parts={partIdsForTerm(term).join(" ")}
+                data-name={`${term.term} ${term.es.term} ${term.aliases.join(" ")} ${term.es.aliases.join(" ")} ${term.definition} ${term.es.definition} ${partIdsForTerm(term).join(" ")}`}
               >
                 <a class="entry" href={hrefFor(lang, `/terms/${term.slug}`)}>
                   <strong>{displayName(term, lang)}</strong>

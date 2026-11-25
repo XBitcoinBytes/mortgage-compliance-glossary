@@ -97,4 +97,5 @@ export interface SearchRecord {
   esDefinition: string;
   letter: string;
   esLetter: string;
+  parts: string;
 }

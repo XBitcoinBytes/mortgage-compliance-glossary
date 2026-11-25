@@ -3,18 +3,34 @@ import Base from "../../layouts/Base.astro";
 import { t } from "../../lib/i18n";
 const ui = t("es");
 ---
-<Base lang="es" title={ui.aboutTitle} description={ui.disclaimer} path="/about">
+<Base lang="es" title={ui.aboutTitle} description={ui.homeDek} path="/about">
   <div class="wrap wrap-narrow" style="padding:1.4rem 0 2.5rem">
     <p class="kicker">{ui.siteKicker}</p>
     <h1>{ui.aboutTitle}</h1>
-    <p class="dek">Una referencia pública de originación, suscripción, divulgación y administración hipotecaria. El nombre de trabajo es Mortgage Compliance Glossary.</p>
+    <p class="dek">El Glosario de cumplimiento hipotecario es una referencia de escritorio de código abierto, en inglés y en español, con 393 términos de originación, suscripción, divulgación y administración hipotecaria.</p>
     <h2>Cómo leer una entrada</h2>
-    <p>La definición en lenguaje claro va siempre primero. La vista profesional, que es la predeterminada, deja abiertos el detalle del reglamento, el ejemplo del formulario o del expediente, la nota de cumplimiento y las citas. La vista de prestatario lidera con la definición y el ejemplo, y pliega las secciones profesionales. El control está en el encabezado y se recuerda en este navegador.</p>
-    <p>Las cantidades de muestra dicen «Cifras de ejemplo». No son tasas, límites ni umbrales oficiales vigentes.</p>
+    <p>La definición en lenguaje claro va siempre primero, seguida del mismo término en el otro idioma. La vista profesional, que es la predeterminada, deja abiertos el detalle del reglamento, el ejemplo del formulario o del expediente, la nota de cumplimiento y las citas. La vista de prestatario lidera con la definición y el ejemplo ilustrativo, y pliega las secciones profesionales. El control está en el encabezado y se recuerda en este navegador.</p>
+    <p>Las cantidades de muestra se marcan como ejemplos ilustrativos. No son tasas, límites ni umbrales oficiales vigentes.</p>
     <h2>{ui.authorTitle}</h2>
     <p>{ui.authorBody}</p>
+    <h2>Cómo ejecutarlo</h2>
+    <p>Para una copia local, instale Node.js 22 o posterior y luego:</p>
+    <pre><code>npm install
+npm run dev</code></pre>
+    <p>El servidor de desarrollo escucha en http://127.0.0.1:4327.</p>
+    <pre><code>npm run validate
+npm run build</code></pre>
+    <h2>Agregar un término</h2>
+    <p>El formato de datos, las reglas de cita y el proceso de revisión están en la <a href="/es/contribute">guía de contribución</a>.</p>
     <h2>Español</h2>
     <p>{ui.spanishNote}</p>
+    <h2>{ui.relatedWorkTitle}</h2>
+    <ul>
+      <li><a href="https://mortgageeval.com">{ui.relatedEval}</a> — {ui.relatedEvalDek}</li>
+      <li>{ui.relatedClear} — {ui.relatedClearDek}</li>
+      <li><a href="https://shaun-barry-portfolio.vercel.app">{ui.relatedPortfolio}</a> — {ui.relatedPortfolioDek}</li>
+      <li><a href="https://github.com/XBitcoinBytes">{ui.relatedGithub}</a> — {ui.relatedGithubDek}</li>
+    </ul>
     <h2>{ui.disclaimerTitle}</h2>
     <p>{ui.disclaimer}</p>
   </div>

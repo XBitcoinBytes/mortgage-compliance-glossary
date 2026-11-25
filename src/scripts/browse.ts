@@ -4,6 +4,7 @@ interface Row {
   slug: string;
   cat: string;
   letter: string;
+  parts: string;
   name: string;
   el: HTMLElement;
 }
@@ -12,17 +13,20 @@ export function initBrowse() {
   const root = document.querySelector<HTMLElement>("#browse");
   if (!root) return;
   const input = root.querySelector<HTMLInputElement>("#browse-q");
+  const regSelect = root.querySelector<HTMLSelectElement>("#browse-reg");
   const count = root.querySelector<HTMLElement>("#browse-count");
   const empty = root.querySelector<HTMLElement>("#browse-empty");
   const lang = root.dataset.lang === "es" ? "es" : "en";
   const locked = root.dataset.locked ?? "";
   let category = locked;
   let letter = "";
+  let part = "";
 
   const rows: Row[] = [...root.querySelectorAll<HTMLElement>("[data-slug]")].map((el) => ({
     slug: el.dataset.slug ?? "",
     cat: el.dataset.cat ?? "",
     letter: el.dataset.letter ?? "",
+    parts: el.dataset.parts ?? "",
     name: el.dataset.name ?? "",
     el,
   }));
@@ -38,6 +42,10 @@ export function initBrowse() {
   const params = new URLSearchParams(location.search);
   if (!locked && params.get("category")) category = params.get("category") ?? "";
   if (params.get("letter")) letter = (params.get("letter") ?? "").toUpperCase();
+  if (params.get("reg")) {
+    part = params.get("reg") ?? "";
+    if (regSelect) regSelect.value = part;
+  }
   if (input && params.get("q")) input.value = params.get("q") ?? "";
 
   function apply() {
@@ -48,7 +56,8 @@ export function initBrowse() {
       const show =
         matched.has(row.slug) &&
         (!category || row.cat === category) &&
-        (!letter || row.letter === letter);
+        (!letter || row.letter === letter) &&
+        (!part || row.parts.split(" ").includes(part));
       row.el.hidden = !show;
       if (show) visible += 1;
     });
@@ -71,6 +80,8 @@ export function initBrowse() {
     else url.searchParams.delete("q");
     if (letter) url.searchParams.set("letter", letter);
     else url.searchParams.delete("letter");
+    if (part) url.searchParams.set("reg", part);
+    else url.searchParams.delete("reg");
     if (!locked && category) url.searchParams.set("category", category);
     else url.searchParams.delete("category");
     history.replaceState(null, "", url);
@@ -88,6 +99,10 @@ export function initBrowse() {
       letter = button.dataset.letter ?? "";
       apply();
     });
+  });
+  regSelect?.addEventListener("change", () => {
+    part = regSelect.value;
+    apply();
   });
   apply();
 }

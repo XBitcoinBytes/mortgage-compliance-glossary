@@ -22,6 +22,7 @@ const es = lang === "es";
 const name = displayName(term, lang);
 const otherName = es ? term.term : term.es.term;
 const definition = es ? term.es.definition : term.definition;
+const otherDefinition = es ? term.definition : term.es.definition;
 const details = es ? term.es.details : term.details;
 const notes = es ? term.es.complianceNotes : term.complianceNotes;
 const example = es ? term.es.example : term.example;
@@ -41,13 +42,16 @@ const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().repla
 const pageUrl = new URL(hrefFor(lang, `/terms/${term.slug}`), origin).toString();
 const citeText = `${ui.siteName}, “${name},” ${ui.reviewed.toLowerCase()} ${term.reviewed}, ${pageUrl}`;
 const changing = figures.filter((f) => f.terms.includes(term.slug));
+const termsSet = new URL(hrefFor(lang, "/terms"), origin + "/").toString();
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   name,
+  alternateName: [otherName, ...aliases].filter(Boolean),
   description: definition,
-  inDefinedTermSet: hrefFor(lang, "/terms"),
-  url: hrefFor(lang, `/terms/${term.slug}`),
+  inLanguage: lang,
+  inDefinedTermSet: termsSet,
+  url: pageUrl,
 };
 ---
 
@@ -83,6 +87,11 @@ const jsonLd = {
     <section class="definition" id="definition" aria-labelledby="def-h">
       <h2 id="def-h">{ui.definition} <a class="anchor" href="#definition" aria-label={ui.sectionLink}>#</a></h2>
       <p>{definition}</p>
+    </section>
+    <section class="other-lang" id="other-language" lang={es ? "en" : "es"} aria-labelledby="other-h">
+      <h2 id="other-h">{es ? ui.otherLangHeadingEn : ui.otherLangHeadingEs} <a class="anchor" href="#other-language" aria-label={ui.sectionLink}>#</a></h2>
+      <p class="other-term">{otherName}</p>
+      <p>{otherDefinition}</p>
     </section>
 
     <section class="example-panel" id="example" aria-labelledby="ex-h">
