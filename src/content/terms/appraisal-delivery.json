@@ -31,7 +31,7 @@
     "complianceNotes": "Entregue la tasación cuando se completa y conserve la prueba. No espere a que el prestatario la pida. Si hay una reconsideración, entregue también la valoración revisada.",
     "example": {
       "setting": "Copia de la tasación entregada al solicitante, con el registro de entrega",
-      "text": "Una tasación de muestra terminada el día 1 podría enviarse por correo el día 2, mucho antes de un cierre de ejemplo el día 20. Las fechas son cifras de ejemplo. Cifras de ejemplo."
+      "text": "Una tasación de muestra terminada el día 1 podría enviarse por correo electrónico el día 2, mucho antes de un cierre de ejemplo el día 20. Las fechas son cifras de ejemplo. Cifras de ejemplo."
     }
   }
 }

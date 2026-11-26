@@ -33,7 +33,7 @@
     "complianceNotes": "No deje que un asistente sin licencia cotice tasas o tome datos de solicitud que inician el expediente, salvo que esa persona quede fuera de la definición de originador según los hechos reales. Mantenga el identificador NMLS de la publicidad y el de la Estimación del préstamo en acuerdo.",
     "example": {
       "setting": "Estimación del préstamo, página 3, Información de contacto, el originador individual",
-      "text": "Una página 3 de muestra puede listar al oficial de préstamos Sam Patel, identificador NMLS 222333, correo y teléfono, para una solicitud de ejemplo. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una página 3 de muestra puede listar al oficial de préstamos Sam Patel, identificador NMLS 222333, correo electrónico y teléfono, para una solicitud de ejemplo. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

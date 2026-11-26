@@ -1,1 +1,16 @@
-{ "trailingSlash": false }
+{
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "mortgage-glossary.vercel.app"
+        }
+      ],
+      "destination": "https://mortgagecomplianceglossary.com/$1",
+      "permanent": true
+    }
+  ]
+}

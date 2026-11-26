@@ -1,7 +1,7 @@
 # Deploying
 
 Production: https://mortgagecomplianceglossary.com (Vercel project `mortgage-glossary`, prj_Ab2QFGm6wKS85UPqfeJmEotId1xC).
-Until DNS is pointed at Vercel, the same production deployment is also served at https://mortgage-glossary.vercel.app.
+The production alias https://mortgage-glossary.vercel.app permanently redirects (308) to https://mortgagecomplianceglossary.com. Unique deployment URLs (for example, mortgage-glossary-<id>-bitcoin-bytes-travel.vercel.app) are not redirected, so preview and rollback deploys stay reachable.
 Deploys are direct uploads of a prebuilt `dist/` (no Git auto-deploy). Deploy only with Shaun's go.
 
 ```

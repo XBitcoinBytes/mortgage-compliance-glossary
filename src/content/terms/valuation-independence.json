@@ -25,11 +25,11 @@
     "term": "Independencia de la valoración",
     "aliases": [],
     "definition": "La independencia de la valoración es la regla del Reglamento Z de que la persona que prepara una tasación u otra valoración no debe ser coaccionada, y que su pago no debe depender de alcanzar un valor. Se aplica más allá de los Requisitos de Independencia del Tasador de las agencias. Una opinión de precio de un corredor usada como valoración puede estar cubierta.",
-    "details": "12 CFR 1026.42 prohíbe hacer que el valor se base en un resultado deseado, y restringe los conflictos y la compensación. Pedirle a un tasador que considere ventas comparables adicionales es distinto de decirle al tasador el número que el préstamo necesita. La regla tiene un puerto seguro para una compensación razonable y para ciertas comunicaciones. Léala antes de escribir el correo.",
-    "complianceNotes": "Mantenga el pedido separado de los incentivos de producción. Prohíba el lenguaje de valor objetivo en las plantillas de correo. Entregue la valoración al prestatario según el Reglamento B.",
+    "details": "12 CFR 1026.42 prohíbe hacer que el valor se base en un resultado deseado, y restringe los conflictos y la compensación. Pedirle a un tasador que considere ventas comparables adicionales es distinto de decirle al tasador el número que el préstamo necesita. La regla tiene un puerto seguro para una compensación razonable y para ciertas comunicaciones. Léala antes de escribir el correo electrónico.",
+    "complianceNotes": "Mantenga el pedido separado de los incentivos de producción. Prohíba el lenguaje de valor objetivo en las plantillas de correo electrónico. Entregue la valoración al prestatario según el Reglamento B.",
     "example": {
       "setting": "Encargo de tasación que no indica un valor objetivo",
-      "text": "Un correo prohibido de muestra nombraría un objetivo de ejemplo de $450,000. El pedido que cumple nombra la propiedad y no un objetivo. Cifras de ejemplo solo de la frase prohibida."
+      "text": "Un correo electrónico prohibido de muestra nombraría un objetivo de ejemplo de $450,000. El pedido que cumple nombra la propiedad y no un objetivo. Cifras de ejemplo solo de la frase prohibida."
     }
   }
 }

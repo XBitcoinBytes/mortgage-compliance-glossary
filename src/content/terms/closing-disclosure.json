@@ -10,7 +10,7 @@
   "complianceNotes": "Prove when the consumer received the Closing Disclosure before you schedule consummation. Compare it with the Loan Estimate for tolerance violations. Do not issue a revised Loan Estimate on or after the day the Closing Disclosure goes out.",
   "example": {
     "setting": "Closing Disclosure, all five pages, delivered before consummation",
-    "text": "A sample purchase might show the Closing Disclosure received on Monday and consummation on Thursday, with an example cash to close of $27,400. Example figures."
+    "text": "If a sample Closing Disclosure is received on Monday, consummation can be on Thursday under the three-business-day waiting period, which counts all calendar days except Sundays and federal legal holidays. A sample cash to close might be $27,400. Example figures."
   },
   "citations": [
     "reg-1026-19-f-1-ii",
@@ -66,7 +66,7 @@
     "complianceNotes": "Pruebe cuándo recibió el consumidor la Divulgación del cierre antes de programar la consumación. Compárela con la Estimación del préstamo por violaciones de tolerancia. No emita una Estimación del préstamo revisada el día en que sale la Divulgación del cierre o después.",
     "example": {
       "setting": "Divulgación del cierre, las cinco páginas, entregada antes de la consumación",
-      "text": "Una compra de muestra puede mostrar la Divulgación del cierre recibida el lunes y la consumación el jueves, con un efectivo para el cierre de ejemplo de $27,400. Cifras de ejemplo."
+      "text": "Si una Divulgación del cierre de muestra se recibe el lunes, la consumación puede ser el jueves según la espera de tres días hábiles, que cuenta todos los días del calendario excepto los domingos y los feriados legales federales. Un efectivo para el cierre de muestra podría ser $27,400. Cifras de ejemplo."
     }
   }
 }

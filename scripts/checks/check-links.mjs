@@ -11,7 +11,8 @@ for (const f of figures) urls.add(f.url);
 for (const c of citations) if (c.interpUrl) urls.add(c.interpUrl);
 // Hosts that refuse scripted requests (401/403) but load in a browser. Re-verify by hand each release.
 const BOT_BLOCKED = new Set(["guide.freddiemac.com", "www.fema.gov", "www.rd.usda.gov", "singlefamily.fanniemae.com"]);
-const UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36";
+const UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+const HEADERS = { "user-agent": UA, accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "accept-language": "en-US,en;q=0.9" };
 const list = [...urls];
 const bad = [];
 const warn = [];
@@ -22,7 +23,7 @@ async function worker() {
     let status = 0;
     for (let attempt = 0; attempt < 4 && (status === 0 || status === 403 || status === 429); attempt++) {
       try {
-        const res = await fetch(url, { redirect: "follow", headers: { "user-agent": UA }, signal: AbortSignal.timeout(25000) });
+        const res = await fetch(url, { redirect: "follow", headers: HEADERS, signal: AbortSignal.timeout(25000) });
         status = res.status;
         if (status === 200 && /uscode\.house\.gov/.test(url) && /Page Not Found/.test(await res.text())) status = 404;
       } catch { status = 0; }
