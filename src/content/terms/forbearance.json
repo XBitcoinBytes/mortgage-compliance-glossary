@@ -8,7 +8,7 @@
   "complianceNotes": "Put the start, the end, and the exit option in writing. Do not tell the borrower the debt is forgiven. Report the status accurately. Resume collection only as the agreement and the investor allow.",
   "example": {
     "setting": "Forbearance agreement that reduces or suspends payments for a stated time",
-    "text": "A sample agreement might suspend an example $1,700 payment for three months. Example figures. The missed $5,100 is still owed unless a later agreement says otherwise."
+    "text": "A sample agreement might suspend an example $1,700 payment for three months. The missed $5,100 is still owed unless a later agreement says otherwise. Regulation X, 12 CFR 1024.41, is the procedure when a forbearance is reviewed as loss mitigation. The product terms come from the investor guide. A pandemic-era program that has ended should not be offered as if it were still open. Interest may continue to accrue. The agreement should say what happens when the forbearance ends. Example figures."
   },
   "citations": [
     "reg-1024-41",
@@ -36,7 +36,7 @@
     "complianceNotes": "Ponga por escrito el inicio, el fin y la opción de salida. No le diga al prestatario que la deuda está perdonada. Reporte el estado con exactitud. Reanude el cobro solo como permiten el acuerdo y el inversionista.",
     "example": {
       "setting": "Acuerdo de indulgencia que reduce o suspende los pagos por un tiempo indicado",
-      "text": "Un acuerdo de muestra podría suspender un pago de ejemplo de $1,700 durante tres meses. Cifras de ejemplo. Los $5,100 no pagados igual se deben, salvo que un acuerdo posterior diga otra cosa."
+      "text": "Un acuerdo de muestra podría suspender un pago de ejemplo de $1,700 durante tres meses. Los $5,100 no pagados todavía se deben, salvo que un acuerdo posterior diga otra cosa. El Reglamento X, 12 CFR 1024.41, es el procedimiento cuando una indulgencia se revisa como mitigación de pérdidas. Los términos del producto vienen de la guía del inversionista. Un programa de la era de la pandemia que ya terminó no debe ofrecerse como si siguiera abierto. El interés puede seguir acumulándose. El acuerdo debe decir qué ocurre cuando termina la indulgencia. Cifras de ejemplo."
     }
   }
 }

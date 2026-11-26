@@ -8,7 +8,7 @@
   "complianceNotes": "Do not label a table-funded broker transaction as a correspondent origination. The initial obligee on the note is the fact that matters. Keep the funding evidence, not only the eventual sale to an investor.",
   "example": {
     "setting": "Note and Loan Estimate, page 3, the creditor to whom the obligation is initially payable",
-    "text": "A sample note might be payable to Harbor Correspondent Lending and later sold, while the Loan Estimate named Harbor as creditor on an example $275,000 loan. Example figures."
+    "text": "A sample note might be payable to Harbor Correspondent Lending and later sold, while the Loan Estimate named Harbor as creditor on an example $275,000 loan. Creditor status follows 12 CFR 1026.2: the person to whom the obligation is initially payable. Regulation X defines table funding separately in 12 CFR 1024.2. A correspondent uses its own warehouse line and is identified as the lender on the note and the Loan Estimate. Compensation and disclosure duties attach to that creditor and to any loan originators it employs. Example figures."
   },
   "citations": [
     "reg-1026-2",
@@ -31,7 +31,7 @@
     "complianceNotes": "No etiquete como originación de corresponsal una transacción de un corredor financiada en mesa. El obligado inicial en el pagaré es el hecho que importa. Conserve la prueba del desembolso, no solo la venta posterior a un inversionista.",
     "example": {
       "setting": "Pagaré y Estimación del préstamo, página 3, el acreedor a quien la obligación es inicialmente pagadera",
-      "text": "Un pagaré de muestra puede ser pagadero a Harbor Correspondent Lending y venderse después, mientras la Estimación del préstamo nombró a Harbor como acreedor en un préstamo de ejemplo de $275,000. Cifras de ejemplo."
+      "text": "Un pagaré de muestra podría ser pagadero a Harbor Correspondent Lending y venderse después, mientras que la Estimación del préstamo nombró a Harbor como acreedor en un préstamo de ejemplo de $275,000. La condición de acreedor sigue 12 CFR 1026.2: la persona a quien la obligación es pagadera inicialmente. El Reglamento X define el financiamiento en mesa por separado en 12 CFR 1024.2. Un corresponsal usa su propia línea de almacén y se identifica como el prestamista en el pagaré y en la Estimación del préstamo. Los deberes de compensación y de divulgación se adhieren a ese acreedor y a cualquier originador del préstamo que emplee. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Follow the current 4000.1 partial-claim rules and disclose the subordinate note. Do not promise that the missed payments disappear. They become a later debt.",
   "example": {
     "setting": "FHA partial claim, a subordinate note for missed amounts, under the current HUD handbook",
-    "text": "A sample partial claim might cover an example $8,000 of arrears in a zero-interest subordinate note due at payoff. Example figures, not HUD's current maximum."
+    "text": "A sample partial claim might cover an example $8,000 of arrears in a zero-interest subordinate note due at payoff. HUD Handbook 4000.1 states when a partial claim is available and the maximum the Department will advance. That maximum changes, so do not quote a percentage from memory. The borrower signs the subordinate note, and the first mortgage may also be modified. A servicer offers the option only if the current handbook's waterfall includes it. Example figures, not HUD's current maximum."
   },
   "citations": [
     "hud-4000-1"
@@ -29,7 +29,7 @@
     "complianceNotes": "Siga las reglas vigentes del reclamo parcial de 4000.1 y divulgue el pagaré subordinado. No prometa que los pagos no realizados desaparecen. Se vuelven una deuda posterior.",
     "example": {
       "setting": "Reclamo parcial de la FHA, un pagaré subordinado por los montos no pagados, según el manual vigente de HUD",
-      "text": "Un reclamo parcial de muestra podría cubrir un ejemplo de $8,000 de atrasos en un pagaré subordinado sin interés que vence en la liquidación. Cifras de ejemplo, no el máximo vigente de HUD."
+      "text": "Un reclamo parcial de muestra podría cubrir un ejemplo de $8,000 de atrasos en un pagaré subordinado sin interés que vence en la liquidación. El Manual HUD 4000.1 establece cuándo hay un reclamo parcial disponible y el máximo que el Departamento adelantará. Ese máximo cambia, así que no cite un porcentaje de memoria. El prestatario firma el pagaré subordinado, y la primera hipoteca también puede modificarse. Un administrador ofrece la opción solo si la cascada del manual vigente la incluye. Cifras de ejemplo, no el máximo vigente de HUD."
     }
   }
 }

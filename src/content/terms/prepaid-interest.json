@@ -8,11 +8,12 @@
   "complianceNotes": "Estimate the per diem from the locked rate and a real closing date. Update Section F when the date changes. Explain to the borrower why a later closing can cost more interest even at the same rate.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure, page 2, Section F, prepaid interest",
-    "text": "A sample per diem of $55 for 12 days is an example prepaid-interest charge of $660 in Section F. The amount can change if the closing date moves. Example figures."
+    "text": "A sample per diem of $55 for 12 days is an example prepaid-interest charge of $660 in Section F. 12 CFR 1026.37 places it in Section F, and 12 CFR 1026.19(e)(3)(iii) allows it to change because it depends on the disbursement date. The estimate still has to be made in good faith from a realistic closing date. A large increase because the creditor delayed without a permitted reason is not automatically harmless. The amount can change if the closing date moves. Example figures."
   },
   "citations": [
     "reg-1026-37",
-    "reg-1026-19"
+    "reg-1026-19",
+    "reg-1026-19-e-3-iii"
   ],
   "related": [
     "consummation",
@@ -33,7 +34,7 @@
     "complianceNotes": "Estime el interés diario a partir de la tasa fijada y de una fecha de cierre real. Actualice la Sección F cuando cambia la fecha. Explíquele al prestatario por qué un cierre más tarde puede costar más interés aunque la tasa sea la misma.",
     "example": {
       "setting": "Estimación del préstamo y Divulgación del cierre, página 2, Sección F, interés pagado por adelantado",
-      "text": "Un interés diario de muestra de $55 por 12 días es un cargo de interés pagado por adelantado de ejemplo de $660 en la Sección F. El monto puede cambiar si se mueve la fecha de cierre. Cifras de ejemplo."
+      "text": "Un interés por día de muestra de $55 durante 12 días es un cargo de interés pagado por adelantado de ejemplo de $660 en la Sección F. 12 CFR 1026.37 lo coloca en la Sección F, y 12 CFR 1026.19(e)(3)(iii) permite que cambie porque depende de la fecha de desembolso. La estimación todavía debe hacerse de buena fe a partir de una fecha de cierre realista. Un aumento grande porque el acreedor se retrasó sin una razón permitida no es automáticamente inofensivo. El monto puede cambiar si se mueve la fecha de cierre. Cifras de ejemplo."
     }
   }
 }

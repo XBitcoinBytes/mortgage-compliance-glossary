@@ -10,7 +10,7 @@
   "complianceNotes": "Order the verbal check inside the guide's window and re-order it if closing slips. A verification that says the borrower resigned is a reason to stop, not a form to file and ignore.",
   "example": {
     "setting": "Verbal verification of employment form dated close to the note date",
-    "text": "A sample form might show a call on the day before an example closing, confirming active employment and a base pay the stubs already showed as $28 an hour. Example figures."
+    "text": "A sample form might show a call on the day before an example closing, confirming active employment and a base pay the stubs already showed as $28 an hour. Fannie Mae B3-3.1-04 states the timing and the method, and it treats self-employed borrowers differently from wage earners. The timing is guide text and can be revised, so the file should follow the current section rather than a remembered number of days. The person who completes it should record the employer's phone number from an independent source, not only from the application. Example figures."
   },
   "citations": [
     "fannie-b3-3-1-04"
@@ -33,7 +33,7 @@
     "complianceNotes": "Pida la verificación verbal dentro de la ventana de la guía y vuelva a pedirla si el cierre se atrasa. Una verificación que dice que el prestatario renunció es una razón para detenerse, no un formulario para archivar e ignorar.",
     "example": {
       "setting": "Formulario de verificación verbal de empleo con fecha cercana a la fecha del pagaré",
-      "text": "Un formulario de muestra puede mostrar una llamada el día antes de un cierre de ejemplo, que confirma el empleo activo y un pago base que los talones ya mostraban como $28 por hora. Cifras de ejemplo."
+      "text": "Un formulario de muestra podría mostrar una llamada el día anterior a un cierre de ejemplo, que confirma empleo activo y un sueldo base que los talones ya mostraban como $28 por hora. Fannie Mae B3-3.1-04 indica el plazo y el método, y trata de manera distinta a los prestatarios que trabajan por cuenta propia y a los asalariados. El plazo es texto de la guía y puede revisarse, así que el expediente debe seguir la sección vigente en lugar de un número de días recordado. Quien lo completa debe anotar el teléfono del empleador de una fuente independiente, no solo de la solicitud. Cifras de ejemplo."
     }
   }
 }

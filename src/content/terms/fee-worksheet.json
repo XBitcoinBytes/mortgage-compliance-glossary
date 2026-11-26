@@ -8,7 +8,7 @@
   "complianceNotes": "Keep worksheets visually distinct and out of the disclosure vault. Do not ask the consumer to sign a worksheet as if it were the Loan Estimate. When the application is complete, issue the real form on time.",
   "example": {
     "setting": "Pre-application worksheet, which must not be formatted as a Loan Estimate",
-    "text": "A sample worksheet might list an example origination fee of $1,000 and an example title fee of $1,400, with a banner that it is not a Loan Estimate. Example figures."
+    "text": "A sample worksheet might list an example origination fee of $1,000 and an example title fee of $1,400, with a banner that it is not a Loan Estimate. 12 CFR 1026.19 and the CFPB's form rules restrict imitating the Loan Estimate. A worksheet given before the six application items should be clearly labeled as an estimate and should not use the Loan Estimate headings in a way that copies the required form. Once an application exists, the creditor must provide the real Loan Estimate. Fees other than a credit-report fee still wait for receipt and intent to proceed. Example figures."
   },
   "citations": [
     "reg-1026-19-e-2-ii",
@@ -34,7 +34,7 @@
     "complianceNotes": "Mantenga las hojas visualmente distintas y fuera del archivo de divulgaciones. No pida al consumidor que firme una hoja como si fuera la Estimación del préstamo. Cuando la solicitud esté completa, emita el formulario real a tiempo.",
     "example": {
       "setting": "Hoja previa a la solicitud, que no debe tener el formato de una Estimación del préstamo",
-      "text": "Una hoja de muestra puede listar una tarifa de originación de ejemplo de $1,000 y un cargo de título de ejemplo de $1,400, con un aviso de que no es una Estimación del préstamo. Cifras de ejemplo."
+      "text": "Una hoja de muestra podría listar un cargo de originación de ejemplo de $1,000 y un cargo de título de ejemplo de $1,400, con un aviso de que no es una Estimación del préstamo. 12 CFR 1026.19 y las reglas de formularios de la CFPB restringen imitar la Estimación del préstamo. Una hoja dada antes de los seis datos de la solicitud debe etiquetarse claramente como una estimación y no debe usar los encabezados de la Estimación del préstamo de un modo que copie el formulario exigido. Una vez que hay una solicitud, el acreedor debe entregar la Estimación del préstamo real. Los cargos distintos de un cargo de informe de crédito todavía esperan la recepción y la intención de seguir adelante. Cifras de ejemplo."
     }
   }
 }

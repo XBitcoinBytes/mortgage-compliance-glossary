@@ -8,7 +8,7 @@
   "complianceNotes": "Mark occupancy correctly. Include the co-borrower's debts. Do not require a spouse's signature just because the couple is married.",
   "example": {
     "setting": "Application showing whether the second person will occupy and whether they are on the note",
-    "text": "A sample file might add a co-borrower with example income of $3,000 and a $200 car payment. Example figures. Both numbers go into the ratio if the guide includes them."
+    "text": "A sample file might add a co-borrower with example income of $3,000 and a $200 car payment. Both numbers go into the ratio if the guide includes them. Regulation B, 12 CFR 1002.7, limits when a creditor may require another person's signature. The Fannie Mae guide addresses non-occupant co-borrowers and which debts and income count. Adding a person only to raise qualifying income is not the same as adding an occupant. Community-property debts can matter even when a spouse is not on the note. Example figures."
   },
   "citations": [
     "reg-1002-7",
@@ -30,7 +30,7 @@
     "complianceNotes": "Marque la ocupación correctamente. Incluya las deudas del coprestatario. No exija la firma de un cónyuge solo porque la pareja está casada.",
     "example": {
       "setting": "Solicitud que muestra si la segunda persona ocupará y si está en el pagaré",
-      "text": "Un expediente de muestra podría agregar un coprestatario con un ingreso de ejemplo de $3,000 y un pago de automóvil de $200. Cifras de ejemplo. Ambos números entran en la relación si la guía los incluye."
+      "text": "Un expediente de muestra podría agregar un coprestatario con un ingreso de ejemplo de $3,000 y un pago de auto de $200. Ambos números entran en la relación si la guía los incluye. El Reglamento B, 12 CFR 1002.7, limita cuándo un acreedor puede exigir la firma de otra persona. La guía de Fannie Mae trata a los coprestatarios no ocupantes y qué deudas e ingresos cuentan. Agregar a una persona solo para subir el ingreso calificatorio no es lo mismo que agregar a un ocupante. Las deudas de bienes gananciales pueden importar incluso cuando un cónyuge no está en el pagaré. Cifras de ejemplo."
     }
   }
 }

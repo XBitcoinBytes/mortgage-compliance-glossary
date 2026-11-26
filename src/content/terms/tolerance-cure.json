@@ -11,7 +11,7 @@
   "complianceNotes": "Calculate the excess, show the cure, and keep evidence the consumer received the money or the principal reduction. Do not cure by reprinting the Loan Estimate after the Closing Disclosure.",
   "example": {
     "setting": "Closing Disclosure cure credit, or a refund within the regulatory period after consummation",
-    "text": "A sample $200 excess in Section A might be cured by a lender credit of $200 on the Closing Disclosure, or by a refund within 60 days after consummation. Example figures."
+    "text": "A sample $200 excess in Section A might be cured by a lender credit of $200 on the Closing Disclosure, or by a refund within 60 days after consummation. 12 CFR 1026.19(f)(2)(v) addresses the cure for a closing cost that exceeds the tolerance. A principal reduction is one method the rule discusses. A lender credit on the Closing Disclosure can also make the consumer whole if it is large enough and is disclosed correctly. Lowering a previously disclosed lender credit can itself be a tolerance problem. Example figures."
   },
   "citations": [
     "reg-1026-19-f-2-v",
@@ -35,7 +35,7 @@
     "complianceNotes": "Calcule el exceso, muestre la corrección y conserve la prueba de que el consumidor recibió el dinero o la reducción del capital. No corrija reimprimiendo la Estimación del préstamo después de la Divulgación del cierre.",
     "example": {
       "setting": "Crédito de corrección en la Divulgación del cierre, o un reembolso dentro del período del reglamento después de la consumación",
-      "text": "Un exceso de muestra de $200 en la Sección A podría corregirse con un crédito del prestamista de $200 en la Divulgación del cierre, o con un reembolso dentro de los 60 días posteriores a la consumación. Cifras de ejemplo."
+      "text": "Un exceso de muestra de $200 en la Sección A podría corregirse con un crédito del prestamista de $200 en la Divulgación del cierre, o con un reembolso dentro de los 60 días después de la consumación. 12 CFR 1026.19(f)(2)(v) trata la corrección de un costo de cierre que excede la tolerancia. Una reducción de capital es un método que la regla discute. Un crédito del prestamista en la Divulgación del cierre también puede dejar al consumidor en la misma posición si es lo bastante grande y se divulga correctamente. Bajar un crédito del prestamista divulgado antes puede ser en sí un problema de tolerancia. Cifras de ejemplo."
     }
   }
 }

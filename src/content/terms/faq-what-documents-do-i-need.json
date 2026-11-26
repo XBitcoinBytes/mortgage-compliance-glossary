@@ -8,7 +8,7 @@
   "complianceNotes": "Send the list from the findings, not a generic flyer. Ask for missing pages before you call the file incomplete in a vague way.",
   "example": {
     "setting": "Document checklist driven by the findings, not one list for every borrower",
-    "text": "A sample wage-earner list might include an example 30 days of pay stubs and two months of bank statements. Example figures for the periods the current findings require."
+    "text": "A sample wage-earner list might include an example 30 days of pay stubs and two months of bank statements. Fannie Mae's income and asset sections, including B3-3.1-01 and B3-4.1-01, state what is acceptable. The DU findings list the file's conditions. All pages of statements are required. A screenshot of a balance is usually not enough. Large deposits need a source. Example figures for the periods the current findings require."
   },
   "citations": [
     "fannie-b3-3-1-01",
@@ -30,7 +30,7 @@
     "complianceNotes": "Envíe la lista de los hallazgos, no un volante genérico. Pida las páginas que faltan antes de llamar incompleto al expediente de un modo vago.",
     "example": {
       "setting": "Lista de documentos impulsada por los hallazgos, no una sola lista para todo prestatario",
-      "text": "Una lista de muestra de un asalariado podría incluir un ejemplo de 30 días de talones de pago y dos meses de estados de cuenta. Cifras de ejemplo para los períodos que exigen los hallazgos vigentes."
+      "text": "Una lista de muestra para un asalariado podría incluir un ejemplo de 30 días de talones de pago y dos meses de estados de cuenta. Las secciones de ingreso y de activos de Fannie Mae, incluidas B3-3.1-01 y B3-4.1-01, indican lo que es aceptable. Los hallazgos de DU listan las condiciones del expediente. Se exigen todas las páginas de los estados. Una captura de un saldo por lo general no basta. Los depósitos grandes necesitan un origen. Cifras de ejemplo para los períodos que exigen los hallazgos vigentes."
     }
   }
 }

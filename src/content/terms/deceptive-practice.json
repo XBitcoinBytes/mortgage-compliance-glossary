@@ -8,11 +8,13 @@
   "complianceNotes": "Review the net impression of the ad or the script, not only a footnote. Keep the approval of rate advertisements. If a claim cannot be proved from the rate sheet, do not say it.",
   "example": {
     "setting": "Advertisement or loan-officer script reviewed for a misleading representation",
-    "text": "A sample ad might promise an example payment of $1,200 on a $400,000 loan without saying the payment is interest-only. Example figures. The omission is the issue."
+    "text": "A sample ad might promise an example payment of $1,200 on a $400,000 loan without saying the payment is interest-only. Material means the information is likely to affect the consumer's choice, and a fine-print correction does not cure a headline that is likely to mislead. Mortgage advertisements are also covered by Regulation Z trigger terms in 12 CFR 1026.24 and by the MAP Rule, Regulation N, 12 CFR Part 1014. A practice can violate more than one of those. Example figures. The omission is the issue."
   },
   "citations": [
     "usc-12-5531",
-    "cfpb-mortgage-resources"
+    "cfpb-mortgage-resources",
+    "reg-1014",
+    "reg-1026-24"
   ],
   "related": [
     "abusive-practice",
@@ -31,7 +33,7 @@
     "complianceNotes": "Revise la impresión general del anuncio o del guion, no solo una nota al pie. Conserve la aprobación de los anuncios de tasas. Si una afirmación no se puede probar con la hoja de tasas, no la diga.",
     "example": {
       "setting": "Anuncio o guion del oficial de préstamos revisado por una declaración engañosa",
-      "text": "Un anuncio de muestra podría prometer un pago de ejemplo de $1,200 en un préstamo de $400,000 sin decir que el pago es solo de interés. Cifras de ejemplo. La omisión es el problema."
+      "text": "Un anuncio de muestra podría prometer un pago de ejemplo de $1,200 en un préstamo de $400,000 sin decir que el pago es solo de interés. Material significa que la información probablemente afectaría la elección del consumidor, y una corrección en letra pequeña no cura un titular que probablemente induzca a error. Los anuncios hipotecarios también están cubiertos por los términos desencadenantes del Reglamento Z en 12 CFR 1026.24 y por la Regla MAP, el Reglamento N, 12 CFR Parte 1014. Una práctica puede violar más de uno de esos. Cifras de ejemplo. La omisión es el problema."
     }
   },
   "reviewFlag": "The deception standard is drawn from CFPB examination and enforcement precedent under 12 USC 5531, not from a single CFR section. Confirm the current exam manual formulation before quoting elements in a procedure."

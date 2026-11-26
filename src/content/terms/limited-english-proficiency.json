@@ -8,7 +8,7 @@
   "complianceNotes": "If you market in Spanish, make the price and the key limitations available in Spanish too. Do not have a child interpret a closing. Use the CFPB Spanish terms for the Loan Estimate and the Closing Disclosure when you provide a Spanish explanation.",
   "example": {
     "setting": "Language-access review of marketing and of the English disclosures",
-    "text": "A sample Spanish advertisement might quote an example payment of $1,500 and omit that the payment rises. Example figures. The missing limitation is the compliance issue."
+    "text": "A sample Spanish advertisement might quote an example payment of $1,500 and omit that the payment rises. The missing limitation is the compliance issue. Regulation B, 12 CFR 1002.4, prohibits discrimination on the basis of national origin. 12 USC 5531 reaches deceptive or unfair conduct. The CFPB publishes a Spanish glossary and Spanish versions of some mortgage forms. Using those resources is good practice. It is not a finding that a particular file complied. The legal duty to translate is fact-specific and should not be overstated. Example figures."
   },
   "citations": [
     "reg-1002-4",
@@ -31,7 +31,7 @@
     "complianceNotes": "Si usted hace mercadeo en español, ponga también el precio y las limitaciones clave en español. No haga que un niño interprete un cierre. Use los términos en español de la CFPB para la Estimación del préstamo y la Divulgación del cierre cuando dé una explicación en español.",
     "example": {
       "setting": "Revisión de acceso lingüístico del mercadeo y de las divulgaciones en inglés",
-      "text": "Un anuncio de muestra en español podría citar un pago de ejemplo de $1,500 y omitir que el pago sube. Cifras de ejemplo. La limitación que falta es el problema de cumplimiento."
+      "text": "Un anuncio en español de muestra podría citar un pago de ejemplo de $1,500 y omitir que el pago sube. La limitación que falta es el problema de cumplimiento. El Reglamento B, 12 CFR 1002.4, prohíbe la discriminación por origen nacional. 12 USC 5531 alcanza la conducta engañosa o injusta. La CFPB publica un glosario en español y versiones en español de algunos formularios hipotecarios. Usar esos recursos es una buena práctica. No es un hallazgo de que un expediente particular cumplió. El deber legal de traducir es específico de los hechos y no debe exagerarse. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Whether a lender must provide Spanish documents is fact-specific. Do not treat this entry as a holding that translation is never required or always required."

@@ -11,7 +11,7 @@
   "complianceNotes": "Read the account ownership field before you count the payment or the history. Do not tell a borrower to be added as an authorized user solely to manufacture a score for a pending application without considering the guide.",
   "example": {
     "setting": "Credit report, authorized-user designation on a tradeline",
-    "text": "A sample tradeline might show an example $4,000 limit marked authorized user, with a $200 payment that may or may not enter the ratio under B3-5.3-06. Example figures."
+    "text": "A sample tradeline might show an example $4,000 limit marked authorized user, with a $200 payment that may or may not enter the ratio under B3-5.3-06. Fannie Mae B3-5.3-06 limits when an authorized-user account may support the credit history and whether its payment is included. Desktop Underwriter and manual underwriting can treat the account differently. A spouse's card on which the borrower is only an authorized user is not the same as a joint account. Example figures."
   },
   "citations": [
     "fannie-b3-5-3-06"
@@ -34,7 +34,7 @@
     "complianceNotes": "Lea el campo de titularidad de la cuenta antes de contar el pago o el historial. No le diga a un prestatario que lo agreguen como usuario autorizado solo para fabricar un puntaje para una solicitud pendiente sin considerar la guía.",
     "example": {
       "setting": "Informe de crédito, designación de usuario autorizado en una línea",
-      "text": "Una línea de muestra puede mostrar un límite de ejemplo de $4,000 marcado como usuario autorizado, con un pago de $200 que puede o no entrar en la relación según B3-5.3-06. Cifras de ejemplo."
+      "text": "Una línea de crédito de muestra podría mostrar un límite de ejemplo de $4,000 marcado como usuario autorizado, con un pago de $200 que puede o no entrar en la relación según B3-5.3-06. Fannie Mae B3-5.3-06 limita cuándo una cuenta de usuario autorizado puede respaldar el historial de crédito y si su pago se incluye. Desktop Underwriter y la suscripcion manual pueden tratar la cuenta de manera distinta. La tarjeta de un cónyuge en la que el prestatario es solo un usuario autorizado no es lo mismo que una cuenta conjunta. Cifras de ejemplo."
     }
   }
 }

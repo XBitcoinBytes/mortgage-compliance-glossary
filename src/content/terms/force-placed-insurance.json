@@ -10,7 +10,7 @@
   "complianceNotes": "Send the notices the section requires and bill only after that process. Cancel promptly when the borrower proves coverage. Do not force-place because a bill was misrouted if the policy is still in force.",
   "example": {
     "setting": "Force-placed insurance notices sent before the charge, and the policy cancelled when the borrower provides proof of coverage",
-    "text": "A sample force-placed charge might be an example $180 a month after the notices, refunded for the overlap when the borrower produces a policy. Example figures."
+    "text": "A sample force-placed charge might be an example $180 a month after the notices, refunded for the overlap when the borrower produces a policy. 12 CFR 1024.37 requires those notices before the servicer charges you, and it requires cancellation and a refund of overlapping premium when you provide proof of your own coverage. The servicer must have a reasonable basis to believe the policy lapsed. Charging for a period your policy actually covered is a notice-of-error issue. Example figures."
   },
   "citations": [
     "reg-1024-37"
@@ -31,7 +31,7 @@
     "complianceNotes": "Envíe los avisos que exige la sección y cobre solo después de ese proceso. Cancele con prontitud cuando el prestatario prueba la cobertura. No imponga un seguro porque una factura se extravió si la póliza sigue vigente.",
     "example": {
       "setting": "Avisos del seguro impuesto enviados antes del cargo, y la póliza cancelada cuando el prestatario presenta prueba de cobertura",
-      "text": "Un cargo de seguro impuesto de muestra podría ser un ejemplo de $180 al mes después de los avisos, reembolsado por la superposición cuando el prestatario presenta una póliza. Cifras de ejemplo."
+      "text": "Un cargo de seguro impuesto de muestra podría ser un ejemplo de $180 al mes después de los avisos, reembolsado por el traslape cuando el prestatario presenta una póliza. 12 CFR 1024.37 exige esos avisos antes de que el administrador le cobre, y exige la cancelación y un reembolso de la prima que se traslapa cuando usted prueba su propia cobertura. El administrador debe tener una base razonable para creer que la póliza venció. Cobrar por un período que su póliza realmente cubrió es un asunto de aviso de error. Cifras de ejemplo."
     }
   }
 }

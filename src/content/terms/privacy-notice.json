@@ -10,7 +10,7 @@
   "complianceNotes": "Deliver the initial notice when the customer relationship begins and record it. Review sharing practices before you rely on the annual-notice exception. Do not staple the privacy notice in place of a required mortgage disclosure.",
   "example": {
     "setting": "Initial privacy notice delivered with the customer relationship",
-    "text": "A sample notice might be provided on day one of an example application. No account balance belongs in the illustration. Example figures are limited to that timing."
+    "text": "A sample notice might be provided on day one of an example application. 12 CFR Part 1016 states the content and the timing of the initial notice and the annual notice. Some institutions that do not share outside the statutory exceptions and have not changed their policies may not have to send the annual notice. Read the exception before you either mail every customer every year or mail nobody. The Gramm-Leach-Bliley Act is the statute. No account balance belongs in the illustration. Example figures are limited to that timing."
   },
   "citations": [
     "reg-1016",
@@ -33,7 +33,7 @@
     "complianceNotes": "Entregue el aviso inicial cuando empieza la relación con el cliente y regístrelo. Revise las prácticas de intercambio antes de apoyarse en la excepción del aviso anual. No use el aviso de privacidad en lugar de una divulgación hipotecaria exigida.",
     "example": {
       "setting": "Aviso de privacidad inicial entregado con la relación con el cliente",
-      "text": "Un aviso de muestra podría proporcionarse el día uno de una solicitud de ejemplo. Ningún saldo de cuenta pertenece a la ilustración. Las cifras de ejemplo se limitan a ese plazo. Cifras de ejemplo."
+      "text": "Un aviso de muestra podría entregarse el día uno de una solicitud de ejemplo. 12 CFR Parte 1016 indica el contenido y el plazo del aviso inicial y del aviso anual. Algunas instituciones que no comparten fuera de las excepciones legales y no han cambiado sus políticas pueden no tener que enviar el aviso anual. Lea la excepción antes de enviar correo a todos los clientes cada año o de no enviar a nadie. La Ley Gramm-Leach-Bliley es el estatuto. Ningún saldo de cuenta pertenece a la ilustración. Cifras de ejemplo, limitadas a ese plazo."
     }
   }
 }

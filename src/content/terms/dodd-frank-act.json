@@ -10,10 +10,13 @@
   "complianceNotes": "Do not answer an exam question about a tolerance or a servicing timeline with only the name Dodd-Frank. Find the section of Regulation Z or X. Use the Act for authority and legislative history.",
   "example": {
     "setting": "The 2010 statute behind the CFPB and several mortgage conduct rules",
-    "text": "A sample training slide might list Dodd-Frank as the statute and 12 CFR 1026.43 as the ability-to-repay rule for an example covered loan of $150,000. Example figures."
+    "text": "A sample training slide might list Dodd-Frank as the statute and 12 CFR 1026.43 as the ability-to-repay rule for an example covered loan of $150,000. Title X created the Bureau. Title XIV contained many mortgage reforms now implemented in Regulation Z, including ability to repay at 15 USC 1639c and the loan-originator provisions. UDAAP authority is at 12 USC 5531 and 5536. When you need an operative rule for a file, cite the regulation. Cite Dodd-Frank when the question is the Bureau's authority or the statute behind the rule. Example figures."
   },
   "citations": [
-    "usc-12-5531"
+    "usc-12-5531",
+    "usc-15-1639c",
+    "usc-12-5536",
+    "reg-1026-43"
   ],
   "related": [
     "ability-to-repay",
@@ -31,7 +34,7 @@
     "complianceNotes": "No responda una pregunta de examen sobre una tolerancia o un plazo de administración solo con el nombre Dodd-Frank. Encuentre la sección del Reglamento Z o X. Use la ley para la autoridad y la historia legislativa.",
     "example": {
       "setting": "La ley de 2010 detrás de la CFPB y de varias reglas de conducta hipotecaria",
-      "text": "Una diapositiva de capacitación de muestra podría listar Dodd-Frank como la ley y 12 CFR 1026.43 como la regla de capacidad de pago para un préstamo cubierto de ejemplo de $150,000. Cifras de ejemplo."
+      "text": "Una diapositiva de capacitación de muestra podría listar Dodd-Frank como el estatuto y 12 CFR 1026.43 como la regla de capacidad de pago para un préstamo cubierto de ejemplo de $150,000. El Título X creó la Oficina. El Título XIV contenía muchas reformas hipotecarias ahora implementadas en el Reglamento Z, incluida la capacidad de pago en 15 USC 1639c y las disposiciones sobre originadores del préstamo. La autoridad de UDAAP está en 12 USC 5531 y 5536. Cuando necesita una regla operativa para un expediente, cite el reglamento. Cite Dodd-Frank cuando la pregunta es la autoridad de la Oficina o el estatuto detrás de la regla. Cifras de ejemplo."
     }
   }
 }

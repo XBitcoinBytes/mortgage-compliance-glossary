@@ -11,7 +11,7 @@
   "complianceNotes": "Obtain the certificate of eligibility and test residual income, not only a debt ratio. Disclose the funding fee or the exemption. Do not apply conventional PMI rules.",
   "example": {
     "setting": "VA Loan Summary and Certificate of Eligibility in the file",
-    "text": "A sample VA purchase might finance an example funding fee on top of a $0 down payment. The fee percentage is not stated. Example figures for a base loan of $310,000 only."
+    "text": "A sample VA purchase might finance an example funding fee on top of a $0 down payment. The fee percentage is not stated. 38 USC Chapter 37 and 38 CFR Part 36 are the legal framework. VA Pamphlet 26-7 is the lender handbook. Chapter 4 is credit and residual income. The funding-fee percentage depends on the use, the down payment, and exemptions such as disability compensation. VA publishes the current schedule. Do not print a percentage here. Occupancy is required as the handbook states. Example figures for a base loan of $310,000 only."
   },
   "citations": [
     "usc-38-3703",
@@ -45,7 +45,7 @@
     "complianceNotes": "Obtenga el certificado de elegibilidad y pruebe el ingreso residual, no solo una relación de deudas. Divulgue la cuota de financiamiento o la exención. No aplique las reglas del PMI convencional.",
     "example": {
       "setting": "Resumen del préstamo VA y Certificado de elegibilidad en el expediente",
-      "text": "Una compra VA de muestra podría financiar una cuota de financiamiento de ejemplo encima de un pago inicial de $0. El porcentaje de la cuota no se indica. Cifras de ejemplo solo para un préstamo base de $310,000."
+      "text": "Una compra VA de muestra podría financiar un cargo de financiamiento de ejemplo encima de un pago inicial de $0. El porcentaje del cargo no se indica. 38 USC Capítulo 37 y 38 CFR Parte 36 son el marco legal. El Folleto VA 26-7 es el manual del prestamista. El Capítulo 4 trata el crédito y el ingreso residual. El porcentaje del cargo de financiamiento depende del uso, del pago inicial y de exenciones como la compensación por discapacidad. VA publica la tabla vigente. No imprima un porcentaje aquí. La ocupación se exige como indica el manual. Cifras de ejemplo solo para un préstamo base de $310,000."
     }
   }
 }

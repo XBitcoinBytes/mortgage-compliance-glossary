@@ -10,12 +10,13 @@
   "complianceNotes": "Log every pricing exception with the reason and the approver. Compare exception rates across prohibited bases. Do not let an originator match a competitor's quote without a record.",
   "example": {
     "setting": "Fair-lending review of underwriting and pricing exceptions",
-    "text": "A sample exception log might approve an example 0.125 point credit for a documented competing offer. Example figures. The point of the log is the reason, not the size."
+    "text": "A sample exception log might approve an example 0.125 point credit for a documented competing offer. The point of the log is the reason, not the size. ECOA and Regulation B prohibit discrimination on the bases listed in those laws. The Fair Housing Act, 42 USC 3604 and 3605, covers housing and residential real-estate credit and has its own list of protected classes. The lists are not identical. HMDA data are how examiners often start a comparison. A pricing exception that has no documented reason is a fair-lending record problem even before anyone proves intent. Example figures."
   },
   "citations": [
     "reg-1002-4",
     "usc-42-3605",
-    "usc-15-1691"
+    "usc-15-1691",
+    "usc-42-3604"
   ],
   "related": [
     "demographic-information",
@@ -42,7 +43,7 @@
     "complianceNotes": "Registre cada excepción de precio con la razón y quien la aprobó. Compare las tasas de excepción entre motivos prohibidos. No deje que un originador iguale la cotización de un competidor sin un registro.",
     "example": {
       "setting": "Revisión de préstamos justos de las excepciones de suscripción y de precio",
-      "text": "Un registro de excepciones de muestra podría aprobar un crédito de ejemplo de 0.125 puntos por una oferta competidora documentada. Cifras de ejemplo. El punto del registro es la razón, no el tamaño."
+      "text": "Un registro de excepciones de muestra podría aprobar un crédito de ejemplo de 0.125 puntos por una oferta competidora documentada. El punto del registro es la razón, no el tamaño. ECOA y el Reglamento B prohíben la discriminación por las bases listadas en esas leyes. La Ley de Vivienda Justa, 42 USC 3604 y 3605, cubre la vivienda y el crédito inmobiliario residencial y tiene su propia lista de clases protegidas. Las listas no son idénticas. Los datos de HMDA son la forma en que los examinadores a menudo inician una comparación. Una excepción de precio sin una razón documentada es un problema de registro de otorgamiento justo de crédito incluso antes de que alguien pruebe la intención. Cifras de ejemplo."
     }
   }
 }

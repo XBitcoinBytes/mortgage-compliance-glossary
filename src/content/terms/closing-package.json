@@ -8,7 +8,7 @@
   "complianceNotes": "Give the borrower time to read the note and the Closing Disclosure, not only the signature tabs. Do not slip a changed rate into the note after the disclosure wait without the reset analysis.",
   "example": {
     "setting": "The set of documents signed at closing, including the note, the security instrument, and the Closing Disclosure",
-    "text": "A sample package for an example $280,000 purchase might contain the note, the deed of trust, and a five-page Closing Disclosure. Example figures for the amount only."
+    "text": "A sample package for an example $280,000 purchase might contain the note, the deed of trust, and a five-page Closing Disclosure. The Closing Disclosure is the document with the three-day rule. The note is the promise to pay, and the security instrument is the lien. Signing the package is often consummation, if state law says so, but funding may be later. A right of rescission, if it applies, runs after the package is complete and the notices are given. Example figures for the amount only."
   },
   "citations": [
     "practice-file",
@@ -32,7 +32,7 @@
     "complianceNotes": "Dé al prestatario tiempo para leer el pagaré y la Divulgación del cierre, no solo las pestañas de firma. No inserte una tasa cambiada en el pagaré después de la espera de la divulgación sin el análisis de reinicio.",
     "example": {
       "setting": "El conjunto de documentos firmados en el cierre, incluido el pagaré, el instrumento de garantía y la Divulgación del cierre",
-      "text": "Un paquete de muestra para una compra de ejemplo de $280,000 podría contener el pagaré, el fideicomiso y una Divulgación del cierre de cinco páginas. Cifras de ejemplo solo para el monto."
+      "text": "Un paquete de muestra para una compra de ejemplo de $280,000 podría contener el pagaré, la escritura de fideicomiso y una Divulgación del cierre de cinco páginas. La Divulgación del cierre es el documento con la regla de tres días. El pagaré es la promesa de pago, y el instrumento de garantía es el gravamen. Firmar el paquete a menudo es la consumación, si la ley estatal lo dice, pero el desembolso puede ser después. Un derecho de rescisión, si aplica, corre después de que el paquete está completo y se dan los avisos. Cifras de ejemplo solo para el monto."
     }
   }
 }

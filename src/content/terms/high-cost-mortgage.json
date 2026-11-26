@@ -11,7 +11,7 @@
   "complianceNotes": "Test every high-fee or high-rate file. If it is covered, stop the standard document set and complete counseling and the 1026.34 limits. Keep the certificate.",
   "example": {
     "setting": "HOEPA coverage worksheet and the high-cost counseling certificate if the loan is covered",
-    "text": "A sample refinance of $90,000 with a large example origination charge might require the HOEPA worksheet before lock. Example figures for the loan amount only."
+    "text": "A sample refinance of $90,000 with a large example origination charge might require the HOEPA worksheet before lock. 12 CFR 1026.32 defines coverage, and 12 CFR 1026.34 adds the extra bans and the counseling requirement. Thresholds adjust, so read the current section and the CFPB's annual notice. A purchase-money loan can also be high-cost. Calling it a higher-priced loan instead does not avoid those duties. Example figures for the loan amount only."
   },
   "citations": [
     "reg-1026-32",
@@ -36,7 +36,7 @@
     "complianceNotes": "Pruebe todo expediente de cargos altos o de tasa alta. Si está cubierto, detenga el conjunto estándar de documentos y complete la consejería y los límites de 1026.34. Conserve el certificado.",
     "example": {
       "setting": "Hoja de cobertura de HOEPA y el certificado de consejería de alto costo si el préstamo está cubierto",
-      "text": "Un refinanciamiento de muestra de $90,000 con un cargo de originación grande de ejemplo podría exigir la hoja de HOEPA antes de la fijación. Cifras de ejemplo solo para el monto del préstamo."
+      "text": "Un refinanciamiento de muestra de $90,000 con un cargo de originación grande de ejemplo podría exigir la hoja de HOEPA antes de la fijación. 12 CFR 1026.32 define la cobertura, y 12 CFR 1026.34 agrega las prohibiciones extra y el requisito de consejería. Los umbrales se ajustan, así que lea la sección vigente y el aviso anual de la CFPB. Un préstamo de compra también puede ser de alto costo. Llamarla préstamo de precio más alto no evita esos deberes. Cifras de ejemplo solo para el monto del préstamo."
     }
   }
 }
