@@ -3,6 +3,7 @@ import TermArticle from "../../../components/TermArticle.astro";
 import Base from "../../../layouts/Base.astro";
 import { getTerms } from "../../../lib/content";
 import { t } from "../../../lib/i18n";
+import { metaDescription, termJsonLd } from "../../../lib/seo";
 import type { Term } from "../../../lib/types";
 
 export function getStaticPaths() {
@@ -14,8 +15,11 @@ interface Props {
 }
 const { term } = Astro.props;
 const ui = t("es");
+const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
+const jsonLd = termJsonLd(term, "es", origin);
 ---
-<Base lang="es" title={term.es.term} description={term.es.definition} path={`/terms/${term.slug}`}>
+<Base lang="es" title={term.es.term} description={metaDescription(term.es.definition)} path={`/terms/${term.slug}`} ogType="article">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd).replace(/</g, "\u003c")} />
   <TermArticle lang="es" term={term} />
   <p class="wrap" style="color:var(--ink-soft); max-width:42rem">{ui.disclaimer}</p>
 </Base>

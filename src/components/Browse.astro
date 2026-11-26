@@ -16,7 +16,7 @@ const groups = groupByLetter(terms, lang);
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 ---
 
-<div id="browse" data-locked={lockedCategory ?? ""} data-lang={lang}>
+<div id="browse" data-locked={lockedCategory ?? ""} data-lang={lang} data-count-unit={ui.resultCount}>
   <div class="filter-bar">
     <label>
       <span class="sr-only">{ui.searchHint}</span>
@@ -58,7 +58,7 @@ const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
             const label = letter === "#" ? "0–9" : letter;
             if (!has) {
               return (
-                <span class="letter-off" aria-disabled="true" title={lang === "es" ? "Sin términos" : "No terms"}>
+                <span class="letter-off" aria-disabled="true" title={ui.noTerms}>
                   {label}
                 </span>
               );

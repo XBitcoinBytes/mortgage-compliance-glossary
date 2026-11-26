@@ -10,6 +10,9 @@ import "@fontsource/source-serif-4/latin-600.css";
 import "@fontsource/source-sans-3/latin-400.css";
 import "@fontsource/source-sans-3/latin-600.css";
 import "@fontsource/source-sans-3/latin-700.css";
+import fraunces700 from "@fontsource/fraunces/files/fraunces-latin-700-normal.woff2?url";
+import sourceSerif400 from "@fontsource/source-serif-4/files/source-serif-4-latin-400-normal.woff2?url";
+import sourceSans400 from "@fontsource/source-sans-3/files/source-sans-3-latin-400-normal.woff2?url";
 import "../styles/global.css";
 
 interface Props {
@@ -17,9 +20,12 @@ interface Props {
   title: string;
   description: string;
   path: string;
+  ogType?: "website" | "article";
 }
 
-const { lang, title, description, path } = Astro.props;
+const { lang, title, description, path, ogType = "website" } = Astro.props;
+const metaDescription = description.replace(/\s+/g, " ").trim();
+const shortDescription = metaDescription.length > 160 ? `${metaDescription.slice(0, 159).trimEnd()}…` : metaDescription;
 const ui = t(lang);
 const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
 const canonicalPath = hrefFor(lang, path);
@@ -51,20 +57,25 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
         } catch (e) {}
       })();
     </script>
+    <link rel="preload" href={fraunces700} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={sourceSerif400} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={sourceSans400} as="font" type="font/woff2" crossorigin />
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={shortDescription} />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang="en" href={enUrl} />
     <link rel="alternate" hreflang="es" href={esUrl} />
     <link rel="alternate" hreflang="x-default" href={enUrl} />
     <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:description" content={shortDescription} />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={ui.siteName} />
     <meta property="og:locale" content={lang === "es" ? "es_ES" : "en_US"} />
     <meta property="og:locale:alternate" content={lang === "es" ? "en_US" : "es_ES"} />
     <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={shortDescription} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <slot name="head" />
   </head>
@@ -79,7 +90,7 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
       <div class="dialog-card">
         <div class="dialog-head">
           <h2 id="search-dialog-title">{ui.dialogTitle}</h2>
-          <button type="button" class="icon-btn" id="search-close">{lang === "es" ? "Cerrar" : "Close"}</button>
+          <button type="button" class="icon-btn" id="search-close">{ui.close}</button>
         </div>
         <p id="search-help">{ui.dialogHelp}</p>
         <label class="sr-only" for="search-input">{ui.searchHint}</label>

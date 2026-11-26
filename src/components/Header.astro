@@ -31,7 +31,7 @@ const items = [
         <small>{ui.siteKicker}</small>
       </span>
     </a>
-    <nav class="nav-main" aria-label={lang === "es" ? "Principal" : "Primary"}>
+    <nav class="nav-main" aria-label={ui.navPrimary}>
       {
         items.map(([label, href]) => (
           <a href={hrefFor(lang, href)} aria-current={path === href ? "page" : undefined}>

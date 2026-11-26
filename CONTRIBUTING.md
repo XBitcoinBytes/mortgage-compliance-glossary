@@ -2,7 +2,7 @@
 
 This is an open-source English and Spanish mortgage compliance glossary (393 terms) maintained by Shaun Barry, NMLS #30170. It is educational material, not legal advice, a compliance opinion, or a commitment to lend.
 
-The GitHub repository is private while the glossary is first published. To offer a correction or a new term, use the contact path on the [portfolio site](https://shaun-barry-portfolio.vercel.app), or watch [GitHub under XBitcoinBytes](https://github.com/XBitcoinBytes) if a public contribution path is opened later. Do not submit real borrower data or non-public loan files.
+The source is public at [github.com/XBitcoinBytes/mortgage-compliance-glossary](https://github.com/XBitcoinBytes/mortgage-compliance-glossary). Open a pull request with your change and a short note on the source you used. You can also reach Shaun through the [portfolio site](https://shaun-barry-portfolio.vercel.app). Do not submit real borrower data or non-public loan files, and do not commit secrets or credentials.
 
 A public version of this guide is at `/contribute` on the site.
 
@@ -55,3 +55,8 @@ npm run dev
 ```
 
 The dev server listens on http://127.0.0.1:4327.
+
+## Public repository
+
+The project is public at https://github.com/XBitcoinBytes/mortgage-compliance-glossary. Open a pull request with the JSON change and a short note on the source you used. Do not submit real borrower data or non-public loan files, and do not commit secrets or credentials.
+

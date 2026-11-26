@@ -63,7 +63,8 @@ export function initBrowse() {
       group.hidden = !any;
     });
     if (count) {
-      count.textContent = lang === "es" ? `${visible} términos` : `${visible} terms`;
+      const unit = root.dataset.countUnit ?? (lang === "es" ? "términos" : "terms");
+      count.textContent = `${visible} ${unit}`;
     }
     if (empty) empty.hidden = visible !== 0;
     root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {

@@ -133,6 +133,13 @@ export const copy = {
     otherLangHeadingEs: "En español",
     allRegs: "All regulations",
     filterReg: "Cited regulation",
+    close: "Close",
+    noTerms: "No terms",
+    navPrimary: "Primary",
+    figuresTitle: "Figures that change",
+    figuresDek: "Official sources for mortgage thresholds, limits, and fees that are adjusted on a schedule. This glossary does not copy dollar figures that change; use the official source for the amount in effect on the transaction date.",
+    figuresTerms: "Terms:",
+    relatedMore: "Showing 12 of {n} related terms.",
   },
   es: {
     siteName: "Glosario de cumplimiento hipotecario",
@@ -266,6 +273,13 @@ export const copy = {
     otherLangHeadingEs: "En español",
     allRegs: "Todos los reglamentos",
     filterReg: "Reglamento citado",
+    close: "Cerrar",
+    noTerms: "Sin términos",
+    navPrimary: "Principal",
+    figuresTitle: "Cifras que cambian",
+    figuresDek: "Fuentes oficiales de umbrales, límites y cargos hipotecarios que se ajustan periódicamente. Este glosario no copia cifras en dólares que cambian; use la fuente oficial para el importe vigente el día de la transacción.",
+    figuresTerms: "Términos:",
+    relatedMore: "Se muestran 12 de {n} términos relacionados.",
   },
 } as const;
 

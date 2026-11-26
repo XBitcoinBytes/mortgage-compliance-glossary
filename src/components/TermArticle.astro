@@ -68,17 +68,6 @@ const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().repla
 const pageUrl = new URL(hrefFor(lang, `/terms/${term.slug}`), origin).toString();
 const citeText = `${ui.siteName}, “${name},” ${ui.reviewed.toLowerCase()} ${term.reviewed}, ${pageUrl}`;
 const changing = figures.filter((f) => f.terms.includes(term.slug));
-const termsSet = new URL(hrefFor(lang, "/terms"), origin + "/").toString();
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "DefinedTerm",
-  name,
-  alternateName: [otherName, ...aliases].filter(Boolean),
-  description: definition,
-  inLanguage: lang,
-  inDefinedTermSet: termsSet,
-  url: pageUrl,
-};
 ---
 
 <article class="wrap term-layout">
@@ -198,7 +187,7 @@ const jsonLd = {
       }
       {
         relatedHidden > 0 && (
-          <li class="related-more">{es ? `Se muestran 12 de ${relatedSorted.length} términos relacionados.` : `Showing 12 of ${relatedSorted.length} related terms.`}</li>
+          <li class="related-more">{ui.relatedMore.replace("{n}", String(relatedSorted.length))}</li>
         )
       }
     </ul>
@@ -221,4 +210,3 @@ const jsonLd = {
     }
   </aside>
 </article>
-<script type="application/ld+json" set:html={JSON.stringify(jsonLd).replace(/</g, "\\u003c")} />

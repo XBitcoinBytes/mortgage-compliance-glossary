@@ -17,6 +17,14 @@ export default defineConfig({
         defaultLocale: "en",
         locales: { en: "en", es: "es" },
       },
+      serialize(item) {
+        const links = item.links ?? [];
+        const english = links.find((link) => link.lang === "en")?.url ?? item.url.replace(/\/es(?=\/|$)/, "") ;
+        if (english && !links.some((link) => link.lang === "x-default")) {
+          item.links = [...links, { url: english, lang: "x-default" }];
+        }
+        return item;
+      },
     }),
   ],
 });

@@ -2,18 +2,15 @@
 import type { Lang } from "../lib/types";
 import figures from "../data/figures.json";
 import { getTerm, displayName } from "../lib/content";
-import { hrefFor } from "../lib/i18n";
+import { hrefFor, t } from "../lib/i18n";
 interface Props { lang: Lang }
 const { lang } = Astro.props;
+const ui = t(lang);
 const es = lang === "es";
 ---
 <div class="wrap wrap-narrow" style="padding:1.4rem 0 2.5rem">
-  <h1>{es ? "Cifras que cambian" : "Figures that change"}</h1>
-  <p class="dek">
-    {es
-      ? "Este glosario no copia umbrales en dólares ni tasas que se ajustan periódicamente. Use la fuente oficial de cada fila para la cifra vigente el día de la transacción."
-      : "This glossary does not copy dollar thresholds or rates that are adjusted on a schedule. Use the official source in each row for the figure in effect on the transaction date."}
-  </p>
+  <h1>{ui.figuresTitle}</h1>
+  <p class="dek">{ui.figuresDek}</p>
   <ul class="figures">
     {figures.map((f) => (
       <li id={f.id}>
@@ -21,7 +18,7 @@ const es = lang === "es";
         <p>{es ? f.esCadence : f.cadence}</p>
         <p><a href={f.url} rel="noopener noreferrer">{f.source}</a></p>
         <p class="fig-terms">
-          {es ? "Términos: " : "Terms: "}
+          {ui.figuresTerms} 
           {f.terms.map((slug, i) => {
             const term = getTerm(slug);
             return term ? <>{i > 0 && ", "}<a href={hrefFor(lang, `/terms/${slug}`)}>{displayName(term, lang)}</a></> : null;
