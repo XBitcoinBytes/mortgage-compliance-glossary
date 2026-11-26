@@ -8,7 +8,7 @@
   "complianceNotes": "Price both with current insurance, and explain cancellation. Do not steer a borrower to one product because of a prohibited characteristic.",
   "example": {
     "setting": "Side-by-side comparison of an FHA loan and a conventional loan, without a universal winner",
-    "text": "A sample comparison might show two example payments on a $280,000 price. Example figures, not a recommendation."
+    "text": "A sample comparison might show two example payments on a $280,000 price. Do not quote a permanent FHA down-payment percentage or MIP rate; those change in HUD 4000.1 and mortgagee letters. Conventional PMI can be cancelled under the Homeowners Protection Act; FHA MIP often cannot. Both covered closed-end loans use TRID and ability to repay. Example figures, not a recommendation."
   },
   "citations": [
     "hud-4000-1",
@@ -30,7 +30,7 @@
     "complianceNotes": "Cotice ambos con el seguro vigente, y explique la cancelación. No dirija a un prestatario a un producto por una característica prohibida.",
     "example": {
       "setting": "Comparación lado a lado de un préstamo FHA y un préstamo convencional, sin un ganador universal",
-      "text": "Una comparación de muestra podría mostrar dos pagos de ejemplo sobre un precio de $280,000. Cifras de ejemplo, no una recomendación."
+      "text": "Una comparación de muestra podría mostrar dos pagos de ejemplo sobre un precio de $280,000. No cite un porcentaje permanente de pago inicial o una tasa de MIP de la FHA; esos cambian en el Manual HUD 4000.1 y en las cartas a los acreedores. El PMI convencional puede cancelarse según la Ley de Protección de los Propietarios; el MIP de la FHA a menudo no. Ambos préstamos cerrados cubiertos usan TRID y la capacidad de pago. Cifras de ejemplo, no una recomendación."
     }
   }
 }

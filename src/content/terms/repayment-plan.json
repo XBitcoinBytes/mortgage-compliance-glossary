@@ -8,7 +8,7 @@
   "complianceNotes": "Put the term, the extra amount, and the cure date in writing. Do not call it a modification. If the borrower cannot afford it, review the next option in the waterfall.",
   "example": {
     "setting": "Written repayment plan adding an extra amount to the regular payment until the arrears are cured",
-    "text": "A sample plan might add an example $125 a month for 12 months to cure a $1,500 arrearage. Example figures."
+    "text": "A sample plan might add an example $125 a month for 12 months to cure a $1,500 arrearage. When it is part of a loss-mitigation application, it is reviewed inside the 12 CFR 1024.41 framework. The extra amount should be an amount the borrower can actually pay. Example figures."
   },
   "citations": [
     "reg-1024-41",
@@ -34,7 +34,7 @@
     "complianceNotes": "Ponga por escrito el plazo, el monto extra y la fecha de cura. No lo llame una modificación. Si el prestatario no puede pagarlo, revise la siguiente opción de la cascada.",
     "example": {
       "setting": "Plan de pago escrito que agrega un monto extra al pago regular hasta que se curan los atrasos",
-      "text": "Un plan de muestra podría agregar un ejemplo de $125 al mes durante 12 meses para curar un atraso de $1,500. Cifras de ejemplo."
+      "text": "Un plan de muestra podría agregar un ejemplo de $125 al mes durante 12 meses para curar un atraso de $1,500. Cuando forma parte de una solicitud de mitigación de pérdidas, se revisa dentro del marco de 12 CFR 1024.41. El monto extra debe ser un monto que el prestatario realmente pueda pagar. Cifras de ejemplo."
     }
   }
 }

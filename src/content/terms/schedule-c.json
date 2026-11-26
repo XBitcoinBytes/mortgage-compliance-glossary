@@ -8,7 +8,7 @@
   "complianceNotes": "Use both years when the guide requires a history, and analyze a decline. Do not add back an expense the section does not list. Compare the transcript before clear to close.",
   "example": {
     "setting": "Form 1040 Schedule C and the self-employment cash-flow worksheet",
-    "text": "A sample Schedule C might show example net profit of $52,000 before the guide's add-backs. Example figures."
+    "text": "A sample Schedule C might show example net profit of $52,000 before the guide's add-backs. Fannie Mae B3-3.5 says which lines and add-backs, such as depreciation, may count. A loss reduces qualifying income, and the Form 4506-C transcript should support the return. Example figures."
   },
   "citations": [
     "fannie-b3-3-5"
@@ -33,7 +33,7 @@
     "complianceNotes": "Use ambos años cuando la guía exige un historial, y analice una baja. No reincorpore un gasto que la sección no enumera. Compare la transcripción antes de autorizar el cierre.",
     "example": {
       "setting": "Formulario 1040 Anexo C y la hoja de flujo de efectivo del trabajo por cuenta propia",
-      "text": "Un Anexo C de muestra puede mostrar una ganancia neta de ejemplo de $52,000 antes de las reincorporaciones de la guía. Cifras de ejemplo."
+      "text": "Un Anexo C de muestra puede mostrar una ganancia neta de ejemplo de $52,000 antes de las reincorporaciones de la guía. Fannie Mae B3-3.5 indica qué líneas y reincorporaciones, como la depreciación, pueden contar. Una pérdida reduce el ingreso calificable, y la transcripción del Formulario 4506-C debe respaldar la declaración. Cifras de ejemplo."
     }
   }
 }

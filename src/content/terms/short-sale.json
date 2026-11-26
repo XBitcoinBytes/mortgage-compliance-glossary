@@ -8,7 +8,7 @@
   "complianceNotes": "Get the approval before the closing of the sale. Do not tell the borrower the deficiency is forgiven unless the letter says so. Report the sale accurately.",
   "example": {
     "setting": "Investor approval of a sale for less than the amount owed",
-    "text": "A sample approval might allow a sale at an example $240,000 against a payoff of $270,000. Example figures."
+    "text": "A sample approval might allow a sale at an example $240,000 against a payoff of $270,000. 12 CFR 1024.41 includes short sales among loss-mitigation options. A deficiency, if not waived in writing, can still be collected as state law allows, and a later mortgage may have a seasoning wait. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -31,7 +31,7 @@
     "complianceNotes": "Obtenga la aprobación antes del cierre de la venta. No le diga al prestatario que la deficiencia está condonada salvo que la carta lo diga. Reporte la venta con exactitud.",
     "example": {
       "setting": "Aprobación del inversionista de una venta por menos del monto debido",
-      "text": "Una aprobación de muestra podría permitir una venta a un ejemplo de $240,000 contra una liquidación de $270,000. Cifras de ejemplo."
+      "text": "Una aprobación de muestra podría permitir una venta a un ejemplo de $240,000 contra una liquidación de $270,000. 12 CFR 1024.41 incluye las ventas cortas entre las opciones de mitigación de pérdidas. Una deficiencia, si no se renuncia por escrito, todavía puede cobrarse según lo permita la ley estatal, y una hipoteca posterior puede tener un período de espera. Cifras de ejemplo."
     }
   }
 }

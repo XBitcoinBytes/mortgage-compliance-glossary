@@ -8,7 +8,7 @@
   "complianceNotes": "Use the credit report and the guide, not the borrower's estimate of what they will pay off someday. Resubmit if a new payment appears.",
   "example": {
     "setting": "Credit report debts included on the ratio worksheet",
-    "text": "A sample car payment of an example $415 would be included unless the omission rule is documented. Example figures."
+    "text": "A sample car payment of an example $415 would be included unless the omission rule is documented. Fannie Mae B3-6-05 is the liability section. Student loans with a low or zero reported payment have a special treatment in the current section, authorized-user accounts are not always included, and a new debt that appears before closing must be added. Example figures."
   },
   "citations": [
     "fannie-b3-6-05"
@@ -29,7 +29,7 @@
     "complianceNotes": "Use el informe de crédito y la guía, no el estimado del prestatario de lo que pagará algún día. Vuelva a enviar si aparece un pago nuevo.",
     "example": {
       "setting": "Deudas del informe de crédito incluidas en la hoja de la relación",
-      "text": "Un pago de automóvil de muestra de un ejemplo de $415 se incluiría salvo que se documente la regla de omisión. Cifras de ejemplo."
+      "text": "Un pago de automóvil de muestra de un ejemplo de $415 se incluiría salvo que se documente la regla de omisión. Fannie Mae B3-6-05 es la sección de pasivos. Los préstamos estudiantiles con un pago reportado bajo o de cero tienen un trato especial en la sección vigente, las cuentas de usuario autorizado no siempre se incluyen, y una deuda nueva que aparece antes del cierre debe agregarse. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Apply the payoff to the date in the statement, record the release, and refund escrow promptly. Do not keep a trailing escrow balance. Stop MI billing.",
   "example": {
     "setting": "Payoff of the loan, release of the lien, and refund of any escrow balance",
-    "text": "A sample payoff of an example $198,400 might be followed by an escrow refund of $320. Example figures."
+    "text": "A sample payoff of an example $198,400 might be followed by an escrow refund of $320. The figure comes from the payoff statement under 12 CFR 1026.36, the escrow surplus is the borrower's money, and private mortgage insurance premiums should stop. The lien release is a state filing; a delay can cloud title. Example figures."
   },
   "citations": [
     "reg-1026-36",
@@ -32,7 +32,7 @@
     "complianceNotes": "Aplique la liquidación a la fecha del estado, registre la liberación y reembolse el depósito en garantía con prontitud. No conserve un saldo residual del depósito. Detenga el cobro del seguro hipotecario.",
     "example": {
       "setting": "Liquidación del préstamo, liberación del gravamen y reembolso de cualquier saldo del depósito en garantía",
-      "text": "Una liquidación de muestra de un ejemplo de $198,400 podría ir seguida de un reembolso del depósito en garantía de $320. Cifras de ejemplo."
+      "text": "Una liquidación de muestra de un ejemplo de $198,400 podría ir seguida de un reembolso del depósito en garantía de $320. La cifra sale del estado de liquidación según 12 CFR 1026.36, el excedente del depósito en garantía es dinero del prestatario y las primas del seguro hipotecario privado deben cesar. La liberación del gravamen es una presentación estatal; una demora puede nublar el título. Cifras de ejemplo."
     }
   }
 }

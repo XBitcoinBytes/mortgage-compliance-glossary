@@ -8,7 +8,7 @@
   "complianceNotes": "Disclose it as the portfolio product it is. Complete ATR even if you will not sell the loan. Do not tell the borrower that federal mortgage rules do not apply because the bank is keeping the loan.",
   "example": {
     "setting": "Loan the lender keeps rather than sells to Fannie Mae, Freddie Mac, or a Ginnie Mae pool",
-    "text": "A sample portfolio loan of an example $900,000 might stay on the lender's books with a full ATR file. Example figures."
+    "text": "A sample portfolio loan of an example $900,000 might stay on the lender's books with a full ability-to-repay file. 12 CFR 1026.43 applies to covered portfolio loans, including qualified-mortgage options that may be available to some small creditors. A portfolio jumbo is still subject to TRID if it is a covered closed-end loan. Example figures."
   },
   "citations": [
     "reg-1026-43",
@@ -31,7 +31,7 @@
     "complianceNotes": "Divúlguelo como el producto de cartera que es. Complete la capacidad de pago aunque no venderá el préstamo. No le diga al prestatario que las reglas hipotecarias federales no se aplican porque el banco conserva el préstamo.",
     "example": {
       "setting": "Préstamo que el prestamista conserva en lugar de venderlo a Fannie Mae, Freddie Mac o un grupo de Ginnie Mae",
-      "text": "Un préstamo de cartera de muestra de un ejemplo de $900,000 podría quedarse en los libros del prestamista con un expediente completo de capacidad de pago. Cifras de ejemplo."
+      "text": "Un préstamo de cartera de muestra de un ejemplo de $900,000 podría quedarse en los libros del prestamista con un expediente completo de capacidad de pago. 12 CFR 1026.43 aplica a los préstamos de cartera cubiertos, incluidas las opciones de hipoteca calificada que pueden estar disponibles para algunos acreedores pequeños. Un jumbo de cartera sigue sujeto a TRID si es un préstamo cerrado cubierto. Cifras de ejemplo."
     }
   }
 }

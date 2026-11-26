@@ -8,11 +8,12 @@
   "complianceNotes": "Use the fully signed contract, including addenda, not a listing sheet. Update the loan amount, sale price, and concessions in the AUS and on the disclosures when an addendum changes them.",
   "example": {
     "setting": "Underwriting file, fully signed purchase contract, and Loan Estimate, page 1, Sale Price",
-    "text": "A sample contract might state a sale price of $410,000 and a seller credit of $6,000 on an example loan. Example figures."
+    "text": "A sample contract might state a sale price of $410,000 and a seller credit of $6,000 on an example loan. Fannie Mae B2-1.2-01 uses the lower of the price or the appraised value for the loan-to-value ratio. Seller concessions are interested-party contributions, and a price or concession change after the Loan Estimate can require a disclosure review under 12 CFR 1026.19(e). Example figures."
   },
   "citations": [
     "practice-file",
-    "fannie-b2-1-2-01"
+    "fannie-b2-1-2-01",
+    "reg-1026-19"
   ],
   "related": [
     "appraisal",
@@ -40,7 +41,7 @@
     "complianceNotes": "Use el contrato firmado por todas las partes, incluidos los anexos, no una hoja del anuncio. Actualice el monto del préstamo, el precio de venta y las concesiones en el sistema automatizado y en las divulgaciones cuando un anexo los cambie.",
     "example": {
       "setting": "Expediente de suscripción, contrato de compra firmado por todas las partes, y Estimación del préstamo, página 1, Precio de venta",
-      "text": "Un contrato de muestra puede indicar un precio de venta de $410,000 y un crédito del vendedor de $6,000 en un préstamo de ejemplo. Cifras de ejemplo."
+      "text": "Un contrato de muestra puede indicar un precio de venta de $410,000 y un crédito del vendedor de $6,000 en un préstamo de ejemplo. Fannie Mae B2-1.2-01 usa el menor del precio o del valor tasado para la relación préstamo-valor. Las concesiones del vendedor son contribuciones de partes interesadas, y un cambio de precio o de concesión después de la Estimación del préstamo puede exigir una revisión de la divulgación según 12 CFR 1026.19(e). Cifras de ejemplo."
     }
   }
 }

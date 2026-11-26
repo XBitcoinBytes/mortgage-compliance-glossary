@@ -11,7 +11,7 @@
   "complianceNotes": "Reconcile the LAR to the origination system before filing. Correct known errors. Do not let production staff use the demographic fields to set a rate.",
   "example": {
     "setting": "HMDA data collection under 12 CFR Part 1003",
-    "text": "A sample data field might show an example loan amount of $410,000 and an action taken of originated. Example figures."
+    "text": "A sample data field might show an example loan amount of $410,000 and an action taken of originated. Sections 1003.2, 1003.4, and 1003.5 define covered transactions, the data, and the annual submission. Institutional coverage thresholds have changed; read the current section before you decide a lender is exempt. The data are not a credit decision. Example figures."
   },
   "citations": [
     "reg-1003",
@@ -34,7 +34,7 @@
     "complianceNotes": "Concilie el registro con el sistema de originación antes de presentar. Corrija los errores conocidos. No deje que el personal de producción use los campos demográficos para fijar una tasa.",
     "example": {
       "setting": "Recopilación de datos de HMDA según 12 CFR Parte 1003",
-      "text": "Un campo de datos de muestra puede mostrar un monto de préstamo de ejemplo de $410,000 y una acción de originado. Cifras de ejemplo."
+      "text": "Un campo de datos de muestra puede mostrar un monto de préstamo de ejemplo de $410,000 y una acción de originado. Las secciones 1003.2, 1003.4 y 1003.5 definen las transacciones cubiertas, los datos y la presentación anual. Los umbrales de cobertura institucional han cambiado; lea la sección vigente antes de decidir que un prestamista está exento. Los datos no son una decisión de crédito. Cifras de ejemplo."
     }
   }
 }

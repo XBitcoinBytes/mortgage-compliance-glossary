@@ -10,7 +10,7 @@
   "complianceNotes": "Ask about every lien, including a silent second from a relative or an agency. Update the AUS when a subordinate loan appears. Do not confuse CLTV with HCLTV.",
   "example": {
     "setting": "Underwriting transmittal, first mortgage plus subordinate liens, over value",
-    "text": "An example first loan of $300,000 plus a $20,000 second on a $400,000 value is an 80 percent CLTV. Example figures."
+    "text": "An example first loan of $300,000 plus a $20,000 second on a $400,000 value is an 80 percent CLTV. The drawn HELOC balance is generally in the CLTV, while the full credit limit is in the HCLTV, a different ratio. Community seconds can make a low first-lien LTV still a high CLTV. Example figures."
   },
   "citations": [
     "fannie-b2-1-2-01"
@@ -34,7 +34,7 @@
     "complianceNotes": "Pregunte por todo gravamen, incluido un segundo oculto de un familiar o de una agencia. Actualice el sistema automatizado cuando aparezca un préstamo subordinado. No confunda la CLTV con la HCLTV.",
     "example": {
       "setting": "Hoja de transmisión de suscripción, primera hipoteca más gravámenes subordinados, sobre el valor",
-      "text": "Un primer préstamo de ejemplo de $300,000 más un segundo de $20,000 sobre un valor de $400,000 es una CLTV del 80 por ciento. Cifras de ejemplo."
+      "text": "Un primer préstamo de ejemplo de $300,000 más un segundo de $20,000 sobre un valor de $400,000 es una CLTV del 80 por ciento. El saldo dispuesto de un HELOC por lo general entra en la CLTV, mientras que el límite de crédito completo entra en la HCLTV, una relación distinta. Los community seconds pueden hacer que un LTV bajo del primer gravamen sea todavía una CLTV alta. Cifras de ejemplo."
     }
   }
 }

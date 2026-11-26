@@ -8,7 +8,7 @@
   "complianceNotes": "Do not pull credit to quote a payment at an open house unless you have a purpose and the consumer's involvement the statute requires. Record the purpose. A credit-report fee still has to be bona fide if it is charged before intent to proceed.",
   "example": {
     "setting": "Documented permissible purpose before a consumer report is pulled",
-    "text": "A sample log might record a permissible-purpose pull for an example applicant seeking $280,000. Example figures."
+    "text": "A sample log might record a permissible-purpose pull for an example applicant seeking $280,000. 15 USC 1681b lists the purposes. A creditor may still have to give an adverse-action disclosure if it denies credit based on the report. Prescreening is a separate purpose with its own rules. Example figures."
   },
   "citations": [
     "usc-15-1681b"
@@ -30,7 +30,7 @@
     "complianceNotes": "No obtenga el crédito para cotizar un pago en una casa abierta salvo que tenga un propósito y la participación del consumidor que exige la ley. Registre el propósito. Un cargo por el informe de crédito igual tiene que ser de buena fe si se cobra antes de la intención de continuar.",
     "example": {
       "setting": "Propósito permitido documentado antes de obtener un informe del consumidor",
-      "text": "Un registro de muestra podría anotar una obtención con propósito permitido para un solicitante de ejemplo que busca $280,000. Cifras de ejemplo."
+      "text": "Un registro de muestra podría anotar una obtención con propósito permitido para un solicitante de ejemplo que busca $280,000. 15 USC 1681b enumera los propósitos. Un acreedor todavía puede tener que dar una divulgación de acción adversa si niega el crédito con base en el informe. La preselección es un propósito separado con sus propias reglas. Cifras de ejemplo."
     }
   }
 }

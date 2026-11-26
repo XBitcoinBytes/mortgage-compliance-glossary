@@ -8,7 +8,7 @@
   "complianceNotes": "Name the program on the approval. Inspect before each draw. Do not apply 203(k) consultant rules to a conventional renovation unless that program requires them.",
   "example": {
     "setting": "Renovation loan that includes repair costs, under the specific program guide",
-    "text": "A sample renovation might include an example $40,000 of repairs in the loan amount, released in draws. Example figures."
+    "text": "A sample renovation might include an example $40,000 of repairs in the loan amount, released in draws. Use HUD 4000.1 for an FHA 203(k) and the Fannie Mae Selling Guide for a HomeStyle renovation; do not mix the programs. The as-completed value is often what the loan-to-value uses, and repair funds are not unrestricted cash. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -30,7 +30,7 @@
     "complianceNotes": "Nombre el programa en la aprobación. Inspeccione antes de cada desembolso. No aplique las reglas del consultor del 203(k) a una renovación convencional salvo que ese programa las exija.",
     "example": {
       "setting": "Préstamo de renovación que incluye costos de reparación, según la guía del programa específico",
-      "text": "Una renovación de muestra podría incluir un ejemplo de $40,000 de reparaciones en el monto del préstamo, liberadas en desembolsos. Cifras de ejemplo."
+      "text": "Una renovación de muestra podría incluir un ejemplo de $40,000 de reparaciones en el monto del préstamo, liberadas en desembolsos. Use el Manual HUD 4000.1 para un 203(k) de la FHA y la Guía de venta de Fannie Mae para una renovación HomeStyle; no mezcle los programas. El valor al completar a menudo es el que usa la relación préstamo-valor, y los fondos de reparación no son efectivo sin restricciones. Cifras de ejemplo."
     }
   }
 }

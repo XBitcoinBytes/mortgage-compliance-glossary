@@ -11,7 +11,7 @@
   "complianceNotes": "Do not skip both the risk-based pricing notice and the score-disclosure exception. Keep whichever document the section requires with the application. A denial still needs the FCRA adverse-action content.",
   "example": {
     "setting": "Risk-based pricing or credit-score disclosure file under Regulation V",
-    "text": "A sample score disclosure might list an example score of 688 and the agency that supplied it. Example figures."
+    "text": "A sample score disclosure might list an example score of 688 and the agency that supplied it. 12 CFR 1022.72 requires a risk-based pricing notice in the cases it covers; a credit-score disclosure exception exists. The adverse-action score disclosure is a different document. Example figures."
   },
   "citations": [
     "reg-1022",
@@ -33,7 +33,7 @@
     "complianceNotes": "No omita tanto el aviso de precio basado en el riesgo como la excepción de divulgación del puntaje. Conserve el documento que exige la sección con la solicitud. Una denegación igual necesita el contenido de acción adversa de la FCRA.",
     "example": {
       "setting": "Expediente del aviso de precio basado en el riesgo o de la divulgación del puntaje según el Reglamento V",
-      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 688 y la agencia que lo proporcionó. Cifras de ejemplo."
+      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 688 y la agencia que lo proporcionó. 12 CFR 1022.72 exige un aviso de precios basados en el riesgo en los casos que cubre; existe una excepción de divulgación del puntaje de crédito. La divulgación del puntaje en una acción adversa es un documento distinto. Cifras de ejemplo."
     }
   }
 }

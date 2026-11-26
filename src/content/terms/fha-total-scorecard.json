@@ -10,7 +10,7 @@
   "complianceNotes": "Run the correct FHA case number and program. If the scorecard refers, complete the manual underwriting analysis in the handbook, including compensating factors only where the handbook allows them. Do not deliver a refer file as an accept.",
   "example": {
     "setting": "FHA file, TOTAL Mortgage Scorecard result printed with the AUS findings",
-    "text": "A sample TOTAL result might refer an example FHA loan of $240,000, sending it to manual underwriting. Example figures."
+    "text": "A sample TOTAL result might refer an example FHA loan of $240,000, sending it to manual underwriting. HUD Handbook 4000.1 still requires the documentation in the file. TOTAL does not override FHA eligibility, mortgage insurance, or borrower rules, and a conventional Desktop Underwriter approval is not an FHA TOTAL decision. Example figures."
   },
   "citations": [
     "hud-4000-1"
@@ -33,7 +33,7 @@
     "complianceNotes": "Ejecute el número de caso y el programa correctos de la FHA. Si la tarjeta refiere, complete el análisis de suscripción manual del manual, incluidos los factores compensatorios solo donde el manual los permite. No entregue un expediente referido como si fuera aceptado.",
     "example": {
       "setting": "Expediente FHA, resultado de TOTAL Mortgage Scorecard impreso con los hallazgos del AUS",
-      "text": "Un resultado TOTAL de muestra puede referir un préstamo FHA de ejemplo de $240,000 y enviarlo a suscripción manual. Cifras de ejemplo."
+      "text": "Un resultado TOTAL de muestra puede referir un préstamo FHA de ejemplo de $240,000 y enviarlo a suscripción manual. El Manual HUD 4000.1 sigue exigiendo la documentación en el expediente. TOTAL no anula las reglas de elegibilidad, seguro hipotecario o prestatario de la FHA, y una aprobación convencional de Desktop Underwriter no es una decisión TOTAL de la FHA. Cifras de ejemplo."
     }
   }
 }

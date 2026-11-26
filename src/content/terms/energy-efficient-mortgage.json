@@ -10,7 +10,7 @@
   "complianceNotes": "Name the agency and follow only that cap and that list of improvements. Document the energy report if the program requires it. Disburse the funds for the work.",
   "example": {
     "setting": "Energy improvement costs financed under the specific agency program",
-    "text": "A sample FHA energy package might add an example $6,000 of improvements. Example figures, not a cap."
+    "text": "A sample FHA energy package might add an example $6,000 of improvements. Use HUD 4000.1 for that FHA cap and list; do not stack a VA or conventional cap on the same file. The extra funds are for the improvements, not unrestricted cash, and an energy report may be required. Example figures, not a cap."
   },
   "citations": [
     "hud-4000-1",
@@ -35,7 +35,7 @@
     "complianceNotes": "Nombre la agencia y siga solo ese tope y esa lista de mejoras. Documente el informe de energía si el programa lo exige. Desembolse los fondos para el trabajo.",
     "example": {
       "setting": "Costos de mejoras de energía financiados según el programa específico de la agencia",
-      "text": "Un paquete de energía de la FHA de muestra podría agregar un ejemplo de $6,000 de mejoras. Cifras de ejemplo, no un tope."
+      "text": "Un paquete de energía de la FHA de muestra podría agregar un ejemplo de $6,000 de mejoras. Use el Manual HUD 4000.1 para ese tope y esa lista de la FHA; no apile un tope de VA o convencional en el mismo expediente. Los fondos extra son para las mejoras, no efectivo sin restricciones, y puede exigirse un informe de energía. Cifras de ejemplo, no un tope."
     }
   }
 }

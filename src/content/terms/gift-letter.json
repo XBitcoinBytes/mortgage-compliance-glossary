@@ -10,7 +10,7 @@
   "complianceNotes": "Collect the letter before clearing the asset condition, and match it to a withdrawal and a deposit or to the closing agent's receipt. Reject a letter that says the borrower will pay the donor back.",
   "example": {
     "setting": "Origination file, gift letter attached to the asset documents",
-    "text": "A sample letter might state a $20,000 gift from a parent for an example purchase, with no repayment. Example figures."
+    "text": "A sample letter might state a $20,000 gift from a parent for an example purchase, with no repayment. Fannie Mae B3-4.3-04 also requires the donor's name, address, phone number, and relationship, plus evidence the donor had the funds or transferred them. A cashier's check with no paper trail is not enough when the guide asks for transfer evidence. Example figures."
   },
   "citations": [
     "fannie-b3-4-3-04"
@@ -34,7 +34,7 @@
     "complianceNotes": "Recoja la carta antes de levantar la condición de activos, y hágalo coincidir con un retiro y un depósito o con el recibo del agente de cierre. Rechace una carta que diga que el prestatario le devolverá el dinero al donante.",
     "example": {
       "setting": "Expediente de originación, carta de regalo unida a los documentos de activos",
-      "text": "Una carta de muestra puede declarar un regalo de $20,000 de un padre o una madre para una compra de ejemplo, sin reembolso. Cifras de ejemplo."
+      "text": "Una carta de muestra puede declarar un regalo de $20,000 de un padre o una madre para una compra de ejemplo, sin reembolso. Fannie Mae B3-4.3-04 también exige el nombre, la dirección, el teléfono y la relación del donante, más prueba de que el donante tenía los fondos o los transfirió. Un cheque de caja sin rastro documental no basta cuando la guía pide prueba de la transferencia. Cifras de ejemplo."
     }
   }
 }

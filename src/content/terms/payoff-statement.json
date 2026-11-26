@@ -8,7 +8,7 @@
   "complianceNotes": "Send a dated payoff good through a stated day, and update it if the closing slips. Do not omit escrow or a recorded fee the title company will collect. Read 1026.36 for the response time rather than quoting a day count from memory.",
   "example": {
     "setting": "Written payoff statement showing the amount to pay the loan in full",
-    "text": "A sample payoff might be an example $241,300 good through the 15th, including interest. Example figures."
+    "text": "A sample payoff might be an example $241,300 good through the 15th, including interest. 12 CFR 1026.36 requires the statement; a prepayment penalty, if lawful, must be included. An expired statement, or one that omits a fee the borrower will actually be charged, creates a closing problem. Example figures."
   },
   "citations": [
     "reg-1026-36"
@@ -28,7 +28,7 @@
     "complianceNotes": "Envíe una liquidación con fecha válida hasta un día indicado, y actualícela si el cierre se atrasa. No omita el depósito en garantía o un cargo registrado que cobrará la compañía de título. Lea 1026.36 para el tiempo de respuesta en lugar de citar un conteo de días de memoria.",
     "example": {
       "setting": "Estado de liquidación por escrito que muestra el monto para pagar el préstamo por completo",
-      "text": "Una liquidación de muestra podría ser un ejemplo de $241,300 válida hasta el día 15, incluido el interés. Cifras de ejemplo."
+      "text": "Una liquidación de muestra podría ser un ejemplo de $241,300 válida hasta el día 15, incluido el interés. 12 CFR 1026.36 exige el estado de cuenta; una penalidad por prepago, si es legal, debe incluirse. Un estado vencido, o uno que omite un cargo que realmente se cobrará al prestatario, crea un problema de cierre. Cifras de ejemplo."
     }
   }
 }

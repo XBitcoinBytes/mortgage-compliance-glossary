@@ -10,7 +10,7 @@
   "complianceNotes": "Separate information requests from error notices in the mailroom so each clock starts. Answer the question asked. Do not send only a payoff quote when the borrower asked for a payment history.",
   "example": {
     "setting": "Written request for information about the mortgage account",
-    "text": "A sample request might ask for the last example 12 months of payment history. Example figures for the period requested."
+    "text": "A sample request might ask for the last example 12 months of payment history. 12 CFR 1024.36 states the acknowledgment, the response time, and which fees are prohibited. A request for a payoff may also implicate Regulation Z's payoff rule. Do not send only a payoff quote when the borrower asked for a payment history. Example figures for the period requested."
   },
   "citations": [
     "reg-1024-36"
@@ -34,7 +34,7 @@
     "complianceNotes": "Separe los pedidos de información de los avisos de error en la recepción de correo para que cada reloj empiece. Responda la pregunta hecha. No envíe solo una cotización de liquidación cuando el prestatario pidió un historial de pagos.",
     "example": {
       "setting": "Pedido por escrito de información sobre la cuenta hipotecaria",
-      "text": "Un pedido de muestra podría pedir el historial de pagos de los últimos 12 meses de ejemplo. Cifras de ejemplo para el período pedido."
+      "text": "Un pedido de muestra podría pedir el historial de pagos de los últimos 12 meses de ejemplo. 12 CFR 1024.36 establece el acuse de recibo, el plazo de respuesta y qué cargos están prohibidos. Un pedido de liquidación también puede implicar la regla de liquidación del Reglamento Z. No envíe solo una cotización de liquidación cuando el prestatario pidió un historial de pagos. Cifras de ejemplo para el período pedido."
     }
   }
 }

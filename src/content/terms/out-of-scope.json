@@ -8,7 +8,7 @@
   "complianceNotes": "Read the reason code. Correct bad data and resubmit only if the loan can fall within DU's scope. Otherwise follow the guide's alternative and do not deliver the loan to Fannie Mae on this finding.",
   "example": {
     "setting": "DU findings, recommendation Out of Scope",
-    "text": "A sample message might mark an example $150,000 loan Out of Scope because a required field is missing. Example figures."
+    "text": "A sample message might mark an example $150,000 loan Out of Scope because a required field is missing. The findings explain why. The lender may correct data, choose a different product, or follow a path the guide allows outside Desktop Underwriter; inventing an Approve recommendation is not one of those paths. Ability to repay still applies if the creditor makes the loan another way. Example figures."
   },
   "citations": [
     "fannie-b3-2-08"
@@ -31,7 +31,7 @@
     "complianceNotes": "Lea el código de la razón. Corrija los datos malos y vuelva a enviar solo si el préstamo puede caer dentro del alcance de DU. De lo contrario siga la alternativa de la guía y no entregue el préstamo a Fannie Mae con este hallazgo.",
     "example": {
       "setting": "Hallazgos de DU, recomendación Out of Scope",
-      "text": "Un mensaje de muestra puede marcar un préstamo de ejemplo de $150,000 como Out of Scope porque falta un campo exigido. Cifras de ejemplo."
+      "text": "Un mensaje de muestra puede marcar un préstamo de ejemplo de $150,000 como Out of Scope porque falta un campo exigido. Los hallazgos explican por qué. El prestamista puede corregir datos, elegir otro producto o seguir una vía que la guía permite fuera de Desktop Underwriter; inventar una recomendación Approve no es una de esas vías. La capacidad de pago sigue aplicando si el acreedor hace el préstamo de otra manera. Cifras de ejemplo."
     }
   }
 }

@@ -8,10 +8,11 @@
   "complianceNotes": "Tell the borrower the signing is not the funding. Do not hand over keys or tell the seller they have been paid until the wire goes. Clear prior-to-funding conditions in that gap.",
   "example": {
     "setting": "Closing where documents are signed and funds are sent after a later review",
-    "text": "A sample file might sign on Monday and fund an example $410,000 loan on Wednesday after review. Example figures."
+    "text": "A sample file might sign on Monday and fund an example $410,000 loan on Wednesday after review. Consummation may still occur at signing if state law says the note obligates the borrower then. The Closing Disclosure three-day wait still applies to consummation, and a rescission period, if any, also runs before funding. Example figures."
   },
   "citations": [
-    "practice-file"
+    "practice-file",
+    "reg-1026-19-f-1-ii"
   ],
   "related": [
     "consummation",
@@ -29,7 +30,7 @@
     "complianceNotes": "Dígale al prestatario que la firma no es el desembolso. No entregue las llaves ni le diga al vendedor que le pagaron hasta que salga la transferencia. Levante las condiciones previas al desembolso en ese intervalo.",
     "example": {
       "setting": "Cierre en el que los documentos se firman y los fondos se envían después de una revisión posterior",
-      "text": "Un expediente de muestra podría firmar el lunes y desembolsar un préstamo de ejemplo de $410,000 el miércoles después de la revisión. Cifras de ejemplo."
+      "text": "Un expediente de muestra podría firmar el lunes y desembolsar un préstamo de ejemplo de $410,000 el miércoles después de la revisión. La consumación puede ocurrir todavía en la firma si la ley estatal dice que el pagaré obliga al prestatario entonces. La espera de tres días de la Divulgación del cierre sigue aplicando a la consumación, y un período de rescisión, si lo hay, también corre antes del desembolso. Cifras de ejemplo."
     }
   }
 }

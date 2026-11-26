@@ -8,7 +8,7 @@
   "complianceNotes": "Ask where the borrower will live and document conflicts, such as a nearby home that is not being sold. Do not coach a borrower to check primary residence for a property they will rent.",
   "example": {
     "setting": "URLA, occupancy declaration for the subject property",
-    "text": "A sample URLA might mark primary residence on an example $380,000 purchase the borrower will occupy. Example figures."
+    "text": "A sample URLA might mark primary residence on an example $380,000 purchase the borrower will occupy. The Selling Guide defines each occupancy type. Misstating occupancy to obtain better terms is a serious eligibility and fraud issue. Read the current section for the move-in timeline. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -36,7 +36,7 @@
     "complianceNotes": "Pregunte dónde vivirá el prestatario y documente los conflictos, como una vivienda cercana que no se está vendiendo. No oriente a un prestatario a marcar residencia principal en una propiedad que alquilará.",
     "example": {
       "setting": "URLA, declaración de ocupación de la propiedad",
-      "text": "Una URLA de muestra puede marcar residencia principal en una compra de ejemplo de $380,000 que el prestatario ocupará. Cifras de ejemplo."
+      "text": "Una URLA de muestra puede marcar residencia principal en una compra de ejemplo de $380,000 que el prestatario ocupará. La Guía de venta define cada tipo de ocupación. Declarar mal la ocupación para obtener mejores términos es un problema grave de elegibilidad y de fraude. Lea la sección vigente para el plazo de mudanza. Cifras de ejemplo."
     }
   }
 }

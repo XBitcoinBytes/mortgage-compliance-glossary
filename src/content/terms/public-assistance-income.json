@@ -8,7 +8,7 @@
   "complianceNotes": "Train staff not to steer a borrower away from using lawful public assistance. Collect the award letter and count the income if it meets the continuance test. Do not add an overlay that excludes a benefit type the guide accepts.",
   "example": {
     "setting": "Award letter for public assistance used as qualifying income",
-    "text": "A sample award letter might show an example benefit of $850 a month with no stated end date. Example figures."
+    "text": "A sample award letter might show an example benefit of $850 a month with no stated end date. Regulation B, 12 CFR 1002.6, prohibits discrimination because income comes from public assistance. Benefits with a defined end date need continuance evidence, and nontaxable benefits may be grossed up only under the guide's rule. Example figures."
   },
   "citations": [
     "reg-1002-6",
@@ -30,7 +30,7 @@
     "complianceNotes": "Capacite al personal para que no aleje a un prestatario de usar asistencia pública lícita. Recoja la carta de concesión y cuente el ingreso si cumple la prueba de continuidad. No agregue un requisito adicional que excluya un tipo de beneficio que la guía acepta.",
     "example": {
       "setting": "Carta de concesión de asistencia pública usada como ingreso de calificación",
-      "text": "Una carta de concesión de muestra puede mostrar un beneficio de ejemplo de $850 al mes sin fecha de término indicada. Cifras de ejemplo."
+      "text": "Una carta de concesión de muestra puede mostrar un beneficio de ejemplo de $850 al mes sin fecha de término indicada. El Reglamento B, 12 CFR 1002.6, prohíbe la discriminación porque el ingreso proviene de asistencia pública. Los beneficios con fecha de término definida necesitan prueba de continuidad, y los beneficios no gravables solo pueden incrementarse según la regla de la guía. Cifras de ejemplo."
     }
   }
 }
