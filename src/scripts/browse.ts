@@ -69,7 +69,8 @@ export function initBrowse() {
     if (empty) empty.hidden = visible !== 0;
     root.querySelectorAll<HTMLAnchorElement>("a.letter-jump").forEach((link) => {
       const hash = link.getAttribute("href") ?? "";
-      const group = hash.startsWith("#") ? root.querySelector<HTMLElement>(hash) : null;
+      const id = hash.startsWith("#") ? decodeURIComponent(hash.slice(1)) : "";
+      const group = id ? root.querySelector<HTMLElement>(`[id="${CSS.escape(id)}"]`) : null;
       const available = !!(group && !group.hidden);
       link.classList.toggle("letter-off", !available);
       link.setAttribute("aria-disabled", available ? "false" : "true");
