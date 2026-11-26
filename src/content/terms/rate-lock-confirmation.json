@@ -8,7 +8,7 @@
   "complianceNotes": "Compare rate, price, product, and expiration before documents are drawn. Attach the confirmation the lock desk actually issued, not a screenshot of a rate sheet. Reconfirm after any extension or float-down.",
   "example": {
     "setting": "Lock confirmation stored in the origination system, matched to Loan Estimate page 1, Rate Lock",
-    "text": "A sample confirmation might lock 6.250 percent with 0.125 points until 5 p.m. on a stated Friday for an example $330,000 loan. Example figures."
+    "text": "A sample confirmation might lock 6.250 percent with 0.125 points until 5 p.m. on a stated Friday for an example $330,000 loan. 12 CFR 1026.37 requires the lock status, and the expiration date and time if locked, on the Loan Estimate. The confirmation should match those fields and the later note. There is no required federal form for the confirmation itself. If the confirmation and the Loan Estimate disagree, the file is not ready to close. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -31,7 +31,7 @@
     "complianceNotes": "Compare la tasa, el precio, el producto y el vencimiento antes de preparar los documentos. Adjunte la confirmación que de verdad emitió la mesa de fijación, no una captura de una hoja de tasas. Vuelva a confirmar después de cualquier extensión o baja de tasa.",
     "example": {
       "setting": "Confirmación de fijación guardada en el sistema de originación, cotejada con la página 1 de la Estimación del préstamo, Fijación de la tasa",
-      "text": "Una confirmación de muestra puede fijar el 6.250 por ciento con 0.125 puntos hasta las 5 p.m. de un viernes indicado para un préstamo de ejemplo de $330,000. Cifras de ejemplo."
+      "text": "Una confirmación de muestra puede fijar el 6.250 por ciento con 0.125 puntos hasta las 5 p.m. de un viernes indicado para un préstamo de ejemplo de $330,000. 12 CFR 1026.37 exige el estado del bloqueo, y la fecha y hora de vencimiento si está bloqueado, en la Estimación del préstamo. La confirmación debe coincidir con esos campos y con el pagaré posterior. No hay un formulario federal exigido para la confirmación misma. Si la confirmación y la Estimación del préstamo no coinciden, el expediente no está listo para cerrar. Cifras de ejemplo."
     }
   }
 }

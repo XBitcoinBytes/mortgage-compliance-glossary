@@ -8,7 +8,7 @@
   "complianceNotes": "Name the factor and attach the proof. Do not write reserves as a factor unless the reserves remain after closing and meet the guide's definition. Do not use factors the handbook does not list on an FHA manual file.",
   "example": {
     "setting": "Manual underwriting worksheet, compensating-factor section",
-    "text": "A sample manual file might cite example reserves of four months of a $2,000 payment as one factor. Example figures, not a required list."
+    "text": "A sample manual file might cite example reserves of four months of a $2,000 payment as one factor. Fannie Mae B3-1-01 describes comprehensive risk assessment for manual underwriting, and HUD 4000.1 lists the compensating factors that may be used on a manual FHA loan. An Approve/Eligible DU finding is not a manual underwrite. A factor cannot cure a disqualifying credit event the guide forbids, and reserves count only if they remain after closing. Example figures, not a required list."
   },
   "citations": [
     "fannie-b3-1-01",
@@ -32,7 +32,7 @@
     "complianceNotes": "Nombre el factor y adjunte la prueba. No escriba reservas como factor salvo que las reservas queden después del cierre y cumplan la definición de la guía. No use factores que el manual no enumera en un expediente FHA manual.",
     "example": {
       "setting": "Hoja de suscripción manual, sección de factores compensatorios",
-      "text": "Un expediente manual de muestra podría citar reservas de ejemplo de cuatro meses de un pago de $2,000 como un factor. Cifras de ejemplo, no una lista exigida."
+      "text": "Un expediente manual de muestra podría citar reservas de ejemplo de cuatro meses de un pago de $2,000 como un factor. Fannie Mae B3-1-01 describe la evaluación integral del riesgo para la suscripción manual, y HUD 4000.1 lista los factores compensatorios que pueden usarse en un préstamo FHA manual. Un hallazgo Approve/Eligible de DU no es una suscripción manual. Un factor no puede curar un evento de crédito descalificador que la guía prohíbe, y las reservas cuentan solo si quedan después del cierre. Cifras de ejemplo, no una lista exigida."
     }
   }
 }

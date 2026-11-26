@@ -8,7 +8,7 @@
   "complianceNotes": "Disclose the margin next to the index. Do not hide it in a rider the borrower does not see until the signing table. Compare it when you shop ARM offers.",
   "example": {
     "setting": "Note margin, disclosed with the ARM program",
-    "text": "A sample margin of 2.75 percentage points added to an example index of 4.20 percent points to 6.95 percent before caps. Example figures."
+    "text": "A sample margin of 2.75 percentage points added to an example index of 4.20 percent points to 6.95 percent before caps. The margin is a term of the note and is part of the ARM disclosures under Regulation Z. It does not change when the index changes, and it is not a lender credit or a discount point. It should be visible to the borrower before they lock. Example figures."
   },
   "citations": [
     "reg-1026-37"
@@ -28,7 +28,7 @@
     "complianceNotes": "Divulgue el margen junto al índice. No lo esconda en un anexo que el prestatario no ve hasta la mesa de firma. Compárelo cuando compare ofertas de ARM.",
     "example": {
       "setting": "Margen del pagaré, divulgado con el programa de la ARM",
-      "text": "Un margen de muestra de 2.75 puntos porcentuales sumado a un índice de ejemplo del 4.20 por ciento apunta al 6.95 por ciento antes de los topes. Cifras de ejemplo."
+      "text": "Un margen de muestra de 2.75 puntos porcentuales sumado a un índice de ejemplo del 4.20 por ciento resulta en 6.95 por ciento antes de los topes. El margen es un término del pagaré y forma parte de las divulgaciones de ARM según el Reglamento Z. No cambia cuando cambia el índice, y no es un crédito del prestamista ni un punto de descuento. Debe ser visible para el prestatario antes de que fije la tasa. Cifras de ejemplo."
     }
   }
 }

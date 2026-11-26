@@ -8,10 +8,11 @@
   "complianceNotes": "Give the HELOC disclosures, not TRID forms. Include the full limit in the first-mortgage CLTV. Explain the draw period and the later payment.",
   "example": {
     "setting": "HELOC early disclosure, not a Loan Estimate",
-    "text": "A sample line might have an example limit of $50,000. A HELOC uses open-end home-equity disclosures, not a Loan Estimate. Example figures."
+    "text": "A sample line might have an example limit of $50,000. 12 CFR 1026.40 requires the HELOC disclosures, not a Loan Estimate, and a HELOC on a principal home can include a right to cancel under 12 CFR 1026.23. The full limit usually counts in the combined loan-to-value ratio of a first mortgage even if you have not drawn it all. A closed-end home equity loan is a different product and does use a Loan Estimate. Example figures."
   },
   "citations": [
-    "reg-1026-40"
+    "reg-1026-40",
+    "reg-1026-23"
   ],
   "related": [
     "hcltv",
@@ -29,7 +30,7 @@
     "complianceNotes": "Dé las divulgaciones de la HELOC, no los formularios de TRID. Incluya el límite completo en la CLTV de la primera hipoteca. Explique el período de disposición y el pago posterior.",
     "example": {
       "setting": "Divulgación temprana de la HELOC, no una Estimación del préstamo",
-      "text": "Una línea de muestra podría tener un límite de ejemplo de $50,000. Una HELOC usa las divulgaciones de crédito abierto con garantía hipotecaria, no una Estimación del préstamo. Cifras de ejemplo."
+      "text": "Una línea de muestra podría tener un límite de ejemplo de $50,000. 12 CFR 1026.40 exige las divulgaciones de HELOC, no una Estimación del préstamo, y una HELOC sobre la vivienda principal puede incluir un derecho a cancelar según 12 CFR 1026.23. El límite completo por lo general cuenta en la relación combinada préstamo-valor de una primera hipoteca aunque no se haya dispuesto de todo. Un préstamo de plusvalía de crédito cerrado es un producto distinto y sí usa una Estimación del préstamo. Cifras de ejemplo."
     }
   }
 }

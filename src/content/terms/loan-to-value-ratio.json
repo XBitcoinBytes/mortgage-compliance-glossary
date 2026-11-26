@@ -10,7 +10,7 @@
   "complianceNotes": "Calculate the ratio from the lower of price or value on a purchase and recheck it when the appraisal comes in. Disclose mortgage insurance separately from the ratio. Do not deliver a loan above the matrix.",
   "example": {
     "setting": "Loan Estimate, page 1, Loan Amount and Sale Price, tested against the appraisal",
-    "text": "An example $320,000 loan on a $400,000 price is an 80 percent ratio. If the appraisal is $390,000, the ratio uses $390,000. Example figures."
+    "text": "An example $320,000 loan on a $400,000 price is an 80 percent ratio. If the appraisal is $390,000, the ratio uses $390,000. Fannie Mae B2-1.2-01 states the calculation, including rounding. Do not treat 80 percent as a statute; it is a familiar business-practice point, and the Homeowners Protection Act has its own cancellation tests. On a purchase, use the lower of price or appraised value. Example figures."
   },
   "citations": [
     "fannie-b2-1-2-01",
@@ -48,7 +48,7 @@
     "complianceNotes": "Calcule la relación con el menor del precio o el valor en una compra y vuelva a revisarla cuando llegue la tasación. Divulgue el seguro hipotecario aparte de la relación. No entregue un préstamo por encima de la matriz.",
     "example": {
       "setting": "Estimación del préstamo, página 1, Monto del préstamo y Precio de venta, probados contra la tasación",
-      "text": "Un préstamo de ejemplo de $320,000 sobre un precio de $400,000 es una relación del 80 por ciento. Si la tasación es de $390,000, la relación usa $390,000. Cifras de ejemplo."
+      "text": "Un préstamo de ejemplo de $320,000 sobre un precio de $400,000 es una relación del 80 por ciento. Si la tasación es de $390,000, la relación usa $390,000. Fannie Mae B2-1.2-01 indica el cálculo, incluido el redondeo. No trate el 80 por ciento como una ley; es un punto familiar de práctica comercial, y la Ley de Protección de los Propietarios tiene sus propias pruebas de cancelación. En una compra, use el menor entre el precio y el valor tasado. Cifras de ejemplo."
     }
   }
 }

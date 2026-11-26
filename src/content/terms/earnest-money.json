@@ -10,7 +10,7 @@
   "complianceNotes": "Collect the cancelled check or wire and the receipt from the escrow holder. If the deposit was a large deposit, source it. Make sure page 3 of the Closing Disclosure credits the same amount the contract receipt shows.",
   "example": {
     "setting": "Closing Disclosure, page 3, Summaries of Transactions, deposit or earnest money line",
-    "text": "A sample contract might show a $5,000 earnest-money deposit credited on page 3 against an example $40,000 cash to close. Example figures."
+    "text": "A sample contract might show a $5,000 earnest-money deposit credited on page 3 against an example $40,000 cash to close. Agency asset rules require the lender to verify the source when the deposit is needed to qualify, including a large deposit that funded the check. On the Closing Disclosure, the deposit reduces the cash due from the buyer. Who keeps the deposit if the contract is canceled is a contract and state-law question, not a TRID question. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -36,7 +36,7 @@
     "complianceNotes": "Recoja el cheque cancelado o la transferencia y el recibo del depositario. Si el depósito fue un depósito grande, documente su origen. Asegúrese de que la página 3 de la Divulgación del cierre acredite el mismo monto que muestra el recibo del contrato.",
     "example": {
       "setting": "Divulgación del cierre, página 3, Resúmenes de transacciones, línea del depósito o dinero de arras",
-      "text": "Un contrato de muestra puede mostrar un depósito de arras de $5,000 acreditado en la página 3 contra un efectivo para el cierre de ejemplo de $40,000. Cifras de ejemplo."
+      "text": "Un contrato de muestra puede mostrar un depósito de arras de $5,000 acreditado en la página 3 contra un efectivo para el cierre de ejemplo de $40,000. Las reglas de activos de las agencias exigen que el prestamista verifique el origen cuando el depósito se necesita para calificar, incluido un depósito grande con el que se giró el cheque. En la Divulgación del cierre, el depósito reduce el efectivo que debe el comprador. Quién se queda con el depósito si se cancela el contrato es una cuestión de contrato y de ley estatal, no una cuestión TRID. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Read Schedule B before clear to close. Clear requirements or accept exceptions in writing. Do not fund on a commitment that still shows the seller's mortgage.",
   "example": {
     "setting": "Title commitment listing requirements and exceptions before closing",
-    "text": "A sample commitment might require payoff of an example existing lien of $180,000 and list a utility easement as an exception. Example figures."
+    "text": "A sample commitment might require payoff of an example existing lien of $180,000 and list a utility easement as an exception. A commitment with an open mortgage that is not being paid off is not clear to close. This is title practice, not a federal form. Read Schedule B before clear to close, and do not fund on a commitment that still shows the seller's mortgage. Example figures."
   },
   "citations": [
     "practice-file"
@@ -30,7 +30,7 @@
     "complianceNotes": "Lea el Anexo B antes de autorizar el cierre. Levante los requisitos o acepte las excepciones por escrito. No desembolse con un compromiso que todavía muestra la hipoteca del vendedor.",
     "example": {
       "setting": "Compromiso de título que enumera requisitos y excepciones antes del cierre",
-      "text": "Un compromiso de muestra podría exigir la liquidación de un gravamen existente de ejemplo de $180,000 y listar una servidumbre de servicios como una excepción. Cifras de ejemplo."
+      "text": "Un compromiso de muestra podría exigir la liquidación de un gravamen existente de ejemplo de $180,000 y listar una servidumbre de servicios como una excepción. Un compromiso con una hipoteca abierta que no se está liquidando no está autorizado para cerrar. Esto es práctica de título, no un formulario federal. Lea el Anexo B antes de autorizar el cierre, y no desembolse con un compromiso que todavía muestra la hipoteca del vendedor. Cifras de ejemplo."
     }
   }
 }

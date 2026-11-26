@@ -10,7 +10,7 @@
   "complianceNotes": "Order the appraisal through an independence-compliant process. Deliver the copy on the Regulation B clock, not only if the borrower asks. If the value is below the price, redo the loan-to-value math before you promise the same loan amount.",
   "example": {
     "setting": "Appraisal report in the collateral file; Loan Estimate, page 2, Section B, appraisal fee",
-    "text": "A sample Section B appraisal fee might be $640, and the report might conclude an example value of $405,000. Example figures, not a fee schedule."
+    "text": "A sample Section B appraisal fee might be $640, and the report might conclude an example value of $405,000. Regulation B, 12 CFR 1002.14, requires a copy of the appraisal promptly upon completion or no later than three business days before consummation, whichever is earlier. Regulation Z, 12 CFR 1026.42, protects valuation independence. If the value is below the price, redo the loan-to-value math before you promise the same loan amount. Example figures, not a fee schedule."
   },
   "citations": [
     "reg-1002-14",
@@ -56,7 +56,7 @@
     "complianceNotes": "Pida la tasación por un proceso que cumpla la independencia. Entregue la copia en el plazo del Reglamento B, no solo si el prestatario la pide. Si el valor está por debajo del precio, rehaga la relación préstamo-valor antes de prometer el mismo monto.",
     "example": {
       "setting": "Informe de tasación en el expediente de garantía; Estimación del préstamo, página 2, Sección B, cargo de tasación",
-      "text": "Un cargo de tasación de muestra en la Sección B puede ser $640, y el informe puede concluir un valor de ejemplo de $405,000. Cifras de ejemplo, no una tarifa oficial."
+      "text": "Un cargo de tasación de muestra en la Sección B puede ser $640, y el informe puede concluir un valor de ejemplo de $405,000. El Reglamento B, 12 CFR 1002.14, exige una copia de la tasación sin demora al completarse o a más tardar tres días hábiles antes de la consumación, lo que ocurra primero. El Reglamento Z, 12 CFR 1026.42, protege la independencia de la valuación. Si el valor está por debajo del precio, rehaga la cuenta préstamo-valor antes de prometer el mismo monto de préstamo. Cifras de ejemplo, no una tarifa oficial."
     }
   }
 }

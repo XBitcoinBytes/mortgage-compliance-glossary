@@ -8,7 +8,7 @@
   "complianceNotes": "Clear every verification message. Resubmit if the data change. Do not close on an old findings report that does not match the note.",
   "example": {
     "setting": "DU Underwriting Findings, recommendation Approve/Eligible",
-    "text": "A sample findings banner might read Approve/Eligible for an example $340,000 30-year fixed loan, with six open conditions. Example figures."
+    "text": "A sample findings banner might read Approve/Eligible for an example $340,000 30-year fixed loan, with six open conditions. Selling Guide B3-2-05 describes the recommendation, including a limited waiver of certain representations when the guide's conditions are met. The lender must still confirm the data and review information DU did not analyze, and a later change can invalidate the finding if it exceeds DU tolerances in B3-2-10. It is not a funding commitment and not a Loan Estimate. Example figures."
   },
   "citations": [
     "fannie-b3-2-05",
@@ -36,7 +36,7 @@
     "complianceNotes": "Levante cada mensaje de verificación. Vuelva a enviar si cambian los datos. No cierre con un informe de hallazgos viejo que no coincide con el pagaré.",
     "example": {
       "setting": "Hallazgos de suscripción de DU, recomendación Approve/Eligible",
-      "text": "Un encabezado de hallazgos de muestra puede decir Approve/Eligible para un préstamo fijo a 30 años de ejemplo de $340,000, con seis condiciones abiertas. Cifras de ejemplo."
+      "text": "Un encabezado de hallazgos de muestra puede decir Approve/Eligible para un préstamo fijo a 30 años de ejemplo de $340,000, con seis condiciones abiertas. La Guía de venta B3-2-05 describe la recomendación, incluida una exención limitada de ciertas representaciones cuando se cumplen las condiciones de la guía. El prestamista todavía debe confirmar los datos y revisar la información que DU no analizó, y un cambio posterior puede invalidar el hallazgo si excede las tolerancias de DU en B3-2-10. No es un compromiso de financiamiento ni una Estimación del préstamo. Cifras de ejemplo."
     }
   }
 }

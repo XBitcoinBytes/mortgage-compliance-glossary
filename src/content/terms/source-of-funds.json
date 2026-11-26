@@ -8,7 +8,7 @@
   "complianceNotes": "Trace each dollar used to close from a statement, a gift, or a verified sale. Do not accept a mattress of cash without a source the guide allows. Question deposits that appeared just before application.",
   "example": {
     "setting": "Asset conditions in the underwriting findings, and bank statements in the file",
-    "text": "A sample asset page might source $18,000 of an example $42,000 cash to close from a checking account and $24,000 from a gift. Example figures."
+    "text": "A sample asset page might source $18,000 of an example $42,000 cash to close from a checking account and $24,000 from a gift. Large deposits must be sourced when the guide says so, and gift funds need a letter and transfer evidence under B3-4.3-04. Borrowed funds secured by the subject property are subordinate financing and change the combined loan-to-value ratio. Do not accept a mattress of cash without a source the guide allows. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -40,7 +40,7 @@
     "complianceNotes": "Rastree cada dólar usado para el cierre desde un estado de cuenta, un regalo o una venta verificada. No acepte un fajo de efectivo sin un origen que la guía permita. Cuestione los depósitos que aparecieron justo antes de la solicitud.",
     "example": {
       "setting": "Condiciones de activos en los hallazgos de suscripción, y estados de cuenta en el expediente",
-      "text": "Una página de activos de muestra puede documentar $18,000 de un efectivo para el cierre de ejemplo de $42,000 desde una cuenta de cheques y $24,000 desde un regalo. Cifras de ejemplo."
+      "text": "Una página de activos de muestra puede documentar $18,000 de un efectivo para el cierre de ejemplo de $42,000 desde una cuenta de cheques y $24,000 desde un regalo. Los depósitos grandes deben documentarse cuando la guía lo dice, y los fondos de regalo necesitan una carta y prueba de transferencia según B3-4.3-04. Los fondos prestados garantizados por la propiedad objeto son financiamiento subordinado y cambian la relación combinada préstamo-valor. No acepte una reserva de efectivo sin un origen que la guía permita. Cifras de ejemplo."
     }
   }
 }

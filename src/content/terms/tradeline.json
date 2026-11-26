@@ -12,7 +12,7 @@
   "complianceNotes": "Count open debts in the ratio even if you hope to pay them off, unless the guide's payoff rule is met and documented. Do not ignore a tradeline because the payment is small.",
   "example": {
     "setting": "Credit report, tradeline section",
-    "text": "A sample report might show four tradelines, including an example car loan with a $415 payment and a card with a $2,200 balance. Example figures."
+    "text": "A sample report might show four tradelines, including an example car loan with a $415 payment and a card with a $2,200 balance. Fannie Mae B3-5.2-01 uses tradelines to judge depth of credit and to identify debts that belong in the ratio. Authorized-user tradelines have their own rules in B3-5.3-06. Count open debts in the ratio even if you hope to pay them off, unless the guide's payoff rule is met and documented. Example figures."
   },
   "citations": [
     "fannie-b3-5-2-01",
@@ -34,7 +34,7 @@
     "complianceNotes": "Cuente las deudas abiertas en la relación aunque espere pagarlas, salvo que se cumpla y se documente la regla de la guía para deudas pagadas. No ignore una línea porque el pago es pequeño.",
     "example": {
       "setting": "Informe de crédito, sección de líneas de crédito",
-      "text": "Un informe de muestra puede mostrar cuatro líneas, incluido un préstamo de automóvil de ejemplo con un pago de $415 y una tarjeta con un saldo de $2,200. Cifras de ejemplo."
+      "text": "Un informe de muestra puede mostrar cuatro líneas, incluido un préstamo de automóvil de ejemplo con un pago de $415 y una tarjeta con un saldo de $2,200. Fannie Mae B3-5.2-01 usa las líneas para juzgar la profundidad del crédito y para identificar deudas que pertenecen a la relación. Las líneas de usuario autorizado tienen sus propias reglas en B3-5.3-06. Cuente las deudas abiertas en la relación aunque espere liquidarlas, salvo que se cumpla y documente la regla de liquidación de la guía. Cifras de ejemplo."
     }
   }
 }

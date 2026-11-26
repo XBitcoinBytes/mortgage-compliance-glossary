@@ -8,7 +8,7 @@
   "complianceNotes": "Read the assistance documents before you lock. Enter any lien in the CLTV. Do not code a second lien as a gift.",
   "example": {
     "setting": "Assistance funds from an agency or nonprofit, as a grant or a second lien",
-    "text": "A sample city grant of an example $10,000 might be a forgivable second with no monthly payment. Example figures. The forgiveness terms control."
+    "text": "A sample city grant of an example $10,000 might be a forgivable second with no monthly payment. The Fannie Mae Selling Guide may treat repayable assistance as subordinate financing, and a payment belongs in the debt ratio if the guide says so. The assistance does not remove a minimum borrower contribution when the guide requires one. Do not code a second lien as a gift. Example figures. The forgiveness terms control."
   },
   "citations": [
     "fannie-guide"
@@ -29,7 +29,7 @@
     "complianceNotes": "Lea los documentos de la asistencia antes de fijar. Ingrese cualquier gravamen en la CLTV. No codifique un segundo gravamen como un regalo.",
     "example": {
       "setting": "Fondos de asistencia de una agencia o una organización sin fines de lucro, como una subvención o un segundo gravamen",
-      "text": "Una subvención municipal de muestra de un ejemplo de $10,000 podría ser un segundo condonable sin pago mensual. Cifras de ejemplo. Los términos de la condonación mandan."
+      "text": "Una subvención municipal de muestra de un ejemplo de $10,000 podría ser un segundo condonable sin pago mensual. La Guía de venta de Fannie Mae puede tratar la asistencia reembolsable como financiamiento subordinado, y un pago pertenece a la relación de deuda si la guía lo dice. La asistencia no elimina una contribución mínima del prestatario cuando la guía la exige. No codifique un segundo gravamen como un regalo. Cifras de ejemplo. Los términos de la condonación mandan."
     }
   }
 }

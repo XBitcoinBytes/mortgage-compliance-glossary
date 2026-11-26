@@ -10,7 +10,7 @@
   "complianceNotes": "The name on the note, the Loan Estimate, and the creditor's NMLS record should match. If the loan is reassigned to a different creditor before consummation, issue the corrected disclosure the rule requires and keep the funding evidence.",
   "example": {
     "setting": "Loan Estimate, page 1 and page 3, the creditor's name",
-    "text": "A sample Loan Estimate might name Cedar Credit Union as creditor for an example $180,000 loan that a broker submitted. Example figures."
+    "text": "A sample Loan Estimate might name Cedar Credit Union as creditor for an example $180,000 loan that a broker submitted. 12 CFR 1026.2 includes the regularly-extends test, and Loan Estimate and Closing Disclosure duties fall on the creditor. A correspondent that is the initial payee is the creditor even if it sells the loan the next day. Name changes before consummation have to be reflected in the disclosures. Example figures."
   },
   "citations": [
     "reg-1026-2",
@@ -34,7 +34,7 @@
     "complianceNotes": "El nombre en el pagaré, en la Estimación del préstamo y en el registro NMLS del acreedor debe coincidir. Si el préstamo se reasigna a un acreedor distinto antes de la consumación, emita la divulgación corregida que la regla exige y conserve la prueba del desembolso.",
     "example": {
       "setting": "Estimación del préstamo, páginas 1 y 3, el nombre del acreedor",
-      "text": "Una Estimación del préstamo de muestra puede nombrar a Cedar Credit Union como acreedor de un préstamo de ejemplo de $180,000 que envió un corredor. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo de muestra puede nombrar a Cedar Credit Union como acreedor de un préstamo de ejemplo de $180,000 que envió un corredor. 12 CFR 1026.2 incluye la prueba de extensión habitual, y los deberes de la Estimación del préstamo y de la Divulgación del cierre recaen en el acreedor. Un corresponsal que es el primer beneficiario es el acreedor aunque venda el préstamo al día siguiente. Los cambios de nombre antes de la consumación deben reflejarse en las divulgaciones. Cifras de ejemplo."
     }
   }
 }

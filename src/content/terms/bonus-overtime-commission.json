@@ -8,7 +8,7 @@
   "complianceNotes": "Separate base pay from variable pay on the worksheet. If the trend is down, do not average in the older higher year without the guide's instruction. Obtain the employer's confirmation when the section asks for it.",
   "example": {
     "setting": "Income worksheet for bonus, overtime, or commission, with the history the guide requires",
-    "text": "A sample borrower might have example base pay of $4,000 and average monthly overtime of $350 over the documented history. Example figures."
+    "text": "A sample borrower might have example base pay of $4,000 and average monthly overtime of $350 over the documented history. Fannie Mae B3-3.3-02 covers these income types. Do not describe a universal two-year average as a statute. A declining trend can reduce the amount, and you should not average in an older higher year without the guide's instruction. Example figures."
   },
   "citations": [
     "fannie-b3-3-3-02"
@@ -30,7 +30,7 @@
     "complianceNotes": "Separe el pago base del pago variable en la hoja. Si la tendencia es a la baja, no promedie el año antiguo más alto sin la instrucción de la guía. Obtenga la confirmación del empleador cuando la sección la pide.",
     "example": {
       "setting": "Hoja de ingresos por bono, tiempo extra o comisión, con el historial que exige la guía",
-      "text": "Un prestatario de muestra puede tener un pago base de ejemplo de $4,000 y un tiempo extra mensual promedio de $350 durante el historial documentado. Cifras de ejemplo."
+      "text": "Un prestatario de muestra puede tener un pago base de ejemplo de $4,000 y un tiempo extra mensual promedio de $350 durante el historial documentado. Fannie Mae B3-3.3-02 cubre estos tipos de ingreso. No describa un promedio universal de dos años como una ley. Una tendencia a la baja puede reducir el monto, y no debe promediar un año anterior más alto sin la instrucción de la guía. Cifras de ejemplo."
     }
   }
 }

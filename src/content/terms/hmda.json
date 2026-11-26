@@ -11,11 +11,12 @@
   "complianceNotes": "Complete the LAR fields from the actual file, not from assumptions about a neighborhood. Do not use HMDA data in pricing. File on the schedule in 12 CFR 1003.5.",
   "example": {
     "setting": "HMDA loan/application register entry for the application, not a borrower disclosure at the kitchen table",
-    "text": "A sample LAR row might record an example application for $275,000 that was originated. Example figures. The field list is in Regulation C."
+    "text": "A sample LAR row might record an example application for $275,000 that was originated. The statute is 12 USC 2801, and Regulation C, 12 CFR Part 1003, states who reports, which applications are covered, the data fields, and the annual filing. Demographic data collected for HMDA must not be used to discriminate, and reporting thresholds and the filing deadline should be read from the current text. Do not use HMDA data in pricing. Example figures."
   },
   "citations": [
     "usc-12-2801",
-    "reg-1003"
+    "reg-1003",
+    "reg-1003-5"
   ],
   "related": [
     "demographic-information",
@@ -36,7 +37,7 @@
     "complianceNotes": "Complete los campos del registro a partir del expediente real, no de suposiciones sobre un vecindario. No use los datos de HMDA en el precio. Presente en el calendario de 12 CFR 1003.5.",
     "example": {
       "setting": "Asiento del registro de préstamos y solicitudes de HMDA, no una divulgación al prestatario en la mesa",
-      "text": "Una fila de muestra del registro puede anotar una solicitud de ejemplo de $275,000 que se originó. Cifras de ejemplo. La lista de campos está en el Reglamento C."
+      "text": "Una fila de muestra del registro puede anotar una solicitud de ejemplo de $275,000 que se originó. La ley es 12 USC 2801, y el Reglamento C, 12 CFR Parte 1003, indica quién reporta, qué solicitudes están cubiertas, los campos de datos y la presentación anual. Los datos demográficos recopilados para HMDA no deben usarse para discriminar, y los umbrales de reporte y la fecha límite de presentación deben leerse en el texto vigente. No use los datos de HMDA en los precios. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "If the lender requires the letter, disclose the fee in the correct section and obtain the letter before funding. Do not describe it to the borrower as owner's title insurance.",
   "example": {
     "setting": "Closing protection letter fee on the Loan Estimate, often with title charges",
-    "text": "A sample closing-protection-letter fee might be an example $50 in Section C of the Loan Estimate. It is not the title policy. Example figures."
+    "text": "A sample closing-protection-letter fee might be an example $50 in Section C of the Loan Estimate. It is not the title policy. When the fee is charged, it is a settlement service on the Loan Estimate, and its section and tolerance follow whether the consumer can shop for the provider. There is no federal requirement that every closing include one. Do not describe it to the borrower as owner's title insurance. Example figures."
   },
   "citations": [
     "practice-file",
@@ -29,7 +29,7 @@
     "complianceNotes": "Si el prestamista exige la carta, divulgue el cargo en la sección correcta y obtenga la carta antes del desembolso. No se la describa al prestatario como seguro de título del propietario.",
     "example": {
       "setting": "Cargo de la carta de protección del cierre en la Estimación del préstamo, a menudo con los cargos de título",
-      "text": "Un cargo de carta de protección del cierre de muestra podría ser un ejemplo de $50 en la Sección C de la Estimación del préstamo. No es la póliza de título. Cifras de ejemplo."
+      "text": "Un cargo de carta de protección del cierre de muestra podría ser un ejemplo de $50 en la Sección C de la Estimación del préstamo. No es la póliza de título. Cuando se cobra el cargo, es un servicio de liquidación en la Estimación del préstamo, y su sección y tolerancia siguen si el consumidor puede comparar proveedores. No hay un requisito federal de que todo cierre incluya una. No la describa al prestatario como seguro de título del propietario. Cifras de ejemplo."
     }
   }
 }

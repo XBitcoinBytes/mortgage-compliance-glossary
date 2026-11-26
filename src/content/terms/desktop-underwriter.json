@@ -10,7 +10,7 @@
   "complianceNotes": "Submit the final loan terms and keep the last findings. If data change outside DU tolerances, resubmit. Do not deliver a DU loan to Freddie Mac.",
   "example": {
     "setting": "DU Underwriting Findings report, recommendation line",
-    "text": "A sample DU casefile might show a $355,000 example loan amount and a recommendation of Approve/Eligible with eight conditions. Example figures."
+    "text": "A sample DU casefile might show a $355,000 example loan amount and a recommendation of Approve/Eligible with eight conditions. Selling Guide B3-2-01 describes DU's role. An Approve/Eligible recommendation can support a limited waiver of certain representations only if the data are accurate and the guide's conditions are met. DU is not the legal ability-to-repay determination, and you should not deliver a DU loan to Freddie Mac. Example figures."
   },
   "citations": [
     "fannie-b3-2-01",
@@ -45,7 +45,7 @@
     "complianceNotes": "Envíe los términos finales del préstamo y conserve los últimos hallazgos. Si los datos cambian fuera de las tolerancias de DU, vuelva a enviar. No entregue un préstamo de DU a Freddie Mac.",
     "example": {
       "setting": "Informe de hallazgos de DU, línea de recomendación",
-      "text": "Un expediente de muestra de DU puede mostrar un monto de préstamo de ejemplo de $355,000 y una recomendación Approve/Eligible con ocho condiciones. Cifras de ejemplo."
+      "text": "Un expediente de muestra de DU puede mostrar un monto de préstamo de ejemplo de $355,000 y una recomendación Approve/Eligible con ocho condiciones. La Guía de venta B3-2-01 describe el papel de DU. Una recomendación Approve/Eligible puede respaldar una exención limitada de ciertas representaciones solo si los datos son exactos y se cumplen las condiciones de la guía. DU no es la determinación legal de capacidad de pago, y no debe entregar un préstamo de DU a Freddie Mac. Cifras de ejemplo."
     }
   }
 }

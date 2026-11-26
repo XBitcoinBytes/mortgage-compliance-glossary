@@ -8,10 +8,11 @@
   "complianceNotes": "Document the net tangible benefit before closing. Do not strip cash out. Order an appraisal if the handbook requires one for that file. Use current MIP, not a remembered rate.",
   "example": {
     "setting": "FHA streamline refinance documented under HUD 4000.1, including the net tangible benefit",
-    "text": "A sample streamline might lower an example payment from $1,540 to $1,460 and record that reduction as part of the benefit test. Example figures."
+    "text": "A sample streamline might lower an example payment from $1,540 to $1,460 and record that reduction as part of the benefit test. HUD 4000.1 contains the streamline rules, including seasoning, payment history, and the net tangible benefit test. A streamline is not a cash-out refinance, adding cash changes the product, and TRID disclosures still apply. Use current mortgage insurance, not a remembered rate. Example figures."
   },
   "citations": [
-    "hud-4000-1"
+    "hud-4000-1",
+    "reg-1026-19"
   ],
   "related": [
     "appraisal",
@@ -30,7 +31,7 @@
     "complianceNotes": "Documente el beneficio tangible neto antes del cierre. No retire efectivo. Pida una tasación si el manual la exige para ese expediente. Use la MIP vigente, no una tasa recordada.",
     "example": {
       "setting": "Refinanciamiento simplificado FHA documentado según HUD 4000.1, incluido el beneficio tangible neto",
-      "text": "Un simplificado de muestra podría bajar un pago de ejemplo de $1,540 a $1,460 y registrar esa reducción como parte de la prueba del beneficio. Cifras de ejemplo."
+      "text": "Un simplificado de muestra podría bajar un pago de ejemplo de $1,540 a $1,460 y registrar esa reducción como parte de la prueba del beneficio. HUD 4000.1 contiene las reglas del simplificado, incluidas la espera, el historial de pago y la prueba de beneficio tangible neto. Un simplificado no es un refinanciamiento con retiro de efectivo, agregar efectivo cambia el producto, y las divulgaciones TRID siguen aplicando. Use el seguro hipotecario vigente, no una tasa recordada. Cifras de ejemplo."
     }
   }
 }

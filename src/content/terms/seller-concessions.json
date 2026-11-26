@@ -8,7 +8,7 @@
   "complianceNotes": "Compare the contract, the AUS, and page 3 of the Closing Disclosure. Do not treat a seller credit as a lender credit. If the concession changes after the Loan Estimate, review whether a revised disclosure is required.",
   "example": {
     "setting": "Purchase contract concession clause, and Closing Disclosure, page 3, seller credit",
-    "text": "A sample contract might give a $8,000 seller concession on an example $400,000 purchase, credited on page 3. Example figures, not the guide cap."
+    "text": "A sample contract might give a $8,000 seller concession on an example $400,000 purchase, credited on page 3. Agency guides cap interested-party contributions by occupancy and loan-to-value ratio, and those percentages should be read from the current Selling Guide rather than memorized. A concession that exceeds the cap has to be reduced, or the price restructured, before delivery. Do not treat a seller credit as a lender credit. Example figures, not the guide cap."
   },
   "citations": [
     "fannie-guide",
@@ -31,7 +31,7 @@
     "complianceNotes": "Compare el contrato, el sistema automatizado y la página 3 de la Divulgación del cierre. No trate un crédito del vendedor como un crédito del prestamista. Si la concesión cambia después de la Estimación del préstamo, revise si se exige una divulgación revisada.",
     "example": {
       "setting": "Cláusula de concesión del contrato de compra, y Divulgación del cierre, página 3, crédito del vendedor",
-      "text": "Un contrato de muestra puede dar una concesión del vendedor de $8,000 en una compra de ejemplo de $400,000, acreditada en la página 3. Cifras de ejemplo, no el límite de la guía."
+      "text": "Un contrato de muestra puede dar una concesión del vendedor de $8,000 en una compra de ejemplo de $400,000, acreditada en la página 3. Las guías de las agencias limitan las contribuciones de partes interesadas según la ocupación y la relación préstamo-valor, y esos porcentajes deben leerse en la Guía de venta vigente, no memorizarse. Una concesión que exceda el tope tiene que reducirse, o reestructurarse el precio, antes de la entrega. No trate un crédito del vendedor como un crédito del prestamista. Cifras de ejemplo, no el límite de la guía."
     }
   }
 }

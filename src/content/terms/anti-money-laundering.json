@@ -10,7 +10,7 @@
   "complianceNotes": "Test the program on a schedule and record the test. Train originators to escalate source-of-funds problems. Do not let production decide that a suspicious fact is too awkward to report.",
   "example": {
     "setting": "Written AML program: policies, officer, training, and independent testing",
-    "text": "A sample annual test might review an example of 25 funded files for source-of-funds notes. Example figures, not a required sample size."
+    "text": "A sample annual test might review an example of 25 funded files for source-of-funds notes. 31 CFR Part 1029 applies to residential mortgage lenders and originators. Cite the part rather than a guessed subsection, and design the program around mortgage facts that matter, including unusual gifts, third-party wires, and customers who refuse ordinary information. It should not include advice on how to avoid a report. Example figures, not a required sample size."
   },
   "citations": [
     "cfr-31-1029",
@@ -35,7 +35,7 @@
     "complianceNotes": "Pruebe el programa en un calendario y registre la prueba. Capacite a los originadores para escalar problemas de origen de los fondos. No deje que producción decida que un hecho sospechoso es demasiado incómodo para reportar.",
     "example": {
       "setting": "Programa escrito contra el lavado de dinero: políticas, oficial, capacitación y prueba independiente",
-      "text": "Una prueba anual de muestra podría revisar un ejemplo de 25 expedientes desembolsados por notas del origen de los fondos. Cifras de ejemplo, no un tamaño de muestra exigido."
+      "text": "Una prueba anual de muestra podría revisar un ejemplo de 25 expedientes desembolsados por notas del origen de los fondos. 31 CFR Parte 1029 aplica a los prestamistas y originadores hipotecarios residenciales. Cite la parte en lugar de una subsección adivinada, y diseñe el programa en torno a los hechos hipotecarios que importan, incluidos regalos inusuales, transferencias de terceros y clientes que se niegan a dar información ordinaria. No debe incluir consejos sobre cómo evitar un informe. Cifras de ejemplo, no un tamaño de muestra exigido."
     }
   }
 }

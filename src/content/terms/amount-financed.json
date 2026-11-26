@@ -8,7 +8,7 @@
   "complianceNotes": "Do not explain the amount financed as the money the borrower will receive in cash. On a purchase, most of the loan pays the seller. Recompute it when finance charges change.",
   "example": {
     "setting": "Closing Disclosure, page 5, Loan Calculations, amount financed",
-    "text": "A sample $320,000 note amount might produce an example amount financed of $316,800 after $3,200 of prepaid finance charges. Example figures."
+    "text": "A sample $320,000 note amount might produce an example amount financed of $316,800 after $3,200 of prepaid finance charges. For closed-end credit outside the integrated mortgage forms, 12 CFR 1026.18 describes the amount financed. On a TRID Closing Disclosure, 12 CFR 1026.38 includes it with the finance charge, the APR, and the total interest percentage. Do not explain the amount financed as the cash the borrower will receive. Example figures."
   },
   "citations": [
     "reg-1026-18",
@@ -30,7 +30,7 @@
     "complianceNotes": "No explique el monto financiado como el dinero que el prestatario recibirá en efectivo. En una compra, la mayor parte del préstamo paga al vendedor. Recalcule cuando cambian los cargos por financiamiento.",
     "example": {
       "setting": "Divulgación del cierre, página 5, Cálculos del préstamo, monto financiado",
-      "text": "Un monto del pagaré de muestra de $320,000 podría producir un monto financiado de ejemplo de $316,800 después de $3,200 de cargos por financiamiento pagados por adelantado. Cifras de ejemplo."
+      "text": "Un monto del pagaré de muestra de $320,000 podría producir un monto financiado de ejemplo de $316,800 después de $3,200 de cargos por financiamiento pagados por adelantado. Para el crédito cerrado fuera de los formularios hipotecarios integrados, 12 CFR 1026.18 describe el monto financiado. En una Divulgación del cierre TRID, 12 CFR 1026.38 lo incluye junto con el cargo por financiamiento, la APR y el porcentaje total de interés. No explique el monto financiado como el efectivo que recibirá el prestatario. Cifras de ejemplo."
     }
   }
 }
