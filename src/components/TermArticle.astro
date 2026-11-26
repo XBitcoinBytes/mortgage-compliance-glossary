@@ -16,6 +16,7 @@ import { categoryMap } from "../data/categories";
 import figures from "../data/figures.json";
 import { hasHudCounselor } from "../data/hud-counselor";
 import HudCounselorNote from "./HudCounselorNote.astro";
+import { EXPLORE_UI } from "../lib/explore";
 
 interface Props {
   lang: Lang;
@@ -23,6 +24,7 @@ interface Props {
 }
 const { lang, term } = Astro.props;
 const ui = t(lang);
+const xui = EXPLORE_UI[lang];
 const es = lang === "es";
 const name = displayName(term, lang);
 const otherName = es ? term.term : term.es.term;
@@ -225,6 +227,13 @@ const changing = figures.filter((f) => f.terms.includes(term.slug));
         </>
       )
     }
+    <h2>{xui.railTitle}</h2>
+    <ul>
+      <li>
+        <a href={`${hrefFor(lang, "/explore")}#/@${term.slug}`}>{xui.railLink}</a>
+        <div>{xui.railDek}</div>
+      </li>
+    </ul>
   </aside>
 </article>
 

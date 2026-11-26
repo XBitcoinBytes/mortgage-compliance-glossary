@@ -1,0 +1,299 @@
+{
+  "id": "root",
+  "label": { "en": "Start", "es": "Inicio" },
+  "q": { "en": "What are you trying to do?", "es": "¿Qué quiere hacer?" },
+  "children": [
+    {
+      "id": "buy",
+      "label": { "en": "Buy a home", "es": "Comprar una vivienda" },
+      "hint": { "en": "From preapproval to the closing table.", "es": "De la preaprobación a la mesa de cierre." },
+      "q": { "en": "Where are you in the process?", "es": "¿En qué etapa está?" },
+      "children": [
+        {
+          "id": "start",
+          "label": { "en": "Just getting started", "es": "Apenas empezando" },
+          "hint": { "en": "Budget, cash, and which loan fits.", "es": "Presupuesto, efectivo y qué préstamo le conviene." },
+          "q": { "en": "What do you want to understand first?", "es": "¿Qué quiere entender primero?" },
+          "children": [
+            {
+              "id": "afford",
+              "label": { "en": "How much I can borrow", "es": "Cuánto me pueden prestar" },
+              "hint": { "en": "Debt-to-income, credit, and preapproval.", "es": "Deuda frente a ingresos, crédito y preaprobación." },
+              "terms": ["faq-what-is-dti", "debt-to-income-ratio", "faq-which-debts-count-in-dti", "housing-expense-ratio", "credit-score", "pre-qualification", "pre-approval", "faq-what-is-preapproval"]
+            },
+            {
+              "id": "cash",
+              "label": { "en": "Down payment and cash", "es": "Pago inicial y efectivo" },
+              "hint": { "en": "Where the money comes from and what it covers.", "es": "De dónde sale el dinero y qué cubre." },
+              "terms": ["faq-what-is-a-down-payment", "down-payment", "faq-can-i-use-gift-funds", "gift-funds", "gift-letter", "down-payment-assistance", "faq-what-is-earnest-money", "earnest-money", "reserves", "faq-what-is-cash-to-close"]
+            },
+            {
+              "id": "loans",
+              "label": { "en": "Which kind of loan", "es": "Qué tipo de préstamo" },
+              "hint": { "en": "Government-backed, conventional, fixed, or adjustable.", "es": "Respaldado por el gobierno, convencional, fijo o ajustable." },
+              "q": { "en": "Which loans do you want to compare?", "es": "¿Qué préstamos quiere comparar?" },
+              "children": [
+                {
+                  "id": "gov",
+                  "label": { "en": "FHA, VA, and USDA loans", "es": "Préstamos FHA, VA y USDA" },
+                  "hint": { "en": "Government-backed programs and their fees.", "es": "Programas respaldados por el gobierno y sus cargos." },
+                  "terms": ["faq-fha-vs-conventional", "fha-loan", "fha-mip", "fha-203k", "va-loan", "va-funding-fee", "va-entitlement", "certificate-of-eligibility", "usda-guaranteed-loan", "usda-guarantee-fee", "usda-annual-fee"]
+                },
+                {
+                  "id": "conv",
+                  "label": { "en": "Conventional and jumbo loans", "es": "Préstamos convencionales y jumbo" },
+                  "hint": { "en": "Conforming limits and mortgage insurance.", "es": "Límites de préstamos conformes y seguro hipotecario." },
+                  "terms": ["conventional-loan", "conforming-loan", "conforming-loan-limit", "high-balance-loan", "jumbo-loan", "faq-what-is-a-jumbo-loan", "homeready", "home-possible", "private-mortgage-insurance", "faq-what-is-pmi", "non-qm", "portfolio-loan"]
+                },
+                {
+                  "id": "rate",
+                  "label": { "en": "Fixed or adjustable rate", "es": "Tasa fija o ajustable" },
+                  "hint": { "en": "How the rate and payment can move.", "es": "Cómo pueden cambiar la tasa y el pago." },
+                  "terms": ["fixed-rate-mortgage", "adjustable-rate-mortgage", "faq-what-is-an-arm", "hybrid-arm", "arm-index", "arm-margin", "arm-caps", "fully-indexed-rate", "interest-only", "temporary-buydown", "balloon-payment"]
+                },
+                {
+                  "id": "all",
+                  "label": { "en": "Every loan program", "es": "Todos los programas" },
+                  "hint": { "en": "The full loan-program topic.", "es": "El tema completo de programas de préstamo." },
+                  "category": "loan-programs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "offers",
+          "label": { "en": "Comparing lender offers", "es": "Comparando ofertas de prestamistas" },
+          "hint": { "en": "Loan Estimates, rates, points, and fees.", "es": "Estimaciones del préstamo, tasas, puntos y cargos." },
+          "q": { "en": "What are you comparing?", "es": "¿Qué está comparando?" },
+          "children": [
+            {
+              "id": "le",
+              "label": { "en": "The Loan Estimate, page by page", "es": "La Estimación del préstamo, página por página" },
+              "hint": { "en": "A guided path through the form.", "es": "Una ruta guiada por el formulario." },
+              "path": "reading-the-loan-estimate"
+            },
+            {
+              "id": "rates",
+              "label": { "en": "Rates, points, and the rate lock", "es": "Tasas, puntos y la fijación de la tasa" },
+              "hint": { "en": "APR versus rate, and what a lock protects.", "es": "La tasa porcentual anual frente a la tasa y qué protege la fijación." },
+              "terms": ["faq-apr-vs-interest-rate", "annual-percentage-rate", "note-rate", "faq-what-are-points", "discount-points", "lender-credits", "faq-what-is-a-rate-lock", "rate-lock", "rate-lock-extension", "float-down"]
+            },
+            {
+              "id": "costs",
+              "label": { "en": "Closing costs and fees", "es": "Costos de cierre y cargos" },
+              "hint": { "en": "What you can shop for and what you can't.", "es": "Qué puede comparar y qué no." },
+              "terms": ["faq-how-much-are-closing-costs", "closing-costs", "origination-charges", "services-you-can-shop-for", "services-you-cannot-shop-for", "written-list-of-providers", "prepaids", "initial-escrow-payment", "seller-credits", "interested-party-contributions"]
+            }
+          ]
+        },
+        {
+          "id": "uw",
+          "label": { "en": "My file is in underwriting", "es": "Mi expediente está en suscripción" },
+          "hint": { "en": "Documents, conditions, and the appraisal.", "es": "Documentos, condiciones y la tasación." },
+          "q": { "en": "What is happening with your file?", "es": "¿Qué está pasando con su expediente?" },
+          "children": [
+            {
+              "id": "docs",
+              "label": { "en": "The lender asked for documents", "es": "El prestamista pidió documentos" },
+              "hint": { "en": "Pay stubs, tax returns, and bank statements.", "es": "Talones de pago, declaraciones de impuestos y estados bancarios." },
+              "terms": ["faq-what-documents-do-i-need", "pay-stub", "form-w-2", "tax-returns", "bank-statements", "large-deposit", "letter-of-explanation", "verification-of-employment", "asset-documentation", "seasoned-funds"]
+            },
+            {
+              "id": "conditions",
+              "label": { "en": "Conditions and approval", "es": "Condiciones y aprobación" },
+              "hint": { "en": "A guided path from findings to clear to close.", "es": "Una ruta guiada de los resultados a la autorización para cerrar." },
+              "path": "underwriting-conditions-101"
+            },
+            {
+              "id": "appraisal",
+              "label": { "en": "The appraisal", "es": "La tasación" },
+              "hint": { "en": "Value, loan-to-value, and a low appraisal.", "es": "El valor, la relación préstamo-valor y una tasación baja." },
+              "terms": ["faq-what-is-an-appraisal", "appraisal", "faq-what-if-the-appraisal-is-low", "loan-to-value-ratio", "value-acceptance", "appraisal-delivery", "appraisal-independence-requirements", "combined-loan-to-value"]
+            },
+            {
+              "id": "income",
+              "label": { "en": "Income, assets, and credit", "es": "Ingresos, activos y crédito" },
+              "hint": { "en": "A guided path through how they are reviewed.", "es": "Una ruta guiada por cómo se revisan." },
+              "path": "income-assets-and-credit"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "label": { "en": "Getting ready to close", "es": "Preparándome para el cierre" },
+          "hint": { "en": "The Closing Disclosure, title, and wires.", "es": "La Divulgación del cierre, el título y las transferencias." },
+          "q": { "en": "What do you want to check?", "es": "¿Qué quiere revisar?" },
+          "children": [
+            {
+              "id": "cd",
+              "label": { "en": "The Closing Disclosure", "es": "La Divulgación del cierre" },
+              "hint": { "en": "Timing, cash to close, and the final numbers.", "es": "Plazos, efectivo para el cierre y las cifras finales." },
+              "terms": ["faq-what-is-a-closing-disclosure", "closing-disclosure", "faq-what-is-the-three-day-rule", "three-business-day-rule", "cd-waiting-period-resets", "cash-to-close-calculation", "comparisons-table", "loan-calculations"]
+            },
+            {
+              "id": "changed",
+              "label": { "en": "Why my costs changed", "es": "Por qué cambiaron mis costos" },
+              "hint": { "en": "A guided path through tolerances and cures.", "es": "Una ruta guiada por las tolerancias y las correcciones." },
+              "path": "closing-disclosure-and-tolerances"
+            },
+            {
+              "id": "title",
+              "label": { "en": "Title, wires, and closing day", "es": "Título, transferencias y el día del cierre" },
+              "hint": { "en": "Title insurance and avoiding wire fraud.", "es": "El seguro de título y cómo evitar el fraude en transferencias." },
+              "terms": ["faq-what-is-title-insurance", "title-insurance", "owners-title-policy", "lenders-title-policy", "faq-who-chooses-the-title-company", "settlement-agent", "faq-how-do-i-avoid-wire-fraud", "closing-wire-fraud", "final-walkthrough", "closing-package"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "label": { "en": "Own a home or refinance", "es": "Ya tengo vivienda o quiero refinanciar" },
+      "hint": { "en": "Payments, escrow, equity, and your servicer.", "es": "Pagos, depósito en garantía, plusvalía y su administrador." },
+      "q": { "en": "What is going on with your loan?", "es": "¿Qué está pasando con su préstamo?" },
+      "children": [
+        {
+          "id": "refi",
+          "label": { "en": "Thinking about refinancing", "es": "Pensando en refinanciar" },
+          "hint": { "en": "Rate-and-term, cash-out, and streamlines.", "es": "De tasa y plazo, con retiro de efectivo y simplificados." },
+          "terms": ["rate-and-term-refinance", "cash-out-refinance", "fha-streamline-refinance", "va-irrrl", "va-cash-out-refinance", "right-of-rescission", "faq-can-i-cancel-after-closing", "prepayment-penalty", "closing-costs"]
+        },
+        {
+          "id": "equity",
+          "label": { "en": "Borrowing against my home", "es": "Pedir prestado con mi vivienda como garantía" },
+          "hint": { "en": "HELOCs, home equity loans, and reverse mortgages.", "es": "Líneas de crédito, préstamos sobre el valor líquido e hipotecas inversas." },
+          "terms": ["faq-what-is-a-heloc", "heloc", "home-equity-loan", "faq-what-is-a-reverse-mortgage", "reverse-mortgage", "hecm", "subordinate-financing", "combined-loan-to-value"]
+        },
+        {
+          "id": "escrow",
+          "label": { "en": "Escrow, taxes, and insurance", "es": "Depósito en garantía, impuestos y seguro" },
+          "hint": { "en": "Why the payment moves and removing PMI.", "es": "Por qué cambia el pago y cómo quitar el PMI." },
+          "q": { "en": "What do you want to sort out?", "es": "¿Qué quiere aclarar?" },
+          "children": [
+            {
+              "id": "how",
+              "label": { "en": "How escrow works", "es": "Cómo funciona el depósito en garantía" },
+              "hint": { "en": "The account, the cushion, and the yearly analysis.", "es": "La cuenta, el colchón y el análisis anual." },
+              "terms": ["faq-what-is-an-escrow-account", "escrow-account", "escrow-analysis", "escrow-cushion", "escrow-account-disclosure", "escrow-waiver", "homeowners-insurance", "flood-insurance"]
+            },
+            {
+              "id": "moved",
+              "label": { "en": "My payment went up or down", "es": "Mi pago subió o bajó" },
+              "hint": { "en": "Shortages, surpluses, and rate changes.", "es": "Faltantes, excedentes y cambios de tasa." },
+              "terms": ["escrow-shortage", "escrow-surplus", "escrow-analysis", "force-placed-insurance", "periodic-statement", "arm-adjustment-notice"]
+            },
+            {
+              "id": "pmi",
+              "label": { "en": "Removing mortgage insurance", "es": "Quitar el seguro hipotecario" },
+              "hint": { "en": "Cancellation by request or automatically.", "es": "Cancelación a solicitud o automática." },
+              "terms": ["faq-can-i-cancel-pmi", "pmi-borrower-cancellation", "pmi-automatic-termination", "homeowners-protection-act", "private-mortgage-insurance", "fha-mip"]
+            }
+          ]
+        },
+        {
+          "id": "trouble",
+          "label": { "en": "Trouble making payments", "es": "Problemas para pagar" },
+          "hint": { "en": "Forbearance, loss mitigation, and foreclosure.", "es": "Indulgencia, mitigación de pérdidas y ejecución hipotecaria." },
+          "q": { "en": "Where are things now?", "es": "¿Cómo están las cosas ahora?" },
+          "children": [
+            {
+              "id": "behind",
+              "label": { "en": "Behind, or about to fall behind", "es": "Atrasado o a punto de atrasarme" },
+              "hint": { "en": "Early options and who to talk to.", "es": "Opciones tempranas y con quién hablar." },
+              "terms": ["faq-what-if-i-cannot-pay", "faq-what-is-forbearance", "forbearance", "repayment-plan", "payment-deferral", "early-intervention", "continuity-of-contact", "delinquency"]
+            },
+            {
+              "id": "help",
+              "label": { "en": "Applying for help", "es": "Solicitando ayuda" },
+              "hint": { "en": "The loss mitigation application and appeals.", "es": "La solicitud de mitigación de pérdidas y las apelaciones." },
+              "terms": ["loss-mitigation", "loss-mitigation-application", "loan-modification", "partial-claim", "loss-mitigation-appeal", "dual-tracking"]
+            },
+            {
+              "id": "foreclosure",
+              "label": { "en": "Facing foreclosure", "es": "Ante una ejecución hipotecaria" },
+              "hint": { "en": "Timing, reinstatement, and alternatives.", "es": "Plazos, rehabilitación y alternativas." },
+              "terms": ["foreclosure", "delinquency-foreclosure-wait", "acceleration", "reinstatement", "short-sale", "deed-in-lieu", "dual-tracking", "successor-in-interest"]
+            }
+          ]
+        },
+        {
+          "id": "servicer",
+          "label": { "en": "Dealing with my servicer", "es": "Tratar con mi administrador del préstamo" },
+          "hint": { "en": "Transfers, errors, and payoff.", "es": "Transferencias, errores y liquidación." },
+          "terms": ["faq-what-is-a-mortgage-servicer", "mortgage-servicer", "servicing-transfer", "servicing-transfer-notices", "payment-during-transfer", "notice-of-error", "request-for-information", "qualified-written-request", "error-resolution", "payoff-statement", "mortgage-payoff"]
+        }
+      ]
+    },
+    {
+      "id": "doc",
+      "label": { "en": "Understand a document", "es": "Entender un documento" },
+      "hint": { "en": "A form, notice, or statement in front of you.", "es": "Un formulario, aviso o estado de cuenta que tiene enfrente." },
+      "q": { "en": "Which document is in front of you?", "es": "¿Qué documento tiene enfrente?" },
+      "children": [
+        {
+          "id": "le",
+          "label": { "en": "Loan Estimate", "es": "Estimación del préstamo" },
+          "hint": { "en": "A guided path through the form.", "es": "Una ruta guiada por el formulario." },
+          "path": "reading-the-loan-estimate"
+        },
+        {
+          "id": "cd",
+          "label": { "en": "Closing Disclosure", "es": "Divulgación del cierre" },
+          "hint": { "en": "The final terms and costs.", "es": "Los términos y costos finales." },
+          "terms": ["closing-disclosure", "comparisons-table", "loan-calculations", "cash-to-close-calculation", "total-interest-percentage", "escrow-account-disclosure", "demand-feature", "negative-amortization", "partial-payments", "aggregate-adjustment"]
+        },
+        {
+          "id": "app",
+          "label": { "en": "Loan application and early papers", "es": "Solicitud de préstamo y primeros documentos" },
+          "hint": { "en": "The application, consent, and booklets.", "es": "La solicitud, el consentimiento y los folletos." },
+          "terms": ["uniform-residential-loan-application", "application-definition", "demographic-information", "intent-to-proceed", "e-sign-act", "electronic-consent", "your-home-loan-toolkit", "homeownership-counseling-list"]
+        },
+        {
+          "id": "note",
+          "label": { "en": "Note, mortgage, and title papers", "es": "Pagaré, hipoteca y documentos de título" },
+          "hint": { "en": "What you sign at closing.", "es": "Lo que firma en el cierre." },
+          "terms": ["promissory-note", "security-instrument", "due-on-sale-clause", "title-commitment", "owners-title-policy", "lenders-title-policy", "survey", "recording-fees", "power-of-attorney", "closing-package"]
+        },
+        {
+          "id": "servicing",
+          "label": { "en": "A statement or letter from my servicer", "es": "Un estado de cuenta o carta de mi administrador" },
+          "hint": { "en": "Statements, escrow analyses, and notices.", "es": "Estados de cuenta, análisis de depósito en garantía y avisos." },
+          "terms": ["periodic-statement", "escrow-analysis", "arm-adjustment-notice", "servicing-transfer-notices", "payoff-statement", "early-intervention", "privacy-notice"]
+        },
+        {
+          "id": "denial",
+          "label": { "en": "A denial or credit notice", "es": "Una negación o aviso de crédito" },
+          "hint": { "en": "Why it came and what it must say.", "es": "Por qué llegó y qué debe decir." },
+          "terms": ["adverse-action-notice", "risk-based-pricing-notice", "approve-ineligible", "refer-with-caution", "fcra", "ecoa", "credit-score"]
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "label": { "en": "Work in mortgage or compliance", "es": "Trabajo en hipotecas o cumplimiento" },
+      "hint": { "en": "Paths, regulations, and desk topics.", "es": "Rutas, reglamentos y temas de trabajo." },
+      "q": { "en": "Where do you want to start?", "es": "¿Por dónde quiere empezar?" },
+      "children": [
+        {
+          "id": "paths",
+          "label": { "en": "Follow a learning path", "es": "Seguir una ruta de aprendizaje" },
+          "hint": { "en": "A topic read in order, one entry at a time.", "es": "Un tema leído en orden, una entrada a la vez." },
+          "generate": "paths"
+        },
+        {
+          "id": "regs",
+          "label": { "en": "Start from a regulation", "es": "Empezar por un reglamento" },
+          "hint": { "en": "Every entry that cites a CFR part, statute, or guide.", "es": "Cada entrada que cita una parte del CFR, una ley o una guía." },
+          "generate": "parts"
+        },
+        {
+          "id": "topics",
+          "label": { "en": "Start from a desk topic", "es": "Empezar por un tema de trabajo" },
+          "hint": { "en": "Origination, underwriting, closing, servicing, and more.", "es": "Originación, suscripción, cierre, administración y más." },
+          "generate": "categories"
+        }
+      ]
+    }
+  ]
+}

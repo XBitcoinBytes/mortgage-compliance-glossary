@@ -4,6 +4,8 @@ import Browse from "./Browse.astro";
 import Base from "../layouts/Base.astro";
 import { getTerms } from "../lib/content";
 import { hrefFor, t } from "../lib/i18n";
+import treeSpec from "../data/explore-tree.json";
+import { EXPLORE_UI } from "../lib/explore";
 
 interface Props {
   lang: Lang;
@@ -11,6 +13,8 @@ interface Props {
 const { lang } = Astro.props;
 const ui = t(lang);
 const terms = getTerms();
+const xui = EXPLORE_UI[lang];
+const exploreHref = hrefFor(lang, "/explore");
 const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
 const homeJsonLd = {
   "@context": "https://schema.org",
@@ -30,7 +34,36 @@ const homeJsonLd = {
     <h1>{ui.homeTitle}</h1>
     <p class="dek">{ui.homeDek}</p>
     <p class="home-credit">{ui.creditLine}</p>
+    <nav class="explore-entry" aria-labelledby="explore-entry-h">
+      <h2 id="explore-entry-h">{xui.homeKicker} <span>{treeSpec.q[lang]}</span></h2>
+      <ul>
+        {treeSpec.children.map((c) => (
+          <li><a href={`${exploreHref}#/${c.id}`}>{c.label[lang]}</a></li>
+        ))}
+      </ul>
+    </nav>
     <Browse lang={lang} terms={terms} compact />
   </section>
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(homeJsonLd).replace(/</g, "\\u003c")} />
 </Base>
+
+<style>
+  .explore-entry { margin: 0.2rem 0 1.1rem; }
+  .explore-entry h2 { font-family: var(--sans); font-size: 1rem; font-weight: 600; color: var(--ink-soft); margin: 0 0 0.5rem; }
+  .explore-entry h2 span { color: var(--ink); }
+  .explore-entry ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .explore-entry a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.75rem;
+    padding: 0.35rem 0.95rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--paper-2);
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .explore-entry a::after { content: " →"; white-space: pre; }
+  .explore-entry a:hover { border-color: var(--accent); }
+</style>
