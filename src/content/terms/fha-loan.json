@@ -1,14 +1,17 @@
 {
   "slug": "fha-loan",
   "term": "FHA loan",
-  "aliases": [],
+  "aliases": [
+    "FHA",
+    "Federal Housing Administration"
+  ],
   "category": "loan-programs",
   "definition": "An FHA loan is a mortgage insured by the Federal Housing Administration. The lender makes the loan. FHA insures it against default. HUD Handbook 4000.1 is the policy book. Down-payment minimums and mortgage-insurance rates change by handbook and mortgagee letter. Do not quote them as permanent numbers.",
   "details": "The National Housing Act authority is 12 USC 1709. 4000.1 covers credit, property, and mortgage insurance. FHA mortgage insurance is MIP, not conventional PMI, and the Homeowners Protection Act cancellation schedule does not automatically end it. TOTAL Scorecard is the automated tool. A refer result means manual underwriting. Assumability and gift rules are in the handbook.",
   "complianceNotes": "Open an FHA case number and use 4000.1, not the Fannie Mae guide, for eligibility. Disclose MIP separately from the note rate. Do not promise that MIP drops off at 80 percent.",
   "example": {
     "setting": "FHA case number and Loan Estimate loan type FHA",
-    "text": "A sample FHA purchase might show an example base loan and an upfront premium financed on top. The premium rate is not stated because HUD changes it. Do not promise that MIP drops off at 80 percent. Example figures for a base loan of $280,000 only."
+    "text": "A sample FHA purchase might show an example base loan of $280,000 and an upfront premium financed on top. The premium rate is not stated because HUD changes it. FHA mortgage insurance is MIP, not conventional PMI, and the Homeowners Protection Act cancellation schedule does not automatically end it. TOTAL Scorecard is the automated tool; a refer result means manual underwriting. Use HUD Handbook 4000.1, not the Fannie Mae guide, for eligibility. Do not promise that MIP drops off at 80 percent. Example figures for a base loan of $280,000 only."
   },
   "citations": [
     "usc-12-1709",
@@ -27,10 +30,12 @@
     "fha-total-scorecard",
     "ginnie-mae",
     "hecm",
+    "homeowners-protection-act",
     "housing-expense-ratio",
     "manual-underwriting",
     "manufactured-housing",
     "partial-claim",
+    "private-mortgage-insurance",
     "reverse-mortgage",
     "upfront-mortgage-insurance-premium",
     "usda-guaranteed-loan"
@@ -38,13 +43,17 @@
   "reviewed": "2026-11-25",
   "es": {
     "term": "Préstamo FHA",
-    "aliases": [],
+    "aliases": [
+      "FHA",
+      "hipoteca FHA",
+      "Administración Federal de Vivienda"
+    ],
     "definition": "Un préstamo FHA es una hipoteca asegurada por la Administración Federal de Vivienda. El prestamista hace el préstamo. La FHA lo asegura contra el incumplimiento. El Manual HUD 4000.1 es el libro de política. Los mínimos de pago inicial y las tasas del seguro hipotecario cambian por el manual y por cartas a los acreedores. No los cite como números permanentes.",
     "details": "La autoridad de la Ley Nacional de Vivienda es 12 USC 1709. El 4000.1 cubre el crédito, la propiedad y el seguro hipotecario. El seguro hipotecario de la FHA es MIP, no PMI convencional, y el calendario de cancelación de la Ley de Protección de los Propietarios no lo termina automáticamente. TOTAL Scorecard es la herramienta automatizada. Un resultado de referir significa suscripción manual. Las reglas de asunción y de regalos están en el manual.",
     "complianceNotes": "Abra un número de caso FHA y use el 4000.1, no la guía de Fannie Mae, para la elegibilidad. Divulgue la MIP aparte de la tasa del pagaré. No prometa que la MIP se cae al 80 por ciento.",
     "example": {
       "setting": "Número de caso FHA y tipo de préstamo FHA en la Estimación del préstamo",
-      "text": "Una compra FHA de muestra podría mostrar un préstamo base de ejemplo y una prima inicial financiada encima. La tasa de la prima no se indica porque HUD la cambia. No prometa que la MIP se cae al 80 por ciento. Cifras de ejemplo solo para un préstamo base de $280,000."
+      "text": "Una compra FHA de muestra podría mostrar un préstamo base de ejemplo de $280,000 y una prima inicial financiada encima. La tasa de la prima no se indica porque HUD la cambia. El seguro hipotecario de la FHA es MIP, no PMI convencional, y el calendario de cancelación de la Ley de Protección de los Propietarios no lo termina automáticamente. TOTAL Scorecard es la herramienta automatizada; un resultado de referir significa suscripción manual. Use el Manual HUD 4000.1, no la guía de Fannie Mae, para la elegibilidad. No prometa que la MIP se cae al 80 por ciento. Cifras de ejemplo solo para un préstamo base de $280,000."
     }
   }
 }

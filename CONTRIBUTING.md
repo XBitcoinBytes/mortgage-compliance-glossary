@@ -43,6 +43,10 @@ Categories: `origination`, `underwriting`, `compliance`, `closing`, `servicing`,
 3. Run `npm run validate`. Fix any missing citations, broken related links, or incomplete Spanish fields.
 4. If you can, also run `npm run check:es` and `npm run check:links`.
 
+## Cross-linking
+
+The first mention of another glossary term in a definition is linked automatically, in English and in Spanish, when the wording matches the other term's name or an alias. Add accurate aliases (including official short names and Spanish search terms) so those links can be found. The `related` list feeds the "See also" rail; only add a relationship that is already supported by the definition, details, or notes. `npm run validate` symmetrizes related links and includes `npm run check:autolink`.
+
 ## Review process
 
 Entries are reviewed against the cited source and for plain language in both English and Spanish. Spanish that follows a published CFPB term should keep that wording unless a reviewer notes a reason to depart. Spanish that has not had a native-speaker legal review should stay flagged as such. Shaun Barry, NMLS #30170, reviews substantive compliance wording before an entry is treated as final.

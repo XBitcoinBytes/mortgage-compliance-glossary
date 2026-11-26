@@ -48,7 +48,7 @@ How to add or improve terms, citation rules, and the review process are in [CONT
 Other mortgage projects by Shaun Barry:
 
 - **[MortgageEval](https://mortgageeval.com)** — a public site where anyone can test a mortgage AI against an open-source benchmark. Answers are checked against a licensed loan officer's answer key.
-- **ClearEstimate** — a TRID compliance checker that reads Loan Estimates and Closing Disclosures in the browser. Files stay on the device. It is in development and does not have a public site yet.
+- **ClearEstimate** — coming soon. A TRID compliance checker that reads Loan Estimates and Closing Disclosures in the browser. Files stay on the device. No public site yet.
 - **[Portfolio](https://shaun-barry-portfolio.vercel.app)** — Shaun's portfolio of mortgage and AI product work.
 - **[GitHub](https://github.com/XBitcoinBytes)** — other public work under XBitcoinBytes. The public glossary repository is [XBitcoinBytes/mortgage-compliance-glossary](https://github.com/XBitcoinBytes/mortgage-compliance-glossary). The site footer still links the profile.
 

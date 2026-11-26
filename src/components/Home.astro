@@ -12,15 +12,29 @@ const { lang } = Astro.props;
 const ui = t(lang);
 const terms = getTerms();
 const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().replace(/\/$/, "");
+const homeUrl = new URL(hrefFor(lang, "/"), origin + "/").toString();
+const author = { "@type": "Person", name: "Shaun Barry", identifier: "NMLS #30170" };
 const homeJsonLd = {
   "@context": "https://schema.org",
-  "@type": "DefinedTermSet",
-  name: ui.siteName,
-  description: ui.homeDek,
-  url: new URL(hrefFor(lang, "/"), origin + "/").toString(),
-  inLanguage: ["en", "es"],
-  numberOfItems: terms.length,
-  author: { "@type": "Person", name: "Shaun Barry", identifier: "NMLS #30170" },
+  "@graph": [
+    {
+      "@type": "DefinedTermSet",
+      name: ui.siteName,
+      description: ui.homeDek,
+      url: homeUrl,
+      inLanguage: ["en", "es"],
+      numberOfItems: terms.length,
+      author,
+    },
+    {
+      "@type": "WebSite",
+      name: ui.siteName,
+      url: homeUrl,
+      inLanguage: ["en", "es"],
+      description: ui.homeDek,
+      author,
+    },
+  ],
 };
 ---
 

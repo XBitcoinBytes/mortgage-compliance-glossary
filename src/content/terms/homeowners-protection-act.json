@@ -18,6 +18,7 @@
   ],
   "related": [
     "borrower-paid-mortgage-insurance",
+    "fha-loan",
     "fha-mip",
     "lender-paid-mortgage-insurance",
     "pmi-automatic-termination",
