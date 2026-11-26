@@ -206,7 +206,7 @@ const KINDS = ["regulation", "statute", "agency-guide", "industry-practice"] as 
 type Kind = (typeof KINDS)[number];
 
 export type Node =
-  | { t: "spec"; spec: TreeSpec }
+  | { t: "spec"; spec: TreeSpec; path: string }
   | { t: "terms"; key: string; title: string; slugs: string[]; hints?: Record<string, string>; sorted: boolean }
   | { t: "path"; slug: string }
   | { t: "paths"; key: string; title: string; slugs: string[] }
@@ -218,7 +218,7 @@ export type Node =
 
 export function nodeKey(node: Node): string {
   switch (node.t) {
-    case "spec": return `spec:${node.spec.id}`;
+    case "spec": return `spec:${node.path}`;
     case "terms": return node.key;
     case "path": return `path:${node.slug}`;
     case "paths": return node.key;
@@ -309,7 +309,7 @@ export function createExplorer(data: ExploreData) {
   }
   const count = (n: number, unit: string) => `${n} ${unit}`;
 
-  const root: Node = { t: "spec", spec: data.tree };
+  const root: Node = { t: "spec", spec: data.tree, path: data.tree.id };
 
   function termListNode(key: string, title: string, slugs: string[], sorted = false, hints?: Record<string, string>): Node {
     const clean = [...new Set(slugs.filter(has))];
@@ -337,7 +337,7 @@ export function createExplorer(data: ExploreData) {
         if (spec.children) {
           return spec.children.map((c) => ({ id: c.id, label: c.label[lang], hint: c.hint?.[lang] }));
         }
-        if (spec.terms) return termListOptions(termListNode(`spec:${spec.id}`, spec.label[lang], spec.terms) as Extract<Node, { t: "terms" }>);
+        if (spec.terms) return termListOptions(termListNode(`spec:${node.path}`, spec.label[lang], spec.terms) as Extract<Node, { t: "terms" }>);
         const leaf = specLeaf(spec);
         return leaf ? options(leaf) : [];
       }
@@ -468,9 +468,9 @@ export function createExplorer(data: ExploreData) {
         const spec = node.spec;
         if (spec.children) {
           const next = spec.children.find((c) => c.id === id);
-          return next ? { t: "spec", spec: next } : null;
+          return next ? { t: "spec", spec: next, path: `${node.path}/${next.id}` } : null;
         }
-        if (spec.terms) return child(termListNode(`spec:${spec.id}`, spec.label[lang], spec.terms), id);
+        if (spec.terms) return child(termListNode(`spec:${node.path}`, spec.label[lang], spec.terms), id);
         const leaf = specLeaf(spec);
         return leaf ? child(leaf, id) : null;
       }
