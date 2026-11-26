@@ -1,7 +1,10 @@
 {
   "slug": "credit-score",
   "term": "Credit score",
-  "aliases": [],
+  "aliases": [
+    "credit scores",
+    "credit-score"
+  ],
   "category": "underwriting",
   "definition": "A credit score is a number a scoring model produces from the information on your credit report. Lenders use it as one part of the risk decision. It is not your income, and it is not a grade the government assigns.",
   "details": "Fannie Mae B3-5.1-01 states general requirements for credit scores, including which models are acceptable. The score used for the loan is the representative score under B3-5.1-02, which may not be the highest score on the page. If a creditor denies credit or takes other adverse action based on a consumer report, the Fair Credit Reporting Act, 15 USC 1681m, requires score and agency information in the adverse-action notice. Risk-based pricing notices are a separate Regulation V duty.",
@@ -33,7 +36,8 @@
     "term": "Puntaje de crédito",
     "aliases": [
       "Puntaje crediticio",
-      "puntuación de crédito"
+      "puntuación de crédito",
+      "puntajes de crédito"
     ],
     "definition": "Un puntaje de crédito es un número que un modelo produce a partir de la información de su informe de crédito. Los prestamistas lo usan como una parte de la decisión de riesgo. No es su ingreso, y no es una calificación que asigne el gobierno.",
     "details": "Fannie Mae B3-5.1-01 establece los requisitos generales de los puntajes de crédito, incluidos los modelos aceptables. El puntaje usado para el préstamo es el puntaje representativo según B3-5.1-02, que puede no ser el puntaje más alto de la página. Si un acreedor niega el crédito o toma otra acción adversa con base en un informe del consumidor, la Ley de Informes de Crédito Justos, 15 USC 1681m, exige información del puntaje y de la agencia en el aviso de acción adversa. Los avisos de precio basado en el riesgo son un deber distinto del Reglamento V.",

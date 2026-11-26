@@ -23,7 +23,7 @@
   "es": {
     "term": "Excedente del depósito en garantía",
     "aliases": [],
-    "definition": "Un excedente del depósito en garantía es dinero en la cuenta por encima del saldo objetivo, incluido el colchón permitido, después del análisis anual. Si el excedente alcanza el umbral de reembolso del reglamento, el administrador lo reembolsa. Un excedente menor puede acreditarse a la cuenta del año siguiente.",
+    "definition": "Un excedente del depósito en garantía es dinero en la cuenta por encima del saldo objetivo, incluido el colchón permitido, después del análisis anual. Si el excedente alcanza el umbral de reembolso del reglamento, el administrador del préstamo lo reembolsa. Un excedente menor puede acreditarse a la cuenta del año siguiente.",
     "details": "12 CFR 1024.17 establece la regla de reembolso. La cifra usada desde hace tiempo en el texto es un excedente de $50 o más, que debe reembolsarse dentro del tiempo que indica la sección. Confirme el texto vigente antes de armar la carta, porque un procedimiento no debe sobrevivir a una enmienda. Un excedente no es un regalo. Es el dinero del prestatario.",
     "complianceNotes": "Reembolse los excedentes que alcanzan el umbral. No los conserve para rellenar la cuenta. Envíe el cheque o el crédito con el estado anual.",
     "example": {

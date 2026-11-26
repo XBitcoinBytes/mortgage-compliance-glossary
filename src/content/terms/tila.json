@@ -3,7 +3,8 @@
   "term": "Truth in Lending Act",
   "aliases": [
     "Truth in Lending Act",
-    "TILA"
+    "TILA",
+    "Truth in Lending"
   ],
   "category": "compliance",
   "definition": "The Truth in Lending Act is the federal statute that requires creditors to disclose the cost of consumer credit, including the finance charge and the annual percentage rate. For most closed-end mortgages, those disclosures now appear on the Loan Estimate and the Closing Disclosure.",
@@ -29,7 +30,8 @@
   "es": {
     "term": "Ley de Veracidad en los Préstamos",
     "aliases": [
-      "TILA"
+      "TILA",
+      "Veracidad en los Préstamos"
     ],
     "definition": "La Ley de Veracidad en los Préstamos es la ley federal que exige a los acreedores divulgar el costo del crédito al consumidor, incluido el cargo por financiamiento y la tasa porcentual anual. Para la mayoría de las hipotecas de crédito cerrado, esas divulgaciones aparecen ahora en la Estimación del préstamo y en la Divulgación del cierre.",
     "details": "La ley empieza en 15 USC 1601. La capacidad de pago está en 15 USC 1639c, y las disposiciones de alto costo de HOEPA están en 15 USC 1639. El Reglamento Z, 12 CFR Parte 1026, es el reglamento que la aplica. TILA no es RESPA. RESPA cubre los servicios de liquidación, las comisiones, el depósito en garantía y la administración. Un expediente puede violar una ley y no la otra.",

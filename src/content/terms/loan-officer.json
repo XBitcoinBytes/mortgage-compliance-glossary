@@ -1,7 +1,10 @@
 {
   "slug": "loan-officer",
   "term": "Loan officer",
-  "aliases": [],
+  "aliases": [
+    "loan-officer",
+    "loan officers"
+  ],
   "category": "origination",
   "definition": "Loan officer is the everyday job title for a person who takes mortgage applications and discusses rates and terms. If that is the work, the person is a mortgage loan originator under federal law, whatever the business card says.",
   "details": "12 CFR 1026.36 and the SAFE Act attach licensing and compensation duties to the activity, not the title. A loan officer employed by a bank registers through NMLS. A loan officer at a nonbank must hold the required state license. The person identified on the Loan Estimate should be the originator on the file.",
@@ -27,7 +30,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Oficial de préstamos",
-    "aliases": [],
+    "aliases": [
+      "oficiales de préstamos"
+    ],
     "definition": "Oficial de préstamos es el título cotidiano de una persona que toma solicitudes hipotecarias y habla de tasas y términos. Si ese es el trabajo, la persona es un originador de préstamos hipotecarios según la ley federal, diga lo que diga la tarjeta de presentación.",
     "details": "12 CFR 1026.36 y la Ley SAFE atan los deberes de licencia y compensación a la actividad, no al título. Un oficial de préstamos empleado por un banco se registra por medio de NMLS. Un oficial de préstamos en una entidad no bancaria debe tener la licencia estatal exigida. La persona identificada en la Estimación del préstamo debe ser el originador del expediente.",
     "complianceNotes": "No deje que un asistente sin licencia cotice tasas o tome datos de solicitud que inician el expediente, salvo que esa persona quede fuera de la definición de originador según los hechos reales. Mantenga el identificador NMLS de la publicidad y el de la Estimación del préstamo en acuerdo.",

@@ -3,7 +3,7 @@
   "term": "Table funding",
   "aliases": [],
   "category": "origination",
-  "definition": "Table funding is a closing at which the loan is funded by a contemporaneous advance from another company, and the loan is assigned to that company at the same time. The broker or original name on the papers is not the real source of the money.",
+  "definition": "Table funding is a closing at which the loan is funded by a contemporaneous advance from another company, and the loan is assigned to that company at the same time. The mortgage broker or original name on the papers is not the real source of the money.",
   "details": "Regulation X defines table funding in 12 CFR 1024.2. It matters because the person who table-funds may be treated as the lender for RESPA purposes, and creditor status under Regulation Z follows who the obligation is initially payable to. Calling a table-funded loan a correspondent funding, when the correspondent did not use its own money, misstates the channel.",
   "complianceNotes": "Read the funding agreement and the wire. If the investor advances funds at the table and takes the loan immediately, document it as table funding and name the parties correctly on the disclosures. Do not use correspondent procedures for a broker table-fund.",
   "example": {
@@ -25,7 +25,7 @@
   "es": {
     "term": "Financiamiento en mesa",
     "aliases": [],
-    "definition": "El financiamiento en mesa es un cierre en el que el préstamo se financia con un adelanto simultáneo de otra empresa, y el préstamo se cede a esa empresa al mismo tiempo. El corredor o el nombre original en los papeles no es la fuente real del dinero.",
+    "definition": "El financiamiento en mesa es un cierre en el que el préstamo se financia con un adelanto simultáneo de otra empresa, y el préstamo se cede a esa empresa al mismo tiempo. El corredor hipotecario o el nombre original en los papeles no es la fuente real del dinero.",
     "details": "El Reglamento X define el financiamiento en mesa en 12 CFR 1024.2. Importa porque la persona que financia en mesa puede ser tratada como el prestamista para efectos de RESPA, y la calidad de acreedor según el Reglamento Z sigue a quien la obligación es inicialmente pagadera. Llamar financiamiento de corresponsal a un préstamo financiado en mesa, cuando el corresponsal no usó su propio dinero, describe mal el canal.",
     "complianceNotes": "Lea el acuerdo de financiamiento y la transferencia. Si el inversionista adelanta los fondos en la mesa y toma el préstamo de inmediato, documéntelo como financiamiento en mesa y nombre a las partes correctamente en las divulgaciones. No use procedimientos de corresponsal para un financiamiento en mesa de un corredor.",
     "example": {

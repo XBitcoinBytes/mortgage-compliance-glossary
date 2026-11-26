@@ -3,7 +3,8 @@
   "term": "Debt-to-income ratio",
   "aliases": [
     "DTI",
-    "back-end ratio"
+    "back-end ratio",
+    "debt ratio"
   ],
   "category": "underwriting",
   "definition": "Your debt-to-income ratio is your monthly debt payments divided by your gross monthly income. Lenders use it to see whether the new mortgage payment fits with the debts you already have. There is no single legal maximum for every loan.",
@@ -54,7 +55,8 @@
   "es": {
     "term": "Relación deuda-ingreso",
     "aliases": [
-      "DTI"
+      "DTI",
+      "relación de deudas"
     ],
     "definition": "Su relación deuda-ingreso es el total de sus pagos mensuales de deudas dividido entre su ingreso mensual bruto. Los prestamistas la usan para ver si el nuevo pago de la hipoteca cabe junto con las deudas que usted ya tiene. No hay un máximo legal único para todo préstamo.",
     "details": "La Selling Guide de Fannie Mae B3-6-02 explica cómo se arma la relación con las obligaciones mensuales totales y el ingreso de calificación, y publica máximos distintos para préstamos suscritos manualmente y para Desktop Underwriter. Esos máximos son política de la guía y la guía los revisa. La capacidad de pago según 12 CFR 1026.43 mira deudas e ingresos, pero no fija un porcentaje universal. La FHA y VA usan sus propios manuales.",

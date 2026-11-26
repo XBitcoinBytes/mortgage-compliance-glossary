@@ -2,7 +2,10 @@
   "slug": "mortgage-loan-originator",
   "term": "Mortgage loan originator",
   "aliases": [
-    "MLO"
+    "MLO",
+    "loan originator",
+    "loan originators",
+    "loan-originator"
   ],
   "category": "origination",
   "definition": "A mortgage loan originator is a person who, for compensation or gain, takes a mortgage application or offers or negotiates the terms of a mortgage. The job title does not control. The work does.",
@@ -30,7 +33,11 @@
   "es": {
     "term": "Originador del préstamo",
     "aliases": [
-      "MLO"
+      "MLO",
+      "originador del préstamo",
+      "originadores del préstamo",
+      "originador de préstamos hipotecarios",
+      "originadores de préstamos hipotecarios"
     ],
     "definition": "Un originador del préstamo es una persona que, a cambio de compensación o ganancia, toma una solicitud hipotecaria u ofrece o negocia los términos de una hipoteca. El título del puesto no manda. Manda el trabajo.",
     "details": "El Reglamento Z define el término en 12 CFR 1026.36, y la Ley SAFE usa una definición paralela para las licencias. Los empleados que solo hacen tareas administrativas, suscripción o procesamiento pueden quedar fuera de la definición si no toman solicitudes ni negocian términos. Una empresa de corretaje puede ser originador, y también una persona. Las reglas de compensación y de dirección indebida se aplican a ambos.",

@@ -1,7 +1,10 @@
 {
   "slug": "lenders-title-policy",
   "term": "Lender's title policy",
-  "aliases": [],
+  "aliases": [
+    "lender's policy",
+    "lenders policy"
+  ],
   "category": "closing",
   "definition": "The lender's title policy insures the lender that its lien has the priority the policy describes. Lenders require it. It does not insure your equity. If a covered defect appears, the policy pays the lender under its terms, not automatically you.",
   "details": "The charge is a settlement service on the Loan Estimate. If the consumer can shop, it is Section C and the tolerance depends on whether the provider was on the written list. If the creditor requires its provider, it is Section B and generally zero tolerance. The policy amount is typically the loan amount. Endorsements the lender requires are separate charges.",
@@ -27,7 +30,9 @@
   "reviewed": "2026-11-25",
   "es": {
     "term": "Póliza de título del prestamista",
-    "aliases": [],
+    "aliases": [
+      "póliza del prestamista"
+    ],
     "definition": "La póliza de título del prestamista asegura al prestamista que su gravamen tiene la prioridad que describe la póliza. Los prestamistas la exigen. No asegura su plusvalía. Si aparece un defecto cubierto, la póliza paga al prestamista según sus términos, no automáticamente a usted.",
     "details": "El cargo es un servicio de liquidación en la Estimación del préstamo. Si el consumidor puede comparar, es Sección C y la tolerancia depende de si el proveedor estaba en la lista escrita. Si el acreedor exige su proveedor, es Sección B y por lo general tiene tolerancia cero. El monto de la póliza por lo general es el monto del préstamo. Los endosos que exige el prestamista son cargos separados.",
     "complianceNotes": "Nombre a la aseguradora propuesta en la lista escrita si el cargo se puede comparar. Recoja la prima final antes de finalizar la Divulgación del cierre. No describa esta póliza como cobertura del propietario.",

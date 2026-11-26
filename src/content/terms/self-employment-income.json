@@ -1,7 +1,10 @@
 {
   "slug": "self-employment-income",
   "term": "Self-employment income",
-  "aliases": [],
+  "aliases": [
+    "self-employment",
+    "self employment"
+  ],
   "category": "underwriting",
   "definition": "Self-employment income is profit from a business you own, as a sole proprietor, partner, or owner of a corporation. Lenders do not use the deposits in the business account as if they were wages. They start from the tax returns.",
   "details": "Fannie Mae section B3-3.5 contains the self-employment analysis, including history and access to the income. The general continuance standard is in B3-3.1-01. A common guide standard is a history of self-employment, with exceptions the section describes. Do not turn that history into a statute, and do not qualify on a single profitable month. Stable monthly income is the figure that enters the debt-to-income ratio.",
@@ -26,7 +29,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Ingreso de trabajo por cuenta propia",
-    "aliases": [],
+    "aliases": [
+      "trabajo por cuenta propia"
+    ],
     "definition": "El ingreso de trabajo por cuenta propia es la ganancia de un negocio que usted posee, como empresario individual, socio o dueño de una corporación. Los prestamistas no usan los depósitos de la cuenta del negocio como si fueran salarios. Empiezan por las declaraciones de impuestos.",
     "details": "La sección B3-3.5 de Fannie Mae contiene el análisis del trabajo por cuenta propia, incluido el historial y el acceso al ingreso. El estándar general de continuidad está en B3-3.1-01. Un estándar común de la guía es un historial de trabajo por cuenta propia, con excepciones que la sección describe. No convierta ese historial en una ley, y no califique con un solo mes rentable. El ingreso mensual estable es la cifra que entra en la relación deuda-ingreso.",
     "complianceNotes": "Identifique la estructura del negocio y el porcentaje de propiedad del prestatario antes de calcular. Reincorpore solo los gastos que la guía permite. Si el negocio está en descenso, no promedie un año antiguo fuerte sin el análisis de la guía.",

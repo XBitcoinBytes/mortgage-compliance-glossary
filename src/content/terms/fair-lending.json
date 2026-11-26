@@ -1,7 +1,9 @@
 {
   "slug": "fair-lending",
   "term": "Fair lending",
-  "aliases": [],
+  "aliases": [
+    "fair-lending"
+  ],
   "category": "compliance",
   "definition": "Fair lending is the set of duties under the Equal Credit Opportunity Act and the Fair Housing Act, with unfair or deceptive conduct sometimes overlapping. It is not a single form. It is the requirement that credit decisions and pricing not discriminate on a prohibited basis.",
   "details": "ECOA and Regulation B prohibit discrimination on the bases listed in those laws. The Fair Housing Act, 42 USC 3604 and 3605, covers housing and residential real-estate credit and has its own list of protected classes. The lists are not identical. HMDA data are how examiners often start a comparison. A pricing exception that has no documented reason is a fair-lending record problem even before anyone proves intent.",

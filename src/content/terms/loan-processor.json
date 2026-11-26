@@ -26,7 +26,7 @@
   "es": {
     "term": "Procesador de préstamos",
     "aliases": [],
-    "definition": "Un procesador de préstamos reúne documentos, pide verificaciones y mantiene el expediente en movimiento después de que se toma la solicitud. El procesamiento es trabajo de apoyo. Se vuelve trabajo de originador si la persona toma la solicitud o negocia la tasa o los términos a cambio de pago.",
+    "definition": "Un procesador de préstamos reúne documentos, pide verificaciones y mantiene el expediente en movimiento después de que se toma la solicitud. El procesamiento es trabajo de apoyo. Se vuelve trabajo de originador del préstamo si la persona toma la solicitud o negocia la tasa o los términos a cambio de pago.",
     "details": "La Ley SAFE y 12 CFR 1026.36 definen al originador por la actividad. Si un procesador necesita licencia depende de si esa actividad está presente, y de la ley estatal. No es exacto decir que los procesadores nunca tienen licencia, o que siempre la tienen. Las actualizaciones administrativas bajo la dirección de un oficial de préstamos son el núcleo del puesto.",
     "complianceNotes": "Redacte las descripciones de puesto para que los procesadores no coticen precios ni tomen solicitudes. Si lo hacen, dénles licencia e inclúyalos en la regla de compensación. Las condiciones que el procesador levanta igual deben coincidir con lo que pidió el suscriptor.",
     "example": {

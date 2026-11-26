@@ -1,7 +1,9 @@
 {
   "slug": "conventional-loan",
   "term": "Conventional loan",
-  "aliases": [],
+  "aliases": [
+    "conventional loans"
+  ],
   "category": "loan-programs",
   "definition": "A conventional loan is a mortgage that is not insured by FHA or guaranteed by VA or USDA. It may follow Fannie Mae or Freddie Mac rules, or it may be a jumbo or portfolio loan. Private mortgage insurance is common when the down payment is small.",
   "details": "Conventional is a market category, not a CFR part. Delivery to Fannie Mae or Freddie Mac adds the Selling Guide or the Seller/Servicer Guide. Ability to repay under 12 CFR 1026.43 still applies. Mortgage insurance on a conventional loan is PMI, governed for borrower-paid policies by the Homeowners Protection Act, not by FHA's MIP schedule.",
@@ -32,7 +34,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Préstamo convencional",
-    "aliases": [],
+    "aliases": [
+      "préstamos convencionales"
+    ],
     "definition": "Un préstamo convencional es una hipoteca que no está asegurada por la FHA ni garantizada por VA o USDA. Puede seguir las reglas de Fannie Mae o Freddie Mac, o puede ser un préstamo jumbo o de cartera. El seguro hipotecario privado es común cuando el pago inicial es pequeño.",
     "details": "Convencional es una categoría del mercado, no una parte del CFR. La entrega a Fannie Mae o Freddie Mac agrega la Selling Guide o la Guía del vendedor/administrador. La capacidad de pago según 12 CFR 1026.43 igual se aplica. El seguro hipotecario de un préstamo convencional es PMI, regido para las pólizas pagadas por el prestatario por la Ley de Protección de los Propietarios, no por el calendario de MIP de la FHA.",
     "complianceNotes": "Marque el tipo de préstamo correctamente en la Estimación del préstamo. No cite el seguro hipotecario de la FHA en un expediente convencional. Confirme si el préstamo es conforme antes de prometer una entrega a una GSE.",

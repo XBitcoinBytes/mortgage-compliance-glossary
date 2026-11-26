@@ -1,7 +1,10 @@
 {
   "slug": "owners-title-policy",
   "term": "Owner's title policy",
-  "aliases": [],
+  "aliases": [
+    "owner's policy",
+    "owners policy"
+  ],
   "category": "closing",
   "definition": "The owner's title policy insures you, the buyer, against covered title defects. In many purchases it is optional, and a seller or a contract may agree to pay for it. It is not required by a federal mortgage rule. The lender's policy does not take its place.",
   "details": "12 CFR 1026.37 has a specific way to disclose the owner's premium on a purchase Loan Estimate, including the simultaneous-issue math. Entering the full owner's premium on the wrong line misstates cash to close. Who pays is a contract term and should match page 3 of the Closing Disclosure.",
@@ -25,7 +28,9 @@
   "reviewed": "2026-11-25",
   "es": {
     "term": "Póliza de título del propietario",
-    "aliases": [],
+    "aliases": [
+      "póliza del propietario"
+    ],
     "definition": "La póliza de título del propietario lo asegura a usted, el comprador, contra defectos cubiertos del título. En muchas compras es opcional, y un vendedor o un contrato puede aceptar pagarla. No la exige una regla hipotecaria federal. La póliza del prestamista no ocupa su lugar.",
     "details": "12 CFR 1026.37 tiene una forma específica de divulgar la prima del propietario en una Estimación del préstamo de compra, incluida la matemática de la emisión simultánea. Ingresar la prima completa del propietario en la línea equivocada tergiversa el efectivo para el cierre. Quién paga es un término del contrato y debe coincidir con la página 3 de la Divulgación del cierre.",
     "complianceNotes": "Pida a la compañía de título la cifra de divulgación que espera el formulario de TRID, no solo el total de la factura. Dígale al prestatario que la póliza del propietario es una elección, salvo que el contrato la exija.",

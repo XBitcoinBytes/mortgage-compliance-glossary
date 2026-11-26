@@ -2,7 +2,9 @@
   "slug": "automated-underwriting-system",
   "term": "Automated underwriting system",
   "aliases": [
-    "AUS"
+    "AUS",
+    "automated underwriting",
+    "automated underwriting systems"
   ],
   "category": "underwriting",
   "definition": "An automated underwriting system is software that reads the application and returns a risk recommendation and a list of conditions. Desktop Underwriter, Loan Product Advisor, FHA TOTAL, and GUS are examples. The finding is not a legal approval and not a Loan Estimate.",
@@ -29,7 +31,9 @@
   "es": {
     "term": "Sistema automatizado de suscripción",
     "aliases": [
-      "AUS"
+      "AUS",
+      "sistema automatizado de suscripción",
+      "sistemas automatizados de suscripción"
     ],
     "definition": "Un sistema automatizado de suscripción es un programa que lee la solicitud y devuelve una recomendación de riesgo y una lista de condiciones. Desktop Underwriter, Loan Product Advisor, TOTAL de la FHA y GUS son ejemplos. El hallazgo no es una aprobación legal ni una Estimación del préstamo.",
     "details": "Cada sistema tiene su propia guía. El capítulo B3-2 de Fannie Mae rige DU. Freddie Mac describe Loan Product Advisor en sus herramientas y su guía. TOTAL de la FHA y GUS de USDA son sistemas de agencia. El prestamista debe enviar datos exactos, levantar las condiciones y cumplir igual la capacidad de pago. Un hallazgo de aprobación no corrige una solicitud falsa.",

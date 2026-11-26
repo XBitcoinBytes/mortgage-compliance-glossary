@@ -1,7 +1,9 @@
 {
   "slug": "business-day",
   "term": "Business day",
-  "aliases": [],
+  "aliases": [
+    "business days"
+  ],
   "category": "origination",
   "definition": "Regulation Z uses two different meanings of business day. One is a day the creditor's offices are open to the public for most of its business. The other, used for the Closing Disclosure waiting period and the right to cancel, is every calendar day except Sundays and federal legal holidays.",
   "details": "Both definitions are in 12 CFR 1026.2(a)(6). The general definition applies to the three-business-day period to deliver the Loan Estimate after application. The specific definition applies to the seven-business-day waiting period before consummation, the three-business-day Closing Disclosure period, and rescission. A Saturday can count for the Closing Disclosure even if the creditor's office is closed. A Sunday does not.",
@@ -25,7 +27,9 @@
   "reviewed": "2026-11-25",
   "es": {
     "term": "Día hábil",
-    "aliases": [],
+    "aliases": [
+      "días hábiles"
+    ],
     "definition": "El Reglamento Z usa dos significados distintos de día hábil. Uno es un día en que las oficinas del acreedor están abiertas al público para la mayor parte de su negocio. El otro, usado para la espera de la Divulgación del cierre y el derecho a cancelar, es cada día del calendario excepto los domingos y los feriados legales federales.",
     "details": "Ambas definiciones están en 12 CFR 1026.2(a)(6). La definición general se aplica al plazo de tres días hábiles para entregar la Estimación del préstamo después de la solicitud. La definición específica se aplica al plazo de siete días hábiles antes de la consumación, al período de tres días hábiles de la Divulgación del cierre y a la rescisión. Un sábado puede contar para la Divulgación del cierre aunque la oficina del acreedor esté cerrada. Un domingo no cuenta.",
     "complianceNotes": "Incluya ambos calendarios en el sistema de divulgación y no permita que el personal cuente los días de la Divulgación del cierre con la definición de oficina abierta. Los feriados federales, no los estatales, son los que elimina la definición específica. Documente la fecha de recepción, no solo la de envío.",

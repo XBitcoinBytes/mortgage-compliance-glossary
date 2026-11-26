@@ -1,7 +1,9 @@
 {
   "slug": "power-of-attorney",
   "term": "Power of attorney",
-  "aliases": [],
+  "aliases": [
+    "POA"
+  ],
   "category": "origination",
   "definition": "A power of attorney lets a named person sign loan documents for the borrower. Lenders and agencies allow it only in limited cases, such as a borrower who is deployed or medically unable to sign. It is not a convenience shortcut.",
   "details": "The Fannie Mae Selling Guide sets conditions for a power of attorney on loans delivered to Fannie Mae, including who may be the agent and whether the borrower must still sign some documents. Title companies and state law add formalities. A power of attorney does not change who the borrower is, and it does not waive the Loan Estimate or Closing Disclosure.",

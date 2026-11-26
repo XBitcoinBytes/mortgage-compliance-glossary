@@ -1,7 +1,11 @@
 {
   "slug": "co-signer",
   "term": "Co-signer",
-  "aliases": [],
+  "aliases": [
+    "cosigner",
+    "co-signers",
+    "co signer"
+  ],
   "category": "origination",
   "definition": "A co-signer signs the note and agrees to repay, but often does not take an ownership interest in the property and may not be treated as a full applicant. Creditors may not require a co-signer, including a spouse, just to have an extra signature.",
   "details": "12 CFR 1002.7 says a creditor shall not require the signature of a spouse or other person if the applicant qualifies alone, with narrow exceptions tied to state property law and the creditworthiness of the applicant. A co-signer's debts and credit can still matter if that person is actually an applicant. The note, not the job title, shows who is obligated.",
@@ -26,7 +30,8 @@
   "es": {
     "term": "Codeudor",
     "aliases": [
-      "Cofirmante"
+      "Cofirmante",
+      "codeudores"
     ],
     "definition": "Un codeudor firma el pagaré y acepta pagar, pero a menudo no adquiere un interés de propiedad y puede no ser tratado como un solicitante completo. Los acreedores no pueden exigir un codeudor, incluido un cónyuge, solo para tener una firma extra.",
     "details": "12 CFR 1002.7 dice que un acreedor no debe exigir la firma de un cónyuge u otra persona si el solicitante califica solo, con excepciones estrechas ligadas a la ley de bienes del estado y a la solvencia del solicitante. Las deudas y el crédito de un codeudor igual pueden importar si esa persona es de verdad un solicitante. El pagaré, no el título del puesto, muestra quién está obligado.",

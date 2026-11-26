@@ -3,7 +3,7 @@
   "term": "Abusive act or practice",
   "aliases": [],
   "category": "compliance",
-  "definition": "An abusive act or practice materially interferes with a consumer's ability to understand a term or condition, or takes unreasonable advantage of a consumer's lack of understanding, inability to protect their interests, or reasonable reliance on the company. Those are the statutory paths. A high price alone is not the test.",
+  "definition": "An abusive act or practice materially interferes with a consumer's ability to understand a term or condition, or takes unreasonable advantage of a consumer's lack of understanding, inability to protect their interests, or reasonable reliance on the company. Those are the statutory UDAAP paths. A high price alone is not the test.",
   "details": "12 USC 5531(d) states the two branches. Material interference is about understanding. Unreasonable advantage is about the consumer's situation or reliance. Mortgage examples in enforcement have included steering borrowers into loans they did not understand when the originator benefited. Do not add elements that are not in the statute.",
   "complianceNotes": "Ask whether the consumer could understand the payment change or the penalty, and whether the company took advantage of that gap. Keep the explanation you gave. A compliant Loan Estimate does not automatically defeat an abusiveness claim, but it is important evidence.",
   "example": {
@@ -24,7 +24,7 @@
   "es": {
     "term": "Acto o práctica abusiva",
     "aliases": [],
-    "definition": "Un acto o práctica abusiva interfiere de manera importante con la capacidad del consumidor de entender un término o una condición, o se aprovecha de manera irrazonable de la falta de entendimiento del consumidor, de su incapacidad de proteger sus intereses o de su confianza razonable en la empresa. Esas son las vías de la ley. Un precio alto por sí solo no es la prueba.",
+    "definition": "Un acto o práctica abusiva interfiere de manera importante con la capacidad del consumidor de entender un término o una condición, o se aprovecha de manera irrazonable de la falta de entendimiento del consumidor, de su incapacidad de proteger sus intereses o de su confianza razonable en la empresa. Esas son las vías legales de UDAAP. Un precio alto por sí solo no es la prueba.",
     "details": "12 USC 5531(d) establece las dos ramas. La interferencia importante es sobre el entendimiento. El aprovechamiento irrazonable es sobre la situación o la confianza del consumidor. Los ejemplos hipotecarios en la ejecución han incluido dirigir a prestatarios a préstamos que no entendían cuando el originador se beneficiaba. No agregue elementos que no están en la ley.",
     "complianceNotes": "Pregunte si el consumidor podía entender el cambio del pago o la penalidad, y si la empresa se aprovechó de esa brecha. Conserve la explicación que dio. Una Estimación del préstamo que cumple no derrota automáticamente una alegación de abuso, pero es prueba importante.",
     "example": {

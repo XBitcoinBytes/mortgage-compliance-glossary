@@ -29,7 +29,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Préstamo garantizado de USDA",
-    "aliases": [],
+    "aliases": [
+      "Sección 502",
+      "préstamo USDA"
+    ],
     "definition": "Un préstamo garantizado de USDA es un préstamo de vivienda rural de la Sección 502 hecho por un prestamista y garantizado por USDA. La propiedad debe estar en un área rural elegible, y el ingreso del hogar debe estar dentro de los límites que publica USDA. Esos límites y la cuota de garantía cambian. No los cite desde esta página.",
     "details": "7 CFR Parte 3555 es el reglamento del programa. HB-1-3555 es el manual. GUS es el sistema automatizado. Hay una cuota de garantía inicial y una cuota anual. El ingreso se calcula como USDA define el ingreso del hogar, que no es lo mismo que el ingreso de calificación de Fannie Mae. El programa de préstamo directo de USDA es un producto distinto del préstamo garantizado.",
     "complianceNotes": "Revise el mapa de elegibilidad de la propiedad y los límites de ingreso vigentes antes de tomar una solicitud completa. Divulgue ambas cuotas. No suscriba el ingreso del hogar solo con los firmantes del pagaré si el manual cuenta a otras personas.",

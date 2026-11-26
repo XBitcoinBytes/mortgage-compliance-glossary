@@ -25,7 +25,7 @@
     "aliases": [
       "Pago durante una transferencia"
     ],
-    "definition": "Si usted envía un pago a tiempo al administrador anterior durante el período de protección de la regla de transferencia, el nuevo administrador no puede tratar ese pago como tardío. El punto es protegerlo mientras las empresas cambian la dirección del cupón. La duración del período está en el reglamento.",
+    "definition": "Si usted envía un pago a tiempo al administrador del préstamo anterior durante el período de protección de una transferencia de la administración, el nuevo administrador no puede tratar ese pago como tardío. El punto es protegerlo mientras las empresas cambian la dirección del cupón. La duración del período está en el reglamento.",
     "details": "12 CFR 1024.33 es la sección. También trata la aplicación del pago y los cargos por mora. Esta entrada no repite el conteo de días para que los procedimientos de administración se revisen contra la frase vigente. Un pago que ya estaba tarde antes de la transferencia no se cura con la protección.",
     "complianceNotes": "Codifique el recibo del administrador anterior durante la ventana protegida como a tiempo. Revierta los cargos por mora que violan la sección. Dígales a los prestatarios, en los avisos, a dónde enviar el pago y por cuánto tiempo la dirección anterior todavía sirve.",
     "example": {

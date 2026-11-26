@@ -1,7 +1,10 @@
 {
   "slug": "mortgage-servicer",
   "term": "Mortgage servicer",
-  "aliases": [],
+  "aliases": [
+    "servicer",
+    "servicers"
+  ],
   "category": "servicing",
   "definition": "The mortgage servicer is the company that collects your payments, handles the escrow account, and answers questions about the loan. The owner of the loan may be an investor you never meet. You deal with the servicer.",
   "details": "Regulation X, 12 CFR Part 1024, imposes servicing duties on covered servicers, including error resolution, information requests, escrow, force-placed insurance, and loss mitigation. The servicer must also provide a periodic statement when 12 CFR 1026.41 requires one. A transfer of servicing does not change the note. It changes who you pay.",
@@ -39,7 +42,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Administrador del préstamo",
-    "aliases": [],
+    "aliases": [
+      "administradores del préstamo",
+      "servicer"
+    ],
     "definition": "El administrador del préstamo es la empresa que cobra sus pagos, maneja la cuenta de depósito en garantía y responde preguntas sobre el préstamo. El dueño del préstamo puede ser un inversionista que usted nunca ve. Usted trata con el administrador.",
     "details": "El Reglamento X, 12 CFR Parte 1024, impone deberes de administración a los administradores cubiertos, incluida la resolución de errores, los pedidos de información, el depósito en garantía, el seguro impuesto y la mitigación de pérdidas. El administrador también debe dar un estado de cuenta periódico cuando 12 CFR 1026.41 lo exige. Una transferencia de la administración no cambia el pagaré. Cambia a quién le paga usted.",
     "complianceNotes": "Identifique al administrador registrado antes de enviar un aviso de error o un pago. Use la dirección del último aviso de transferencia o del estado de cuenta. No suponga que el prestamista original todavía cobra el pago.",

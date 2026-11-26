@@ -3,7 +3,7 @@
   "term": "Source of funds",
   "aliases": [],
   "category": "origination",
-  "definition": "Source of funds means showing where the money for closing came from and that it is allowed. Savings, a documented gift, and sale proceeds can qualify. Undisclosed borrowed money generally does not.",
+  "definition": "Source of funds means showing where the money for closing came from and that it is allowed. Savings, documented gift funds, and sale proceeds can qualify. Undisclosed borrowed money generally does not.",
   "details": "Agency guides require documentation of funds to close and of reserves. Large deposits must be sourced when the guide says so. Gift funds need a letter and transfer evidence under B3-4.3-04. Borrowed funds secured by the subject property are subordinate financing and change the combined loan-to-value ratio. The guide, not a habit, decides what paper is enough.",
   "complianceNotes": "Trace each dollar used to close from a statement, a gift, or a verified sale. Do not accept a mattress of cash without a source the guide allows. Question deposits that appeared just before application.",
   "example": {
@@ -35,7 +35,7 @@
   "es": {
     "term": "Origen de los fondos",
     "aliases": [],
-    "definition": "El origen de los fondos significa mostrar de dónde salió el dinero para el cierre y que está permitido. Los ahorros, un regalo documentado y el producto de una venta pueden calificar. El dinero prestado no divulgado por lo general no califica.",
+    "definition": "El origen de los fondos significa mostrar de dónde salió el dinero para el cierre y que está permitido. Los ahorros, los fondos de regalo documentados y el producto de una venta pueden calificar. El dinero prestado no divulgado por lo general no califica.",
     "details": "Las guías de las agencias exigen documentar los fondos para el cierre y las reservas. Los depósitos grandes deben explicarse cuando la guía lo dice. Los fondos de regalo necesitan una carta y prueba de la transferencia según B3-4.3-04. Los fondos prestados garantizados por la propiedad son financiamiento subordinado y cambian la relación combinada préstamo-valor. La guía, no la costumbre, decide qué papel basta.",
     "complianceNotes": "Rastree cada dólar usado para el cierre desde un estado de cuenta, un regalo o una venta verificada. No acepte un fajo de efectivo sin un origen que la guía permita. Cuestione los depósitos que aparecieron justo antes de la solicitud.",
     "example": {

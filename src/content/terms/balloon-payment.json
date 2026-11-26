@@ -1,7 +1,9 @@
 {
   "slug": "balloon-payment",
   "term": "Balloon payment",
-  "aliases": [],
+  "aliases": [
+    "balloon payments"
+  ],
   "category": "loan-programs",
   "definition": "A balloon payment is a large payment due at the end of the loan, bigger than the regular installments. Most qualified mortgages cannot have a balloon. Limited exceptions, if any remain, must be read from 12 CFR 1026.43 rather than assumed for small creditors.",
   "details": "12 CFR 1026.37 requires disclosure of a balloon. 12 CFR 1026.43 restricts balloons on qualified mortgages. A borrower who cannot refinance when the balloon comes due faces a default. High-cost mortgages have additional balloon limits under 12 CFR 1026.34. Do not describe a 30-year amortizing loan as a balloon because the last payment is a few dollars different from rounding.",
@@ -24,7 +26,9 @@
   "reviewed": "2026-11-25",
   "es": {
     "term": "Pago global",
-    "aliases": [],
+    "aliases": [
+      "pagos globales"
+    ],
     "definition": "Un pago global es un pago grande debido al final del préstamo, mayor que las cuotas regulares. La mayoría de las hipotecas calificadas no pueden tener un pago global. Las excepciones limitadas, si todavía existen, deben leerse en 12 CFR 1026.43 y no suponerse para acreedores pequeños.",
     "details": "12 CFR 1026.37 exige la divulgación de un pago global. 12 CFR 1026.43 restringe los pagos globales en las hipotecas calificadas. Un prestatario que no puede refinanciar cuando llega el pago global enfrenta un incumplimiento. Las hipotecas de alto costo tienen límites adicionales de pagos globales según 12 CFR 1026.34. No describa un préstamo amortizable a 30 años como un pago global porque el último pago difiere unos dólares por el redondeo.",
     "complianceNotes": "Si el pagaré tiene un pago global real, divulgue el monto y la fecha y no llame al préstamo hipoteca calificada salvo que se cumpla y se documente la excepción vigente.",

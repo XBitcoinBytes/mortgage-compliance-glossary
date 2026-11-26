@@ -4,7 +4,8 @@
   "aliases": [
     "10% tolerance",
     "10% bucket",
-    "ten percent tolerance"
+    "ten percent tolerance",
+    "10 percent cumulative tolerance"
   ],
   "category": "closing",
   "definition": "The 10 percent tolerance is a cumulative limit, not a limit on each fee. Recording fees and the services the consumer can shop for, if the consumer uses a provider on the written list, may not increase by more than 10 percent in total. One fee can rise if another falls, as long as the group stays inside 10 percent.",
@@ -31,7 +32,8 @@
   "es": {
     "term": "Tolerancia del 10 por ciento",
     "aliases": [
-      "tolerancia del 10%"
+      "tolerancia del 10%",
+      "tolerancia acumulada del 10 por ciento"
     ],
     "definition": "La tolerancia del 10 por ciento es un límite acumulado, no un límite de cada cargo. Los cargos de registro y los servicios que el consumidor puede comparar, si el consumidor usa un proveedor de la lista escrita, no pueden aumentar más del 10 por ciento en total. Un cargo puede subir si otro baja, siempre que el grupo se mantenga dentro del 10 por ciento.",
     "details": "12 CFR 1026.19(e)(3)(ii) es la regla. El porcentaje está en el reglamento. Si el consumidor elige un proveedor que no está en la lista escrita, ese servicio sale del grupo del 10 por ciento y puede cambiar sin ese límite. El acreedor debe haber dado la lista para que la regla de comparar funcione. Los cargos de un afiliado que el consumidor no puede comparar no están en este grupo.",

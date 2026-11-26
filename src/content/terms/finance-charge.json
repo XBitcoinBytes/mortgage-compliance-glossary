@@ -1,7 +1,9 @@
 {
   "slug": "finance-charge",
   "term": "Finance charge",
-  "aliases": [],
+  "aliases": [
+    "finance charges"
+  ],
   "category": "compliance",
   "definition": "The finance charge is the dollar cost of consumer credit. It includes interest and certain other charges that are part of the cost of borrowing. It does not include every closing cost. A charge that is excluded because it is a real-estate fee can still appear on the Loan Estimate.",
   "details": "12 CFR 1026.4 defines the finance charge and the exclusions, including some real-estate related fees if they are bona fide and reasonable. The annual percentage rate is built from the finance charge and the amount financed under 12 CFR 1026.22. Points and fees for QM and HOEPA are a different total. A tolerance error on a finance charge can also make the APR inaccurate.",
@@ -34,7 +36,9 @@
   "es": {
     "term": "Cargo por financiamiento",
     "aliases": [
-      "Cargo financiero"
+      "Cargo financiero",
+      "cargos por financiamiento",
+      "cargos financieros"
     ],
     "definition": "El cargo por financiamiento es el costo en dólares del crédito al consumidor. Incluye el interés y ciertos otros cargos que forman parte del costo de pedir prestado. No incluye todo costo de cierre. Un cargo que se excluye porque es un cargo inmobiliario igual puede aparecer en la Estimación del préstamo.",
     "details": "12 CFR 1026.4 define el cargo por financiamiento y las exclusiones, incluidos algunos cargos relacionados con bienes raíces si son de buena fe y razonables. La tasa porcentual anual se construye a partir del cargo por financiamiento y el monto financiado según 12 CFR 1026.22. Los puntos y cargos para la QM y HOEPA son un total distinto. Un error de tolerancia en un cargo por financiamiento también puede hacer que la tasa porcentual anual sea inexacta.",

@@ -2,7 +2,8 @@
   "slug": "form-w-2",
   "term": "Form W-2",
   "aliases": [
-    "W-2"
+    "W-2",
+    "W-2s"
   ],
   "category": "underwriting",
   "definition": "Form W-2 is the annual wage statement your employer files with the IRS. Lenders use it to confirm last year's wages and to compare them with this year's pay stubs. It is not a tax return and it does not show self-employment profit.",
@@ -29,7 +30,9 @@
   "es": {
     "term": "Formulario W-2",
     "aliases": [
-      "W-2"
+      "W-2",
+      "formularios W-2",
+      "W-2s"
     ],
     "definition": "El Formulario W-2 es la declaración anual de salarios que su empleador presenta al IRS. Los prestamistas lo usan para confirmar los salarios del año pasado y compararlos con los talones de pago de este año. No es una declaración de impuestos y no muestra la ganancia del trabajo por cuenta propia.",
     "details": "Los estándares de documentación del empleo de Fannie Mae en B3-3.2-01 incluyen los W-2 para el ingreso salarial, y B3-3.1-02 trata las transcripciones que pueden confirmarlos. Un W-2 que no coincide con el nombre del empleador en la solicitud necesita una explicación. Varios W-2 pueden significar varios empleos, y cada uno debe cumplir la prueba de continuidad si se usa el ingreso.",

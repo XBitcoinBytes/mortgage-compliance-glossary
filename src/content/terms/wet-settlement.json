@@ -3,7 +3,7 @@
   "term": "Wet settlement",
   "aliases": [],
   "category": "closing",
-  "definition": "A wet settlement is a closing at which the money is disbursed when the documents are signed, or so close to signing that the borrower leaves with the transaction funded. Some states require this. It is a state practice, not a federal form.",
+  "definition": "A wet settlement is a closing at which the money is disbursed when the documents are signed, or so close to signing that the borrower leaves with the transaction funded, unlike dry funding. Some states require this. It is a state practice, not a federal form.",
   "details": "Consummation under Regulation Z is still the moment the borrower becomes obligated, which state law defines. Funding can be the same moment or a later one. The Closing Disclosure wait runs to consummation, not to the wire. A wet closing does not waive that wait. Good-funds laws in some states require collected funds before disbursement.",
   "complianceNotes": "Know whether the state is wet or dry before you promise the borrower the keys and the wire on the same afternoon. Do not fund before the Closing Disclosure wait ends.",
   "example": {
@@ -26,7 +26,7 @@
     "aliases": [
       "cierre húmedo"
     ],
-    "definition": "Una liquidación con desembolso inmediato es un cierre en el que el dinero se desembolsa cuando se firman los documentos, o tan cerca de la firma que el prestatario se va con la transacción financiada. Algunos estados lo exigen. Es una práctica estatal, no un formulario federal.",
+    "definition": "En este cierre el dinero se libera cuando se firman los documentos, o tan cerca de la firma que el prestatario se va con la transacción financiada, a diferencia del desembolso posterior. Algunos estados lo exigen. Es una práctica estatal, no un formulario federal.",
     "details": "La consumación según el Reglamento Z sigue siendo el momento en que el prestatario queda obligado, lo que define la ley estatal. El desembolso puede ser el mismo momento o uno posterior. La espera de la Divulgación del cierre corre hasta la consumación, no hasta la transferencia. Un cierre con desembolso inmediato no dispensa esa espera. Las leyes de fondos disponibles de algunos estados exigen fondos cobrados antes del desembolso.",
     "complianceNotes": "Sepa si el estado es de desembolso inmediato o posterior antes de prometerle al prestatario las llaves y la transferencia la misma tarde. No desembolse antes de que termine la espera de la Divulgación del cierre.",
     "example": {

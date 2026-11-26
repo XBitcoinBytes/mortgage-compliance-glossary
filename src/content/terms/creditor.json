@@ -1,7 +1,9 @@
 {
   "slug": "creditor",
   "term": "Creditor",
-  "aliases": [],
+  "aliases": [
+    "creditors"
+  ],
   "category": "origination",
   "definition": "The creditor is the person to whom your loan will be payable when it is made, if that person regularly extends consumer credit. On the Loan Estimate, that is the lender. A broker who only arranges the loan is not the creditor.",
   "details": "12 CFR 1026.2 contains the definition, including the regularly-extends test. Disclosure duties for the Loan Estimate and Closing Disclosure fall on the creditor. A correspondent that is the initial payee is the creditor even if it sells the loan the next day. Table funding can change who counts as the lender for RESPA. Name changes before consummation have to be reflected in the disclosures.",
@@ -24,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Acreedor",
-    "aliases": [],
+    "aliases": [
+      "acreedores"
+    ],
     "definition": "El acreedor es la persona a quien su préstamo será pagadero cuando se haga, si esa persona otorga crédito al consumidor de manera regular. En la Estimación del préstamo, ese es el prestamista. Un corredor que solo gestiona el préstamo no es el acreedor.",
     "details": "12 CFR 1026.2 contiene la definición, incluida la prueba de otorgar crédito de manera regular. Los deberes de divulgación de la Estimación del préstamo y de la Divulgación del cierre recaen en el acreedor. Un corresponsal que es el beneficiario inicial es el acreedor aunque venda el préstamo al día siguiente. El financiamiento en mesa puede cambiar quién cuenta como prestamista para RESPA. Los cambios de nombre antes de la consumación deben reflejarse en las divulgaciones.",
     "complianceNotes": "El nombre en el pagaré, en la Estimación del préstamo y en el registro NMLS del acreedor debe coincidir. Si el préstamo se reasigna a un acreedor distinto antes de la consumación, emita la divulgación corregida que la regla exige y conserve la prueba del desembolso.",

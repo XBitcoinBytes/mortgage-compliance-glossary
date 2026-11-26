@@ -1,7 +1,9 @@
 {
   "slug": "appraisal",
   "term": "Appraisal",
-  "aliases": [],
+  "aliases": [
+    "appraisals"
+  ],
   "category": "underwriting",
   "definition": "An appraisal is a licensed appraiser's opinion of what the home is worth, written for the lender. It is not a home inspection and it is not a guarantee you could sell at that price. You are entitled to a copy.",
   "details": "Regulation B, 12 CFR 1002.14, requires the creditor to provide a copy of appraisals and other written valuations promptly upon completion or no later than three business days before consummation, whichever is earlier. Regulation Z, 12 CFR 1026.42, protects valuation independence. Fannie Mae B4-1.1-01 defines market value and B4-1.1-02 describes the lender's collateral duties. The fee, when the lender chooses the appraiser, is a Section B charge.",
@@ -46,7 +48,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Tasación",
-    "aliases": [],
+    "aliases": [
+      "tasaciones"
+    ],
     "definition": "Una tasación es la opinión de un tasador con licencia sobre cuánto vale la vivienda, escrita para el prestamista. No es una inspección de la casa ni una garantía de que usted podría vender a ese precio. Usted tiene derecho a una copia.",
     "details": "El Reglamento B, 12 CFR 1002.14, exige que el acreedor entregue una copia de las tasaciones y otras valoraciones escritas con prontitud al completarlas o a más tardar tres días hábiles antes de la consumación, lo que ocurra primero. El Reglamento Z, 12 CFR 1026.42, protege la independencia de la valoración. Fannie Mae B4-1.1-01 define el valor de mercado y B4-1.1-02 describe los deberes de garantía del prestamista. El cargo, cuando el prestamista elige al tasador, es un cargo de la Sección B.",
     "complianceNotes": "Pida la tasación por un proceso que cumpla la independencia. Entregue la copia en el plazo del Reglamento B, no solo si el prestatario la pide. Si el valor está por debajo del precio, rehaga la relación préstamo-valor antes de prometer el mismo monto.",

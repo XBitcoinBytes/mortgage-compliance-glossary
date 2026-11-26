@@ -3,7 +3,9 @@
   "term": "Zero tolerance",
   "aliases": [
     "0% tolerance",
-    "zero-tolerance bucket"
+    "zero-tolerance bucket",
+    "zero-tolerance group",
+    "zero-tolerance"
   ],
   "category": "closing",
   "definition": "Zero tolerance means a charge generally may not increase at all from the Loan Estimate to the Closing Disclosure. The group includes the creditor's or broker's own charges, transfer taxes, and charges paid to an affiliate or to a provider the consumer cannot shop for, subject to the exceptions in the rule.",

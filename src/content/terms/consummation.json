@@ -3,7 +3,7 @@
   "term": "Consummation",
   "aliases": [],
   "category": "origination",
-  "definition": "Consummation is the moment you become contractually obligated on the loan. State law decides when that happens. It is often the day you sign the note, but it is not always the day the loan funds or the day the deed is recorded.",
+  "definition": "Consummation is the moment you become contractually obligated on the loan. State law decides when that happens. It is often the day you sign the promissory note, but it is not always the day the loan funds or the day the deed is recorded.",
   "details": "12 CFR 1026.2 defines consummation by reference to state law, not by the settlement appointment. The Closing Disclosure waiting period in 12 CFR 1026.19(f) is counted to consummation, not to a walk-through or a recording date. In a dry-funding state, signing and disbursement can fall on different days. Rescission, where it applies, also runs from consummation.",
   "complianceNotes": "Ask counsel or the title partner which act creates the obligation in that state, and count the Closing Disclosure wait to that day. Do not schedule consummation on the third business day if the consumer will not have received the Closing Disclosure in time.",
   "example": {

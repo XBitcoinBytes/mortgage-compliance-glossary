@@ -3,7 +3,7 @@
   "term": "Residual income",
   "aliases": [],
   "category": "underwriting",
-  "definition": "Residual income is the money left after income taxes, the housing payment, and other obligations. VA underwriting uses it as a central test. The dollar amount depends on region, loan size, and household size, and it is in the VA table, not in a single national number.",
+  "definition": "Residual income is the money left after income taxes, the housing payment, and other obligations. VA loan underwriting uses it as a central test. The dollar amount depends on region, loan size, and household size, and it is in the VA table, not in a single national number.",
   "details": "VA Pamphlet 26-7, Chapter 4, contains the residual-income analysis and the tables. HUD Handbook 4000.1 allows residual income as a compensating factor on some manual FHA loans by reference to the VA table. Do not reprint a dollar chart from memory. Maintenance and utility amounts used in the calculation are also in the handbook.",
   "complianceNotes": "Use the correct region and household size. Do not substitute a debt-to-income ratio for VA residual income. On FHA, use residual income as a compensating factor only where the handbook allows it.",
   "example": {
@@ -27,7 +27,7 @@
   "es": {
     "term": "Ingreso residual",
     "aliases": [],
-    "definition": "El ingreso residual es el dinero que queda después de los impuestos sobre el ingreso, el pago de la vivienda y otras obligaciones. La suscripción de VA lo usa como una prueba central. El monto en dólares depende de la región, el tamaño del préstamo y el tamaño del hogar, y está en la tabla de VA, no en un solo número nacional.",
+    "definition": "El ingreso residual es el dinero que queda después de los impuestos sobre el ingreso, el pago de la vivienda y otras obligaciones. La suscripción de un préstamo VA lo usa como una prueba central. El monto en dólares depende de la región, el tamaño del préstamo y el tamaño del hogar, y está en la tabla de VA, no en un solo número nacional.",
     "details": "El Folleto VA 26-7, capítulo 4, contiene el análisis del ingreso residual y las tablas. El Manual HUD 4000.1 permite el ingreso residual como factor compensatorio en algunos préstamos FHA manuales por referencia a la tabla de VA. No reimprima una tabla en dólares de memoria. Los montos de mantenimiento y servicios usados en el cálculo también están en el manual.",
     "complianceNotes": "Use la región y el tamaño del hogar correctos. No sustituya una relación deuda-ingreso por el ingreso residual de VA. En la FHA, use el ingreso residual como factor compensatorio solo donde el manual lo permite.",
     "example": {

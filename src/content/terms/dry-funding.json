@@ -3,7 +3,7 @@
   "term": "Dry funding",
   "aliases": [],
   "category": "closing",
-  "definition": "Dry funding means the documents are signed and the money is disbursed later, after the lender or the title company reviews the package. It is common in some western states. The borrower has not received the funds, and the seller has not been paid, at the signing table.",
+  "definition": "Dry funding, unlike a wet settlement, means the documents are signed and the money is disbursed later, after the lender or the title company reviews the package. It is common in some western states. The borrower has not received the funds, and the seller has not been paid, at the signing table.",
   "details": "This is state and investor practice. Consummation may still occur at signing if state law says the note obligates the borrower then. Prior-to-funding conditions can be cleared in the gap. The Closing Disclosure three-day wait still applies to consummation. A rescission period, if any, also runs before funding.",
   "complianceNotes": "Tell the borrower the signing is not the funding. Do not hand over keys or tell the seller they have been paid until the wire goes. Clear prior-to-funding conditions in that gap.",
   "example": {
@@ -24,7 +24,7 @@
   "es": {
     "term": "Desembolso posterior",
     "aliases": [],
-    "definition": "El desembolso posterior significa que los documentos se firman y el dinero se desembolsa después, tras la revisión del paquete por el prestamista o la compañía de título. Es común en algunos estados del oeste. El prestatario no ha recibido los fondos, y al vendedor no se le ha pagado, en la mesa de firma.",
+    "definition": "A diferencia de una liquidación con desembolso inmediato, los documentos se firman y el dinero se libera después, tras la revisión del paquete por el prestamista o la compañía de título. Es común en algunos estados del oeste. El prestatario no ha recibido los fondos, y al vendedor no se le ha pagado, en la mesa de firma.",
     "details": "Esta es una práctica del estado y del inversionista. La consumación igual puede ocurrir en la firma si la ley estatal dice que el pagaré obliga al prestatario entonces. Las condiciones previas al desembolso pueden levantarse en el intervalo. La espera de tres días de la Divulgación del cierre igual se aplica a la consumación. Un período de rescisión, si existe, también corre antes del desembolso.",
     "complianceNotes": "Dígale al prestatario que la firma no es el desembolso. No entregue las llaves ni le diga al vendedor que le pagaron hasta que salga la transferencia. Levante las condiciones previas al desembolso en ese intervalo.",
     "example": {

@@ -1,9 +1,11 @@
 {
   "slug": "gift-letter",
   "term": "Gift letter",
-  "aliases": [],
+  "aliases": [
+    "gift letters"
+  ],
   "category": "origination",
-  "definition": "A gift letter is the donor's signed statement of how much they are giving, that they do not expect repayment, and how they are related to you. The letter alone is not proof the money moved.",
+  "definition": "A gift letter is the donor's signed statement of how much gift funds they are giving, that they do not expect repayment, and how they are related to you. The letter alone is not proof the gift funds moved.",
   "details": "Fannie Mae B3-4.3-04 requires the letter to state the amount or maximum amount, that no repayment is expected, and the donor's name, address, phone number, and relationship. The lender must also verify that the donor had the funds or that the funds were transferred to the borrower or the closing agent. A cashier's check with no paper trail is not enough when the guide asks for the transfer evidence.",
   "complianceNotes": "Collect the letter before clearing the asset condition, and match it to a withdrawal and a deposit or to the closing agent's receipt. Reject a letter that says the borrower will pay the donor back.",
   "example": {
@@ -24,8 +26,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Carta de regalo",
-    "aliases": [],
-    "definition": "Una carta de regalo es la declaración firmada del donante sobre cuánto da, que no espera reembolso y cuál es su relación con usted. La carta sola no prueba que el dinero se movió.",
+    "aliases": [
+      "cartas de regalo"
+    ],
+    "definition": "Una carta de regalo es la declaración firmada del donante sobre cuántos fondos de regalo da, que no espera reembolso y cuál es su relación con usted. La carta sola no prueba que los fondos de regalo se movieron.",
     "details": "Fannie Mae B3-4.3-04 exige que la carta indique el monto o el monto máximo, que no se espera reembolso, y el nombre, la dirección, el teléfono y la relación del donante. El prestamista también debe verificar que el donante tenía los fondos o que los fondos se transfirieron al prestatario o al agente de cierre. Un cheque de caja sin rastro no basta cuando la guía pide la prueba de la transferencia.",
     "complianceNotes": "Recoja la carta antes de levantar la condición de activos, y hágalo coincidir con un retiro y un depósito o con el recibo del agente de cierre. Rechace una carta que diga que el prestatario le devolverá el dinero al donante.",
     "example": {

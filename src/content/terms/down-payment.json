@@ -1,7 +1,10 @@
 {
   "slug": "down-payment",
   "term": "Down payment",
-  "aliases": [],
+  "aliases": [
+    "down-payment",
+    "down payments"
+  ],
   "category": "origination",
   "definition": "The down payment is the part of the price you pay rather than borrow. A larger down payment lowers the loan-to-value ratio. There is no single legal down payment for every mortgage. Each program publishes its own minimum, and those minimums can change.",
   "details": "On a conventional purchase, loan-to-value is the loan amount divided by the lower of price or value, under Fannie Mae B2-1.2-01. Mortgage insurance is commonly required when that ratio is above the guide's threshold. FHA minimum cash investment, VA down-payment practice, and USDA rules are in HUD 4000.1, the VA handbook, and USDA rules. Do not quote a single percentage as if it were permanent law.",
@@ -40,7 +43,9 @@
   "reviewed": "2026-11-25",
   "es": {
     "term": "Pago inicial",
-    "aliases": [],
+    "aliases": [
+      "pagos iniciales"
+    ],
     "definition": "El pago inicial es la parte del precio que usted paga en lugar de pedirla prestada. Un pago inicial mayor baja la relación préstamo-valor. No hay un solo pago inicial legal para toda hipoteca. Cada programa publica su propio mínimo, y esos mínimos pueden cambiar.",
     "details": "En una compra convencional, la relación préstamo-valor es el monto del préstamo dividido entre el menor del precio o el valor, según Fannie Mae B2-1.2-01. El seguro hipotecario por lo general se exige cuando esa relación está por encima del umbral de la guía. La inversión mínima en efectivo de la FHA, la práctica de pago inicial de VA y las reglas de USDA están en HUD 4000.1, el manual de VA y las reglas de USDA. No cite un solo porcentaje como si fuera una ley permanente.",
     "complianceNotes": "Muéstrele al prestatario el efectivo para el cierre, no solo un porcentaje. Documente el origen de los fondos. No presente la inversión mínima de la FHA ni un producto convencional del 3 por ciento como un número que no puede cambiar. Remita a la guía o al manual vigente.",

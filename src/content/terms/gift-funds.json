@@ -1,7 +1,9 @@
 {
   "slug": "gift-funds",
   "term": "Gift funds",
-  "aliases": [],
+  "aliases": [
+    "gift fund"
+  ],
   "category": "origination",
   "definition": "Gift funds are money a family member or other acceptable donor gives you for the down payment, closing costs, or reserves, with no plan that you will pay it back. On a home you will live in, a documented gift can cover some or all of the cash you need. A gift is not allowed as the source of funds on an investment property.",
   "details": "Fannie Mae Selling Guide B3-4.3-04 describes eligible donors, the gift letter, and when the borrower must still contribute their own funds. Those contribution rules depend on occupancy, the number of units, and the loan-to-value ratio, and the guide can change them. The donor's transfer, or payment to the closing agent, has to be documented. A gift of equity from a seller is a different topic.",
@@ -38,7 +40,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Fondos de regalo",
-    "aliases": [],
+    "aliases": [
+      "fondo de regalo"
+    ],
     "definition": "Los fondos de regalo son dinero que un familiar u otro donante aceptable le da para el pago inicial, los costos de cierre o las reservas, sin un plan de que usted lo devuelva. En una vivienda que usted habitará, un regalo documentado puede cubrir parte o todo el efectivo que necesita. Un regalo no se permite como fuente de fondos en una propiedad de inversión.",
     "details": "La Selling Guide de Fannie Mae B3-4.3-04 describe a los donantes elegibles, la carta de regalo y cuándo el prestatario igual debe aportar sus propios fondos. Esas reglas de aportación dependen de la ocupación, el número de unidades y la relación préstamo-valor, y la guía puede cambiarlas. La transferencia del donante, o el pago al agente de cierre, debe documentarse. Un regalo de plusvalía del vendedor es un tema distinto.",
     "complianceNotes": "No trate como regalo un préstamo de un familiar. Haga coincidir el monto de la carta de regalo con el depósito o con la transferencia que recibe el agente de cierre. Los depósitos grandes igual necesitan una fuente. Los expedientes de propiedad de inversión no pueden usar fondos de regalo.",

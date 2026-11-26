@@ -3,7 +3,7 @@
   "term": "Title commitment",
   "aliases": [],
   "category": "closing",
-  "definition": "A title commitment is the title company's promise to insure the title if listed requirements are met, and it lists the exceptions the policy will not cover. It is a closing condition. It is not the policy itself and not the deed.",
+  "definition": "A title commitment is the title company's promise to insure the title if listed requirements are met, and it lists the exceptions the policy will not cover. It is a closing condition. It is not the title insurance policy itself and not the deed.",
   "details": "Requirements might include paying off a lien, recording the new mortgage, or obtaining a survey. Exceptions might include easements and covenants. The lender's instructions tell the settlement agent which exceptions are acceptable. A commitment with an open mortgage that is not being paid off is not clear to close. This is title practice, cited here as industry practice alongside the form disclosure of the premium.",
   "complianceNotes": "Read Schedule B before clear to close. Clear requirements or accept exceptions in writing. Do not fund on a commitment that still shows the seller's mortgage.",
   "example": {
@@ -25,7 +25,7 @@
   "es": {
     "term": "Compromiso de título",
     "aliases": [],
-    "definition": "Un compromiso de título es la promesa de la compañía de título de asegurar el título si se cumplen los requisitos listados, y enumera las excepciones que la póliza no cubrirá. Es una condición de cierre. No es la póliza misma ni la escritura.",
+    "definition": "Un compromiso de título es la promesa de la compañía de título de asegurar el título si se cumplen los requisitos listados, y enumera las excepciones que la póliza no cubrirá. Es una condición de cierre. No es la póliza de seguro de título misma ni la escritura.",
     "details": "Los requisitos pueden incluir pagar un gravamen, registrar la nueva hipoteca u obtener un estudio. Las excepciones pueden incluir servidumbres y restricciones. Las instrucciones del prestamista le dicen al agente de liquidación qué excepciones son aceptables. Un compromiso con una hipoteca abierta que no se está pagando no está autorizado para cerrar. Esta es práctica de título, citada aquí como práctica de la industria junto con la divulgación del formulario de la prima.",
     "complianceNotes": "Lea el Anexo B antes de autorizar el cierre. Levante los requisitos o acepte las excepciones por escrito. No desembolse con un compromiso que todavía muestra la hipoteca del vendedor.",
     "example": {

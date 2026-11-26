@@ -1,7 +1,9 @@
 {
   "slug": "mortgage-broker",
   "term": "Mortgage broker",
-  "aliases": [],
+  "aliases": [
+    "mortgage brokers"
+  ],
   "category": "origination",
   "definition": "A mortgage broker is a loan originator that takes your application and shops lenders, but is not the creditor that will own the loan at the start. You might pay the broker, or the lender might. You should not pay both for the same origination work.",
   "details": "Regulation Z's loan-originator rules in 12 CFR 1026.36 cover brokers. Regulation X defines mortgage broker and table funding in 12 CFR 1024.2. The broker's charge, if the consumer pays it, is an origination charge in Section A and is generally zero-tolerance. The creditor identified on the Loan Estimate is the person who will be initially obligated as creditor, which may not be the broker.",
@@ -31,7 +33,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Corredor hipotecario",
-    "aliases": [],
+    "aliases": [
+      "corredores hipotecarios"
+    ],
     "definition": "Un corredor hipotecario es un originador que toma su solicitud y compara prestamistas, pero no es el acreedor que será dueño del préstamo al inicio. Usted puede pagar al corredor, o puede pagarlo el prestamista. Usted no debe pagar a ambos por el mismo trabajo de originación.",
     "details": "Las reglas del originador del Reglamento Z en 12 CFR 1026.36 cubren a los corredores. El Reglamento X define al corredor hipotecario y el financiamiento en mesa en 12 CFR 1024.2. El cargo del corredor, si lo paga el consumidor, es un cargo de originación en la Sección A y por lo general tiene tolerancia cero. El acreedor identificado en la Estimación del préstamo es la persona que quedará inicialmente obligada como acreedor, que puede no ser el corredor.",
     "complianceNotes": "Nombre con exactitud al corredor y al acreedor en la Estimación del préstamo. No cobre un cargo del corredor al consumidor y una comisión pagada por el prestamista en el mismo préstamo. Conserve el acuerdo del corredor y la elección de compensación.",

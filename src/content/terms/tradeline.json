@@ -1,7 +1,11 @@
 {
   "slug": "tradeline",
   "term": "Tradeline",
-  "aliases": [],
+  "aliases": [
+    "trade line",
+    "tradelines",
+    "trade lines"
+  ],
   "category": "underwriting",
   "definition": "A tradeline is one account on your credit report, such as a credit card, a car loan, or a student loan. Lenders read tradelines for payment history and for whether you have enough credit experience. An authorized-user account is a tradeline, but it is not the same as your own debt.",
   "details": "Fannie Mae's credit-history sections, including B3-5.2-01, use tradelines to judge depth of credit and to identify debts that belong in the ratio. Nontraditional credit is a separate path when the borrower does not have the traditional tradelines the guide expects. Authorized-user tradelines have their own rules in B3-5.3-06.",

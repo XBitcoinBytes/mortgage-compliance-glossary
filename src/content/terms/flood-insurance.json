@@ -24,7 +24,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Seguro contra inundaciones",
-    "aliases": [],
+    "aliases": [
+      "seguro de inundación",
+      "seguro contra inundación"
+    ],
     "definition": "El seguro contra inundaciones es la cobertura que la ley federal exige en muchos préstamos garantizados por un edificio en una zona especial de riesgo de inundación. El seguro de la vivienda no lo reemplaza. La prima depende del mapa, la elevación y la póliza del NFIP o privada, y cambia. No cite una prima vigente como si fuera fija.",
     "details": "42 USC 4012a exige seguro de inundación en los préstamos designados y fija el marco de cobertura. FEMA administra el Programa Nacional de Seguro de Inundación. Si la determinación muestra que las mejoras están en una zona especial de riesgo de inundación, el prestamista por lo general no puede desembolsar sin prueba del seguro. El depósito en garantía de las primas de inundación se exige en las circunstancias que indican las reglas de inundación. Una póliza privada debe cumplir los estándares de la ley si se acepta.",
     "complianceNotes": "Haga coincidir la determinación, la póliza y la cláusula del acreedor hipotecario antes del desembolso. No dispense el seguro de inundación porque el prestatario nunca ha visto agua. Ponga la prima en depósito en garantía cuando la regla lo exige.",

@@ -1,7 +1,9 @@
 {
   "slug": "small-servicer",
   "term": "Small servicer",
-  "aliases": [],
+  "aliases": [
+    "small servicers"
+  ],
   "category": "compliance",
   "definition": "A small servicer is a defined category of mortgage servicer that is exempt from some, but not all, servicing and statement rules. The definition and the loan-count or affiliate test are in Regulation Z. Do not use a remembered number of loans. Read the current definition.",
   "details": "12 CFR 1026.41 contains the small-servicer definition used for periodic statements and cross-referenced by Regulation X exemptions. Some loss-mitigation and statement duties do not apply, or apply differently, to a small servicer. Escrow rules, kickback rules, and many error duties still matter. A servicer that grows past the definition loses the exemption.",
@@ -24,7 +26,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Administrador pequeño",
-    "aliases": [],
+    "aliases": [
+      "administradores pequeños"
+    ],
     "definition": "Un administrador pequeño es una categoría definida de administrador hipotecario que está exento de algunas reglas de administración y de estados de cuenta, pero no de todas. La definición y la prueba del número de préstamos o de afiliados están en el Reglamento Z. No use un número de préstamos recordado. Lea la definición vigente.",
     "details": "12 CFR 1026.41 contiene la definición de administrador pequeño usada para los estados de cuenta periódicos y a la que remiten las exenciones del Reglamento X. Algunos deberes de mitigación de pérdidas y de estados de cuenta no se aplican, o se aplican de modo distinto, a un administrador pequeño. Las reglas de depósito en garantía, de comisiones y muchos deberes de errores igual importan. Un administrador que crece más allá de la definición pierde la exención.",
     "complianceNotes": "Determine el estado de administrador pequeño a partir de la sección vigente antes de omitir un estado de cuenta periódico o un paso de mitigación de pérdidas. Documente el conteo y el análisis de afiliados. Vuelva a revisar el estado cuando cambia el volumen.",

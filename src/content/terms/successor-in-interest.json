@@ -1,7 +1,9 @@
 {
   "slug": "successor-in-interest",
   "term": "Successor in interest",
-  "aliases": [],
+  "aliases": [
+    "successors in interest"
+  ],
   "category": "servicing",
   "definition": "A successor in interest is a person who received an ownership interest in the home after the loan was made, for example after a death, a divorce, or a transfer to a relative. Once confirmed, that person is treated as a borrower for important servicing protections. Confirmation does not, by itself, make the person personally liable on the note.",
   "details": "Regulation X and Regulation Z contain the successor rules, including how a servicer confirms a successor and which protections apply. A confirmed successor can request information, assert errors, and apply for loss mitigation. The servicer should not demand that the successor assume the debt as a condition of those protections. Personal liability remains a note and state-law question.",

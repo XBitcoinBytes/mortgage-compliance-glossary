@@ -1,7 +1,9 @@
 {
   "slug": "promissory-note",
   "term": "Promissory note",
-  "aliases": [],
+  "aliases": [
+    "promissory notes"
+  ],
   "category": "closing",
   "definition": "The promissory note is your signed promise to repay the loan. It states the amount, the interest rate, the payment, and whether there is a prepayment penalty. The interest rate in the note is the note rate. It is not the APR.",
   "details": "The Loan Estimate's interest rate under 12 CFR 1026.37 should match the note. A different rate is a disclosure error and may require a new Closing Disclosure if the APR becomes inaccurate or the product changes. The note, not the Closing Disclosure, is the contract you sue or get sued on. Consummation is often the signing of the note, if state law says that is when you become obligated.",
@@ -27,7 +29,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Pagaré",
-    "aliases": [],
+    "aliases": [
+      "pagarés"
+    ],
     "definition": "El pagaré es su promesa firmada de pagar el préstamo. Indica el monto, la tasa de interés, el pago y si hay una penalidad por pago anticipado. La tasa de interés del pagaré es la tasa del pagaré. No es la tasa porcentual anual.",
     "details": "La tasa de interés de la Estimación del préstamo según 12 CFR 1026.37 debe coincidir con el pagaré. Una tasa distinta es un error de divulgación y puede exigir una nueva Divulgación del cierre si la tasa porcentual anual se vuelve inexacta o cambia el producto. El pagaré, no la Divulgación del cierre, es el contrato por el que se demanda. La consumación a menudo es la firma del pagaré, si la ley estatal dice que entonces usted queda obligado.",
     "complianceNotes": "Lea la tasa del pagaré, el pago y la sección de pago anticipado contra la Divulgación del cierre antes de firmar. No se apoye en la línea de la tasa porcentual anual como la tasa del pagaré.",

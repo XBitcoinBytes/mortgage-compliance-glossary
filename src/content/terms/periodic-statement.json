@@ -3,7 +3,8 @@
   "term": "Periodic statement",
   "aliases": [
     "mortgage statement",
-    "monthly statement"
+    "monthly statement",
+    "periodic statements"
   ],
   "category": "servicing",
   "definition": "A periodic statement is the regular mortgage bill. It shows the payment due, how it will be applied, the fees, and the account history. Many residential mortgage loans must receive one. Some loans are exempt, including certain small-servicer loans and some fixed-rate loans that use a coupon book meeting the rule.",
@@ -33,9 +34,10 @@
     "term": "Estado de cuenta periódico",
     "aliases": [
       "estado de cuenta mensual",
-      "estado hipotecario"
+      "estado hipotecario",
+      "estados de cuenta periódicos"
     ],
-    "definition": "Un estado de cuenta periódico es la factura hipotecaria regular. Muestra el pago debido, cómo se aplicará, los cargos y el historial de la cuenta. Muchas hipotecas residenciales deben recibirlo. Algunos préstamos están exentos, incluidos ciertos préstamos de administradores pequeños y algunos préstamos de tasa fija que usan un talonario que cumple la regla.",
+    "definition": "Un estado de cuenta periódico es la factura hipotecaria regular. Muestra el pago debido, cómo se aplicará, los cargos y el historial de la cuenta. Muchas hipotecas residenciales deben recibirlo. Algunos préstamos están exentos, incluidos ciertos préstamos de administradores pequeños y algunas hipotecas de tasa fija que usan un talonario que cumple la regla.",
     "details": "12 CFR 1026.41 establece el contenido, el plazo y las exenciones. Un estado que oculta cargos o muestra un saldo en suspenso sin explicación es un problema. El estado también es la forma en que muchos prestatarios ven por primera vez un cambio del depósito en garantía. No reemplaza el análisis anual del depósito en garantía.",
     "complianceNotes": "Envíe el estado salvo que se documente una exención. Incluya el contenido que enumera la sección. No se apoye en un talonario salvo que se cumplan las condiciones de esa exención.",
     "example": {
