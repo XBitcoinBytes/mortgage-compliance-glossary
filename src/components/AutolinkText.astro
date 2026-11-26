@@ -1,0 +1,21 @@
+---
+import type { LinkSegment } from "../lib/autolink";
+
+interface Props {
+  segments: LinkSegment[];
+}
+const { segments } = Astro.props;
+---
+
+{
+  segments.map((segment) =>
+    segment.href ? (
+      <a class="term-link" href={segment.href} data-slug={segment.slug}>
+        {segment.text}
+        {segment.preview && <span class="term-tip" role="tooltip">{segment.preview}</span>}
+      </a>
+    ) : (
+      segment.text
+    ),
+  )
+}

@@ -4,11 +4,14 @@ import {
   categoryLabel,
   displayName,
   excerpt,
+  getTerms,
   pathsForTerm,
   relatedTerms,
   resolvedCitations,
 } from "../lib/content";
 import { hrefFor, t } from "../lib/i18n";
+import { linkDefinition, linkedSlugs } from "../lib/autolink";
+import AutolinkText from "./AutolinkText.astro";
 import { categoryMap } from "../data/categories";
 import figures from "../data/figures.json";
 
@@ -29,6 +32,29 @@ const example = es ? term.es.example : term.example;
 const aliases = es ? term.es.aliases : term.aliases;
 const sources = resolvedCitations(term);
 const related = relatedTerms(term);
+const catalog = getTerms();
+const defLinked = linkDefinition(definition, {
+  lang,
+  currentSlug: term.slug,
+  terms: catalog,
+  hrefFor: (slug) => hrefFor(lang, `/terms/${slug}`),
+});
+const otherLinked = linkDefinition(otherDefinition, {
+  lang: es ? "en" : "es",
+  currentSlug: term.slug,
+  terms: catalog,
+  hrefFor: (slug) => hrefFor(es ? "en" : "es", `/terms/${slug}`),
+});
+const mentioned = new Set([...linkedSlugs(defLinked), ...linkedSlugs(otherLinked)]);
+const relatedSorted = [...related].sort((a, b) => {
+  const am = mentioned.has(a.slug) ? 0 : 1;
+  const bm = mentioned.has(b.slug) ? 0 : 1;
+  if (am !== bm) return am - bm;
+  return displayName(a, lang).localeCompare(displayName(b, lang), lang);
+});
+const RELATED_CAP = 12;
+const relatedShown = relatedSorted.slice(0, RELATED_CAP);
+const relatedHidden = relatedSorted.length - relatedShown.length;
 const memberships = pathsForTerm(term.slug);
 const category = categoryMap.get(term.category);
 const kindLabel: Record<string, string> = {
@@ -86,12 +112,12 @@ const jsonLd = {
     )}
     <section class="definition" id="definition" aria-labelledby="def-h">
       <h2 id="def-h">{ui.definition} <a class="anchor" href="#definition" aria-label={ui.sectionLink}>#</a></h2>
-      <p>{definition}</p>
+      <p><AutolinkText segments={defLinked} /></p>
     </section>
     <section class="other-lang" id="other-language" lang={es ? "en" : "es"} aria-labelledby="other-h">
       <h2 id="other-h">{es ? ui.otherLangHeadingEn : ui.otherLangHeadingEs} <a class="anchor" href="#other-language" aria-label={ui.sectionLink}>#</a></h2>
       <p class="other-term">{otherName}</p>
-      <p>{otherDefinition}</p>
+      <p><AutolinkText segments={otherLinked} /></p>
     </section>
 
     <section class="example-panel" id="example" aria-labelledby="ex-h">
@@ -160,15 +186,20 @@ const jsonLd = {
     </p>
   </div>
   <aside class="rail">
-    <h2>{ui.related}</h2>
+    <h2>{ui.seeAlso}</h2>
     <ul>
       {
-        related.map((item) => (
+        relatedShown.map((item) => (
           <li>
             <a href={hrefFor(lang, `/terms/${item.slug}`)}>{displayName(item, lang)}</a>
             <div>{excerpt(lang === "es" ? item.es.definition : item.definition, 110)}</div>
           </li>
         ))
+      }
+      {
+        relatedHidden > 0 && (
+          <li class="related-more">{es ? `Se muestran 12 de ${relatedSorted.length} términos relacionados.` : `Showing 12 of ${relatedSorted.length} related terms.`}</li>
+        )
       }
     </ul>
     {

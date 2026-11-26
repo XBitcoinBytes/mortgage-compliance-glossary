@@ -9,13 +9,14 @@
     "dev": "astro dev --host 127.0.0.1 --port 4327",
     "build": "npm run validate && astro build",
     "preview": "astro preview --host 127.0.0.1 --port 4327",
-    "validate": "node scripts/symmetrize-related.mjs && node scripts/validate-terms.mjs",
+    "validate": "node scripts/symmetrize-related.mjs && node scripts/validate-terms.mjs && npm run check:autolink",
     "data": "python3 scripts/reference_data.py",
     "astro": "astro",
     "check:links": "node scripts/checks/check-links.mjs",
     "audit": "node scripts/audit/audit.cjs http://127.0.0.1:4327 audit",
     "audit:search": "node scripts/audit/heldout.cjs http://127.0.0.1:4327",
-    "check:es": "python3 scripts/checks/bilingual_check.py"
+    "check:es": "python3 scripts/checks/bilingual_check.py",
+    "check:autolink": "node --experimental-strip-types --no-warnings scripts/checks/check-autolink.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.6",

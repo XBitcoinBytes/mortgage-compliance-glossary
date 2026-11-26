@@ -632,3 +632,28 @@ h2:hover .anchor, .anchor:focus { opacity: 1; }
 .letter-jump:hover { border-color: var(--accent); text-decoration: none; }
 .letter-off { color: color-mix(in srgb, var(--ink-soft) 55%, var(--paper)); cursor: not-allowed; }
 .letter-group { scroll-margin-top: 8.5rem; }
+
+.term-link { position: relative; text-decoration-style: dotted; text-underline-offset: 0.2em; }
+.term-tip {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: calc(100% + 0.35rem);
+  z-index: 30;
+  width: max(16rem, 100%);
+  max-width: 22rem;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 0.4rem;
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  text-decoration: none;
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--ink) 12%, transparent);
+}
+.term-link:hover .term-tip,
+.term-link:focus-visible .term-tip { display: block; }
+.related-more { list-style: none; color: var(--ink-soft); font-size: 0.85rem; margin-top: 0.4rem; }
