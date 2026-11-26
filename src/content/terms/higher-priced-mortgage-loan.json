@@ -11,7 +11,7 @@
   "complianceNotes": "Run the spread on the final APR. Do not confuse the test with HOEPA. If the loan is higher-priced, open the escrow and appraisal checklists.",
   "example": {
     "setting": "APR-to-APOR spread worksheet for the higher-priced test",
-    "text": "A sample first-lien APR might be compared with APOR on an example $260,000 loan. Whether 1.5 percentage points is the right spread depends on lien and loan size under the current 1026.35(a). Example figures for the loan amount."
+    "text": "A sample first-lien APR might be compared with APOR on an example $260,000 loan. The regulatory text generally uses 1.5 percentage points for a first lien, 2.5 percentage points for a jumbo first lien, and 3.5 percentage points for a subordinate lien; confirm the current 1026.35(a) subsection because the definition has been amended. Example figures for the loan amount."
   },
   "citations": [
     "reg-1026-35"
@@ -27,7 +27,7 @@
     "rebuttable-presumption",
     "small-creditor"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Hipoteca de precio más alto",
     "aliases": [
@@ -38,7 +38,7 @@
     "complianceNotes": "Ejecute el diferencial sobre la tasa porcentual anual final. No confunda la prueba con HOEPA. Si el préstamo es de precio más alto, abra las listas de depósito en garantía y de tasación.",
     "example": {
       "setting": "Hoja del diferencial entre la tasa porcentual anual y el APOR para la prueba de precio más alto",
-      "text": "Una tasa porcentual anual de muestra de un primer gravamen podría compararse con el APOR en un préstamo de ejemplo de $260,000. Si 1.5 puntos porcentuales es el diferencial correcto depende del gravamen y del tamaño del préstamo según el 1026.35(a) vigente. Cifras de ejemplo para el monto del préstamo."
+      "text": "Una tasa porcentual anual de muestra de un primer gravamen podría compararse con el APOR en un préstamo de ejemplo de $260,000. El texto reglamentario por lo general usa 1.5 puntos porcentuales para un primer gravamen, 2.5 puntos porcentuales para un primer gravamen jumbo y 3.5 puntos porcentuales para un gravamen subordinado; confirme el inciso vigente de 1026.35(a) porque la definición ha sido enmendada. Cifras de ejemplo para el monto del préstamo."
     }
   },
   "reviewFlag": "Confirm the current APR spreads in 12 CFR 1026.35(a) before relying on the 1.5, 2.5, and 3.5 percentage-point figures in training materials."

@@ -8,7 +8,7 @@
   "complianceNotes": "Block the first legal step until day 121 unless an exception is documented. Early intervention still happens much earlier. The 120-day wait is not a reason to ignore the borrower.",
   "example": {
     "setting": "Servicing timeline: no first foreclosure notice or filing until the borrower is more than 120 days delinquent, with the section's exceptions",
-    "text": "A sample loan that becomes delinquent on March 1 generally cannot receive the first foreclosure filing in April. Example figures for the calendar."
+    "text": "A sample loan that becomes delinquent on March 1 generally cannot receive the first foreclosure filing in April. The first legal step is generally blocked until the borrower is more than 120 days delinquent, treated as day 121, unless an exception is documented. Early intervention still happens much earlier. Example figures for the calendar."
   },
   "citations": [
     "reg-1024-41"
@@ -20,7 +20,7 @@
     "foreclosure",
     "loss-mitigation"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Espera de 120 días antes de la ejecución",
     "aliases": [],
@@ -29,7 +29,7 @@
     "complianceNotes": "Bloquee el primer paso legal hasta el día 121 salvo que se documente una excepción. La intervención temprana igual ocurre mucho antes. La espera de 120 días no es una razón para ignorar al prestatario.",
     "example": {
       "setting": "Línea de tiempo de administración: ningún primer aviso o presentación de ejecución hipotecaria hasta que el prestatario tiene más de 120 días de mora, con las excepciones de la sección",
-      "text": "Un préstamo de muestra que entra en mora el 1 de marzo por lo general no puede recibir la primera presentación de ejecución hipotecaria en abril. Cifras de ejemplo para el calendario."
+      "text": "Un préstamo de muestra que entra en mora el 1 de marzo por lo general no puede recibir la primera presentación de ejecución hipotecaria en abril. El primer paso legal por lo general se bloquea hasta que el prestatario tiene más de 120 días de mora, tratado como el día 121, salvo que se documente una excepción. La intervención temprana igual ocurre mucho antes. Cifras de ejemplo para el calendario."
     }
   }
 }

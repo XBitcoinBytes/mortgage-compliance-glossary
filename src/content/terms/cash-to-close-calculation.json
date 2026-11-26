@@ -8,7 +8,7 @@
   "complianceNotes": "Reconcile the table to page 3 before the borrower signs. Explain each line that changed from the Loan Estimate. Do not hand-edit the cash figure without updating the lines.",
   "example": {
     "setting": "Closing Disclosure, Calculating Cash to Close table, compared with page 3",
-    "text": "A sample table might move from an example $31,200 on the Loan Estimate to $29,050 after a seller credit. Example figures."
+    "text": "A sample table might move from an example $31,200 on the Loan Estimate to $29,050 after a seller credit. On the Closing Disclosure that final figure should agree with the summaries of transactions on page 3; a mismatch is a form error even if the wire amount happens to be right. Example figures."
   },
   "citations": [
     "reg-1026-38",
@@ -22,7 +22,7 @@
     "loan-estimate",
     "seller-credits"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cálculo del efectivo para el cierre",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Concilie la tabla con la página 3 antes de que el prestatario firme. Explique cada línea que cambió desde la Estimación del préstamo. No edite a mano la cifra de efectivo sin actualizar las líneas.",
     "example": {
       "setting": "Divulgación del cierre, tabla de Cálculo del efectivo para el cierre, comparada con la página 3",
-      "text": "Una tabla de muestra podría pasar de un ejemplo de $31,200 en la Estimación del préstamo a $29,050 después de un crédito del vendedor. Cifras de ejemplo."
+      "text": "Una tabla de muestra podría pasar de un ejemplo de $31,200 en la Estimación del préstamo a $29,050 después de un crédito del vendedor. En la Divulgación del cierre esa cifra final debe coincidir con los resúmenes de transacciones de la página 3; una discrepancia es un error de formulario aunque el monto de la transferencia resulte correcto. Cifras de ejemplo."
     }
   }
 }

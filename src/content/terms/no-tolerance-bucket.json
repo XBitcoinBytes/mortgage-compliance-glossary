@@ -8,7 +8,7 @@
   "complianceNotes": "Classify each fee before the Loan Estimate. If the consumer shops off the list, document that choice so the increase is defensible. Do not use this bucket for origination charges.",
   "example": {
     "setting": "Loan Estimate Section F and shopped-off-list services that the rule permits to increase",
-    "text": "A sample prepaid-interest line might rise from an example $700 to $860 because closing moved by several days. Example figures."
+    "text": "A sample prepaid-interest line might rise from an example $700 to $860 because closing moved by several days. This group can also include property insurance, amounts placed in escrow, and services the consumer shops for with a provider who is not on the written list. Origination charges do not belong here. Example figures."
   },
   "citations": [
     "reg-1026-19-e-3-iii",
@@ -21,7 +21,7 @@
     "services-you-can-shop-for",
     "zero-tolerance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cargos que pueden cambiar",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Clasifique cada cargo antes de la Estimación del préstamo. Si el consumidor compara fuera de la lista, documente esa elección para que el aumento se pueda defender. No use este grupo para cargos de originación.",
     "example": {
       "setting": "Sección F de la Estimación del préstamo y servicios comparados fuera de la lista que la regla permite que aumenten",
-      "text": "Una línea de interés pagado por adelantado de muestra podría subir de un ejemplo de $700 a $860 porque el cierre se movió varios días. Cifras de ejemplo."
+      "text": "Una línea de interés pagado por adelantado de muestra podría subir de un ejemplo de $700 a $860 porque el cierre se movió varios días. Este grupo también puede incluir el seguro de la propiedad, las cantidades puestas en depósito en garantía y los servicios que el consumidor compara con un proveedor que no está en la lista escrita. Los cargos por originación no pertenecen aquí. Cifras de ejemplo."
     }
   }
 }

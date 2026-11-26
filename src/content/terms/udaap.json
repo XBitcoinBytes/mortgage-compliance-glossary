@@ -26,10 +26,12 @@
     "map-rule",
     "unfair-practice"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "UDAAP",
-    "aliases": [],
+    "aliases": [
+      "actos o prácticas injustos, engañosos o abusivos"
+    ],
     "definition": "UDAAP significa actos o prácticas injustos, engañosos o abusivos. La Ley Dodd-Frank da a la Oficina para la Protección Financiera del Consumidor autoridad sobre esas prácticas de bancos y de muchas entidades no bancarias. No hay una parte separada de UDAAP en el Código de Reglamentos Federales.",
     "details": "12 USC 5531 autoriza a la Oficina a actuar contra actos o prácticas injustos, engañosos o abusivos. 12 USC 5536 prohíbe ofrecer o proporcionar un producto financiero al consumidor que no está conforme con la ley federal de finanzas del consumidor, y alcanza los estándares de UDAAP. La injusticia, el engaño y el abuso se definen en la ley, no en un formulario hipotecario. Una práctica puede ser una UDAAP aunque un formulario de divulgación se haya emitido a tiempo.",
     "complianceNotes": "Revise los guiones, las excepciones de precio y los nombres de los cargos por UDAAP, no solo por las tolerancias de TRID. Un cargo llamado opcional que en realidad es obligatorio es un problema clásico. Documente la razón por la que un consumidor recibió un precio peor.",

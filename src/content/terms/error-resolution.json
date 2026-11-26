@@ -8,7 +8,7 @@
   "complianceNotes": "Investigate the specific error, correct the account if it is confirmed, and send the explanation and the documents the section requires. Honor the credit-reporting limit during the review.",
   "example": {
     "setting": "Servicer's investigation and written response to a covered error",
-    "text": "A sample error might be an example $1,600 payment received on the 3rd and posted as late. Example figures. The cure is to apply it as of the receipt date if that is what the facts show."
+    "text": "A sample error might be an example $1,600 payment received on the 3rd and posted as late. The servicer generally acknowledges within five business days and responds within 30, with an extension the section allows. The cure is to apply it as of the receipt date if that is what the facts show. Example figures."
   },
   "citations": [
     "reg-1024-35"
@@ -29,7 +29,7 @@
     "complianceNotes": "Investigue el error específico, corrija la cuenta si se confirma y envíe la explicación y los documentos que exige la sección. Respete el límite de reporte de crédito durante la revisión.",
     "example": {
       "setting": "Investigación del administrador y respuesta por escrito a un error cubierto",
-      "text": "Un error de muestra podría ser un pago de ejemplo de $1,600 recibido el día 3 y registrado como tardío. Cifras de ejemplo. La corrección es aplicarlo a la fecha de recepción si eso es lo que muestran los hechos."
+      "text": "Un error de muestra podría ser un pago de ejemplo de $1,600 recibido el día 3 y registrado como tardío. El administrador por lo general acusa recibo dentro de cinco días hábiles y responde dentro de 30, con una extensión que permite la sección. La corrección es aplicarlo a la fecha de recepción si eso es lo que muestran los hechos. Cifras de ejemplo."
     }
   }
 }

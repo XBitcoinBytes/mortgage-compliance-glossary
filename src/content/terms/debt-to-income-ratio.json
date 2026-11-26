@@ -11,7 +11,7 @@
   "complianceNotes": "Use the qualifying payment, not the bought-down teaser payment, and include the debts the guide counts. Do not tell a borrower that 43 percent or 50 percent is a statute. Cite the current guide section and the AUS findings.",
   "example": {
     "setting": "Underwriting income worksheet, back-end ratio, not a line on the Loan Estimate",
-    "text": "A sample worksheet might show $2,400 of housing plus $600 of other debts against $6,000 of example monthly income, a ratio of 50 percent, then compare that figure with the current guide rather than approving it automatically. Example figures."
+    "text": "A sample worksheet might show $2,400 of housing plus $600 of other debts against $6,000 of example monthly income, a ratio of 50 percent, then compare that figure with the current guide rather than approving it automatically. Neither 43 percent nor 50 percent is a statute. Example figures."
   },
   "citations": [
     "fannie-b3-6-02",
@@ -50,7 +50,7 @@
     "student-loans",
     "undisclosed-debt"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Relación deuda-ingreso",
     "aliases": [
@@ -61,7 +61,7 @@
     "complianceNotes": "Use el pago de calificación, no el pago promocional de una reducción temporal, e incluya las deudas que cuenta la guía. No le diga a un prestatario que el 43 por ciento o el 50 por ciento es una ley. Cite la sección vigente de la guía y los hallazgos del sistema automatizado.",
     "example": {
       "setting": "Hoja de ingresos de suscripción, relación total, no una línea de la Estimación del préstamo",
-      "text": "Una hoja de muestra puede mostrar $2,400 de vivienda más $600 de otras deudas contra $6,000 de ingreso mensual de ejemplo, una relación del 50 por ciento, y luego comparar esa cifra con la guía vigente en lugar de aprobarla automáticamente. Cifras de ejemplo."
+      "text": "Una hoja de muestra puede mostrar $2,400 de vivienda más $600 de otras deudas contra $6,000 de ingreso mensual de ejemplo, una relación del 50 por ciento, y luego comparar esa cifra con la guía vigente en lugar de aprobarla automáticamente. Ni el 43 por ciento ni el 50 por ciento es una ley. Cifras de ejemplo."
     }
   }
 }

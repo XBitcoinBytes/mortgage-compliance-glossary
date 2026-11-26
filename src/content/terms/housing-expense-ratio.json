@@ -10,7 +10,7 @@
   "complianceNotes": "Show the borrower which items are inside the housing payment. Do not quote a universal front-end cap. On FHA manual files, use the current handbook, not a conventional overlay, unless the creditor has documented an overlay.",
   "example": {
     "setting": "Underwriting worksheet, proposed housing payment over income",
-    "text": "A sample housing payment of $1,800 on example monthly income of $6,000 is a 30 percent housing ratio. Example figures, not a limit."
+    "text": "A sample housing payment of $1,800 on example monthly income of $6,000 is a 30 percent housing ratio. An old rule of thumb such as 28 percent is not a federal law, and there is no universal front-end cap. Example figures, not a limit."
   },
   "citations": [
     "fannie-b3-6-03",
@@ -25,7 +25,7 @@
     "pitia",
     "stable-income"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Relación de gasto de vivienda",
     "aliases": [
@@ -37,7 +37,7 @@
     "complianceNotes": "Muéstrele al prestatario qué partidas entran en el pago de vivienda. No cite un límite frontal universal. En expedientes manuales de la FHA, use el manual vigente, no un requisito adicional convencional, salvo que el acreedor haya documentado ese requisito.",
     "example": {
       "setting": "Hoja de suscripción, pago de vivienda propuesto sobre el ingreso",
-      "text": "Un pago de vivienda de muestra de $1,800 sobre un ingreso mensual de ejemplo de $6,000 es una relación de vivienda del 30 por ciento. Cifras de ejemplo, no un límite."
+      "text": "Un pago de vivienda de muestra de $1,800 sobre un ingreso mensual de ejemplo de $6,000 es una relación de vivienda del 30 por ciento. Una regla práctica antigua como el 28 por ciento no es una ley federal, y no hay un tope frontal universal. Cifras de ejemplo, no un límite."
     }
   }
 }

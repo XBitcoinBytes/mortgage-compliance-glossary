@@ -24,10 +24,12 @@
     "thing-of-value",
     "title-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Arreglo de negocio afiliado",
-    "aliases": [],
+    "aliases": [
+      "AfBA"
+    ],
     "definition": "Un arreglo de negocio afiliado es una relación en la que la persona que refiere un servicio de liquidación tiene una propiedad u otra relación de afiliación con el proveedor. RESPA permite un rendimiento sobre esa propiedad solo si se da la divulgación, no se exige al consumidor usar el afiliado y lo único de valor que se recibe es un rendimiento legítimo sobre la propiedad.",
     "details": "12 CFR 1024.15 establece la divulgación, el plazo y las condiciones. Un arreglo simulado que paga por referencias y no presta servicios reales incumple la regla aunque se haya firmado un formulario de divulgación. El uso obligatorio del afiliado por lo general está prohibido, con las excepciones estrechas de la sección. La divulgación no autoriza una comisión por referencia.",
     "complianceNotes": "Dé la divulgación del arreglo cuando se hace la referencia y conserve la copia firmada. No exija el afiliado. Confirme que el pago es un rendimiento real sobre la propiedad, no un cargo por referencia por cada préstamo.",
