@@ -24,7 +24,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Bienes de la comunidad conyugal",
-    "aliases": [],
+    "aliases": [
+      "bienes gananciales",
+      "propiedad comunitaria"
+    ],
     "definition": "Los bienes de la comunidad conyugal son un sistema de derecho estatal en el que un matrimonio puede ser dueño de deudas y activos en conjunto. En esos estados, las deudas de un cónyuge que no está en el préstamo igual pueden importar para la hipoteca. Qué estados usan el sistema es una cuestión de derecho estatal, no una línea de la Estimación del préstamo.",
     "details": "Las guías de las agencias exigen que el prestamista considere las deudas de comunidad conyugal de un cónyuge que no solicita cuando la guía lo dice. El Reglamento B, 12 CFR 1002.6, rige cómo un acreedor evalúa una solicitud y funciona junto con 12 CFR 1002.7 sobre cuándo puede exigirse la firma del cónyuge. No publique una lista casera de estados. Confirme el estado de la propiedad y la guía.",
     "complianceNotes": "Si la propiedad está en un estado de comunidad conyugal, obtenga las deudas que exige la guía aunque el cónyuge no sea solicitante. No exija que el cónyuge firme el pagaré solo por el matrimonio.",

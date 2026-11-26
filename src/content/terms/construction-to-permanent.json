@@ -4,11 +4,11 @@
   "aliases": [],
   "category": "loan-programs",
   "definition": "A construction-to-permanent loan finances building the home and then converts to a mortgage you pay over time. One closing can cover both phases, or there can be two transactions. How many Loan Estimates are required is a technical Regulation Z question.",
-  "details": "12 CFR 1026.17(c)(6) and the TRID rules in 1026.19 address construction and construction-permanent disclosure options. The creditor's choice of treating the phases as one transaction or as more than one changes the disclosures. This entry is flagged because those options are easy to apply incorrectly. Draws during construction are not the permanent payment.",
+  "details": "12 CFR 1026.17(c)(6) and the TRID rules in 1026.19 address construction and construction-permanent disclosure options. The creditor's choice of treating the phases as one transaction or as more than one changes the disclosures. Those options are easy to apply incorrectly. Draws during construction are not the permanent payment.",
   "complianceNotes": "Document the one-close or two-close structure before issuing disclosures. Do not use a plain purchase Loan Estimate for a construction draw schedule without reading the construction provisions.",
   "example": {
     "setting": "Construction-to-permanent disclosure choice documented before the Loan Estimate",
-    "text": "A sample one-close loan might show an example construction budget of $350,000 converting to a permanent mortgage. Example figures."
+    "text": "A sample one-close loan might show an example construction budget of $350,000 converting to a permanent mortgage. Draws during construction are not the permanent payment. Treating the phases as one transaction or as more than one changes the disclosures. Example figures."
   },
   "citations": [
     "reg-1026-17",
@@ -24,13 +24,15 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Préstamo de construcción a permanente",
-    "aliases": [],
+    "aliases": [
+      "préstamo de construcción-permanente"
+    ],
     "definition": "Un préstamo de construcción a permanente financia la construcción de la vivienda y luego se convierte en una hipoteca que usted paga a lo largo del tiempo. Un cierre puede cubrir ambas fases, o puede haber dos transacciones. Cuántas Estimaciones del préstamo se exigen es una cuestión técnica del Reglamento Z.",
-    "details": "12 CFR 1026.17(c)(6) y las reglas de TRID en 1026.19 tratan las opciones de divulgación de construcción y de construcción a permanente. La elección del acreedor de tratar las fases como una transacción o como más de una cambia las divulgaciones. Esta entrada está marcada porque esas opciones son fáciles de aplicar mal. Los desembolsos durante la construcción no son el pago permanente.",
+    "details": "12 CFR 1026.17(c)(6) y las reglas de TRID en 1026.19 tratan las opciones de divulgación de construcción y de construcción a permanente. La elección del acreedor de tratar las fases como una transacción o como más de una cambia las divulgaciones. Esas opciones son fáciles de aplicar mal. Los desembolsos durante la construcción no son el pago permanente.",
     "complianceNotes": "Documente la estructura de un cierre o de dos cierres antes de emitir divulgaciones. No use una Estimación del préstamo de compra simple para un calendario de desembolsos de construcción sin leer las disposiciones de construcción.",
     "example": {
       "setting": "Elección de divulgación de construcción a permanente documentada antes de la Estimación del préstamo",
-      "text": "Un préstamo de un cierre de muestra podría mostrar un presupuesto de construcción de ejemplo de $350,000 que se convierte en una hipoteca permanente. Cifras de ejemplo."
+      "text": "Un préstamo de un cierre de muestra podría mostrar un presupuesto de construcción de ejemplo de $350,000 que se convierte en una hipoteca permanente. Los desembolsos durante la construcción no son el pago permanente. Tratar las fases como una transacción o como más de una cambia las divulgaciones. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Construction-permanent disclosure options in Regulation Z are technical. Confirm 12 CFR 1026.17 and 1026.19 before issuing forms."

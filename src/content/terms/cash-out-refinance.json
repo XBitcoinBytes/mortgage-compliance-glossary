@@ -8,7 +8,7 @@
   "complianceNotes": "Price the loan as cash-out once the guide's definition is met. Document seasoning. Do not fund a principal-dwelling refinance inside the rescission period.",
   "example": {
     "setting": "Refinance that produces cash or pays debts the guide treats as cash-out",
-    "text": "A sample cash-out might produce an example $20,000 to the borrower. Example figures, not a maximum."
+    "text": "A sample cash-out might produce an example $20,000 to the borrower. Loan-to-value, reserves, and any waiting period after a purchase are in the investor guide, not one national 12-month rule. Rescission generally applies when the home is a principal dwelling. Example figures, not a maximum."
   },
   "citations": [
     "fannie-guide"
@@ -30,7 +30,7 @@
     "complianceNotes": "Cotice el préstamo como retiro de efectivo una vez que se cumple la definición de la guía. Documente la antigüedad. No desembolse un refinanciamiento de vivienda principal dentro del período de rescisión.",
     "example": {
       "setting": "Refinanciamiento que produce efectivo o paga deudas que la guía trata como retiro de efectivo",
-      "text": "Un retiro de efectivo de muestra podría producir un ejemplo de $20,000 para el prestatario. Cifras de ejemplo, no un máximo."
+      "text": "Un retiro de efectivo de muestra podría producir un ejemplo de $20,000 para el prestatario. La relación préstamo-valor, las reservas y cualquier período de espera después de una compra están en la guía del inversionista, no en una sola regla nacional de 12 meses. La rescisión por lo general aplica cuando la vivienda es una vivienda principal. Cifras de ejemplo, no un máximo."
     }
   }
 }

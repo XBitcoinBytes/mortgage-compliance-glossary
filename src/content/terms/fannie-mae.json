@@ -8,7 +8,7 @@
   "complianceNotes": "Do not tell a borrower they applied with Fannie Mae. Tell them the lender may sell the loan. Deliver only files that match the guide and the final DU findings.",
   "example": {
     "setting": "Loan delivered to Fannie Mae under the Selling Guide",
-    "text": "A sample delivery might be an example $305,000 DU Approve/Eligible loan. Example figures."
+    "text": "A sample delivery might be an example $305,000 DU Approve/Eligible loan. Fannie Mae does not take applications from home buyers. A loan sold to Fannie Mae must meet the Selling Guide and the DU findings. It is not Freddie Mac, and it does not insure FHA loans. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -33,7 +33,7 @@
     "complianceNotes": "No le diga a un prestatario que solicitó con Fannie Mae. Dígale que el prestamista puede vender el préstamo. Entregue solo expedientes que coinciden con la guía y con los hallazgos finales de DU.",
     "example": {
       "setting": "Préstamo entregado a Fannie Mae según la Selling Guide",
-      "text": "Una entrega de muestra podría ser un préstamo de ejemplo de $305,000 con Approve/Eligible de DU. Cifras de ejemplo."
+      "text": "Una entrega de muestra podría ser un préstamo de ejemplo de $305,000 con Approve/Eligible de DU. Fannie Mae no recibe solicitudes de compradores de vivienda. Un préstamo vendido a Fannie Mae debe cumplir la Guía de venta y los resultados de DU. No es Freddie Mac, y no asegura préstamos FHA. Cifras de ejemplo."
     }
   }
 }

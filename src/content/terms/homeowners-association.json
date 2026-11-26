@@ -10,7 +10,7 @@
   "complianceNotes": "Put the current dues in PITIA and ask about special assessments. Do not clear a condo file on the unit appraisal alone. Obtain the questionnaire the guide requires.",
   "example": {
     "setting": "HOA statement or questionnaire, and the dues line inside PITIA",
-    "text": "A sample condo might have example dues of $285 a month included in a $2,100 PITIA. Example figures."
+    "text": "A sample condo might have example dues of $285 a month included in a $2,100 PITIA. Those dues are part of the monthly housing payment. Overdue dues can become a lien that title must clear. Example figures."
   },
   "citations": [
     "fannie-b3-6-03",
@@ -28,14 +28,15 @@
   "es": {
     "term": "Asociación de propietarios",
     "aliases": [
-      "HOA"
+      "HOA",
+      "asociación de dueños de casa"
     ],
     "definition": "Una asociación de propietarios cobra cuotas por las áreas comunes y puede hacer cumplir reglas y gravámenes. Las cuotas son parte del pago mensual de la vivienda. Las cuotas atrasadas pueden volverse un gravamen que el título debe limpiar. La asociación no es lo mismo que el seguro hipotecario.",
     "details": "Fannie Mae B3-6-03 incluye las cuotas de la asociación en el gasto de vivienda. Las revisiones de proyectos de condominios y de algunos desarrollos planificados son un trabajo de garantía distinto en la Selling Guide. Las cuotas especiales también pueden contar. Un cuestionario de la asociación es prueba común de las cuotas, el seguro y la morosidad.",
     "complianceNotes": "Incluya las cuotas vigentes en el PITIA y pregunte por cuotas especiales. No levante un expediente de condominio solo con la tasación de la unidad. Obtenga el cuestionario que exige la guía.",
     "example": {
       "setting": "Estado o cuestionario de la asociación, y la línea de cuotas dentro del PITIA",
-      "text": "Un condominio de muestra puede tener cuotas de ejemplo de $285 al mes incluidas en un PITIA de $2,100. Cifras de ejemplo."
+      "text": "Un condominio de muestra puede tener cuotas de ejemplo de $285 al mes incluidas en un PITIA de $2,100. Esas cuotas son parte del pago mensual de la vivienda. Las cuotas atrasadas pueden volverse un gravamen que el título debe limpiar. Cifras de ejemplo."
     }
   }
 }

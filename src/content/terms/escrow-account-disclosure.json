@@ -8,7 +8,7 @@
   "complianceNotes": "Make the Loan Estimate escrow answer match the note and the initial escrow statement. Give the RESPA statement. Do not use the word escrow for earnest money and for taxes in the same sentence without explaining.",
   "example": {
     "setting": "Loan Estimate, page 1, projected payments and the escrow statement, and the initial escrow disclosure",
-    "text": "A sample Loan Estimate might show an example monthly escrow of $420 for taxes and insurance. Example figures."
+    "text": "A sample Loan Estimate might show an example monthly escrow of $420 for taxes and insurance, and must state whether there will be an escrow account. A separate initial statement lists the charges the servicer expects to pay from that account in the first year. Some higher-priced loans must have an escrow account. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -30,7 +30,7 @@
     "complianceNotes": "Haga que la respuesta sobre el depósito en garantía de la Estimación del préstamo coincida con el pagaré y con la declaración inicial del depósito. Dé la declaración de RESPA. No use la palabra depósito en garantía para el dinero de arras y para los impuestos en la misma frase sin explicar.",
     "example": {
       "setting": "Estimación del préstamo, página 1, pagos proyectados y la declaración de depósito en garantía, y la divulgación inicial del depósito",
-      "text": "Una Estimación del préstamo de muestra podría mostrar un depósito en garantía mensual de ejemplo de $420 para impuestos y seguro. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo de muestra podría mostrar un depósito en garantía mensual de ejemplo de $420 para impuestos y seguro, y debe indicar si habrá una cuenta de depósito en garantía. Una declaración inicial por separado enumera los cargos que el administrador espera pagar desde esa cuenta en el primer año. Algunos préstamos de precio más alto deben tener una cuenta de depósito en garantía. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Disclose fixed rate only if the note rate cannot change. Explain that escrow can still move the total payment. Do not call a hybrid ARM fixed because the first years do not adjust.",
   "example": {
     "setting": "Loan Estimate, page 1, product described as fixed rate",
-    "text": "A sample 30-year fixed note at an example 6.25 percent would keep that rate for the term. Example figures."
+    "text": "A sample 30-year fixed note at an example 6.25 percent would keep that rate for the term. The principal and interest payment does not change because of an index. The total monthly payment can still change if taxes, insurance, or mortgage insurance change. A temporary buydown is not a fixed rate at the reduced level. Example figures."
   },
   "citations": [
     "reg-1026-37"
@@ -32,7 +32,7 @@
     "complianceNotes": "Divulgue tasa fija solo si la tasa del pagaré no puede cambiar. Explique que el depósito en garantía igual puede mover el pago total. No llame fija a una ARM híbrida porque los primeros años no se ajustan.",
     "example": {
       "setting": "Estimación del préstamo, página 1, producto descrito como tasa fija",
-      "text": "Un pagaré fijo a 30 años de muestra a un ejemplo del 6.25 por ciento mantendría esa tasa por el plazo. Cifras de ejemplo."
+      "text": "Un pagaré fijo a 30 años de muestra a un ejemplo del 6.25 por ciento mantendría esa tasa por el plazo. El pago de capital e interés no cambia por un índice. El pago mensual total igual puede cambiar si cambian los impuestos, el seguro o el seguro hipotecario. Una reducción temporal no es una tasa fija al nivel reducido. Cifras de ejemplo."
     }
   }
 }

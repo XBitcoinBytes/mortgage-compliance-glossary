@@ -8,7 +8,7 @@
   "complianceNotes": "List every collection and apply the correct program rule. Do not tell the borrower to pay a collection at the closing table without checking whether the guide requires it to be paid, documented, and resubmitted.",
   "example": {
     "setting": "Credit report, collection tradeline, and the debt worksheet",
-    "text": "A sample report might show an example $1,800 medical collection and a $640 utility collection. Example figures, not a required payoff."
+    "text": "A sample report might show an example $1,800 medical collection and a $640 utility collection. Whether either must be paid before closing, and whether a payment is counted in the debt ratio, depends on the program and the guide. Example figures, not a required payoff."
   },
   "citations": [
     "fannie-guide",
@@ -24,13 +24,15 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Cuenta en cobranza",
-    "aliases": [],
+    "aliases": [
+      "deuda en cobranza"
+    ],
     "definition": "Una cuenta en cobranza es una deuda que un acreedor envió a un cobrador o vendió. Puede seguir debiéndose. Si usted debe pagarla antes del cierre, y si un pago se cuenta en su relación de deudas, depende del programa y de la guía. No hay una sola regla de pago para toda cobranza.",
     "details": "Las secciones de pasivos de Fannie Mae, incluida B3-6-05, y el tema de crédito adverso tratan las cobranzas. Los manuales de la FHA y de USDA tienen sus propias pruebas de pago y de capacidad. Las cobranzas médicas y las no médicas a menudo se tratan de modo distinto. Una carta que disputa la deuda no la elimina, salvo que la guía diga que una disputa puede dejarse de lado.",
     "complianceNotes": "Liste toda cobranza y aplique la regla correcta del programa. No le diga al prestatario que pague una cobranza en la mesa de cierre sin revisar si la guía exige que se pague, se documente y se vuelva a enviar.",
     "example": {
       "setting": "Informe de crédito, línea en cobranza, y la hoja de deudas",
-      "text": "Un informe de muestra puede mostrar una cobranza médica de ejemplo de $1,800 y una cobranza de servicios de $640. Cifras de ejemplo, no un pago exigido."
+      "text": "Un informe de muestra puede mostrar una cobranza médica de ejemplo de $1,800 y una cobranza de servicios de $640. Si alguna debe pagarse antes del cierre, y si un pago se cuenta en la relación de deudas, depende del programa y de la guía. Cifras de ejemplo, no un pago exigido."
     }
   }
 }

@@ -31,7 +31,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Derecho de rescisión",
-    "aliases": [],
+    "aliases": [
+      "derecho a cancelar",
+      "rescisión"
+    ],
     "definition": "El derecho de rescisión permite que cada persona con un interés de propiedad cancele ciertos préstamos sobre una vivienda principal hasta la medianoche del tercer día hábil después de lo último entre la consumación, la entrega de las divulgaciones materiales o la entrega del aviso de rescisión. Los préstamos de compra por lo general no se pueden rescindir. Muchos refinanciamientos y préstamos de valor líquido de crédito cerrado sí.",
     "details": "12 CFR 1026.23 establece quién puede rescindir, qué transacciones están exentas y el período de tres días hábiles. Use la definición específica de día hábil: todos los días del calendario excepto los domingos y los feriados legales federales. Cada consumidor con un interés de propiedad recibe el aviso. Las renuncias están muy limitadas a emergencias financieras personales de buena fe. Desembolsar antes de que termine el período de rescisión, cuando el derecho se aplica, es una violación grave.",
     "complianceNotes": "No dé un aviso de rescisión en una compra y no lo omita en un refinanciamiento cubierto. Cuente tres días hábiles específicos y no desembolse antes. Una firma en la Divulgación del cierre no renuncia al derecho.",

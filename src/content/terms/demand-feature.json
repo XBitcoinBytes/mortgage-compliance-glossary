@@ -8,7 +8,7 @@
   "complianceNotes": "Read the note before you check the box. If the loan truly is payable on demand, explain the condition to the borrower in plain words and confirm the product is even eligible.",
   "example": {
     "setting": "Loan Estimate, page 1, Loan Terms, Demand Feature",
-    "text": "A sample conventional fixed-rate Loan Estimate would show Demand Feature: NO. Example figures are not a demand amount."
+    "text": "A sample conventional fixed-rate Loan Estimate would show Demand Feature: NO. Most standard home mortgages do not have one. If the Loan Estimate says yes, the form explains the feature. Example figures are not a demand amount."
   },
   "citations": [
     "reg-1026-37"
@@ -24,6 +24,7 @@
   "es": {
     "term": "Característica de exigibilidad",
     "aliases": [
+      "cláusula de exigibilidad",
       "Característica de la demanda"
     ],
     "definition": "Una característica de exigibilidad permite al prestamista exigir el pago anticipado del préstamo por una razón distinta de su incumplimiento. La mayoría de las hipotecas estándar de vivienda no tienen una. Si la Estimación del préstamo dice que sí, el formulario explica la característica. La aceleración después del incumplimiento es un concepto distinto.",
@@ -31,7 +32,7 @@
     "complianceNotes": "Lea el pagaré antes de marcar la casilla. Si el préstamo de verdad es pagadero a la vista, explíquele la condición al prestatario en palabras claras y confirme que el producto siquiera es elegible.",
     "example": {
       "setting": "Estimación del préstamo, página 1, Términos del préstamo, Característica de exigibilidad",
-      "text": "Una Estimación del préstamo convencional de tasa fija de muestra mostraría Característica de exigibilidad: NO. Las cifras de ejemplo no son un monto exigible. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo convencional de tasa fija de muestra mostraría Característica de exigibilidad: NO. La mayoría de las hipotecas estándar de vivienda no tienen una. Si la Estimación del préstamo dice que sí, el formulario explica la característica. Las cifras de ejemplo no son un monto exigible. Cifras de ejemplo."
     }
   }
 }

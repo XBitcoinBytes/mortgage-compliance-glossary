@@ -8,7 +8,7 @@
   "complianceNotes": "Elect borrower-paid or lender-paid before disclosing, and do not switch in a way that collects both. Keep the agreement and the calculation. Present the required loan options if the anti-steering safe harbor is the control the creditor relies on.",
   "example": {
     "setting": "Loan Estimate, page 2, Section A, broker charge if borrower-paid; compensation agreement if lender-paid",
-    "text": "A sample borrower-paid file might show a broker charge of $4,000 in Section A on an example $250,000 loan and no lender-paid commission. Example figures."
+    "text": "A sample borrower-paid file might show a broker charge of $4,000 in Section A on an example $250,000 loan and no lender-paid commission. The broker may not be paid by both the borrower and the creditor on the same loan, and the pay may not depend on the rate. Example figures."
   },
   "citations": [
     "reg-1026-36",
@@ -31,7 +31,7 @@
     "complianceNotes": "Elija pago del prestatario o pago del prestamista antes de divulgar, y no cambie de un modo que cobre ambos. Conserve el acuerdo y el cálculo. Presente las opciones de préstamo exigidas si el puerto seguro contra la dirección indebida es el control en el que se apoya el acreedor.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección A, cargo del corredor si lo paga el prestatario; acuerdo de compensación si lo paga el prestamista",
-      "text": "Un expediente de muestra pagado por el prestatario puede mostrar un cargo del corredor de $4,000 en la Sección A sobre un préstamo de ejemplo de $250,000 y ninguna comisión pagada por el prestamista. Cifras de ejemplo."
+      "text": "Un expediente de muestra pagado por el prestatario puede mostrar un cargo del corredor de $4,000 en la Sección A sobre un préstamo de ejemplo de $250,000 y ninguna comisión pagada por el prestamista. El corredor no puede recibir pago del prestatario y del acreedor en el mismo préstamo, y el pago no puede depender de la tasa. Cifras de ejemplo."
     }
   }
 }

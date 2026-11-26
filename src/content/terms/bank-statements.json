@@ -8,7 +8,7 @@
   "complianceNotes": "Collect all pages for the required period. Source large deposits. Do not qualify a conventional agency loan on deposit averages.",
   "example": {
     "setting": "Asset file, bank statements covering the period the guide requires",
-    "text": "A sample two-month statement set might show an example ending balance of $31,000 and one deposit of $9,500 that still needs a source. Example figures."
+    "text": "A sample two-month statement set might show an example ending balance of $31,000 and one deposit of $9,500 that still needs a source. Lenders use the statements to prove funds to close and reserves. All pages belong in the file. Deposit averages are not the qualifying method for a conventional agency loan. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -34,7 +34,7 @@
     "complianceNotes": "Recoja todas las páginas del período exigido. Explique los depósitos grandes. No califique un préstamo convencional de agencia con promedios de depósitos.",
     "example": {
       "setting": "Expediente de activos, estados de cuenta que cubren el período que exige la guía",
-      "text": "Un conjunto de estados de muestra de dos meses puede mostrar un saldo final de ejemplo de $31,000 y un depósito de $9,500 que todavía necesita origen. Cifras de ejemplo."
+      "text": "Un conjunto de estados de muestra de dos meses puede mostrar un saldo final de ejemplo de $31,000 y un depósito de $9,500 que todavía necesita origen. Los prestamistas los usan para probar los fondos para el cierre y las reservas. Todas las páginas pertenecen al expediente. Los promedios de depósitos no son el método de calificación para un préstamo convencional de agencia. Cifras de ejemplo."
     }
   }
 }

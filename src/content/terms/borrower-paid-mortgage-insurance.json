@@ -10,7 +10,7 @@
   "complianceNotes": "Show the monthly amount in the projected payment. Tell the borrower the HPA cancellation date and the conditions. Do not switch the file to lender-paid MI without a new disclosure of the rate.",
   "example": {
     "setting": "Monthly PMI line on the Loan Estimate, paid by the borrower",
-    "text": "A sample Loan Estimate might show an example $110 monthly mortgage insurance payment. Example figures."
+    "text": "A sample Loan Estimate might show an example $110 monthly mortgage insurance payment. Because the borrower pays it, the Homeowners Protection Act's cancellation and automatic-termination rules can apply. The premium is not part of the note rate. FHA MIP follows different cancellation rules. Example figures."
   },
   "citations": [
     "usc-12-4902"
@@ -35,7 +35,7 @@
     "complianceNotes": "Muestre el monto mensual en el pago proyectado. Dígale al prestatario la fecha de cancelación de la HPA y las condiciones. No cambie el expediente a seguro pagado por el prestamista sin una nueva divulgación de la tasa.",
     "example": {
       "setting": "Línea mensual de PMI en la Estimación del préstamo, pagada por el prestatario",
-      "text": "Una Estimación del préstamo de muestra podría mostrar un pago mensual de seguro hipotecario de ejemplo de $110. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo de muestra podría mostrar un pago mensual de seguro hipotecario de ejemplo de $110. Como lo paga el prestatario, pueden aplicar las reglas de cancelación y de terminación automática de la Ley de Protección de Propietarios. La prima no es parte de la tasa del pagaré. El MIP de la FHA sigue reglas de cancelación diferentes. Cifras de ejemplo."
     }
   }
 }

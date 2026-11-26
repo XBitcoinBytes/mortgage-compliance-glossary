@@ -8,7 +8,7 @@
   "complianceNotes": "Label the product cash-out, not IRRRL, if the veteran receives cash beyond the handbook's limited amount. Complete the benefit comparison. Do not skip residual income if the chapter requires it.",
   "example": {
     "setting": "VA cash-out refinance under Pamphlet 26-7, Chapter 6, distinct from an IRRRL",
-    "text": "A sample cash-out might pay an example $15,000 to the veteran at closing. Example figures, not a maximum."
+    "text": "A sample cash-out might pay an example $15,000 to the veteran at closing. It is not an IRRRL. Loan-to-value, seasoning, and net tangible benefit rules are in the VA manual and those numbers change. Example figures, not a maximum."
   },
   "citations": [
     "va-pamphlet"
@@ -24,13 +24,15 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Refinanciamiento VA con retiro de efectivo",
-    "aliases": [],
+    "aliases": [
+      "retiro de efectivo VA"
+    ],
     "definition": "Un refinanciamiento VA con retiro de efectivo reemplaza un préstamo y permite al veterano retirar plusvalía o pagar deudas, según las reglas de relación préstamo-valor, antigüedad y beneficio tangible neto del manual de VA. No es un IRRRL. Los números de esas reglas cambian. Lea el capítulo 6.",
     "details": "El capítulo 6 del Folleto 26-7 separa el retiro de efectivo del IRRRL y establece la suscripción, incluido el ingreso residual en muchos casos. Una comparación del préstamo viejo y del nuevo es parte de la prueba del beneficio. El derecho debe apoyar la nueva garantía. El calendario de la cuota de financiamiento es la tabla vigente de VA, no un porcentaje impreso aquí.",
     "complianceNotes": "Etiquete el producto como retiro de efectivo, no como IRRRL, si el veterano recibe efectivo más allá del monto limitado del manual. Complete la comparación del beneficio. No omita el ingreso residual si el capítulo lo exige.",
     "example": {
       "setting": "Refinanciamiento VA con retiro de efectivo según el Folleto 26-7, capítulo 6, distinto de un IRRRL",
-      "text": "Un retiro de efectivo de muestra podría pagar un ejemplo de $15,000 al veterano en el cierre. Cifras de ejemplo, no un máximo."
+      "text": "Un retiro de efectivo de muestra podría pagar un ejemplo de $15,000 al veterano en el cierre. No es un IRRRL. Las reglas de relación préstamo-valor, antigüedad y beneficio tangible neto están en el manual de VA, y esos números cambian. Cifras de ejemplo, no un máximo."
     }
   }
 }

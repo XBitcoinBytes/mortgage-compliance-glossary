@@ -6,7 +6,7 @@
   ],
   "category": "compliance",
   "definition": "A marketing services agreement is a contract to pay for actual marketing, such as a measurable advertising placement. Under RESPA it becomes a problem when the payment tracks referrals rather than the fair value of real services. There is no regulation that blesses these agreements as a class.",
-  "details": "12 CFR 1024.14 is the rule. The CFPB has brought cases where marketing agreements were used to pay for referrals. A lawful agreement, if one exists on the facts, pays for services that are actually performed, at a price that reflects those services, and not for a quota of leads or closings. This entry is flagged because the safe path is fact-specific and there is no CFR safe harbor.",
+  "details": "12 CFR 1024.14 is the rule. The CFPB has brought cases where marketing agreements were used to pay for referrals. A lawful agreement, if one exists on the facts, pays for services that are actually performed, at a price that reflects those services, and not for a quota of leads or closings. The safe path is fact-specific, and there is no CFR safe harbor.",
   "complianceNotes": "Do not sign a per-closing marketing deal. Have counsel review the services, the price, and the tracking. Keep proof the service was performed. This page does not provide a template for hiding a referral fee.",
   "example": {
     "setting": "Marketing contract reviewed for whether it pays for services or for referrals",
@@ -27,10 +27,11 @@
   "es": {
     "term": "Acuerdo de servicios de mercadeo",
     "aliases": [
-      "MSA"
+      "MSA",
+      "acuerdo de servicios de marketing"
     ],
-    "definition": "Un acuerdo de servicios de mercadeo es un contrato para pagar mercadeo real, como una colocación publicitaria medible. Según RESPA se vuelve un problema cuando el pago sigue a las referencias y no al valor justo de servicios reales. No hay un reglamento que bendiga estos acuerdos como clase.",
-    "details": "12 CFR 1024.14 es la regla. La CFPB ha presentado casos en los que los acuerdos de mercadeo se usaron para pagar referencias. Un acuerdo lícito, si existe según los hechos, paga por servicios que de verdad se prestan, a un precio que refleja esos servicios, y no por una cuota de clientes potenciales o de cierres. Esta entrada está marcada porque la vía segura depende de los hechos y no hay un puerto seguro en el CFR.",
+    "definition": "Un acuerdo de servicios de mercadeo es un contrato para pagar mercadeo real, como una colocación publicitaria medible. Según RESPA se vuelve un problema cuando el pago sigue a las referencias y no al valor justo de servicios reales. No hay un reglamento que apruebe estos acuerdos como clase.",
+    "details": "12 CFR 1024.14 es la regla. La CFPB ha presentado casos en los que los acuerdos de mercadeo se usaron para pagar referencias. Un acuerdo lícito, si existe según los hechos, paga por servicios que de verdad se prestan, a un precio que refleja esos servicios, y no por una cuota de clientes potenciales o de cierres. La vía segura depende de los hechos, y no hay un puerto seguro en el CFR.",
     "complianceNotes": "No firme un acuerdo de mercadeo por cada cierre. Haga que un asesor revise los servicios, el precio y el seguimiento. Conserve la prueba de que el servicio se prestó. Esta página no proporciona una plantilla para ocultar un cargo por referencia.",
     "example": {
       "setting": "Contrato de mercadeo revisado para ver si paga por servicios o por referencias",

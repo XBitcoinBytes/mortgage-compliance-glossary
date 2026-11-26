@@ -10,7 +10,7 @@
   "complianceNotes": "Give the booklet and disclose the caps before the borrower locks. Do not illustrate only the starting payment. Use a current index in the note.",
   "example": {
     "setting": "Loan Estimate, page 1, product line showing an adjustable rate, and the ARM disclosure",
-    "text": "A sample 5/6 ARM might start at an example 5.875 percent with caps described on the Loan Estimate. Example figures, not a quote."
+    "text": "A sample 5/6 ARM might start at an example 5.875 percent with caps described on the Loan Estimate. The CHARM booklet and early ARM disclosures are required. Qualifying may use a rate higher than the start rate. LIBOR is not the current standard index for new notes. Example figures, not a quote."
   },
   "citations": [
     "reg-1026-19",
@@ -31,14 +31,16 @@
   "es": {
     "term": "Hipoteca de tasa ajustable",
     "aliases": [
-      "ARM"
+      "ARM",
+      "hipoteca de interés variable",
+      "hipoteca de tasa variable"
     ],
     "definition": "Una hipoteca de tasa ajustable es un préstamo cuya tasa de interés puede cambiar después de un período, con base en un índice más un margen, y limitada por topes. El pago puede subir. La Estimación del préstamo nombra el producto. Se exige un folleto CHARM separado para las solicitudes de ARM.",
     "details": "12 CFR 1026.19(b) exige el folleto CHARM y las divulgaciones tempranas de la ARM. 12 CFR 1026.20 exige avisos antes de los ajustes. 12 CFR 1026.37 muestra el producto, los topes y si la tasa puede aumentar. El índice está en el pagaré. El LIBOR no es el índice estándar vigente para pagarés nuevos. La calificación puede usar una tasa más alta que la tasa inicial. Lea B3-6-04 para el método de la agencia.",
     "complianceNotes": "Dé el folleto y divulgue los topes antes de que el prestatario fije. No ilustre solo el pago inicial. Use un índice vigente en el pagaré.",
     "example": {
       "setting": "Estimación del préstamo, página 1, línea de producto que muestra una tasa ajustable, y la divulgación de la ARM",
-      "text": "Una ARM 5/6 de muestra podría empezar en un ejemplo del 5.875 por ciento con topes descritos en la Estimación del préstamo. Cifras de ejemplo, no una cotización."
+      "text": "Una ARM 5/6 de muestra podría empezar en un ejemplo del 5.875 por ciento con topes descritos en la Estimación del préstamo. Se exigen el folleto CHARM y las divulgaciones iniciales de ARM. La calificación puede usar una tasa más alta que la tasa inicial. LIBOR no es el índice estándar actual para pagarés nuevos. Cifras de ejemplo, no una cotización."
     }
   }
 }

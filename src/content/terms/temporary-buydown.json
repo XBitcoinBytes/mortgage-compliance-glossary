@@ -8,7 +8,7 @@
   "complianceNotes": "Show the note rate and the temporary payment. Qualify at the rate the current guide requires. Count a seller-funded buydown toward the contribution cap.",
   "example": {
     "setting": "Buydown agreement showing a temporary reduction, with the note rate unchanged",
-    "text": "A sample 2-1 buydown might reduce an example note payment for two years and then step up. Example figures, not a required subsidy."
+    "text": "A sample 2-1 buydown might reduce an example note payment for two years and then step up. The note rate does not change. Do not assume the borrower is qualified at the reduced payment, and do not describe the reduced rate as the product's permanent rate. Example figures, not a required subsidy."
   },
   "citations": [
     "fannie-guide",
@@ -24,13 +24,15 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Reducción temporal de la tasa",
-    "aliases": [],
+    "aliases": [
+      "buydown temporal"
+    ],
     "definition": "Una reducción temporal usa dinero, a menudo del vendedor o del prestamista, para reducir el pago durante los primeros años. La tasa del pagaré no cambia. Cuando el subsidio termina, el pago sube al pago del pagaré. No es un punto de descuento permanente.",
     "details": "La Selling Guide de Fannie Mae establece cómo se documentan las reducciones temporales y qué pago se usa para calificar. No suponga que el prestatario se califica al pago reducido. Una reducción pagada por el vendedor es una aportación de una parte interesada y debe caber en el tope de la guía. La Estimación del préstamo no debe describir la tasa reducida como la tasa permanente del producto.",
     "complianceNotes": "Muestre la tasa del pagaré y el pago temporal. Califique a la tasa que exige la guía vigente. Cuente una reducción financiada por el vendedor hacia el tope de aportación.",
     "example": {
       "setting": "Acuerdo de reducción que muestra una reducción temporal, con la tasa del pagaré sin cambio",
-      "text": "Una reducción 2-1 de muestra podría reducir un pago del pagaré de ejemplo durante dos años y luego subir. Cifras de ejemplo, no un subsidio exigido."
+      "text": "Una reducción 2-1 de muestra podría reducir un pago del pagaré de ejemplo durante dos años y luego subir. La tasa del pagaré no cambia. No presuponga que el prestatario se califica con el pago reducido, y no describa la tasa reducida como la tasa permanente del producto. Cifras de ejemplo, no un subsidio exigido."
     }
   }
 }

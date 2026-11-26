@@ -8,7 +8,7 @@
   "complianceNotes": "Clear recent inquiries before documents. If a new payment exists, add it and resubmit. Do not accept a letter that says no new debt when a new tradeline has already reported.",
   "example": {
     "setting": "Credit report, inquiry section, and any letter explaining a recent inquiry",
-    "text": "A sample report might show three inquiries in the last example 90 days, one of them a car dealer. Example figures."
+    "text": "A sample report might show three inquiries in the last example 90 days, one of them a car dealer. Lenders ask about them so a new auto loan or credit card is not left out of the debt ratio. Example figures."
   },
   "citations": [
     "fannie-b3-5-3-04"
@@ -29,7 +29,7 @@
     "complianceNotes": "Resuelva las consultas recientes antes de los documentos. Si existe un pago nuevo, agréguelo y vuelva a enviar. No acepte una carta que dice que no hay deuda nueva cuando una línea nueva ya se reportó.",
     "example": {
       "setting": "Informe de crédito, sección de consultas, y cualquier carta que explique una consulta reciente",
-      "text": "Un informe de muestra puede mostrar tres consultas en los últimos 90 días de ejemplo, una de ellas de un concesionario de autos. Cifras de ejemplo."
+      "text": "Un informe de muestra puede mostrar tres consultas en los últimos 90 días de ejemplo, una de ellas de un concesionario de autos. Los prestamistas preguntan por ellas para que un préstamo de automóvil o una tarjeta nueva no quede fuera de la relación de deudas. Cifras de ejemplo."
     }
   }
 }

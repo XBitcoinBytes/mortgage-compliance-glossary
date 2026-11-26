@@ -10,7 +10,7 @@
   "complianceNotes": "Clear portal messages before delivery. Do not change a standardized field to force a value. Keep the successful submission report with the appraisal.",
   "example": {
     "setting": "Appraisal report, standardized data fields submitted with the form",
-    "text": "A sample portal rejection might flag a missing condition rating on an example appraisal of a $250,000 property. Example figures."
+    "text": "A sample portal rejection might flag a missing condition rating on an example appraisal of a $250,000 property. The Uniform Appraisal Dataset is the standard field list, not the appraisal itself. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -33,7 +33,7 @@
     "complianceNotes": "Resuelva los mensajes del portal antes de la entrega. No cambie un campo estandarizado para forzar un valor. Conserve el informe de envío exitoso con la tasación.",
     "example": {
       "setting": "Informe de tasación, campos de datos estandarizados enviados con el formulario",
-      "text": "Un rechazo de muestra del portal puede marcar una calificación de condición faltante en una tasación de ejemplo de una propiedad de $250,000. Cifras de ejemplo."
+      "text": "Un rechazo de muestra del portal puede marcar una calificación de condición faltante en una tasación de ejemplo de una propiedad de $250,000. El Conjunto uniforme de datos de tasación es la lista estándar de campos, no la tasación en sí. Cifras de ejemplo."
     }
   }
 }
