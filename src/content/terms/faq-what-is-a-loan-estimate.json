@@ -8,7 +8,7 @@
   "complianceNotes": "Do not collect fees other than a bona fide credit-report fee before the borrower receives the Loan Estimate and states an intent to proceed. Compare page 2 with the later Closing Disclosure.",
   "example": {
     "setting": "Loan Estimate, three pages, received after you apply",
-    "text": "A sample Loan Estimate might show an example interest rate of 6.50 percent and example closing costs of $8,200. Example figures."
+    "text": "A sample Loan Estimate might show an example interest rate of 6.50 percent and example closing costs of $8,200 on page 2. For most closed-end mortgages it is due within three general business days after you apply. Some charges cannot rise, some can rise by 10 percent as a group, and some can change. Example figures."
   },
   "citations": [
     "reg-1026-19-e-1-iii",
@@ -23,7 +23,7 @@
     "three-business-day-rule",
     "zero-tolerance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Qué es una Estimación del préstamo?",
     "aliases": [],
@@ -32,7 +32,7 @@
     "complianceNotes": "No cobre cargos distintos de un cargo de buena fe por el informe de crédito antes de que el prestatario reciba la Estimación del préstamo y manifieste la intención de continuar. Compare la página 2 con la Divulgación del cierre posterior.",
     "example": {
       "setting": "Estimación del préstamo, tres páginas, recibida después de que usted solicita",
-      "text": "Una Estimación del préstamo de muestra podría mostrar una tasa de interés de ejemplo del 6.50 por ciento y costos de cierre de ejemplo de $8,200. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo de muestra podría mostrar una tasa de interés de ejemplo del 6.50 por ciento y costos de cierre de ejemplo de $8,200 en la página 2. Para la mayoría de las hipotecas de crédito cerrado se debe entregar dentro de los tres días hábiles generales después de que usted solicita. Algunos cargos no pueden subir, algunos pueden subir un 10 por ciento como grupo y algunos pueden cambiar. Cifras de ejemplo."
     }
   }
 }

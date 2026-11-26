@@ -10,7 +10,7 @@
   "complianceNotes": "Run the analysis on schedule and mail the statement. Use actual bills, not last decade's tax. Offer the installment option for a shortage when the section requires it.",
   "example": {
     "setting": "Annual escrow analysis statement sent to the borrower",
-    "text": "A sample analysis might raise an example escrow payment from $380 to $430 after a tax increase, with a shortage spread over 12 months. Example figures."
+    "text": "A sample analysis might raise an example escrow payment from $380 to $430 after a tax increase, with a shortage spread over 12 months. A surplus at or above the section's refund threshold is refunded; the longstanding regulatory text uses $50 or more, and that figure should be confirmed in the current section. Example figures."
   },
   "citations": [
     "reg-1024-17"
@@ -24,7 +24,7 @@
     "faq-what-is-an-escrow-account",
     "periodic-statement"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Análisis de la cuenta de depósito en garantía",
     "aliases": [],
@@ -33,7 +33,7 @@
     "complianceNotes": "Ejecute el análisis en el calendario y envíe el estado. Use facturas reales, no el impuesto de la década pasada. Ofrezca la opción de cuotas para un faltante cuando la sección lo exige.",
     "example": {
       "setting": "Estado del análisis anual del depósito en garantía enviado al prestatario",
-      "text": "Un análisis de muestra podría subir un pago de depósito en garantía de ejemplo de $380 a $430 después de un aumento de impuestos, con un faltante repartido en 12 meses. Cifras de ejemplo."
+      "text": "Un análisis de muestra podría subir un pago de depósito en garantía de ejemplo de $380 a $430 después de un aumento de impuestos, con un faltante repartido en 12 meses. Un excedente igual o superior al umbral de reembolso de la sección se reembolsa; el texto reglamentario de larga data usa $50 o más, y esa cifra debe confirmarse en la sección vigente. Cifras de ejemplo."
     }
   }
 }

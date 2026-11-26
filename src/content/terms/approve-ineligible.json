@@ -21,11 +21,13 @@
     "out-of-scope",
     "refer-with-caution"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Approve/Ineligible",
-    "aliases": [],
-    "definition": "Approve/Ineligible significa que la evaluación de riesgo de crédito de Desktop Underwriter puede ser aceptable, pero falló una regla de elegibilidad. El préstamo no es elegible para la venta a Fannie Mae con ese hallazgo. No es una denegación por sí mismo, y no es permiso para entregar.",
+    "aliases": [
+      "Aprobado/Inelegible"
+    ],
+    "definition": "Approve/Ineligible significa que la evaluación de riesgo de crédito de Desktop Underwriter puede ser aceptable, pero falló una regla de elegibilidad. El préstamo no es elegible para la venta a Fannie Mae con ese hallazgo. No es una denegación por sí misma, y no es permiso para entregar.",
     "details": "La Selling Guide B3-2-06 describe la recomendación. El mensaje de hallazgos indica qué regla de elegibilidad falló, como un problema de producto, ocupación o límite del préstamo. Algunas recomendaciones no elegibles pueden resolverse corrigiendo datos o cambiando la estructura. Otras no pueden entregarse a Fannie Mae en absoluto. El prestamista no puede ignorar la marca de no elegible.",
     "complianceNotes": "Lea los mensajes de elegibilidad antes de decirle al prestatario que el préstamo está aprobado. Corrija lo que se pueda corregir y vuelva a enviar. Si el préstamo sigue no elegible, no lo entregue a Fannie Mae.",
     "example": {

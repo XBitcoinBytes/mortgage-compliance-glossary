@@ -8,7 +8,7 @@
   "complianceNotes": "Ask the title company for the lender's and owner's premiums separately and map them to the correct section. Do not tell the borrower the owner's policy is federally required.",
   "example": {
     "setting": "Loan Estimate, page 2, Section B or C, title insurance lines",
-    "text": "A sample lender's title premium might be an example $1,350, with an owner's policy offered at a simultaneous-issue price set by the state. Example figures, not a filed rate."
+    "text": "A sample lender's title premium might be an example $1,350 in Section C if you can shop, or in Section B if you cannot; that choice controls the tolerance bucket. An owner's policy might be offered at a simultaneous-issue price set by the state. Example figures, not a filed rate."
   },
   "citations": [
     "reg-1026-37",
@@ -30,7 +30,7 @@
     "title-commitment",
     "written-list-of-providers"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Seguro de título",
     "aliases": [],
@@ -39,7 +39,7 @@
     "complianceNotes": "Pida a la compañía de título las primas del prestamista y del propietario por separado y asígnelas a la sección correcta. No le diga al prestatario que la póliza del propietario es exigida por la ley federal.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección B o C, líneas del seguro de título",
-      "text": "Una prima de título del prestamista de muestra podría ser un ejemplo de $1,350, con una póliza del propietario ofrecida a un precio de emisión simultánea fijado por el estado. Cifras de ejemplo, no una tarifa registrada."
+      "text": "Una prima de título del prestamista de muestra podría ser un ejemplo de $1,350 en la Sección C si usted puede comparar, o en la Sección B si no puede; esa elección controla el grupo de tolerancia. Una póliza del propietario podría ofrecerse a un precio de emisión simultánea fijado por el estado. Cifras de ejemplo, no una tarifa registrada."
     }
   }
 }

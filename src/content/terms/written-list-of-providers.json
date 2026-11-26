@@ -10,7 +10,7 @@
   "complianceNotes": "Send the list with the Loan Estimate and keep proof of delivery. Identify each shoppable service, not a generic title company for every fee. If the consumer picks off the list, move that charge out of the 10 percent bucket and document the choice.",
   "example": {
     "setting": "Written list of service providers given with the Loan Estimate, identifying providers for Section C services",
-    "text": "A sample list might name one title company for lender's title insurance with an example fee of $1,450, and state that the consumer may choose another company. Example figures."
+    "text": "A sample list might name one title company for lender's title insurance with an example fee of $1,450, and state that the consumer may choose another company. If the consumer picks a provider on the list, that fee generally stays in the 10 percent tolerance group; if they pick someone else, the fee can change without that limit. Example figures."
   },
   "citations": [
     "reg-1026-19-e-1-vi-C",
@@ -26,7 +26,7 @@
     "ten-percent-tolerance",
     "title-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Lista escrita de proveedores",
     "aliases": [
@@ -38,7 +38,7 @@
     "complianceNotes": "Envíe la lista con la Estimación del préstamo y conserve la prueba de entrega. Identifique cada servicio que se puede comparar, no una compañía de título genérica para todos los cargos. Si el consumidor elige fuera de la lista, saque ese cargo del grupo del 10 por ciento y documente la elección.",
     "example": {
       "setting": "Lista escrita de proveedores de servicios entregada con la Estimación del préstamo, que identifica proveedores para los servicios de la Sección C",
-      "text": "Una lista de muestra puede nombrar una compañía de título para el seguro de título del prestamista con un cargo de ejemplo de $1,450, y decir que el consumidor puede elegir otra compañía. Cifras de ejemplo."
+      "text": "Una lista de muestra puede nombrar una compañía de título para el seguro de título del prestamista con un cargo de ejemplo de $1,450, y decir que el consumidor puede elegir otra compañía. Si el consumidor elige un proveedor de la lista, ese cargo por lo general permanece en el grupo de tolerancia del 10 por ciento; si elige a otro, el cargo puede cambiar sin ese límite. Cifras de ejemplo."
     }
   }
 }

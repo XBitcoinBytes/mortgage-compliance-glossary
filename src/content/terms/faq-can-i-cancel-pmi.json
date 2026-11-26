@@ -8,7 +8,7 @@
   "complianceNotes": "Give the scheduled date and the conditions. Do not refuse a request that meets the statute. Do not apply the statute to FHA MIP.",
   "example": {
     "setting": "Borrower request to cancel borrower-paid PMI, measured on original value",
-    "text": "On an example original value of $300,000, 80 percent is a scheduled balance of $240,000. Example figures illustrating the statute, still subject to the payment-history conditions."
+    "text": "On an example original value of $300,000, 80 percent is a scheduled balance of $240,000, the point at which you can ask to cancel if you are current and meet the payment-history conditions. It ends on its own at 78 percent, a scheduled balance of $234,000 on that same example value, if you are current. Example figures illustrating the statute. FHA mortgage insurance does not follow this schedule."
   },
   "citations": [
     "usc-12-4902"
@@ -20,7 +20,7 @@
     "pmi-borrower-cancellation",
     "private-mortgage-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Puedo cancelar el PMI?",
     "aliases": [],
@@ -29,7 +29,7 @@
     "complianceNotes": "Dé la fecha programada y las condiciones. No rechace una solicitud que cumple la ley. No aplique la ley a la MIP de la FHA.",
     "example": {
       "setting": "Solicitud del prestatario para cancelar el PMI pagado por el prestatario, medida sobre el valor original",
-      "text": "Sobre un valor original de ejemplo de $300,000, el 80 por ciento es un saldo programado de $240,000. Cifras de ejemplo que ilustran la ley, todavía sujetas a las condiciones del historial de pago."
+      "text": "Sobre un valor original de ejemplo de $300,000, el 80 por ciento es un saldo programado de $240,000, el punto en el que usted puede pedir la cancelación si está al corriente y cumple las condiciones del historial de pago. Termina por sí solo en el 78 por ciento, un saldo programado de $234,000 sobre ese mismo valor de ejemplo, si está al corriente. Cifras de ejemplo que ilustran la ley. El seguro hipotecario de la FHA no sigue este calendario."
     }
   }
 }

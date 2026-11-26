@@ -11,7 +11,7 @@
   "complianceNotes": "Compare Section A and the cannot-shop fees line by line. Cure any increase you cannot tie to a permitted revision. Do not relabel a lender fee as a third-party fee to escape the bucket.",
   "example": {
     "setting": "Loan Estimate Section A compared with Closing Disclosure Section A",
-    "text": "A sample Section A origination fee of $1,195 on the Loan Estimate that becomes $1,395 on the Closing Disclosure is a $200 increase that generally must be cured. Example figures."
+    "text": "A sample Section A origination fee of $1,195 on the Loan Estimate that becomes $1,395 on the Closing Disclosure is a $200 increase that generally must be cured. Transfer taxes and cannot-shop fees in Section B are also in this zero-tolerance group; recording fees are in the 10 percent group. Example figures."
   },
   "citations": [
     "reg-1026-19-e-3-i",
@@ -41,7 +41,7 @@
     "complianceNotes": "Compare la Sección A y los cargos que no se pueden comparar línea por línea. Corrija cualquier aumento que no pueda atar a una revisión permitida. No vuelva a etiquetar un cargo del prestamista como un cargo de un tercero para escapar del grupo.",
     "example": {
       "setting": "Sección A de la Estimación del préstamo comparada con la Sección A de la Divulgación del cierre",
-      "text": "Una tarifa de originación de muestra de $1,195 en la Estimación del préstamo que se vuelve $1,395 en la Divulgación del cierre es un aumento de $200 que por lo general debe corregirse. Cifras de ejemplo."
+      "text": "Una tarifa de originación de muestra de $1,195 en la Estimación del préstamo que se vuelve $1,395 en la Divulgación del cierre es un aumento de $200 que por lo general debe corregirse. Los impuestos de transferencia y los cargos que no se pueden comparar en la Sección B también están en este grupo de tolerancia cero; los cargos de registro están en el grupo del 10 por ciento. Cifras de ejemplo."
     }
   }
 }
