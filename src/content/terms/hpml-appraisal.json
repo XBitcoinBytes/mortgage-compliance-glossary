@@ -28,7 +28,10 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Tasación de una HPML",
-    "aliases": [],
+    "aliases": [
+      "regla de tasación de HPML",
+      "tasación de una hipoteca de precio más alto"
+    ],
     "definition": "La regla de tasación de la hipoteca de precio más alto por lo general exige una tasación escrita de un tasador certificado o con licencia que inspecciona el interior. Algunas compras que son reventas rápidas, a menudo llamadas flips, pueden exigir una segunda tasación. Los detalles, incluidos los aumentos de precio que activan la segunda tasación, están en el reglamento.",
     "details": "12 CFR 1026.35(c) es la regla de tasación. Tiene exenciones. Una oferta de aceptación de valor de Fannie Mae no borra un requisito de tasación del Reglamento Z si el préstamo es una hipoteca de precio más alto cubierta y no se aplica una exención. El prestatario igual recibe copias de la tasación según el Reglamento B. La inspección interior y la independencia según 12 CFR 1026.42 igual importan.",
     "complianceNotes": "No se apoye en una exención de tasación para una HPML hasta que confirme una exención en 1026.35(c). Si el vendedor compró hace poco, abra la prueba de reventa rápida y lea los porcentajes en la sección y no de memoria.",

@@ -8,7 +8,7 @@
   "complianceNotes": "Explain conditions in plain words. Do not call a conditional approval a guarantee. Resubmit the automated system if income or the loan amount changes past its tolerances.",
   "example": {
     "setting": "Underwriting findings, automated or manual, before clear to close",
-    "text": "A sample findings report might conditionally approve an example $275,000 loan with six open items. Example figures."
+    "text": "A sample findings report might conditionally approve an example $275,000 loan with six open items. Clear to close is an internal status after those items are met; it is not the Closing Disclosure and not funding. Example figures."
   },
   "citations": [
     "fannie-b3-2-01",
@@ -24,13 +24,16 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "¿Qué es la suscripción?",
-    "aliases": [],
-    "definition": "La suscripción es la revisión del prestamista de su crédito, ingreso, activos y la propiedad para decidir si hace el préstamo. Un sistema automatizado puede recomendar la aprobación. Una persona igual revisa los documentos. Una aprobación condicional significa que quedan condiciones.",
+    "aliases": [
+      "underwriting",
+      "análisis de crédito"
+    ],
+    "definition": "La suscripción es la revisión del prestamista de su crédito, ingreso, activos y la propiedad para decidir si hace el préstamo. Un sistema automatizado puede recomendar la aprobación. Aun así, una persona revisa los documentos. Una aprobación condicional significa que quedan condiciones.",
     "details": "Fannie Mae B3-2-01 dice que el prestamista sigue siendo responsable de los datos aunque Desktop Underwriter apruebe el préstamo. La capacidad de pago según 12 CFR 1026.43 es un deber legal distinto. La autorización para cerrar es un estado interno después de que se cumplen las condiciones. No es la Divulgación del cierre ni el desembolso.",
     "complianceNotes": "Explique las condiciones en palabras claras. No llame garantía a una aprobación condicional. Vuelva a enviar el sistema automatizado si el ingreso o el monto del préstamo cambia más allá de sus tolerancias.",
     "example": {
       "setting": "Hallazgos de suscripción, automatizados o manuales, antes de la autorización para cerrar",
-      "text": "Un informe de hallazgos de muestra podría aprobar condicionalmente un préstamo de ejemplo de $275,000 con seis puntos abiertos. Cifras de ejemplo."
+      "text": "Un informe de resultados de muestra podría aprobar condicionalmente un préstamo de ejemplo de $275,000 con seis puntos abiertos. La autorización para cerrar es un estado interno después de que se cumplen esos puntos; no es la Divulgación del cierre ni el desembolso. Cifras de ejemplo."
     }
   }
 }

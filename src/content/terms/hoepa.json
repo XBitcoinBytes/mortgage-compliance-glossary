@@ -28,7 +28,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "HOEPA",
-    "aliases": [],
+    "aliases": [
+      "Ley de Protección de la Propiedad de la Vivienda y el Patrimonio"
+    ],
     "definition": "HOEPA es la Ley de Protección de la Propiedad de la Vivienda y el Patrimonio. Agrega restricciones a las hipotecas que son de alto costo por la tasa o por los puntos y cargos. No es la misma prueba que una hipoteca de precio más alto, y no es la prueba de la hipoteca calificada.",
     "details": "Las pruebas de cobertura y las restricciones extra están en 12 CFR 1026.32 y 1026.34, que aplican 15 USC 1639. La cobertura usa una prueba de tasa porcentual anual y una prueba de puntos y cargos. Los montos en dólares de esas pruebas se ajustan. No publique los números de este año de memoria. Una hipoteca de alto costo tiene consecuencias de consejería, divulgación y términos prohibidos que un préstamo solo de precio más alto no tiene.",
     "complianceNotes": "Ejecute la prueba de HOEPA antes de fijar un préstamo de cargos altos o de tasa alta. Si el préstamo está cubierto, siga 1026.34, incluida la consejería, y no use una lista estándar de QM como sustituto.",

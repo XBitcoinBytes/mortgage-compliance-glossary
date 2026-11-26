@@ -8,7 +8,7 @@
   "complianceNotes": "Collect only the actual, reasonable report cost before intent to proceed. Do not label an application fee as a credit-report fee. Keep the vendor invoice next to the amount charged.",
   "example": {
     "setting": "Loan Estimate, page 2, Section B, credit report fee; the only fee that may be collected before intent to proceed",
-    "text": "A sample Section B line might show Credit report, $38, matching a vendor invoice, on an example application. Example figures."
+    "text": "A sample Section B line might show Credit report, $38, matching a vendor invoice, on an example application. That is generally a zero-tolerance charge, and a markup that turns a small invoice into an application fee is not a bona fide and reasonable credit-report fee. Example figures."
   },
   "citations": [
     "reg-1026-19",
@@ -26,13 +26,15 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Cargo por el informe de crédito",
-    "aliases": [],
+    "aliases": [
+      "cargo por reporte de crédito"
+    ],
     "definition": "El cargo por el informe de crédito es el cobro por obtener su informe de crédito. Es el único cargo que un acreedor puede cobrar antes de que usted reciba la Estimación del préstamo y diga que quiere continuar, y solo si el cargo es de buena fe y razonable.",
     "details": "12 CFR 1026.19(e)(2) es la restricción de cargos. Un recargo que convierte una factura pequeña del proveedor en un cargo grande de solicitud no es un cargo de buena fe y razonable por el informe de crédito. El cargo, cuando se impone, se divulga en la Sección B si el consumidor no puede comparar al proveedor, y por lo general está sujeto a tolerancia cero. El propósito permitido para obtener el informe también es una cuestión de la Ley de Informes de Crédito Justos.",
     "complianceNotes": "Cobre solo el costo real y razonable del informe antes de la intención de continuar. No llame cargo del informe de crédito a un cargo de solicitud. Conserve la factura del proveedor junto al monto cobrado.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección B, cargo del informe de crédito; el único cargo que puede cobrarse antes de la intención de continuar",
-      "text": "Una línea de muestra de la Sección B puede mostrar Informe de crédito, $38, igual a la factura del proveedor, en una solicitud de ejemplo. Cifras de ejemplo."
+      "text": "Una línea de muestra de la Sección B puede mostrar Informe de crédito, $38, igual a la factura del proveedor, en una solicitud de ejemplo. Por lo general es un cargo de tolerancia cero, y un recargo que convierte una factura pequeña en un cargo de solicitud no es un cargo de buena fe y razonable por el informe de crédito. Cifras de ejemplo."
     }
   }
 }

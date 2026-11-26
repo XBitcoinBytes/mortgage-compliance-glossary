@@ -11,7 +11,7 @@
   "complianceNotes": "Do not issue a Loan Estimate for a HELOC. Give the open-end disclosures. If the line sits behind a new first mortgage, enter the full limit in HCLTV.",
   "example": {
     "setting": "HELOC early disclosures under Regulation Z, not a Loan Estimate",
-    "text": "A sample line might have an example limit of $40,000 and a $5,000 initial draw. Example figures."
+    "text": "A sample line might have an example limit of $40,000 and a $5,000 initial draw. The early disclosures are the open-end forms under Regulation Z, not a Loan Estimate. When a first mortgage is also being underwritten, the undrawn limit counts in the HCLTV. Example figures."
   },
   "citations": [
     "reg-1026-40",
@@ -39,7 +39,7 @@
     "complianceNotes": "No emita una Estimación del préstamo para una HELOC. Dé las divulgaciones de crédito abierto. Si la línea está detrás de una nueva primera hipoteca, ingrese el límite completo en la HCLTV.",
     "example": {
       "setting": "Divulgaciones tempranas de la HELOC según el Reglamento Z, no una Estimación del préstamo",
-      "text": "Una línea de muestra podría tener un límite de ejemplo de $40,000 y una disposición inicial de $5,000. Cifras de ejemplo."
+      "text": "Una línea de muestra podría tener un límite de ejemplo de $40,000 y una disposición inicial de $5,000. Las divulgaciones tempranas son los formularios de crédito abierto según el Reglamento Z, no una Estimación del préstamo. Cuando también se está suscribiendo una primera hipoteca, el límite no dispuesto cuenta en el HCLTV. Cifras de ejemplo."
     }
   }
 }

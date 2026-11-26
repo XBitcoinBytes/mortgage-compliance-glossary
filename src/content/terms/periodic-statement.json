@@ -11,7 +11,7 @@
   "complianceNotes": "Send the statement unless an exemption is documented. Include the content the section lists. Do not rely on a coupon book unless that exemption's conditions are met.",
   "example": {
     "setting": "Monthly periodic statement required by Regulation Z for many residential mortgages",
-    "text": "A sample statement might show an example amount due of $1,642, including principal, interest, and escrow. Example figures."
+    "text": "A sample statement might show an example amount due of $1,642, including principal, interest, and escrow. The statement is also how many borrowers first see an escrow change. It does not replace the annual escrow analysis. Example figures."
   },
   "citations": [
     "reg-1026-41"
@@ -31,13 +31,16 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Estado de cuenta periódico",
-    "aliases": [],
+    "aliases": [
+      "estado de cuenta mensual",
+      "estado hipotecario"
+    ],
     "definition": "Un estado de cuenta periódico es la factura hipotecaria regular. Muestra el pago debido, cómo se aplicará, los cargos y el historial de la cuenta. Muchas hipotecas residenciales deben recibirlo. Algunos préstamos están exentos, incluidos ciertos préstamos de administradores pequeños y algunos préstamos de tasa fija que usan un talonario que cumple la regla.",
     "details": "12 CFR 1026.41 establece el contenido, el plazo y las exenciones. Un estado que oculta cargos o muestra un saldo en suspenso sin explicación es un problema. El estado también es la forma en que muchos prestatarios ven por primera vez un cambio del depósito en garantía. No reemplaza el análisis anual del depósito en garantía.",
     "complianceNotes": "Envíe el estado salvo que se documente una exención. Incluya el contenido que enumera la sección. No se apoye en un talonario salvo que se cumplan las condiciones de esa exención.",
     "example": {
       "setting": "Estado de cuenta periódico mensual exigido por el Reglamento Z para muchas hipotecas residenciales",
-      "text": "Un estado de muestra podría mostrar un monto debido de ejemplo de $1,642, incluido capital, interés y depósito en garantía. Cifras de ejemplo."
+      "text": "Un estado de muestra puede mostrar un monto de ejemplo a pagar de $1,642, que incluye capital, interés y depósito en garantía. El estado también es cómo muchos prestatarios ven por primera vez un cambio del depósito en garantía. No sustituye el análisis anual de la cuenta de depósito en garantía. Cifras de ejemplo."
     }
   }
 }

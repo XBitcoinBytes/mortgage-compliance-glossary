@@ -8,7 +8,7 @@
   "complianceNotes": "Get the letter and the transfer record before closing. Do not accept a gift the borrower must repay. Do not use gift funds on an investment property for the borrower's contribution.",
   "example": {
     "setting": "Gift letter and the donor's transfer into the borrower's account",
-    "text": "A sample gift letter might document an example $15,000 gift from a parent. Example figures."
+    "text": "A sample gift letter might document an example $15,000 gift from a parent, with a transfer record into the borrower's account. The money must be a gift, not a loan, and cash handed over without a paper trail is not acceptable. Investment-property purchases generally cannot use gift funds for the down payment. Example figures."
   },
   "citations": [
     "fannie-b3-4-3-04"
@@ -29,7 +29,7 @@
     "complianceNotes": "Obtenga la carta y el registro de la transferencia antes del cierre. No acepte un regalo que el prestatario debe devolver. No use fondos de regalo en una propiedad de inversión para la aportación del prestatario.",
     "example": {
       "setting": "Carta de regalo y la transferencia del donante a la cuenta del prestatario",
-      "text": "Una carta de regalo de muestra podría documentar un regalo de ejemplo de $15,000 de un padre o una madre. Cifras de ejemplo."
+      "text": "Una carta de regalo de muestra podría documentar un regalo de ejemplo de $15,000 de un padre o una madre, con un registro de la transferencia a la cuenta del prestatario. El dinero debe ser un regalo, no un préstamo, y el efectivo entregado sin rastro documentado no es aceptable. Las compras de propiedades de inversión por lo general no pueden usar fondos de regalo para el pago inicial. Cifras de ejemplo."
     }
   }
 }

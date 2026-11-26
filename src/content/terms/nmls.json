@@ -28,7 +28,8 @@
   "es": {
     "term": "NMLS",
     "aliases": [
-      "Sistema Nacional de Licencias"
+      "Sistema Nacional de Licencias",
+      "Sistema Nacional de Licencias Multiestatal"
     ],
     "definition": "NMLS es el Sistema Nacional de Licencias Multiestatal, el registro que usan los originadores de préstamos hipotecarios y sus empresas para la licencia y el registro de la Ley SAFE. NMLS guarda el registro. No otorga la licencia estatal.",
     "details": "La Ley SAFE, 12 USC 5101 y siguientes, exige que los originadores tengan licencia o estén registrados por medio de NMLS. Las agencias estatales otorgan las licencias de los originadores que no son de instituciones de depósito. Las instituciones de depósito registran a sus originadores. El registro público de NMLS muestra el identificador, el estado y el historial de empleo. La Estimación del préstamo identifica al originador y a la organización, incluidos los identificadores NMLS cuando el formulario los pide.",

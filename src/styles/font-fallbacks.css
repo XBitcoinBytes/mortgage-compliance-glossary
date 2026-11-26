@@ -1,0 +1,105 @@
+/* Metric-matched local fallbacks so font-display: swap does not reflow the
+   sticky header. Values were measured in Chrome against Times/Liberation
+   Serif and Arial/Liberation Sans, which is what paints on this Lighthouse
+   box while the webfonts load. Final webfont appearance is unchanged.
+   600/700 faces use the Bold local so size-adjust applies to the bold
+   metrics, not Regular. */
+
+@font-face {
+  font-family: "Fraunces Fallback";
+  src: local("Times New Roman Bold"), local("TimesNewRomanPS-BoldMT"), local("Times Bold"), local("Liberation Serif Bold"), local("Nimbus Roman Bold");
+  font-weight: 600;
+  font-style: normal;
+  size-adjust: 113.48%;
+  ascent-override: 86.19%;
+  descent-override: 22.47%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Fraunces Fallback";
+  src: local("Times New Roman Bold"), local("TimesNewRomanPS-BoldMT"), local("Times Bold"), local("Liberation Serif Bold"), local("Nimbus Roman Bold");
+  font-weight: 700;
+  font-style: normal;
+  size-adjust: 113.48%;
+  ascent-override: 86.19%;
+  descent-override: 22.47%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Serif Fallback";
+  src: local("Times New Roman"), local("TimesNewRomanPSMT"), local("Times"), local("Liberation Serif"), local("Nimbus Roman");
+  font-weight: 400;
+  font-style: normal;
+  size-adjust: 119.3%;
+  ascent-override: 86.84%;
+  descent-override: 28.08%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Serif Fallback";
+  src: local("Times New Roman Bold"), local("TimesNewRomanPS-BoldMT"), local("Times Bold"), local("Liberation Serif Bold"), local("Nimbus Roman Bold");
+  font-weight: 600;
+  font-style: normal;
+  size-adjust: 104.4%;
+  ascent-override: 99.23%;
+  descent-override: 32.09%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Serif Fallback";
+  src: local("Times New Roman Italic"), local("TimesNewRomanPS-ItalicMT"), local("Times Italic"), local("Liberation Serif Italic"), local("Nimbus Roman Italic");
+  font-weight: 400;
+  font-style: italic;
+  size-adjust: 119.3%;
+  ascent-override: 86.84%;
+  descent-override: 28.08%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Serif Fallback";
+  src: local("Times New Roman Bold Italic"), local("TimesNewRomanPS-BoldItalicMT"), local("Times Bold Italic"), local("Liberation Serif Bold Italic"), local("Nimbus Roman Bold Italic");
+  font-weight: 600;
+  font-style: italic;
+  size-adjust: 104.4%;
+  ascent-override: 99.23%;
+  descent-override: 32.09%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Sans Fallback";
+  src: local("Arial"), local("ArialMT"), local("Liberation Sans"), local("Nimbus Sans"), local("Helvetica");
+  font-weight: 400;
+  font-style: normal;
+  size-adjust: 92.83%;
+  ascent-override: 110.31%;
+  descent-override: 43.09%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Sans Fallback";
+  src: local("Arial Bold"), local("Arial-BoldMT"), local("Liberation Sans Bold"), local("Nimbus Sans Bold"), local("Helvetica Bold");
+  font-weight: 600;
+  font-style: normal;
+  size-adjust: 88.05%;
+  ascent-override: 116.3%;
+  descent-override: 45.43%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Sans Fallback";
+  src: local("Arial Bold"), local("Arial-BoldMT"), local("Liberation Sans Bold"), local("Nimbus Sans Bold"), local("Helvetica Bold");
+  font-weight: 700;
+  font-style: normal;
+  size-adjust: 90.23%;
+  ascent-override: 113.48%;
+  descent-override: 44.33%;
+  line-gap-override: 0%;
+}

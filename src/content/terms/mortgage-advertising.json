@@ -8,7 +8,7 @@
   "complianceNotes": "Approve ads before they run, including originator social posts. If the ad states a payment or a down payment, add the triggered disclosures. Keep the rate sheet that supports the claim.",
   "example": {
     "setting": "Advertisement showing a rate or payment, with the triggered disclosures",
-    "text": "A sample ad might offer an example payment of $1,650. If that number is a trigger term, the ad also needs the disclosures in 1026.24. Example figures."
+    "text": "A sample ad might offer an example payment of $1,650. If that number is a trigger term, the ad also needs the disclosures in 1026.24, and the APR, when it is required, must be as conspicuous as the rules require. A payment that assumes a temporary buydown must not look like the permanent payment. Example figures."
   },
   "citations": [
     "reg-1026-24",
@@ -33,7 +33,7 @@
     "complianceNotes": "Apruebe los anuncios antes de publicarlos, incluidas las publicaciones de los originadores en redes sociales. Si el anuncio indica un pago o un pago inicial, agregue las divulgaciones que se activan. Conserve la hoja de tasas que respalda la afirmación.",
     "example": {
       "setting": "Anuncio que muestra una tasa o un pago, con las divulgaciones que se activan",
-      "text": "Un anuncio de muestra podría ofrecer un pago de ejemplo de $1,650. Si ese número es un término desencadenante, el anuncio también necesita las divulgaciones de 1026.24. Cifras de ejemplo."
+      "text": "Un anuncio de muestra podría ofrecer un pago de ejemplo de $1,650. Si esa cifra es un término desencadenante, el anuncio también necesita las divulgaciones de 1026.24, y la tasa porcentual anual, cuando se exige, debe ser tan visible como las reglas requieren. Un pago que supone una reducción temporal no debe parecer el pago permanente. Cifras de ejemplo."
     }
   }
 }

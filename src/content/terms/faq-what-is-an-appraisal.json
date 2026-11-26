@@ -8,7 +8,7 @@
   "complianceNotes": "Order the appraisal independently. Deliver the copy when it is done. Do not tell the appraiser the value the contract needs.",
   "example": {
     "setting": "Appraisal report, opinion of value, delivered to the applicant",
-    "text": "A sample appraisal might opine an example value of $415,000. Example figures."
+    "text": "A sample appraisal might opine an example value of $415,000. It is not a home inspection. The copy is due promptly upon completion or three business days before consummation, whichever is earlier. A value-acceptance offer is not a promise on every file. Example figures."
   },
   "citations": [
     "reg-1002-14",
@@ -30,7 +30,7 @@
     "complianceNotes": "Pida la tasación de manera independiente. Entregue la copia cuando está lista. No le diga al tasador el valor que el contrato necesita.",
     "example": {
       "setting": "Informe de tasación, opinión de valor, entregada al solicitante",
-      "text": "Una tasación de muestra podría opinar un valor de ejemplo de $415,000. Cifras de ejemplo."
+      "text": "Una tasación de muestra podría opinar un valor de ejemplo de $415,000. No es una inspección de la vivienda. La copia vence de inmediato al terminarse o tres días hábiles antes de la consumación, lo que ocurra primero. Una oferta de aceptación de valor no es una promesa en todo expediente. Cifras de ejemplo."
     }
   }
 }

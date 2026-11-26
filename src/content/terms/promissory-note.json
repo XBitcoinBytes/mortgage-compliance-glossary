@@ -8,7 +8,7 @@
   "complianceNotes": "Read the note rate, the payment, and the prepayment section against the Closing Disclosure before signing. Do not rely on the APR line as the note rate.",
   "example": {
     "setting": "Promissory note, interest rate and payment, compared with Loan Estimate page 1",
-    "text": "A sample note might promise to repay an example $325,000 at 6.375 percent. Example figures."
+    "text": "A sample note might promise to repay an example $325,000 at 6.375 percent. The Loan Estimate's interest rate should match that note rate; the APR is not the note rate. The note, not the Closing Disclosure, is the contract. Example figures."
   },
   "citations": [
     "practice-file",
@@ -33,7 +33,7 @@
     "complianceNotes": "Lea la tasa del pagaré, el pago y la sección de pago anticipado contra la Divulgación del cierre antes de firmar. No se apoye en la línea de la tasa porcentual anual como la tasa del pagaré.",
     "example": {
       "setting": "Pagaré, tasa de interés y pago, comparados con la página 1 de la Estimación del préstamo",
-      "text": "Un pagaré de muestra podría prometer pagar un ejemplo de $325,000 al 6.375 por ciento. Cifras de ejemplo."
+      "text": "Un pagaré de muestra podría prometer pagar un ejemplo de $325,000 al 6.375 por ciento. La tasa de interés de la Estimación del préstamo debe coincidir con esa tasa del pagaré; la tasa porcentual anual no es la tasa del pagaré. El pagaré, no la Divulgación del cierre, es el contrato. Cifras de ejemplo."
     }
   }
 }

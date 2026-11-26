@@ -8,7 +8,7 @@
   "complianceNotes": "Build the retention schedule from the current sections and apply it to electronic records as well as paper. A scanned Loan Estimate counts only if you can still read it and show when it was delivered.",
   "example": {
     "setting": "Record schedule citing the section that sets the retention period",
-    "text": "A sample schedule might assign an example application file to the period stated in 12 CFR 1002.12, without restating that period here. Example figures are not a retention term."
+    "text": "A sample schedule might assign an example application file to the period stated in 12 CFR 1002.12, and apply the same schedule to a scanned Loan Estimate if it can still be read and show when it was delivered. The period is not restated here, and a single three-year slogan should not be used for every paper. Example figures are not a retention term."
   },
   "citations": [
     "reg-1002-12",
@@ -29,7 +29,7 @@
     "complianceNotes": "Arme el calendario de conservación a partir de las secciones vigentes y aplíquelo a los registros electrónicos igual que al papel. Una Estimación del préstamo escaneada cuenta solo si usted todavía puede leerla y mostrar cuándo se entregó.",
     "example": {
       "setting": "Calendario de registros que cita la sección que fija el período de conservación",
-      "text": "Un calendario de muestra podría asignar un expediente de solicitud de ejemplo al período indicado en 12 CFR 1002.12, sin repetir ese período aquí. Las cifras de ejemplo no son un plazo de conservación. Cifras de ejemplo."
+      "text": "Un calendario de muestra podría asignar un expediente de solicitud de ejemplo al período indicado en 12 CFR 1002.12, y aplicar el mismo calendario a una Estimación del préstamo escaneada si todavía puede leerse y mostrar cuándo se entregó. El período no se repite aquí, y no debe usarse un solo lema de tres años para todo papel. Las cifras de ejemplo no son un plazo de conservación. Cifras de ejemplo."
     }
   }
 }

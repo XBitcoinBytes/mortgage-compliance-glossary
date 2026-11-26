@@ -25,7 +25,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "Dirección indebida",
-    "aliases": [],
+    "aliases": [
+      "steering"
+    ],
     "definition": "Dirección indebida significa dirigir a un prestatario a un préstamo, un producto o un vecindario por una razón indebida. En la ley de compensación, la razón indebida es aumentar el pago del originador. En los préstamos justos, la razón indebida es una característica protegida. La palabra se usa para ambas, y los expedientes son distintos.",
     "details": "12 CFR 1026.36(e) es la regla de compensación contra la dirección indebida. La Ley de Vivienda Justa, incluido 42 USC 3604, alcanza la dirección indebida en la vivienda. Un corredor puede violar una, la otra, o ambas. Presentar las opciones de préstamo que exige el puerto seguro de compensación no responde a una alegación de que los prestatarios fueron enviados a vecindarios distintos por la raza.",
     "complianceNotes": "Conserve las opciones de compensación y los hechos de la búsqueda de la propiedad en revisiones separadas. No oriente a los prestatarios hacia vecindarios o lejos de ellos según quién vive allí.",

@@ -24,7 +24,9 @@
   "reviewed": "2026-11-19",
   "es": {
     "term": "¿Qué es una fijación de la tasa?",
-    "aliases": [],
+    "aliases": [
+      "bloqueo de la tasa"
+    ],
     "definition": "Una fijación de la tasa es la promesa del prestamista de mantener una tasa y un precio por un número indicado de días. No es automática cuando usted solicita. Hasta que usted fija, la tasa puede moverse. Si la fijación vence antes de que usted cierre, el precio puede cambiar.",
     "details": "La fijación es un contrato con el prestamista, no un formulario del Reglamento Z, pero la tasa de interés de la Estimación del préstamo según 12 CFR 1026.37 debe coincidir con la tasa fijada una vez que usted fijó. Una extensión puede costar dinero. Una reducción si la tasa baja, si el prestamista la ofrece, es un acuerdo separado. Los puntos y los créditos del prestamista son parte del precio fijado.",
     "complianceNotes": "Dé una confirmación por escrito con la fecha de vencimiento. No le diga al prestatario que está fijado porque recibió una Estimación del préstamo. Vuelva a divulgar si la tasa cambia.",
