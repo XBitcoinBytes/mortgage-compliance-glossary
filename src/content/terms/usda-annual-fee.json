@@ -8,7 +8,7 @@
   "complianceNotes": "Disclose the annual fee in the monthly payment. Use the current rate. Do not label it PMI on the Loan Estimate.",
   "example": {
     "setting": "Annual USDA fee collected with the monthly payment",
-    "text": "A sample payment might include an example annual-fee portion of $60. Example figures, not the current USDA percentage."
+    "text": "A sample payment might include an example annual-fee portion of $60. Do not promise that it cancels at 80 percent loan-to-value. It is not private mortgage insurance and not the Homeowners Protection Act product, and it should not be labeled PMI on the Loan Estimate. Example figures, not the current USDA percentage."
   },
   "citations": [
     "usda-hb",
@@ -20,7 +20,7 @@
     "usda-guarantee-fee",
     "usda-guaranteed-loan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cuota anual de USDA",
     "aliases": [],
@@ -29,7 +29,7 @@
     "complianceNotes": "Divulgue la cuota anual en el pago mensual. Use la tasa vigente. No la etiquete como PMI en la Estimación del préstamo.",
     "example": {
       "setting": "Cuota anual de USDA cobrada con el pago mensual",
-      "text": "Un pago de muestra podría incluir una parte de cuota anual de ejemplo de $60. Cifras de ejemplo, no el porcentaje vigente de USDA."
+      "text": "Un pago de muestra podría incluir una parte de cuota anual de ejemplo de $60. No prometa que se cancela al 80 por ciento de relación préstamo-valor. No es seguro hipotecario privado ni el producto de la Ley de Protección de los Propietarios, y no debe etiquetarse como PMI en la Estimación del préstamo. Cifras de ejemplo, no el porcentaje vigente de USDA."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Put both calendars in the disclosure system and do not let staff count Closing Disclosure days with the office-open definition. Federal holidays, not state holidays, are the ones the specific definition drops. Document the receipt date, not only the send date.",
   "example": {
     "setting": "Compliance calendar used to count Loan Estimate and Closing Disclosure deadlines",
-    "text": "If a Closing Disclosure is received on a Thursday, Saturday and Monday might be the other two specific business days in a week with no federal holiday, so consummation could be Tuesday. Example figures for counting only."
+    "text": "If a Closing Disclosure is received on a Thursday, Saturday and Monday might be the other two specific business days in a week with no federal holiday, so consummation could be Tuesday. That count uses every calendar day except Sundays and federal legal holidays, so a Saturday can count even if the creditor's office is closed. The three general business days to deliver the Loan Estimate after application use the office-open definition instead. Example figures for counting only."
   },
   "citations": [
     "reg-1026-2-a-6",
@@ -22,7 +22,7 @@
     "right-of-rescission",
     "three-business-day-rule"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Día hábil",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Incluya ambos calendarios en el sistema de divulgación y no permita que el personal cuente los días de la Divulgación del cierre con la definición de oficina abierta. Los feriados federales, no los estatales, son los que elimina la definición específica. Documente la fecha de recepción, no solo la de envío.",
     "example": {
       "setting": "Calendario de cumplimiento usado para contar los plazos de la Estimación del préstamo y de la Divulgación del cierre",
-      "text": "Si una Divulgación del cierre se recibe un jueves, el sábado y el lunes podrían ser los otros dos días hábiles específicos en una semana sin feriado federal, de modo que la consumación podría ser el martes. Cifras de ejemplo solo para el conteo."
+      "text": "Si una Divulgación del cierre se recibe un jueves, el sábado y el lunes podrían ser los otros dos días hábiles específicos en una semana sin feriado federal, de modo que la consumación podría ser el martes. Ese conteo usa cada día del calendario excepto los domingos y los feriados legales federales, así que un sábado puede contar aunque la oficina del acreedor esté cerrada. Los tres días hábiles generales para entregar la Estimación del préstamo después de la solicitud usan, en cambio, la definición de oficina abierta. Cifras de ejemplo solo para el conteo."
     }
   }
 }

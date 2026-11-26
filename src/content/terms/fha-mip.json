@@ -11,7 +11,7 @@
   "complianceNotes": "Disclose the monthly MIP in the payment. Do not call it PMI. Recalculate it when HUD changes the rates, using the letter in effect for the case.",
   "example": {
     "setting": "FHA monthly MIP on the payment, set by the current HUD mortgagee letter",
-    "text": "A sample payment might include an example monthly MIP of $120. Example figures, not the current HUD rate."
+    "text": "A sample payment might include an example monthly MIP of $120. A borrower should not be told the premium drops at 80 percent loan-to-value unless the current HUD letter says that for that loan. MIP is not PMI and does not follow the Homeowners Protection Act schedule. Example figures, not the current HUD rate."
   },
   "citations": [
     "hud-4000-1"
@@ -31,7 +31,7 @@
     "usda-annual-fee",
     "va-funding-fee"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Prima del seguro hipotecario de la FHA",
     "aliases": [
@@ -42,7 +42,7 @@
     "complianceNotes": "Divulgue la MIP mensual en el pago. No la llame PMI. Recalculela cuando HUD cambia las tasas, usando la carta vigente para el caso.",
     "example": {
       "setting": "MIP mensual de la FHA en el pago, fijada por la carta vigente de HUD a los acreedores",
-      "text": "Un pago de muestra podría incluir una MIP mensual de ejemplo de $120. Cifras de ejemplo, no la tasa vigente de HUD."
+      "text": "Un pago de muestra podría incluir una MIP mensual de ejemplo de $120. No se le debe decir al prestatario que la prima se cae al 80 por ciento de relación préstamo-valor salvo que la carta vigente de HUD lo diga para ese préstamo. La MIP no es PMI y no sigue el calendario de la Ley de Protección de los Propietarios. Cifras de ejemplo, no la tasa vigente de HUD."
     }
   }
 }

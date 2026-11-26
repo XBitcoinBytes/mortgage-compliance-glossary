@@ -8,7 +8,7 @@
   "complianceNotes": "Open an FHA case number and use 4000.1, not the Fannie Mae guide, for eligibility. Disclose MIP separately from the note rate. Do not promise that MIP drops off at 80 percent.",
   "example": {
     "setting": "FHA case number and Loan Estimate loan type FHA",
-    "text": "A sample FHA purchase might show an example base loan and an upfront premium financed on top. The premium rate is not stated because HUD changes it. Example figures for a base loan of $280,000 only."
+    "text": "A sample FHA purchase might show an example base loan and an upfront premium financed on top. The premium rate is not stated because HUD changes it. Do not promise that MIP drops off at 80 percent. Example figures for a base loan of $280,000 only."
   },
   "citations": [
     "usc-12-1709",
@@ -35,7 +35,7 @@
     "upfront-mortgage-insurance-premium",
     "usda-guaranteed-loan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Préstamo FHA",
     "aliases": [],
@@ -44,7 +44,7 @@
     "complianceNotes": "Abra un número de caso FHA y use el 4000.1, no la guía de Fannie Mae, para la elegibilidad. Divulgue la MIP aparte de la tasa del pagaré. No prometa que la MIP se cae al 80 por ciento.",
     "example": {
       "setting": "Número de caso FHA y tipo de préstamo FHA en la Estimación del préstamo",
-      "text": "Una compra FHA de muestra podría mostrar un préstamo base de ejemplo y una prima inicial financiada encima. La tasa de la prima no se indica porque HUD la cambia. Cifras de ejemplo solo para un préstamo base de $280,000."
+      "text": "Una compra FHA de muestra podría mostrar un préstamo base de ejemplo y una prima inicial financiada encima. La tasa de la prima no se indica porque HUD la cambia. No prometa que la MIP se cae al 80 por ciento. Cifras de ejemplo solo para un préstamo base de $280,000."
     }
   }
 }

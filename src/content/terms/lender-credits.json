@@ -8,7 +8,7 @@
   "complianceNotes": "Do not reduce a disclosed lender credit to cure a pricing error unless the revision rules allow it. Compare the credit on the Loan Estimate with the credit on the Closing Disclosure. Keep the rate-sheet print that shows the credit was the price of the rate.",
   "example": {
     "setting": "Loan Estimate, page 2, Section J, Lender Credits",
-    "text": "A sample Section J might show a lender credit of $2,250 against closing costs on an example $300,000 loan with a slightly higher note rate. Example figures."
+    "text": "A sample Section J might show a lender credit of $2,250 against closing costs on an example $300,000 loan with a slightly higher note rate. Lowering that disclosed credit can be an increase in the consumer's cost and generally may not be used to paper over a pricing error unless the revision rules allow it. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -31,7 +31,7 @@
     "seller-credits",
     "tolerance-cure"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Créditos del prestamista",
     "aliases": [],
@@ -40,7 +40,7 @@
     "complianceNotes": "No reduzca un crédito del prestamista ya divulgado para corregir un error de precio, salvo que las reglas de revisión lo permitan. Compare el crédito de la Estimación del préstamo con el de la Divulgación del cierre. Conserve la hoja de tasas que muestra que el crédito era el precio de la tasa.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección J, Créditos del prestamista",
-      "text": "Una Sección J de muestra puede mostrar un crédito del prestamista de $2,250 contra los costos de cierre en un préstamo de ejemplo de $300,000 con una tasa del pagaré un poco más alta. Cifras de ejemplo."
+      "text": "Una Sección J de muestra puede mostrar un crédito del prestamista de $2,250 contra los costos de cierre en un préstamo de ejemplo de $300,000 con una tasa del pagaré un poco más alta. Bajar ese crédito divulgado puede ser un aumento en el costo del consumidor y por lo general no puede usarse para cubrir un error de precio salvo que las reglas de revisión lo permitan. Cifras de ejemplo."
     }
   }
 }

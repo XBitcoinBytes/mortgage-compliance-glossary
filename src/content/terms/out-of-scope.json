@@ -20,10 +20,12 @@
     "manual-underwriting",
     "refer-with-caution"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Out of Scope",
-    "aliases": [],
+    "aliases": [
+      "Fuera de alcance"
+    ],
     "definition": "Out of Scope significa que Desktop Underwriter no evaluó el expediente porque está fuera de lo que DU está hecho para evaluar. La Selling Guide B3-2-08 describe la recomendación. El prestamista no puede tratarla como una aprobación.",
     "details": "Los hallazgos explican por qué el caso está fuera de alcance. El prestamista puede necesitar otro producto, una corrección de datos o una vía que la guía permita fuera de DU. Inventar una recomendación Approve no es una de esas vías. La capacidad de pago igual se aplica si el acreedor hace el préstamo de otro modo.",
     "complianceNotes": "Lea el código de la razón. Corrija los datos malos y vuelva a enviar solo si el préstamo puede caer dentro del alcance de DU. De lo contrario siga la alternativa de la guía y no entregue el préstamo a Fannie Mae con este hallazgo.",

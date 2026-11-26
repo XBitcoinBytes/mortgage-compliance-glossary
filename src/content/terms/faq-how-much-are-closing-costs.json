@@ -8,7 +8,7 @@
   "complianceNotes": "Walk through page 2 instead of quoting a percentage. Update cash to close when a credit changes.",
   "example": {
     "setting": "Loan Estimate page 2, total closing costs, which vary by loan and location",
-    "text": "A sample page 2 might total example costs of $9,100 before a $2,000 seller credit. Example figures, not a typical percentage."
+    "text": "A sample page 2 might total example costs of $9,100 before a $2,000 seller credit. What can increase is the tolerance rule, not a percentage of the price. A worksheet that quotes two percent of the price is not a Loan Estimate. Example figures, not a typical percentage."
   },
   "citations": [
     "reg-1026-37",
@@ -21,7 +21,7 @@
     "loan-estimate",
     "seller-credits"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Cuánto son los costos de cierre?",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Recorra la página 2 en lugar de citar un porcentaje. Actualice el efectivo para el cierre cuando cambia un crédito.",
     "example": {
       "setting": "Página 2 de la Estimación del préstamo, costos de cierre totales, que varían por préstamo y por lugar",
-      "text": "Una página 2 de muestra podría totalizar costos de ejemplo de $9,100 antes de un crédito del vendedor de $2,000. Cifras de ejemplo, no un porcentaje típico."
+      "text": "Una página 2 de muestra podría totalizar costos de ejemplo de $9,100 antes de un crédito del vendedor de $2,000. Lo que puede aumentar es la regla de tolerancia, no un porcentaje del precio. Una hoja de trabajo que cita el dos por ciento del precio no es una Estimación del préstamo. Cifras de ejemplo, no un porcentaje típico."
     }
   }
 }

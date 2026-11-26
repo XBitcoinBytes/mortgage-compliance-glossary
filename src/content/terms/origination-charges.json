@@ -8,7 +8,7 @@
   "complianceNotes": "Price Section A before intent to proceed and do not add an underwriting or processing fee later to recover a lock-desk miss. Compare Section A on the Closing Disclosure line by line. Any increase needs a permitted revision or a cure.",
   "example": {
     "setting": "Loan Estimate, page 2, Section A: Origination Charges",
-    "text": "A sample Section A might list an origination fee of $1,095 and discount points of $1,800 on an example $360,000 loan. Example figures, not a rate sheet."
+    "text": "A sample Section A might list an origination fee of $1,095 and discount points of $1,800 on an example $360,000 loan. Those charges paid to the creditor or mortgage broker are generally zero tolerance and may not increase from the Loan Estimate to the Closing Disclosure except as the section allows. Example figures, not a rate sheet."
   },
   "citations": [
     "reg-1026-37",
@@ -29,7 +29,7 @@
     "retail-lending",
     "zero-tolerance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cargos por originación",
     "aliases": [],
@@ -38,7 +38,7 @@
     "complianceNotes": "Fije la Sección A antes de la intención de continuar y no agregue después un cargo de suscripción o de procesamiento para recuperar un error de la mesa de fijación. Compare la Sección A de la Divulgación del cierre línea por línea. Cualquier aumento necesita una revisión permitida o una corrección.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección A: Cargos por originación",
-      "text": "Una Sección A de muestra puede listar una tarifa de originación de $1,095 y puntos de descuento de $1,800 sobre un préstamo de ejemplo de $360,000. Cifras de ejemplo, no una hoja de tasas."
+      "text": "Una Sección A de muestra puede listar una tarifa de originación de $1,095 y puntos de descuento de $1,800 sobre un préstamo de ejemplo de $360,000. Esos cargos pagados al acreedor o al corredor hipotecario por lo general tienen tolerancia cero y no pueden aumentar de la Estimación del préstamo a la Divulgación del cierre salvo lo que permita la sección. Cifras de ejemplo, no una hoja de tasas."
     }
   }
 }

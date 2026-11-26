@@ -8,7 +8,7 @@
   "complianceNotes": "Give a real written list. Do not tell the buyer the seller's title company is mandatory. If the buyer shops off the list, explain the tolerance consequence.",
   "example": {
     "setting": "Written list of providers and the purchase contract, which together show who may choose title",
-    "text": "A sample list might include three title companies, with an example lender's title fee of $1,150 if the borrower stays on the list. Example figures."
+    "text": "A sample list might include three title companies, with an example lender's title fee of $1,150 if the borrower stays on the list. A seller generally cannot require a particular title company as a condition of the sale. If the borrower shops off the list, the tolerance treatment can change. Example figures."
   },
   "citations": [
     "usc-12-2601",
@@ -22,7 +22,7 @@
     "title-insurance",
     "written-list-of-providers"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Quién elige la compañía de título?",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Dé una lista escrita real. No le diga al comprador que la compañía de título del vendedor es obligatoria. Si el comprador compara fuera de la lista, explique la consecuencia de tolerancia.",
     "example": {
       "setting": "Lista escrita de proveedores y el contrato de compra, que juntos muestran quién puede elegir el título",
-      "text": "Una lista de muestra podría incluir tres compañías de título, con un cargo de título del prestamista de ejemplo de $1,150 si el prestatario se queda en la lista. Cifras de ejemplo."
+      "text": "Una lista de muestra podría incluir tres compañías de título, con un cargo de título del prestamista de ejemplo de $1,150 si el prestatario se queda en la lista. Un vendedor por lo general no puede exigir una compañía de título particular como condición de la venta. Si el prestatario compara fuera de la lista, el tratamiento de tolerancia puede cambiar. Cifras de ejemplo."
     }
   },
   "reviewFlag": "RESPA's ban on a seller requiring a particular title company is commonly discussed as 12 USC 2608. That section is not in the citation catalog. Cite 12 USC 2601 and confirm 2608 before quoting it."
