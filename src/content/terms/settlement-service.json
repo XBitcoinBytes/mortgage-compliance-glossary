@@ -8,7 +8,7 @@
   "complianceNotes": "Before paying a title company, realtor, or builder for anything tied to a loan, ask whether the payment is for a service or for the referral. Document the service. Do not route a marketing payment through a third-party invoice to hide a referral fee.",
   "example": {
     "setting": "Loan Estimate, page 2, the third-party services in Sections B and C",
-    "text": "A sample Section C might list a settlement fee of $550 and a title search of $250 as settlement services on an example purchase. Example figures."
+    "text": "A sample Section C might list a settlement fee of $550 and a title search of $250 as settlement services on an example purchase. Paying someone for a referral of that business is prohibited by RESPA Section 8; a bona fide payment for actual services is different. Example figures."
   },
   "citations": [
     "reg-1024-2",
@@ -23,7 +23,7 @@
     "settlement-agent",
     "title-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Servicio de liquidación",
     "aliases": [],
@@ -32,7 +32,7 @@
     "complianceNotes": "Antes de pagar a una compañía de título, un agente o un constructor por algo ligado a un préstamo, pregunte si el pago es por un servicio o por la referencia. Documente el servicio. No encubra un cargo por referencia en una factura de mercadeo de un tercero.",
     "example": {
       "setting": "Estimación del préstamo, página 2, los servicios de terceros en las Secciones B y C",
-      "text": "Una Sección C de muestra puede listar un cargo de liquidación de $550 y una búsqueda de título de $250 como servicios de liquidación en una compra de ejemplo. Cifras de ejemplo."
+      "text": "Una Sección C de muestra puede listar un cargo de liquidación de $550 y una búsqueda de título de $250 como servicios de liquidación en una compra de ejemplo. Pagar a alguien por una referencia de ese negocio lo prohíbe la Sección 8 de RESPA; un pago de buena fe por servicios reales es distinto. Cifras de ejemplo."
     }
   }
 }

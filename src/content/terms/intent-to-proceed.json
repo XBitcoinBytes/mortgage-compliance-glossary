@@ -10,7 +10,7 @@
   "complianceNotes": "Record who gave the intent, when, and how, and keep that record with the Loan Estimate delivery evidence. Do not collect an appraisal fee, lock fee, or application fee before both receipt and intent are documented. The credit-report fee, if charged early, must be bona fide and reasonable.",
   "example": {
     "setting": "Loan Estimate, page 1, after the consumer indicates an intent to proceed in the origination log",
-    "text": "A sample contact log might show the Loan Estimate delivered on Tuesday and an emailed intent to proceed on Wednesday, after which the creditor orders an appraisal and collects an example appraisal fee of $550. Example figures."
+    "text": "A sample contact log might show the Loan Estimate delivered on Tuesday and an emailed intent to proceed on Wednesday, after which the creditor orders an appraisal and collects an example appraisal fee of $550. Until intent is given, the creditor generally cannot charge anything except a bona fide and reasonable credit-report fee. A fee worksheet signed before the Loan Estimate, or silence, is not intent. Example figures."
   },
   "citations": [
     "reg-1026-19-e-2-i-A",
@@ -27,7 +27,7 @@
     "origination-charges",
     "your-home-loan-toolkit"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Intención de continuar",
     "aliases": [
@@ -38,7 +38,7 @@
     "complianceNotes": "Registre quién dio la intención, cuándo y cómo, y conserve ese registro con la prueba de entrega de la Estimación del préstamo. No cobre un cargo de tasación, de fijación o de solicitud antes de documentar la recepción y la intención. El cargo del informe de crédito, si se cobra antes, debe ser de buena fe y razonable.",
     "example": {
       "setting": "Estimación del préstamo, página 1, después de que el consumidor indica la intención de continuar en el registro de originación",
-      "text": "Un registro de muestra puede mostrar la Estimación del préstamo entregada el martes y una intención de continuar por correo electrónico el miércoles, después de lo cual el acreedor pide la tasación y cobra un cargo de tasación de ejemplo de $550. Cifras de ejemplo."
+      "text": "Un registro de contacto de muestra podría mostrar la Estimación del préstamo entregada el martes y una intención de continuar por correo electrónico el miércoles, después de lo cual el acreedor pide una tasación y cobra un cargo de tasación de ejemplo de $550. Hasta que se da la intención, el acreedor por lo general no puede cobrar nada excepto un cargo de buena fe y razonable por el informe de crédito. Una hoja de cargos firmada antes de la Estimación del préstamo, o el silencio, no es intención. Cifras de ejemplo."
     }
   }
 }

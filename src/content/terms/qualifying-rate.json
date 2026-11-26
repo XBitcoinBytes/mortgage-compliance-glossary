@@ -8,7 +8,7 @@
   "complianceNotes": "Show both the starting payment and the qualifying payment when they differ, so the borrower is not surprised. Use the qualifying payment in the ratio. Recalculate if the note rate changes at lock.",
   "example": {
     "setting": "Underwriting worksheet, rate used to calculate the qualifying payment, which may differ from the start rate",
-    "text": "A sample 5/6 ARM might have an example start rate of 5.75 percent and a qualifying rate taken from the current guide rather than from the first-year payment. Example figures."
+    "text": "A sample 5/6 ARM might have an example start rate of 5.75 percent and a qualifying rate taken from the current guide rather than from the first-year payment. Do not apply one formula, such as note rate plus two percent, to every ARM. Ability to repay uses a related but not identical payment test. Example figures."
   },
   "citations": [
     "fannie-b3-6-04"
@@ -25,7 +25,7 @@
     "pitia",
     "temporary-buydown"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Tasa de calificación",
     "aliases": [],
@@ -34,7 +34,7 @@
     "complianceNotes": "Muestre tanto el pago inicial como el pago de calificación cuando difieren, para que el prestatario no se sorprenda. Use el pago de calificación en la relación. Recalcule si la tasa del pagaré cambia en la fijación.",
     "example": {
       "setting": "Hoja de suscripción, tasa usada para calcular el pago de calificación, que puede diferir de la tasa inicial",
-      "text": "Una ARM 5/6 de muestra puede tener una tasa inicial de ejemplo del 5.75 por ciento y una tasa de calificación tomada de la guía vigente y no del pago del primer año. Cifras de ejemplo."
+      "text": "Una ARM 5/6 de muestra puede tener una tasa inicial de ejemplo del 5.75 por ciento y una tasa de calificación tomada de la guía vigente y no del pago del primer año. No aplique una sola fórmula, como la tasa del pagaré más dos por ciento, a toda ARM. La capacidad de pago usa una prueba de pago relacionada, pero no idéntica. Cifras de ejemplo."
     }
   }
 }

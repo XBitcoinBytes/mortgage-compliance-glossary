@@ -8,7 +8,7 @@
   "complianceNotes": "Show the borrower cash to close, not only a percentage. Source the funds. Do not state FHA's minimum investment or a conventional 3 percent product as a number that cannot change. Point to the current handbook or guide.",
   "example": {
     "setting": "Loan Estimate, page 1, Sale Price and Loan Amount, and Closing Disclosure cash to close",
-    "text": "On an example $500,000 price with a $400,000 loan, the $100,000 difference is the down payment before credits and other costs. Example figures, not a required percentage."
+    "text": "On an example $500,000 price with a $400,000 loan, the $100,000 difference is the down payment before credits and other costs. There is no single legal down payment for every mortgage. Do not state a conventional 3 percent product or an FHA minimum investment as a number that cannot change; show cash to close, not only a percentage. Example figures, not a required percentage."
   },
   "citations": [
     "fannie-guide",
@@ -37,7 +37,7 @@
     "source-of-funds",
     "trigger-terms"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Pago inicial",
     "aliases": [],
@@ -46,7 +46,7 @@
     "complianceNotes": "Muéstrele al prestatario el efectivo para el cierre, no solo un porcentaje. Documente el origen de los fondos. No presente la inversión mínima de la FHA ni un producto convencional del 3 por ciento como un número que no puede cambiar. Remita a la guía o al manual vigente.",
     "example": {
       "setting": "Estimación del préstamo, página 1, Precio de venta y Monto del préstamo, y efectivo para el cierre en la Divulgación del cierre",
-      "text": "En un precio de ejemplo de $500,000 con un préstamo de $400,000, la diferencia de $100,000 es el pago inicial antes de créditos y otros costos. Cifras de ejemplo, no un porcentaje exigido."
+      "text": "En un precio de ejemplo de $500,000 con un préstamo de $400,000, la diferencia de $100,000 es el pago inicial antes de créditos y otros costos. No hay un solo pago inicial legal para toda hipoteca. No indique un producto convencional del 3 por ciento o una inversión mínima de la FHA como un número que no puede cambiar; muestre el efectivo para el cierre, no solo un porcentaje. Cifras de ejemplo, no un porcentaje exigido."
     }
   }
 }

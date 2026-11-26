@@ -8,7 +8,7 @@
   "complianceNotes": "Disclose the interest-only period and the later payment. Qualify on the amortizing payment the rule requires. Do not mark the loan as a general qualified mortgage if it has this feature.",
   "example": {
     "setting": "Loan Estimate product line showing an interest-only period",
-    "text": "A sample interest-only payment of $1,500 on an example $300,000 loan would rise when principal payments begin. Example figures."
+    "text": "A sample interest-only payment of $1,500 on an example $300,000 loan would rise when principal payments begin. A qualified mortgage generally cannot have an interest-only period. Ability to repay requires considering a payment that amortizes the loan, not only the interest-only payment. Paying the interest in full is not negative amortization. Example figures."
   },
   "citations": [
     "reg-1026-43",
@@ -22,7 +22,7 @@
     "qualified-mortgage",
     "qualifying-rate"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Solo interés",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Divulgue el período de solo interés y el pago posterior. Califique con el pago amortizable que exige la regla. No marque el préstamo como una hipoteca calificada general si tiene esta característica.",
     "example": {
       "setting": "Línea de producto de la Estimación del préstamo que muestra un período de solo interés",
-      "text": "Un pago de solo interés de muestra de $1,500 sobre un préstamo de ejemplo de $300,000 subiría cuando empiecen los pagos de capital. Cifras de ejemplo."
+      "text": "Un pago de solo interés de muestra de $1,500 sobre un préstamo de ejemplo de $300,000 subiría cuando empiecen los pagos de capital. Una hipoteca calificada por lo general no puede tener un período de solo interés. La capacidad de pago exige considerar un pago que amortiza el préstamo, no solo el pago de solo interés. Pagar el interés por completo no es amortización negativa. Cifras de ejemplo."
     }
   }
 }

@@ -12,7 +12,7 @@
   "complianceNotes": "Add the baseline fees and the final fees before you look at any single line. Document whether the provider was on the list. Cure the amount above 10 percent.",
   "example": {
     "setting": "Loan Estimate Sections C and E compared in total with the Closing Disclosure",
-    "text": "A sample group estimated at $2,000 that becomes $2,150 is a 7.5 percent increase and would be inside 10 percent. A jump to $2,300 would not. Example figures."
+    "text": "A sample group estimated at $2,000 that becomes $2,150 is a 7.5 percent increase and would be inside 10 percent. A jump to $2,300 would not, and the amount above 10 percent must be cured. If the consumer picks a provider who is not on the written list, that service leaves this group. Affiliate charges the consumer cannot shop for are not in this bucket. Example figures."
   },
   "citations": [
     "reg-1026-19-e-3-ii",
@@ -27,7 +27,7 @@
     "written-list-of-providers",
     "zero-tolerance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Tolerancia del 10 por ciento",
     "aliases": [
@@ -38,7 +38,7 @@
     "complianceNotes": "Sume los cargos de la base y los cargos finales antes de mirar una sola línea. Documente si el proveedor estaba en la lista. Corrija el monto por encima del 10 por ciento.",
     "example": {
       "setting": "Secciones C y E de la Estimación del préstamo comparadas en total con la Divulgación del cierre",
-      "text": "Un grupo de muestra estimado en $2,000 que se vuelve $2,150 es un aumento del 7.5 por ciento y estaría dentro del 10 por ciento. Un salto a $2,300 no. Cifras de ejemplo."
+      "text": "Un grupo de muestra estimado en $2,000 que se vuelve $2,150 es un aumento del 7.5 por ciento y estaría dentro del 10 por ciento. Un salto a $2,300 no, y el monto por encima del 10 por ciento debe corregirse. Si el consumidor elige un proveedor que no está en la lista escrita, ese servicio sale de este grupo. Los cargos de afiliados que el consumidor no puede comparar no están en este grupo. Cifras de ejemplo."
     }
   }
 }

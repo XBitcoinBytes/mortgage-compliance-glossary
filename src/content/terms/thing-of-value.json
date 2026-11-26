@@ -8,7 +8,7 @@
   "complianceNotes": "Ask what was given and why. If the why is a referral, stop. Log gifts to referral sources. Do not create a points program for real-estate agents based on closed loans.",
   "example": {
     "setting": "Anything of value connected to a settlement-service referral",
-    "text": "A sample lunch program that becomes an example $50 gift card after each closing is still a thing of value. Example figures."
+    "text": "A sample lunch program that becomes an example $50 gift card after each closing is still a thing of value. The term also includes money, discounts, trips, and free advertising, and there is no general de minimis exception to invent. If the reason for the gift is a referral of settlement-service business, it is what Section 8 prohibits. Example figures."
   },
   "citations": [
     "reg-1024-14"
@@ -19,7 +19,7 @@
     "marketing-services-agreement",
     "respa-section-8"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cosa de valor",
     "aliases": [],
@@ -28,7 +28,7 @@
     "complianceNotes": "Pregunte qué se dio y por qué. Si el porqué es una referencia, deténgase. Registre los regalos a fuentes de referencias. No cree un programa de puntos para agentes de bienes raíces basado en préstamos cerrados.",
     "example": {
       "setting": "Cualquier cosa de valor conectada con una referencia de un servicio de liquidación",
-      "text": "Un programa de almuerzos de muestra que se convierte en una tarjeta de regalo de ejemplo de $50 después de cada cierre sigue siendo una cosa de valor. Cifras de ejemplo."
+      "text": "Un programa de almuerzos de muestra que se convierte en una tarjeta de regalo de ejemplo de $50 después de cada cierre sigue siendo una cosa de valor. El término también incluye dinero, descuentos, viajes y publicidad gratis, y no hay una excepción general de minimis que inventar. Si la razón del regalo es una referencia de un negocio de servicios de liquidación, es lo que prohíbe la Sección 8. Cifras de ejemplo."
     }
   }
 }

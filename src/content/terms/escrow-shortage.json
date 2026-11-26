@@ -8,7 +8,7 @@
   "complianceNotes": "Show the math on the annual statement. Do not require a lump sum unless the section allows it. Spread a borrower-friendly shortage over at least 12 months.",
   "example": {
     "setting": "Annual escrow statement, shortage amount and the 12-month repayment option",
-    "text": "A sample shortage of $360 might add an example $30 a month for 12 months. Example figures."
+    "text": "A sample shortage of $360 might add an example $30 a month for 12 months, which is the regular escrow plus the shortage installment. A shortage is not a deficiency, which is a negative balance. A lump sum may be required only when the section allows it. Example figures."
   },
   "citations": [
     "reg-1024-17"
@@ -19,7 +19,7 @@
     "escrow-cushion",
     "escrow-surplus"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Faltante del depósito en garantía",
     "aliases": [],
@@ -28,7 +28,7 @@
     "complianceNotes": "Muestre la matemática en el estado anual. No exija un solo pago salvo que la sección lo permita. Reparta un faltante favorable al prestatario en al menos 12 meses.",
     "example": {
       "setting": "Estado anual del depósito en garantía, monto del faltante y la opción de pago en 12 meses",
-      "text": "Un faltante de muestra de $360 podría agregar un ejemplo de $30 al mes durante 12 meses. Cifras de ejemplo."
+      "text": "Un faltante de muestra de $360 podría agregar un ejemplo de $30 al mes durante 12 meses, que es el depósito regular más la cuota del faltante. Un faltante no es una deficiencia, que es un saldo negativo. Un pago único puede exigirse solo cuando la sección lo permite. Cifras de ejemplo."
     }
   }
 }

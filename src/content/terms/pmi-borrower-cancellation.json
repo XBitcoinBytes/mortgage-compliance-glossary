@@ -8,7 +8,7 @@
   "complianceNotes": "Tell the borrower the scheduled date and the conditions. Do not refuse a qualifying request, and do not grant one that skips the payment-history test. Return unearned premium as the Act requires.",
   "example": {
     "setting": "Borrower's written request to cancel PMI on the cancellation date",
-    "text": "A sample request at an example scheduled balance of $240,000 on a $300,000 original value is the 80 percent point, if the borrower is current and has the required history. Example figures."
+    "text": "A sample request at an example scheduled balance of $240,000 on a $300,000 original value is the 80 percent point, if the borrower is current and has the required history. A new appraisal does not automatically move that date. Lender-paid mortgage insurance and FHA MIP are outside this request. Example figures."
   },
   "citations": [
     "usc-12-4902"
@@ -22,7 +22,7 @@
     "pmi-automatic-termination",
     "private-mortgage-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cancelación del PMI pedida por el prestatario",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Dígale al prestatario la fecha programada y las condiciones. No rechace una solicitud que califica, y no conceda una que se salta la prueba del historial de pago. Devuelva la prima no ganada como exige la ley.",
     "example": {
       "setting": "Solicitud escrita del prestatario para cancelar el PMI en la fecha de cancelación",
-      "text": "Una solicitud de muestra con un saldo programado de ejemplo de $240,000 sobre un valor original de $300,000 es el punto del 80 por ciento, si el prestatario está al día y tiene el historial exigido. Cifras de ejemplo."
+      "text": "Una solicitud de muestra con un saldo programado de ejemplo de $240,000 sobre un valor original de $300,000 es el punto del 80 por ciento, si el prestatario está al día y tiene el historial exigido. Una tasación nueva no mueve automáticamente esa fecha. El seguro hipotecario pagado por el prestamista y la MIP de la FHA quedan fuera de esta solicitud. Cifras de ejemplo."
     }
   }
 }
