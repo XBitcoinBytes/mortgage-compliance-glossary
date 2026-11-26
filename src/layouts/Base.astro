@@ -13,6 +13,7 @@ import "@fontsource/source-sans-3/latin-700.css";
 import fraunces700 from "@fontsource/fraunces/files/fraunces-latin-700-normal.woff2?url";
 import sourceSerif400 from "@fontsource/source-serif-4/files/source-serif-4-latin-400-normal.woff2?url";
 import sourceSans400 from "@fontsource/source-sans-3/files/source-sans-3-latin-400-normal.woff2?url";
+import sourceSans600 from "@fontsource/source-sans-3/files/source-sans-3-latin-600-normal.woff2?url";
 import "../styles/global.css";
 
 interface Props {
@@ -67,6 +68,8 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
     <link rel="preload" href={fraunces700} as="font" type="font/woff2" crossorigin />
     <link rel="preload" href={sourceSerif400} as="font" type="font/woff2" crossorigin />
     <link rel="preload" href={sourceSans400} as="font" type="font/woff2" crossorigin />
+    <!-- Header nav is 600 weight; loading it late re-wraps the mobile header and shifts the page. -->
+    <link rel="preload" href={sourceSans600} as="font" type="font/woff2" crossorigin />
     <title>{fullTitle}</title>
     <meta name="description" content={shortDescription} />
     <link rel="canonical" href={canonical} />
