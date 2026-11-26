@@ -20,12 +20,12 @@
     "qualified-written-request",
     "request-for-information"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Resolución de errores",
     "aliases": [],
     "definition": "La resolución de errores es el deber del administrador de investigar un error cubierto y de corregirlo o explicar por qué cree que no hubo error. Los errores cubiertos incluyen no aceptar un pago, imponer un cargo indebido y no acreditar un pago del modo que describe la sección.",
-    "details": "12 CFR 1024.35 es el procedimiento. El administrador por lo general acusa dentro de cinco días hábiles y responde dentro de 30, con una extensión que la sección permite. Durante la investigación el administrador no puede proporcionar información adversa a una agencia de informes del consumidor sobre un pago que es el objeto del aviso, durante el período que indica la sección. Una respuesta que solo dice que la cuenta está correcta, sin los documentos en los que se apoya, es débil.",
+    "details": "12 CFR 1024.35 es el procedimiento. El administrador por lo general acusa recibo dentro de cinco días hábiles y responde dentro de 30, con una extensión que la sección permite. Durante la investigación el administrador no puede proporcionar información adversa a una agencia de informes del consumidor sobre un pago que es el objeto del aviso, durante el período que indica la sección. Una respuesta que solo dice que la cuenta está correcta, sin los documentos en los que se apoya, es débil.",
     "complianceNotes": "Investigue el error específico, corrija la cuenta si se confirma y envíe la explicación y los documentos que exige la sección. Respete el límite de reporte de crédito durante la revisión.",
     "example": {
       "setting": "Investigación del administrador y respuesta por escrito a un error cubierto",

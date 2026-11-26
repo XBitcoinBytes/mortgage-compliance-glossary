@@ -8,7 +8,7 @@
   "complianceNotes": "Show the borrower which line moved and which bucket it is in. Cure a violation. Do not reprint the Loan Estimate after the Closing Disclosure has been issued.",
   "example": {
     "setting": "Loan Estimate compared with the Closing Disclosure, fee by fee",
-    "text": "A sample lender fee that rises by an example $250 in Section A generally must be cured. Example figures."
+    "text": "A sample lender fee that rises by an example $250 in Section A generally must be cured at consummation or within 60 days afterward. A shoppable fee in the 10 percent bucket can move within that cumulative cap. Example figures."
   },
   "citations": [
     "reg-1026-19"
@@ -30,7 +30,7 @@
     "complianceNotes": "Muéstrele al prestatario qué línea se movió y en qué grupo está. Corrija una violación. No reimprima la Estimación del préstamo después de que se emitió la Divulgación del cierre.",
     "example": {
       "setting": "Estimación del préstamo comparada con la Divulgación del cierre, cargo por cargo",
-      "text": "Una tarifa del prestamista de muestra que sube un ejemplo de $250 en la Sección A por lo general debe corregirse. Cifras de ejemplo."
+      "text": "Una tarifa del prestamista de muestra que sube un ejemplo de $250 en la Sección A por lo general debe corregirse en la consumación o dentro de los 60 días posteriores. Un cargo comparable en el grupo del 10 por ciento puede moverse dentro de ese tope acumulado. Cifras de ejemplo."
     }
   }
 }

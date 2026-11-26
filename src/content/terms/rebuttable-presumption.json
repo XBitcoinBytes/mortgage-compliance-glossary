@@ -21,10 +21,13 @@
     "qm-safe-harbor",
     "qualified-mortgage"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
-    "term": "Presunción refutable",
-    "aliases": [],
+    "term": "Presunción refutable de hipoteca calificada",
+    "aliases": [
+      "Presunción refutable",
+      "QM de presunción refutable"
+    ],
     "definition": "Una presunción refutable es la protección más débil que recibe un acreedor en una hipoteca calificada de precio más alto. La ley presume que el acreedor cumplió la capacidad de pago, pero el consumidor puede rebatir esa presunción. No es un puerto seguro.",
     "details": "El Reglamento Z establece la distinción en 12 CFR 1026.43. El estado de precio más alto viene de 12 CFR 1026.35. La réplica del consumidor mira si el acreedor ignoró información que mostraba que el consumidor no podía pagar, según el ingreso residual y las obligaciones que quedan después de la hipoteca. No describa la presunción como inmunidad frente a una demanda.",
     "complianceNotes": "Identifique las QM de precio más alto antes del cierre y conserve la hoja de capacidad de pago, no solo la lista de QM. Complete los requisitos de depósito en garantía y de tasación de HPML que se apliquen.",

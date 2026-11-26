@@ -25,10 +25,12 @@
     "refer-with-caution",
     "underwriting-conditions"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Approve/Eligible",
-    "aliases": [],
+    "aliases": [
+      "Aprobado/Elegible"
+    ],
     "definition": "Approve/Eligible es una recomendación de Desktop Underwriter de que el préstamo cumple la evaluación de riesgo de crédito y las reglas de elegibilidad de Fannie Mae, si los datos son exactos y se levanta cada condición. No es un compromiso de desembolso ni una Estimación del préstamo.",
     "details": "La Selling Guide B3-2-05 describe la recomendación, incluida la renuncia limitada de ciertas declaraciones cuando se cumplen las condiciones de la guía. B3-2-01 dice que el prestamista debe confirmar los datos, revisar el informe de crédito e investigar la información que DU no analizó. Un cambio posterior del ingreso o del monto puede invalidar el hallazgo si excede las tolerancias de DU en B3-2-10.",
     "complianceNotes": "Levante cada mensaje de verificación. Vuelva a enviar si cambian los datos. No cierre con un informe de hallazgos viejo que no coincide con el pagaré.",

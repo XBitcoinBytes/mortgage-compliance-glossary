@@ -20,10 +20,12 @@
     "tradeline",
     "tri-merge-credit-report"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
-    "term": "Usuario autorizado",
-    "aliases": [],
+    "term": "Cuenta de usuario autorizado",
+    "aliases": [
+      "usuario autorizado"
+    ],
     "definition": "Un usuario autorizado es alguien que puede usar la cuenta de crédito de otra persona pero no acordó pagarla. La cuenta puede aparecer en el informe de crédito del usuario autorizado. No es automáticamente la deuda propia del usuario, y no es automáticamente utilizable como historial de crédito.",
     "details": "Fannie Mae B3-5.3-06 limita cuándo una cuenta de usuario autorizado puede apoyar el historial de crédito y si su pago se incluye. Desktop Underwriter y la suscripción manual pueden tratar la cuenta de modo distinto. La tarjeta de un cónyuge en la que el prestatario es solo usuario autorizado no es lo mismo que una cuenta conjunta.",
     "complianceNotes": "Lea el campo de titularidad de la cuenta antes de contar el pago o el historial. No le diga a un prestatario que lo agreguen como usuario autorizado solo para fabricar un puntaje para una solicitud pendiente sin considerar la guía.",

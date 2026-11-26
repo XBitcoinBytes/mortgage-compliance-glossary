@@ -8,7 +8,7 @@
   "complianceNotes": "Name the proposed insurer on the written list if the fee is shoppable. Collect the final premium before the Closing Disclosure is finalized. Do not describe this policy as owner's coverage.",
   "example": {
     "setting": "Loan Estimate, page 2, lender's title insurance line",
-    "text": "A sample lender's policy on an example $340,000 loan might be quoted at $1,280. Example figures."
+    "text": "A sample lender's policy on an example $340,000 loan might be quoted at $1,280 in Section C if the borrower can shop, or in Section B and generally zero tolerance if the creditor requires its provider. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -24,7 +24,7 @@
     "title-commitment",
     "title-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Póliza de título del prestamista",
     "aliases": [],
@@ -33,7 +33,7 @@
     "complianceNotes": "Nombre a la aseguradora propuesta en la lista escrita si el cargo se puede comparar. Recoja la prima final antes de finalizar la Divulgación del cierre. No describa esta póliza como cobertura del propietario.",
     "example": {
       "setting": "Estimación del préstamo, página 2, línea del seguro de título del prestamista",
-      "text": "Una póliza del prestamista de muestra sobre un préstamo de ejemplo de $340,000 podría cotizarse en $1,280. Cifras de ejemplo."
+      "text": "Una póliza del prestamista de muestra sobre un préstamo de ejemplo de $340,000 podría cotizarse en $1,280 en la Sección C si el prestatario puede comparar, o en la Sección B y por lo general con tolerancia cero si el acreedor exige su proveedor. Cifras de ejemplo."
     }
   }
 }

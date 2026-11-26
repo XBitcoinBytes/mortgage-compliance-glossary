@@ -24,10 +24,13 @@
     "points-and-fees",
     "prepayment-penalty"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Hipoteca de alto costo",
-    "aliases": [],
+    "aliases": [
+      "préstamo HOEPA",
+      "préstamo de la Sección 32"
+    ],
     "definition": "Una hipoteca de alto costo es un préstamo que activa la prueba de tasa de HOEPA o la prueba de puntos y cargos de HOEPA. Una vez que es de alto costo, el acreedor debe seguir las prohibiciones extra y el requisito de consejería. Llamarla préstamo de precio más alto no evita esos deberes.",
     "details": "12 CFR 1026.32 define la cobertura. 12 CFR 1026.34 contiene los actos prohibidos, incluidas restricciones a los pagos globales, las penalidades por pago anticipado y el financiamiento de puntos y cargos, y exige consejería de vivienda. Los umbrales se ajustan. Lea la sección vigente y el aviso anual de la CFPB. Un préstamo de compra puede ser de alto costo. La idea antigua de que HOEPA era solo para refinanciamientos está superada.",
     "complianceNotes": "Pruebe todo expediente de cargos altos o de tasa alta. Si está cubierto, detenga el conjunto estándar de documentos y complete la consejería y los límites de 1026.34. Conserve el certificado.",

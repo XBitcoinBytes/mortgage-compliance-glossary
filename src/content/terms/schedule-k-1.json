@@ -21,10 +21,13 @@
     "stable-income",
     "tax-returns"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
-    "term": "Anexo K-1",
-    "aliases": [],
+    "term": "Ingreso del Anexo K-1",
+    "aliases": [
+      "Anexo K-1",
+      "K-1"
+    ],
     "definition": "Un Anexo K-1 reporta su parte de una sociedad o de una corporación S. Si ese ingreso puede calificarlo depende de su porcentaje de propiedad, de su acceso al dinero y del historial que exige la guía. Los salarios ordinarios en un W-2 de la misma empresa son un cálculo distinto.",
     "details": "La sección de trabajo por cuenta propia de Fannie Mae, B3-3.5, y el tema del K-1 tratan los umbrales de propiedad y cuándo se exigen las declaraciones del negocio. No invente el porcentaje de propiedad que cambia el análisis. Lea el tema vigente. Las distribuciones que no están documentadas como estables pueden no ser ingreso de calificación aunque aparezcan en el K-1.",
     "complianceNotes": "Identifique el porcentaje antes de calcular. Obtenga las declaraciones del negocio cuando el nivel de propiedad las exige. No sume ingreso del K-1 encima de un W-2 que ya pagó las mismas ganancias.",

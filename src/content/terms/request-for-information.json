@@ -23,14 +23,14 @@
     "qualified-written-request",
     "successor-in-interest"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Pedido de información",
     "aliases": [
       "RFI"
     ],
-    "definition": "Un pedido de información es un pedido por escrito de que el administrador proporcione información sobre su hipoteca. No es lo mismo que un aviso de error, aunque una carta puede hacer ambas cosas. El administrador debe acusar y responder en el plazo del reglamento.",
-    "details": "12 CFR 1024.36 establece el deber, el acuse y el tiempo de respuesta, con un tratamiento distinto para algunos pedidos. Los plazos están en la sección. Un pedido de liquidación también puede involucrar la regla de liquidación del Reglamento Z. El administrador no puede cobrar un cargo prohibido por la sección por responder.",
+    "definition": "Un pedido de información es un pedido por escrito de que el administrador proporcione información sobre su hipoteca. No es lo mismo que un aviso de error, aunque una carta puede hacer ambas cosas. El administrador debe acusar recibo y responder en el plazo del reglamento.",
+    "details": "12 CFR 1024.36 establece el deber, el acuse de recibo y el tiempo de respuesta, con un tratamiento distinto para algunos pedidos. Los plazos están en la sección. Un pedido de liquidación también puede involucrar la regla de liquidación del Reglamento Z. El administrador no puede cobrar un cargo prohibido por la sección por responder.",
     "complianceNotes": "Separe los pedidos de información de los avisos de error en la recepción de correo para que cada reloj empiece. Responda la pregunta hecha. No envíe solo una cotización de liquidación cuando el prestatario pidió un historial de pagos.",
     "example": {
       "setting": "Pedido por escrito de información sobre la cuenta hipotecaria",

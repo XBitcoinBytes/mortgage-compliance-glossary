@@ -22,16 +22,16 @@
     "request-for-information",
     "successor-in-interest"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Aviso de error",
     "aliases": [],
-    "definition": "Un aviso de error es un aviso por escrito al administrador que alega un error cubierto, como un pago no aplicado o un cargo que no debió cobrarse. El administrador debe acusarlo e investigarlo. Los plazos están en el Reglamento X.",
-    "details": "12 CFR 1024.35 enumera los errores cubiertos y por lo general exige el acuse dentro de cinco días hábiles y una respuesta dentro de 30 días hábiles, con una posible extensión que describe la sección. Esos conteos de días son el texto del reglamento. No toda queja es un error cubierto. Un pedido solo de información es una carta distinta según 1024.36. El nombre antiguo de solicitud escrita calificada se superpone a ambas ideas.",
-    "complianceNotes": "Registre la fecha de recepción, acuse y responda en sustancia. Si necesita la extensión, envíela correctamente. Corrija la cuenta si se confirma el error, incluido cualquier cargo por mora causado por el error.",
+    "definition": "Un aviso de error es un aviso por escrito al administrador que alega un error cubierto, como un pago no aplicado o un cargo que no debió cobrarse. El administrador debe acusar recibo e investigarlo. Los plazos están en el Reglamento X.",
+    "details": "12 CFR 1024.35 enumera los errores cubiertos y por lo general exige el acuse de recibo dentro de cinco días hábiles y una respuesta dentro de 30 días hábiles, con una posible extensión que describe la sección. Esos conteos de días son el texto del reglamento. No toda queja es un error cubierto. Un pedido solo de información es una carta distinta según 1024.36. El nombre antiguo de solicitud escrita calificada se superpone a ambas ideas.",
+    "complianceNotes": "Registre la fecha de recepción, acuse recibo y responda en sustancia. Si necesita la extensión, envíela correctamente. Corrija la cuenta si se confirma el error, incluido cualquier cargo por mora causado por el error.",
     "example": {
       "setting": "Aviso de error por escrito al administrador que alega un error cubierto",
-      "text": "Un aviso de muestra podría disputar un cargo de ejemplo de $48 registrado el día 3. El acuse de cinco días y la respuesta de 30 días del administrador son los relojes del reglamento. Cifras de ejemplo para el cargo."
+      "text": "Un aviso de muestra podría disputar un cargo de ejemplo de $48 registrado el día 3. El acuse de recibo de cinco días y la respuesta de 30 días del administrador son los relojes del reglamento. Cifras de ejemplo para el cargo."
     }
   }
 }

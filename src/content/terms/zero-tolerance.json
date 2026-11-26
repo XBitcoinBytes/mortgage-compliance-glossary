@@ -29,10 +29,13 @@
     "tolerance-cure",
     "transfer-taxes"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Tolerancia cero",
-    "aliases": [],
+    "aliases": [
+      "tolerancia del 0 por ciento",
+      "grupo de tolerancia cero"
+    ],
     "definition": "Tolerancia cero significa que un cargo por lo general no puede aumentar en absoluto de la Estimación del préstamo a la Divulgación del cierre. El grupo incluye los cargos propios del acreedor o del corredor, los impuestos de transferencia y los cargos pagados a un afiliado o a un proveedor que el consumidor no puede comparar, sujetos a las excepciones de la regla.",
     "details": "12 CFR 1026.19(e)(3)(i) es la disposición de tolerancia cero. Una circunstancia cambiada u otra revisión permitida puede reajustar la base. Un aumento que no está permitido debe corregirse. Poner por error un cargo de título comparable en la Sección B lo congela en tolerancia cero. Los impuestos de transferencia están en este grupo aunque son cargos del gobierno. Los cargos de registro no. Están en el grupo del 10 por ciento.",
     "complianceNotes": "Compare la Sección A y los cargos que no se pueden comparar línea por línea. Corrija cualquier aumento que no pueda atar a una revisión permitida. No vuelva a etiquetar un cargo del prestamista como un cargo de un tercero para escapar del grupo.",
