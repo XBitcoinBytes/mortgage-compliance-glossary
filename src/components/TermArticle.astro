@@ -14,6 +14,8 @@ import { linkDefinition, linkedSlugs } from "../lib/autolink";
 import AutolinkText from "./AutolinkText.astro";
 import { categoryMap } from "../data/categories";
 import figures from "../data/figures.json";
+import { hasHudCounselor } from "../data/hud-counselor";
+import HudCounselorNote from "./HudCounselorNote.astro";
 
 interface Props {
   lang: Lang;
@@ -173,6 +175,7 @@ const changing = figures.filter((f) => f.terms.includes(term.slug));
       <button type="button" class="btn secondary" onclick="window.print()">{ui.print}</button>
       <span class="sr-only" aria-live="polite" id="copy-status"></span>
     </p>
+    {hasHudCounselor(term.slug) && <HudCounselorNote lang={lang} />}
   </div>
   <aside class="rail">
     <h2>{ui.seeAlso}</h2>

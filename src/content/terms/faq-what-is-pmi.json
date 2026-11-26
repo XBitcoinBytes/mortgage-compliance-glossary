@@ -8,7 +8,7 @@
   "complianceNotes": "Disclose the monthly amount. Explain the 80 and 78 percent rules with their conditions. Do not promise FHA MIP cancels the same way.",
   "example": {
     "setting": "Loan Estimate mortgage insurance line on a conventional loan",
-    "text": "A sample conventional payment might include example PMI of $85 a month. Example figures."
+    "text": "A sample conventional payment might include example PMI of $85 a month. On a covered loan, you can request cancellation when the balance is first scheduled to reach 80 percent of original value if you are current, and it ends automatically at 78 percent if you are current. Example figures."
   },
   "citations": [
     "usc-12-4902"
@@ -29,7 +29,7 @@
     "complianceNotes": "Divulgue el monto mensual. Explique las reglas del 80 y del 78 por ciento con sus condiciones. No prometa que la MIP de la FHA se cancela del mismo modo.",
     "example": {
       "setting": "Línea de seguro hipotecario de la Estimación del préstamo en un préstamo convencional",
-      "text": "Un pago convencional de muestra podría incluir un PMI de ejemplo de $85 al mes. Cifras de ejemplo."
+      "text": "Un pago convencional de muestra podría incluir un PMI de ejemplo de $85 al mes. En un préstamo cubierto, usted puede pedir la cancelación cuando el saldo esté programado por primera vez para llegar al 80 por ciento del valor original si está al día, y termina automáticamente al 78 por ciento si está al día. Cifras de ejemplo."
     }
   }
 }

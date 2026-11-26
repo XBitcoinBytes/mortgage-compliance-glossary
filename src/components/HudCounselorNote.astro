@@ -1,0 +1,32 @@
+---
+import type { Lang } from "../lib/types";
+import { HUD_COUNSELOR_URL } from "../data/hud-counselor";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const es = lang === "es";
+const finderLabel = es ? "localizador oficial de consejeros de HUD" : "HUD's official counselor finder";
+const before = es
+  ? "Hable con un consejero de vivienda aprobado por HUD. La orientación sobre ejecución hipotecaria y pagos atrasados es gratuita. Busque en el "
+  : "Talk to a HUD-approved housing counselor. Counseling about foreclosure and missed payments is free. Search ";
+const after = es ? ", o llame al 800-569-4287." : ", or call 800-569-4287.";
+---
+
+<p class="hud-help no-print">
+  {before}<a href={HUD_COUNSELOR_URL} rel="noopener noreferrer">{finderLabel}</a>{after}
+</p>
+
+<style>
+  .hud-help {
+    color: var(--ink-soft);
+    font-size: 0.98rem;
+    max-width: 42rem;
+    margin: 1rem 0 0;
+  }
+  .hud-help a {
+    text-decoration: underline;
+    text-underline-offset: 0.12em;
+  }
+</style>

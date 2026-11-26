@@ -11,7 +11,7 @@
   "complianceNotes": "Disclose PMI on the Loan Estimate separately from taxes and hazard insurance. Explain cancellation in HPA terms, not as an automatic drop at 80 percent without the conditions. Do not call FHA MIP private mortgage insurance.",
   "example": {
     "setting": "Loan Estimate, mortgage insurance line, on a conventional loan above the guide's LTV threshold",
-    "text": "A sample conventional loan might show an example monthly PMI of $95. Example figures, not a filed rate."
+    "text": "A sample conventional loan might show an example monthly PMI of $95, listed separately from taxes and hazard insurance on the Loan Estimate. Borrower-requested cancellation under the Homeowners Protection Act is available when the statutory conditions, including the 80 percent threshold, are met; it is not an automatic drop at 80 percent. Example figures, not a filed rate."
   },
   "citations": [
     "usc-12-4902",
@@ -43,7 +43,7 @@
     "complianceNotes": "Divulgue el PMI en la Estimación del préstamo aparte de los impuestos y del seguro de riesgos. Explique la cancelación en términos de la HPA, no como una caída automática al 80 por ciento sin las condiciones. No llame seguro hipotecario privado a la MIP de la FHA.",
     "example": {
       "setting": "Estimación del préstamo, línea del seguro hipotecario, en un préstamo convencional por encima del umbral de LTV de la guía",
-      "text": "Un préstamo convencional de muestra podría mostrar un PMI mensual de ejemplo de $95. Cifras de ejemplo, no una tarifa registrada."
+      "text": "Un préstamo convencional de muestra podría mostrar un PMI mensual de ejemplo de $95, listado por separado de los impuestos y el seguro de riesgos en la Estimación del préstamo. La cancelación pedida por el prestatario bajo la Ley de Protección de Propietarios está disponible cuando se cumplen las condiciones de la ley, incluido el umbral del 80 por ciento; no es una baja automática al 80 por ciento. Cifras de ejemplo, no una tarifa registrada."
     }
   }
 }

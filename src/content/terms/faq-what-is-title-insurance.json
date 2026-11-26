@@ -8,7 +8,7 @@
   "complianceNotes": "Explain the two policies. Put the fee in the correct section. Do not tell the borrower the owner's policy is required by federal law.",
   "example": {
     "setting": "Loan Estimate title lines, lender's policy and optional owner's policy",
-    "text": "A sample lender's policy might be quoted at an example $1,200. Example figures, not a state-filed rate."
+    "text": "A sample lender's policy might be quoted at an example $1,200 in Section C of the Loan Estimate if you can shop for the title company. The owner's policy is a different policy and, in many purchases, is optional. Example figures, not a state-filed rate."
   },
   "citations": [
     "reg-1026-37",
@@ -30,7 +30,7 @@
     "complianceNotes": "Explique las dos pólizas. Ponga el cargo en la sección correcta. No le diga al prestatario que la póliza del propietario la exige la ley federal.",
     "example": {
       "setting": "Líneas de título de la Estimación del préstamo, póliza del prestamista y póliza opcional del propietario",
-      "text": "Una póliza del prestamista de muestra podría cotizarse en un ejemplo de $1,200. Cifras de ejemplo, no una tarifa registrada en el estado."
+      "text": "Una póliza del prestamista de muestra podría cotizarse en un ejemplo de $1,200 en la Sección C de la Estimación del préstamo si usted puede comparar la compañía de título. La póliza del propietario es una póliza distinta y, en muchas compras, es opcional. Cifras de ejemplo, no una tarifa registrada en el estado."
     }
   }
 }

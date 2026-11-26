@@ -8,7 +8,7 @@
   "complianceNotes": "Use the table when a borrower compares a shorter term with a longer one. Do not let the five-year principal reduction be described as cash the borrower receives.",
   "example": {
     "setting": "Closing Disclosure, page 5, Comparisons: in five years, APR, and TIP",
-    "text": "A sample five-year line might show an example $72,000 paid and $28,000 of principal reduction. Example figures."
+    "text": "A sample five-year line on page 5 of the Closing Disclosure might show an example $72,000 paid and $28,000 of principal reduction. Those figures assume scheduled payments and are a comparison, not a bill. Example figures."
   },
   "citations": [
     "reg-1026-38",
@@ -30,7 +30,7 @@
     "complianceNotes": "Use la tabla cuando un prestatario compara un plazo más corto con uno más largo. No deje que la reducción de capital a cinco años se describa como efectivo que el prestatario recibe.",
     "example": {
       "setting": "Divulgación del cierre, página 5, Comparaciones: en cinco años, APR y TIP",
-      "text": "Una línea de cinco años de muestra podría mostrar un ejemplo de $72,000 pagados y $28,000 de reducción de capital. Cifras de ejemplo."
+      "text": "Una línea de cinco años de muestra en la página 5 de la Divulgación del cierre podría mostrar un ejemplo de $72,000 pagados y $28,000 de reducción de capital. Esas cifras suponen pagos programados y son una comparación, no una factura. Cifras de ejemplo."
     }
   }
 }

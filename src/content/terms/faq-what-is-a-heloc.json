@@ -8,7 +8,7 @@
   "complianceNotes": "Give the HELOC disclosures, not TRID forms. Include the full limit in the first-mortgage CLTV. Explain the draw period and the later payment.",
   "example": {
     "setting": "HELOC early disclosure, not a Loan Estimate",
-    "text": "A sample line might have an example limit of $50,000. Example figures."
+    "text": "A sample line might have an example limit of $50,000. A HELOC uses open-end home-equity disclosures, not a Loan Estimate. Example figures."
   },
   "citations": [
     "reg-1026-40"
@@ -29,7 +29,7 @@
     "complianceNotes": "Dé las divulgaciones de la HELOC, no los formularios de TRID. Incluya el límite completo en la CLTV de la primera hipoteca. Explique el período de disposición y el pago posterior.",
     "example": {
       "setting": "Divulgación temprana de la HELOC, no una Estimación del préstamo",
-      "text": "Una línea de muestra podría tener un límite de ejemplo de $50,000. Cifras de ejemplo."
+      "text": "Una línea de muestra podría tener un límite de ejemplo de $50,000. Una HELOC usa las divulgaciones de crédito abierto con garantía hipotecaria, no una Estimación del préstamo. Cifras de ejemplo."
     }
   }
 }

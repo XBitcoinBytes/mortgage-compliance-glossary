@@ -8,7 +8,7 @@
   "complianceNotes": "Estimate the per diem from the locked rate and a real closing date. Update Section F when the date changes. Explain to the borrower why a later closing can cost more interest even at the same rate.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure, page 2, Section F, prepaid interest",
-    "text": "A sample per diem of $55 for 12 days is an example prepaid-interest charge of $660. Example figures."
+    "text": "A sample per diem of $55 for 12 days is an example prepaid-interest charge of $660 in Section F. The amount can change if the closing date moves. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -33,7 +33,7 @@
     "complianceNotes": "Estime el interés diario a partir de la tasa fijada y de una fecha de cierre real. Actualice la Sección F cuando cambia la fecha. Explíquele al prestatario por qué un cierre más tarde puede costar más interés aunque la tasa sea la misma.",
     "example": {
       "setting": "Estimación del préstamo y Divulgación del cierre, página 2, Sección F, interés pagado por adelantado",
-      "text": "Un interés diario de muestra de $55 por 12 días es un cargo de interés pagado por adelantado de ejemplo de $660. Cifras de ejemplo."
+      "text": "Un interés diario de muestra de $55 por 12 días es un cargo de interés pagado por adelantado de ejemplo de $660 en la Sección F. El monto puede cambiar si se mueve la fecha de cierre. Cifras de ejemplo."
     }
   }
 }

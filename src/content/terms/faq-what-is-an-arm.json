@@ -8,7 +8,7 @@
   "complianceNotes": "Give the booklet. Show a payment that can increase. Do not advertise only the start rate.",
   "example": {
     "setting": "Loan Estimate product line for an adjustable-rate mortgage and the CHARM booklet",
-    "text": "A sample 5/6 ARM might start at an example 5.75 percent. Example figures, not a quote."
+    "text": "A sample 5/6 ARM might start at an example 5.75 percent, with the product and the caps shown on the Loan Estimate, and you also receive a CHARM booklet. Example figures, not a quote."
   },
   "citations": [
     "reg-1026-19",
@@ -30,7 +30,7 @@
     "complianceNotes": "Dé el folleto. Muestre un pago que puede aumentar. No anuncie solo la tasa inicial.",
     "example": {
       "setting": "Línea de producto de la Estimación del préstamo para una hipoteca de tasa ajustable y el folleto CHARM",
-      "text": "Una ARM 5/6 de muestra podría empezar en un ejemplo del 5.75 por ciento. Cifras de ejemplo, no una cotización."
+      "text": "Una ARM 5/6 de muestra podría empezar en un ejemplo del 5.75 por ciento, con el producto y los topes mostrados en la Estimación del préstamo, y usted también recibe el folleto CHARM. Cifras de ejemplo, no una cotización."
     }
   }
 }
