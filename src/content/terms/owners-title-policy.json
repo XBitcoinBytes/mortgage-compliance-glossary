@@ -8,7 +8,7 @@
   "complianceNotes": "Ask the title company for the disclosure figure the TRID form expects, not only the invoice total. Tell the borrower the owner's policy is a choice unless the contract requires it.",
   "example": {
     "setting": "Loan Estimate, page 2, owner's title insurance disclosure on a purchase",
-    "text": "A sample owner's policy might be offered at an example $400 simultaneous-issue increment. Example figures, not a state-filed rate."
+    "text": "A sample owner's policy might be offered at an example $400 simultaneous-issue increment. Who pays should match page 3 of the Closing Disclosure. Example figures, not a state-filed rate."
   },
   "citations": [
     "reg-1026-37",
@@ -22,7 +22,7 @@
     "simultaneous-issue",
     "title-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Póliza de título del propietario",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Pida a la compañía de título la cifra de divulgación que espera el formulario de TRID, no solo el total de la factura. Dígale al prestatario que la póliza del propietario es una elección, salvo que el contrato la exija.",
     "example": {
       "setting": "Estimación del préstamo, página 2, divulgación del seguro de título del propietario en una compra",
-      "text": "Una póliza del propietario de muestra podría ofrecerse a un incremento de emisión simultánea de ejemplo de $400. Cifras de ejemplo, no una tarifa registrada en el estado."
+      "text": "Una póliza del propietario de muestra podría ofrecerse a un incremento de emisión simultánea de ejemplo de $400. Quién paga debe coincidir con la página 3 de la Divulgación del cierre. Cifras de ejemplo, no una tarifa registrada en el estado."
     }
   }
 }

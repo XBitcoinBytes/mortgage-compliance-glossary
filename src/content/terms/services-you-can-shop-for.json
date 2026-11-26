@@ -8,7 +8,7 @@
   "complianceNotes": "Do not put a creditor-chosen appraisal in Section C. That service cannot be shopped and belongs in Section B. Keep the consumer's provider choice in the file so the tolerance bucket is defensible.",
   "example": {
     "setting": "Loan Estimate, page 2, Section C: Services You Can Shop For",
-    "text": "A sample Section C might list lender's title policy at $1,280 and a settlement fee at $650, both shoppable. Example figures."
+    "text": "A sample Section C might list lender's title policy at $1,280 and a settlement fee at $650, both shoppable. If you pick a provider on the written list, those charges plus recording fees generally may not increase more than 10 percent in total; if you choose your own provider, that charge is generally not limited by that percentage. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -28,7 +28,7 @@
     "title-insurance",
     "written-list-of-providers"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Servicios que usted puede comparar",
     "aliases": [],
@@ -37,7 +37,7 @@
     "complianceNotes": "No ponga en la Sección C una tasación elegida por el acreedor. Ese servicio no se puede comparar y pertenece a la Sección B. Conserve en el expediente la elección del consumidor para que el grupo de tolerancia se pueda defender.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección C: Servicios que usted puede comparar",
-      "text": "Una Sección C de muestra puede listar la póliza de título del prestamista en $1,280 y un cargo de liquidación en $650, ambos se pueden comparar. Cifras de ejemplo."
+      "text": "Una Sección C de muestra puede listar la póliza de título del prestamista en $1,280 y un cargo de liquidación en $650, ambos se pueden comparar. Si elige un proveedor de la lista escrita, esos cargos más los cargos de registro por lo general no pueden aumentar más del 10 por ciento en total; si elige su propio proveedor, ese cargo por lo general no está limitado por ese porcentaje. Cifras de ejemplo."
     }
   }
 }

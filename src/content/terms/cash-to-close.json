@@ -8,7 +8,7 @@
   "complianceNotes": "Walk the borrower through the table, not only the cash figure. When page 3 of the Closing Disclosure does not match the table, fix it before signing. A shortage discovered at the table is a disclosure problem, not only a funding problem.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure, Calculating Cash to Close table",
-    "text": "A sample table might show cash to close of $28,400 on the Loan Estimate and $27,150 on the Closing Disclosure after an example seller credit. Example figures."
+    "text": "A sample table might show cash to close of $28,400 on the Loan Estimate and $27,150 on the Closing Disclosure after an example seller credit. Those figures should also match page 3 of the Closing Disclosure. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -34,7 +34,7 @@
     "seller-concessions",
     "seller-credits"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Efectivo para el cierre",
     "aliases": [
@@ -45,7 +45,7 @@
     "complianceNotes": "Recorra la tabla con el prestatario, no solo la cifra de efectivo. Cuando la página 3 de la Divulgación del cierre no coincide con la tabla, corríjala antes de la firma. Un faltante descubierto en la mesa es un problema de divulgación, no solo de desembolso.",
     "example": {
       "setting": "Estimación del préstamo y Divulgación del cierre, tabla de Cálculo del efectivo para el cierre",
-      "text": "Una tabla de muestra puede mostrar efectivo para el cierre de $28,400 en la Estimación del préstamo y $27,150 en la Divulgación del cierre después de un crédito del vendedor de ejemplo. Cifras de ejemplo."
+      "text": "Una tabla de muestra puede mostrar efectivo para el cierre de $28,400 en la Estimación del préstamo y $27,150 en la Divulgación del cierre después de un crédito del vendedor de ejemplo. Esas cifras también deben coincidir con la página 3 de la Divulgación del cierre. Cifras de ejemplo."
     }
   }
 }

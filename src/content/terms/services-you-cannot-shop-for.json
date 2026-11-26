@@ -8,7 +8,7 @@
   "complianceNotes": "Classify each third-party fee before the Loan Estimate goes out. If the consumer may shop, it is Section C and needs a provider on the written list. If the creditor requires its provider, it is Section B and should not increase without a permitted reason.",
   "example": {
     "setting": "Loan Estimate, page 2, Section B: Services You Cannot Shop For",
-    "text": "A sample Section B might show an appraisal fee of $625 and a credit report fee of $45 on a purchase of an example $380,000 home. Example figures."
+    "text": "A sample Section B might show an appraisal fee of $625 and a credit report fee of $45 on a purchase of an example $380,000 home. Those charges generally cannot increase above the Loan Estimate (zero tolerance). A shoppable title fee belongs in Section C, not Section B. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -22,7 +22,7 @@
     "written-list-of-providers",
     "zero-tolerance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Servicios que usted no puede comparar",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Clasifique cada cargo de un tercero antes de enviar la Estimación del préstamo. Si el consumidor puede comparar, es Sección C y necesita un proveedor en la lista escrita. Si el acreedor exige su proveedor, es Sección B y no debe aumentar sin una razón permitida.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección B: Servicios que usted no puede comparar",
-      "text": "Una Sección B de muestra puede mostrar un cargo de tasación de $625 y un cargo de informe de crédito de $45 en la compra de una vivienda de ejemplo de $380,000. Cifras de ejemplo."
+      "text": "Una Sección B de muestra puede mostrar un cargo de tasación de $625 y un cargo de informe de crédito de $45 en la compra de una vivienda de ejemplo de $380,000. Esos cargos por lo general no pueden aumentar por encima de la Estimación del préstamo (tolerancia cero). Un cargo de título que se puede comparar pertenece a la Sección C, no a la Sección B. Cifras de ejemplo."
     }
   }
 }

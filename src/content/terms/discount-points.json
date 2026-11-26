@@ -10,7 +10,7 @@
   "complianceNotes": "Show points in dollars in Section A, not only as a percentage the consumer must calculate. If the lock changes the points, recheck the APR and the points-and-fees test. A lender credit is the opposite trade and should not be netted away so the consumer cannot see it.",
   "example": {
     "setting": "Loan Estimate, page 2, Section A: Origination Charges, line for points",
-    "text": "On an example $400,000 loan, 0.750 points would be $3,000 in Section A and might accompany a lower example note rate. Example figures, not a quote."
+    "text": "On an example $400,000 loan, 0.750 points would be $3,000 in Section A, because one point is 1 percent of the loan amount, and might accompany a lower example note rate. Example figures, not a quote. That 1 percent meaning is custom, not a statute that sets the price."
   },
   "citations": [
     "reg-1026-37",
@@ -29,7 +29,7 @@
     "origination-charges",
     "rate-lock-confirmation"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Puntos de descuento",
     "aliases": [
@@ -40,7 +40,7 @@
     "complianceNotes": "Muestre los puntos en dólares en la Sección A, no solo como un porcentaje que el consumidor deba calcular. Si la fijación cambia los puntos, vuelva a revisar la tasa porcentual anual y la prueba de puntos y cargos. Un crédito del prestamista es el intercambio opuesto y no debe netearse de modo que el consumidor no pueda verlo.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección A: Cargos por originación, línea de puntos",
-      "text": "En un préstamo de ejemplo de $400,000, 0.750 puntos serían $3,000 en la Sección A y podrían acompañar una tasa del pagaré de ejemplo más baja. Cifras de ejemplo, no una cotización."
+      "text": "En un préstamo de ejemplo de $400,000, 0.750 puntos serían $3,000 en la Sección A, porque un punto es el 1 por ciento del monto del préstamo, y podrían acompañar una tasa del pagaré de ejemplo más baja. Cifras de ejemplo, no una cotización. Ese significado del 1 por ciento es una costumbre, no una ley que fije el precio."
     }
   }
 }

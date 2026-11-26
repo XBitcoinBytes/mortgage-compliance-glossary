@@ -8,7 +8,7 @@
   "complianceNotes": "Build Section G from the tax and insurance bills and the RESPA aggregate analysis, not from a flat two months if the analysis produces a different number. Show the aggregate adjustment. Do not call this deposit mortgage insurance.",
   "example": {
     "setting": "Loan Estimate, page 2, Section G: Initial Escrow Payment at Closing",
-    "text": "A sample Section G might collect an example $700 for taxes and $150 for insurance, then subtract an aggregate adjustment of $120. Example figures."
+    "text": "A sample Section G might collect an example $700 for taxes and $150 for insurance, then subtract an aggregate adjustment of $120. That deposit is not the same as the insurance premium in Section F. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -24,7 +24,7 @@
     "no-tolerance-bucket",
     "prepaids"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Pago inicial de la cuenta de depósito en garantía",
     "aliases": [],
@@ -33,7 +33,7 @@
     "complianceNotes": "Arme la Sección G a partir de las facturas de impuestos y seguros y del análisis agregado de RESPA, no de dos meses fijos si el análisis produce otro número. Muestre el ajuste agregado. No llame a este depósito seguro hipotecario.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección G: Pago inicial de la cuenta de depósito en garantía en el cierre",
-      "text": "Una Sección G de muestra puede cobrar un ejemplo de $700 para impuestos y $150 para seguro, y luego restar un ajuste agregado de $120. Cifras de ejemplo."
+      "text": "Una Sección G de muestra puede cobrar un ejemplo de $700 para impuestos y $150 para seguro, y luego restar un ajuste agregado de $120. Ese depósito no es lo mismo que la prima del seguro en la Sección F. Cifras de ejemplo."
     }
   }
 }

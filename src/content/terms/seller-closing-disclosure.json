@@ -8,7 +8,7 @@
   "complianceNotes": "Produce the seller's form from the same numbers as the buyer's summaries. Do not send the buyer the seller's version as a substitute for the five-page buyer disclosure.",
   "example": {
     "setting": "Seller's Closing Disclosure, the seller's side of the transaction",
-    "text": "A sample seller form might show an example sale price of $430,000 and a seller credit of $6,000. Example figures."
+    "text": "A sample seller form might show an example sale price of $430,000 and a seller credit of $6,000. Those credits and prorations should match the buyer's page 3. Example figures."
   },
   "citations": [
     "reg-1026-38"
@@ -20,7 +20,7 @@
     "purchase-agreement",
     "seller-credits"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Divulgación del cierre del vendedor",
     "aliases": [],
@@ -29,7 +29,7 @@
     "complianceNotes": "Produzca el formulario del vendedor a partir de los mismos números que los resúmenes del comprador. No envíe al comprador la versión del vendedor como sustituto de la divulgación de cinco páginas del comprador.",
     "example": {
       "setting": "Divulgación del cierre del vendedor, el lado del vendedor de la transacción",
-      "text": "Un formulario del vendedor de muestra podría mostrar un precio de venta de ejemplo de $430,000 y un crédito del vendedor de $6,000. Cifras de ejemplo."
+      "text": "Un formulario del vendedor de muestra podría mostrar un precio de venta de ejemplo de $430,000 y un crédito del vendedor de $6,000. Esos créditos y prorrateos deben coincidir con la página 3 del comprador. Cifras de ejemplo."
     }
   }
 }

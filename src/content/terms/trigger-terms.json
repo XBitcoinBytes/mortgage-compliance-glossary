@@ -21,13 +21,13 @@
     "map-rule",
     "mortgage-advertising"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Términos desencadenantes",
     "aliases": [],
     "definition": "Los términos desencadenantes son términos específicos de crédito en un anuncio que exigen divulgaciones adicionales. En el crédito cerrado, ejemplos que el Reglamento Z trata como desencadenantes incluyen el monto o el porcentaje de cualquier pago inicial, el número de pagos o el período de pago, el monto de cualquier pago y el monto de cualquier cargo por financiamiento. La tasa del pagaré por sí sola no está en esa lista.",
     "details": "12 CFR 1026.24 establece los desencadenantes y las divulgaciones adicionales exigidas, incluida la tasa porcentual anual y otros términos. El crédito abierto, como una HELOC, tiene sus propios desencadenantes de publicidad en la misma sección. No invente términos desencadenantes extra, y no omita uno de los ejemplos de arriba. Un pago que es solo de interés o que tiene una reducción temporal no debe anunciarse como el pago ordinario.",
-    "complianceNotes": "Si el anuncio indica un pago mensual, trátalo como un desencadenante y agregue las divulgaciones exigidas antes de publicarlo. Haga que cumplimiento revise los gráficos de los originadores.",
+    "complianceNotes": "Si el anuncio indica un pago mensual, trátelo como un desencadenante y agregue las divulgaciones exigidas antes de publicarlo. Haga que cumplimiento revise los gráficos de los originadores.",
     "example": {
       "setting": "Anuncio que indica un pago, un pago inicial o un número de pagos",
       "text": "Una publicación de muestra podría decir un pago de ejemplo de $1,400 al mes. Esa declaración activa más divulgaciones según 1026.24. Cifras de ejemplo."
