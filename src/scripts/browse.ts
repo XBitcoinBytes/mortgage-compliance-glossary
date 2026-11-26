@@ -67,6 +67,15 @@ export function initBrowse() {
       count.textContent = `${visible} ${unit}`;
     }
     if (empty) empty.hidden = visible !== 0;
+    root.querySelectorAll<HTMLAnchorElement>("a.letter-jump").forEach((link) => {
+      const hash = link.getAttribute("href") ?? "";
+      const group = hash.startsWith("#") ? root.querySelector<HTMLElement>(hash) : null;
+      const available = !!(group && !group.hidden);
+      link.classList.toggle("letter-off", !available);
+      link.setAttribute("aria-disabled", available ? "false" : "true");
+      if (available) link.removeAttribute("tabindex");
+      else link.setAttribute("tabindex", "-1");
+    });
     root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {
       button.setAttribute("aria-pressed", (button.dataset.cat ?? "") === category ? "true" : "false");
     });
@@ -81,6 +90,31 @@ export function initBrowse() {
   }
 
   input?.addEventListener("input", apply);
+  input?.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      if (input.value) {
+        event.preventDefault();
+        input.value = "";
+        apply();
+      } else {
+        input.blur();
+      }
+    }
+    if (event.key === "Enter") {
+      const shown = rows.filter((row) => !row.el.hidden);
+      if (shown.length === 1) {
+        const href = shown[0].el.querySelector("a")?.getAttribute("href");
+        if (href) {
+          event.preventDefault();
+          location.href = href;
+        }
+      }
+    }
+  });
+  root.querySelector("#browse-letters")?.addEventListener("click", (event) => {
+    const link = (event.target as HTMLElement | null)?.closest("a.letter-jump");
+    if (link?.getAttribute("aria-disabled") === "true") event.preventDefault();
+  });
   root.querySelectorAll<HTMLButtonElement>("button[data-cat]").forEach((button) => {
     button.addEventListener("click", () => {
       category = button.dataset.cat ?? "";

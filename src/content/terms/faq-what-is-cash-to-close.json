@@ -8,7 +8,7 @@
   "complianceNotes": "Reconcile the table to page 3. Tell the borrower the final number before they send a wire. Verify wiring instructions by phone.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure, Calculating Cash to Close",
-    "text": "A sample table might show example cash to close of $22,750. Example figures."
+    "text": "A sample Calculating Cash to Close table might show example cash to close of $22,750, which you can compare from the Loan Estimate to the Closing Disclosure. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -30,7 +30,7 @@
     "complianceNotes": "Concilie la tabla con la página 3. Dígale al prestatario el número final antes de que envíe una transferencia. Verifique las instrucciones de transferencia por teléfono.",
     "example": {
       "setting": "Estimación del préstamo y Divulgación del cierre, Cálculo del efectivo para el cierre",
-      "text": "Una tabla de muestra podría mostrar un efectivo para el cierre de ejemplo de $22,750. Cifras de ejemplo."
+      "text": "Una tabla de Cálculo del efectivo para el cierre de muestra puede mostrar un efectivo para el cierre de ejemplo de $22,750, que usted puede comparar de la Estimación del préstamo a la Divulgación del cierre. Cifras de ejemplo."
     }
   }
 }

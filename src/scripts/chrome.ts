@@ -321,16 +321,32 @@ function initSearch() {
     }
   });
 
+  function visibleBrowseInput() {
+    const browse = document.querySelector<HTMLInputElement>("#browse-q");
+    if (browse && browse.getClientRects().length) return browse;
+    return null;
+  }
+
+  function openBrowseOrSearch() {
+    const browse = visibleBrowseInput();
+    if (browse) {
+      browse.focus();
+      browse.select();
+      return;
+    }
+    openSearch();
+  }
+
   document.addEventListener("keydown", (event) => {
     const target = event.target as HTMLElement | null;
     const typing = target && (target.tagName === "INPUT" || target.tagName === "TEXTAREA");
     if (event.key === "/" && !typing) {
       event.preventDefault();
-      openSearch();
+      openBrowseOrSearch();
     }
     if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
       event.preventDefault();
-      openSearch();
+      openBrowseOrSearch();
     }
   });
 

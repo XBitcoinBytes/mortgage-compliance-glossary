@@ -24,8 +24,10 @@
   ],
   "reviewed": "2026-11-19",
   "es": {
-    "term": "Anexo C",
-    "aliases": [],
+    "term": "Ingreso del Anexo C",
+    "aliases": [
+      "Anexo C"
+    ],
     "definition": "El Anexo C es el formulario del IRS que un empresario individual usa para reportar la ganancia o la pérdida del negocio en la declaración personal. Los prestamistas empiezan el cálculo del trabajo por cuenta propia allí. Los depósitos en la cuenta del negocio no sustituyen al Anexo C.",
     "details": "La sección B3-3.5 de Fannie Mae explica qué líneas del Anexo C son ingreso y qué gastos pueden reincorporarse, como la depreciación, cuando la sección lo permite. Una pérdida reduce el ingreso de calificación. La transcripción del Formulario 4506-C debe respaldar la declaración. Un estado de resultados del año a la fecha no reemplaza la declaración, salvo que se cumpla la excepción de la guía.",
     "complianceNotes": "Use ambos años cuando la guía exige un historial, y analice una baja. No reincorpore un gasto que la sección no enumera. Compare la transcripción antes de autorizar el cierre.",

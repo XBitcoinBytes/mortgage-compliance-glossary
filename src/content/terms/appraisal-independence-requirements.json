@@ -33,7 +33,7 @@
     ],
     "definition": "La independencia de la tasación significa que la persona que desarrolla el valor no es presionada para alcanzar un número que el préstamo necesita. Los oficiales de préstamos no pueden prometer un valor, retener el pago ni buscar una opinión más alta porque la primera fue demasiado baja.",
     "details": "El Reglamento Z, 12 CFR 1026.42, prohíbe hacer que un valor se base en un resultado deseado y ata la compensación del tasador a esa prohibición. Los Requisitos de Independencia del Tasador de Fannie Mae se aplican a los préstamos convencionales entregados a Fannie Mae. Un prestatario puede pedir una reconsideración del valor con ventas comparables nuevas. Esa petición no es una exigencia de un número predeterminado.",
-    "complianceNotes": "Separe el pedido de la tasación del pago del personal de producción. No escriba al tasador el valor que necesita. Registre cualquier reconsideración y los datos nuevos que la apoyaron.",
+    "complianceNotes": "Separe el pedido de la tasación del pago del personal de producción. No envíe al tasador por correo electrónico el valor que necesita. Registre cualquier reconsideración y los datos nuevos que la apoyaron.",
     "example": {
       "setting": "Expediente del pedido de tasación, que muestra que el tasador no fue elegido por el personal de producción para lograr un valor",
       "text": "Una petición prohibida de muestra diría por favor llegue a $430,000 para que el préstamo de ejemplo funcione. El expediente que cumple, en cambio, pide la tasación sin un valor objetivo. El monto es una cifra de ejemplo de una infracción, no una meta. Cifras de ejemplo, no una cotización ni un límite legal."

@@ -21,8 +21,10 @@
   ],
   "reviewed": "2026-11-19",
   "es": {
-    "term": "Pagos parciales",
-    "aliases": [],
+    "term": "Política de pagos parciales",
+    "aliases": [
+      "Pagos parciales"
+    ],
     "definition": "La divulgación de pagos parciales le dice si el administrador puede aceptar un pago menor que el monto total debido, y cómo se aplicará ese pago. Aceptar un pago parcial no es una promesa de que el préstamo está al día.",
     "details": "12 CFR 1026.38 exige la divulgación de la política de pagos parciales del administrador. La política en sí por lo general está en el pagaré o en las prácticas de administración. Un pago parcial retenido en suspenso no es lo mismo que un acuerdo de mitigación de pérdidas. El Reglamento X igual rige cómo debe responder un administrador si el prestatario después alega un error.",
     "complianceNotes": "Divulgue la política real, no una frase de mercadeo. Dígale al prestatario que un pago corto igual puede dejar el préstamo en mora. No trate un pago parcial como una indulgencia.",

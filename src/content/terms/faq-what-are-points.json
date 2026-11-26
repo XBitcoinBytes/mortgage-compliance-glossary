@@ -8,7 +8,7 @@
   "complianceNotes": "Show the rate with points and the rate without points. Do not call a lender credit a refund of points. Include points in the cash-to-close math.",
   "example": {
     "setting": "Loan Estimate, page 2, Section A, points or a lender credit",
-    "text": "One point on an example $300,000 loan is $3,000. Example figures."
+    "text": "One point on an example $300,000 loan is $3,000, shown in Section A of the Loan Estimate. Example figures."
   },
   "citations": [
     "reg-1026-32",
@@ -30,7 +30,7 @@
     "complianceNotes": "Muestre la tasa con puntos y la tasa sin puntos. No llame reembolso de puntos a un crédito del prestamista. Incluya los puntos en la matemática del efectivo para el cierre.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección A, puntos o un crédito del prestamista",
-      "text": "Un punto en un préstamo de ejemplo de $300,000 es $3,000. Cifras de ejemplo."
+      "text": "Un punto en un préstamo de ejemplo de $300,000 es $3,000, mostrado en la Sección A de la Estimación del préstamo. Cifras de ejemplo."
     }
   }
 }
