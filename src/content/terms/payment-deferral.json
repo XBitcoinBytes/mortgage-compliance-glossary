@@ -8,7 +8,7 @@
   "complianceNotes": "Use the current guide's deferral, document the amount moved to the end, and give the borrower the agreement. Do not describe it as forgiveness.",
   "example": {
     "setting": "Deferral agreement moving missed amounts to the end of the loan without a new rate",
-    "text": "A sample deferral might move an example $5,100 of missed payments to the loan's maturity. Example figures."
+    "text": "A sample deferral might move an example $5,100 of missed payments to the loan's maturity. It is not the same as capitalizing the arrears into a modification, and it is not forgiveness. The agreement should say whether interest accrues on the deferred amount and when it is due. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -20,7 +20,7 @@
     "loss-mitigation",
     "repayment-plan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Aplazamiento del pago",
     "aliases": [],
@@ -29,7 +29,7 @@
     "complianceNotes": "Use el aplazamiento de la guía vigente, documente el monto movido al final y dé al prestatario el acuerdo. No lo describa como un perdón de la deuda.",
     "example": {
       "setting": "Acuerdo de aplazamiento que mueve los montos no pagados al final del préstamo sin una tasa nueva",
-      "text": "Un aplazamiento de muestra podría mover un ejemplo de $5,100 de pagos no realizados al vencimiento del préstamo. Cifras de ejemplo."
+      "text": "Un aplazamiento de muestra podría mover un ejemplo de $5,100 de pagos no realizados al vencimiento del préstamo. No es lo mismo que capitalizar los atrasos en una modificación, y no es un perdón de la deuda. El acuerdo debe decir si el interés se acumula sobre el monto aplazado y cuándo vence. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Generate the list from the current HUD data for the borrower's location and store it with the application date. Do not reuse a list from another borrower's file. Counseling required by HOEPA or the HECM rule is an additional step, not this list alone.",
   "example": {
     "setting": "Counseling-list disclosure in the origination file, separate from the Loan Estimate",
-    "text": "A sample list might name ten counseling agencies within an example search around the property ZIP code and be dated the day after application. The count and date are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample list might name ten counseling agencies within an example search around the property ZIP code and be dated the day after application. The count and date are example figures. The list is not the Loan Estimate and not the toolkit. Giving a generic national phone number without the required list does not complete the duty, and a list from another borrower's file should not be reused. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1024-20"
@@ -21,7 +21,7 @@
     "reverse-mortgage",
     "your-home-loan-toolkit"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Lista de organizaciones de consejería de vivienda",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Genere la lista con los datos vigentes de HUD para la ubicación del prestatario y guárdela con la fecha de solicitud. No reutilice la lista de otro prestatario. La consejería exigida por HOEPA o por la regla de HECM es un paso adicional, no solo esta lista.",
     "example": {
       "setting": "Divulgación de la lista de consejería en el expediente de originación, separada de la Estimación del préstamo",
-      "text": "Una lista de muestra puede nombrar diez agencias de consejería dentro de una búsqueda de ejemplo alrededor del código postal de la propiedad y tener fecha del día siguiente a la solicitud. El número y la fecha son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una lista de muestra puede nombrar diez agencias de consejería dentro de una búsqueda de ejemplo alrededor del código postal de la propiedad y tener fecha del día siguiente a la solicitud. El número y la fecha son cifras de ejemplo. La lista no es la Estimación del préstamo ni el conjunto de herramientas. Dar un número de teléfono nacional genérico sin la lista exigida no cumple el deber, y no debe reutilizarse la lista de otro prestatario. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

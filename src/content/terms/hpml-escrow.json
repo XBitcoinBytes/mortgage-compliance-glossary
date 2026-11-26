@@ -8,7 +8,7 @@
   "complianceNotes": "If the loan is higher-priced, default to establishing the escrow unless a current exemption is documented. Do not sell an escrow waiver on an HPML that does not qualify for one.",
   "example": {
     "setting": "Higher-priced mortgage escrow requirement, Section G of the Loan Estimate if an escrow is established",
-    "text": "A sample HPML might collect an example initial escrow deposit of $1,100 in Section G. Example figures, not the exemption threshold."
+    "text": "A sample HPML might collect an example initial escrow deposit of $1,100 in Section G. The borrower cannot simply waive this escrow. Default to establishing it unless a current exemption is documented, and do not apply an exemption from a remembered loan count. The escrow that is established still follows Regulation X accounting. Example figures, not the exemption threshold."
   },
   "citations": [
     "reg-1026-35"
@@ -22,7 +22,7 @@
     "rebuttable-presumption",
     "small-creditor"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cuenta de depósito en garantía de una HPML",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Si el préstamo es de precio más alto, establezca el depósito en garantía salvo que documente una exención vigente. No venda una renuncia al depósito en garantía en una HPML que no califica para una.",
     "example": {
       "setting": "Requisito de depósito en garantía de una hipoteca de precio más alto, Sección G de la Estimación del préstamo si se establece una cuenta",
-      "text": "Una HPML de muestra podría cobrar un depósito inicial de ejemplo de $1,100 en la Sección G. Cifras de ejemplo, no el umbral de exención."
+      "text": "Una HPML de muestra podría cobrar un depósito inicial de ejemplo de $1,100 en la Sección G. El prestatario no puede simplemente renunciar a esta cuenta. Por defecto, establezca la cuenta a menos que se documente una exención vigente, y no aplique una exención de un recuento de préstamos recordado. La cuenta que se establece sigue la contabilidad del Reglamento X. Cifras de ejemplo, no el umbral de exención."
     }
   }
 }

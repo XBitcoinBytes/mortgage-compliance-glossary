@@ -8,7 +8,7 @@
   "complianceNotes": "Run the aggregate analysis from the actual tax and insurance due dates. Show the negative adjustment in Section G. Do not drop it to make the cash to close look round.",
   "example": {
     "setting": "Closing Disclosure, page 2, Section G, aggregate adjustment, often a negative number",
-    "text": "A sample Section G might list example escrow deposits of $1,800 and an aggregate adjustment of minus $140. Example figures."
+    "text": "A sample Section G might list example escrow deposits of $1,800 and an aggregate adjustment of minus $140. The line is not a lender credit. The cushion may be up to one-sixth of estimated annual disbursements, which is two months, unless a smaller cushion is required, and collecting a flat number of months without the analysis can over-collect. Example figures."
   },
   "citations": [
     "reg-1024-17",
@@ -21,7 +21,7 @@
     "initial-escrow-payment",
     "prepaids"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Ajuste agregado",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Ejecute el análisis agregado a partir de las fechas reales de impuestos y de seguro. Muestre el ajuste negativo en la Sección G. No lo quite para que el efectivo para el cierre se vea redondo.",
     "example": {
       "setting": "Divulgación del cierre, página 2, Sección G, ajuste agregado, a menudo un número negativo",
-      "text": "Una Sección G de muestra podría listar depósitos en garantía de ejemplo de $1,800 y un ajuste agregado de menos $140. Cifras de ejemplo."
+      "text": "Una Sección G de muestra podría listar depósitos en garantía de ejemplo de $1,800 y un ajuste agregado de menos $140. La línea no es un crédito del prestamista. El colchón puede ser de hasta una sexta parte de los desembolsos anuales estimados, que son dos meses, a menos que se exija un colchón menor, y cobrar un número fijo de meses sin el análisis puede cobrar de más. Cifras de ejemplo."
     }
   }
 }

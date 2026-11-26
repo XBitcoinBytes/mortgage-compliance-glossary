@@ -8,7 +8,7 @@
   "complianceNotes": "Run the exclusion only with the pricing evidence that shows the rate reduction the points purchased. If the points fail the test, include them in points and fees. Flag files near the cap for a second calculation.",
   "example": {
     "setting": "Pricing worksheet and Loan Estimate, page 2, Section A, points line, tested in the points-and-fees calculation",
-    "text": "On an example $240,000 loan, a creditor might test whether $2,400 of points, 1.00 percent, buys a rate reduction that the current section treats as bona fide. Example figures, not the regulatory cap."
+    "text": "On an example $240,000 loan, a creditor might test whether $2,400 of points, 1.00 percent, buys a rate reduction that the current section treats as bona fide. Not every charge labeled a point qualifies. If the points fail the test, include them in points and fees. Example figures, not the regulatory cap."
   },
   "citations": [
     "reg-1026-32",
@@ -22,7 +22,7 @@
     "points-and-fees",
     "qualified-mortgage"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Punto de descuento de buena fe",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Aplique la exclusión solo con la prueba de precio que muestra la reducción de tasa que compraron los puntos. Si los puntos no pasan la prueba, inclúyalos en los puntos y cargos. Marque los expedientes cerca del límite para un segundo cálculo.",
     "example": {
       "setting": "Hoja de precio y Estimación del préstamo, página 2, Sección A, línea de puntos, probada en el cálculo de puntos y cargos",
-      "text": "En un préstamo de ejemplo de $240,000, un acreedor podría probar si $2,400 de puntos, el 1.00 por ciento, compran una reducción de tasa que la sección vigente trata como de buena fe. Cifras de ejemplo, no el límite del reglamento."
+      "text": "En un préstamo de ejemplo de $240,000, un acreedor podría probar si $2,400 de puntos, el 1.00 por ciento, compran una reducción de tasa que la sección vigente trata como de buena fe. No todo cargo llamado punto califica. Si los puntos no pasan la prueba, inclúyalos en puntos y cargos. Cifras de ejemplo, no el límite del reglamento."
     }
   },
   "reviewFlag": "The bona fide discount-point exclusion math is detailed and has been amended. Confirm the current text of 12 CFR 1026.32(b) before relying on a particular exclusion percentage."

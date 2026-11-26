@@ -10,7 +10,7 @@
   "complianceNotes": "Pull the current percentage before you disclose. Show the premium on the Loan Estimate if it is charged. Do not finance more than the handbook allows.",
   "example": {
     "setting": "FHA upfront mortgage insurance premium, often financed, on the Loan Estimate",
-    "text": "A sample FHA loan might add an example upfront premium to a base loan. The percentage is intentionally not stated. Example figures for a base amount of $250,000 only."
+    "text": "A sample FHA loan might add an example upfront premium to a base loan. The percentage is intentionally not stated because HUD sets it and it changes. The premium is not a discount point and not conventional PMI. The annual MIP is a separate monthly charge, and financing the upfront premium increases the loan amount. Example figures for a base amount of $250,000 only."
   },
   "citations": [
     "hud-4000-1"
@@ -22,7 +22,7 @@
     "loan-estimate",
     "usda-guarantee-fee"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Prima inicial del seguro hipotecario",
     "aliases": [
@@ -33,7 +33,7 @@
     "complianceNotes": "Obtenga el porcentaje vigente antes de divulgar. Muestre la prima en la Estimación del préstamo si se cobra. No financie más de lo que permite el manual.",
     "example": {
       "setting": "Prima inicial del seguro hipotecario de la FHA, a menudo financiada, en la Estimación del préstamo",
-      "text": "Un préstamo FHA de muestra podría agregar una prima inicial de ejemplo a un préstamo base. El porcentaje se omite a propósito. Cifras de ejemplo solo para un monto base de $250,000."
+      "text": "Un préstamo FHA de muestra podría agregar una prima inicial de ejemplo a un préstamo base. El porcentaje se omite a propósito porque HUD lo fija y cambia. La prima no es un punto de descuento ni el PMI convencional. La MIP anual es un cargo mensual distinto, y financiar la prima inicial aumenta el monto del préstamo. Cifras de ejemplo solo para un monto base de $250,000."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Calculate the APR and the APOR spread on the final numbers. Keep the comparison in the file. If the loan is higher-priced, label it as a rebuttable-presumption QM and complete any HPML escrow or appraisal duties.",
   "example": {
     "setting": "QM price test showing the loan is not higher-priced",
-    "text": "A sample comparison might show an example APR a small spread over APOR, inside or outside the higher-priced line only after the current section is applied. Example figures are not the threshold. A sample loan amount of $275,000 illustrates the file."
+    "text": "A sample comparison might show an example APR a small spread over APOR, inside or outside the higher-priced line only after the current section is applied. Example figures are not the threshold. A qualified mortgage can still be only a rebuttable presumption if the spread is too wide, so do not stamp safe harbor on every QM. A sample loan amount of $275,000 illustrates the file."
   },
   "citations": [
     "reg-1026-43",
@@ -22,7 +22,7 @@
     "qualified-mortgage",
     "rebuttable-presumption"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Puerto seguro de la hipoteca calificada",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Calcule la tasa porcentual anual y el diferencial sobre el APOR con los números finales. Conserve la comparación en el expediente. Si el préstamo es de precio más alto, etiquételo como una QM de presunción refutable y complete los deberes de depósito en garantía o de tasación de una HPML.",
     "example": {
       "setting": "Prueba de precio de la QM que muestra que el préstamo no es de precio más alto",
-      "text": "Una comparación de muestra puede mostrar una tasa porcentual anual de ejemplo con un diferencial pequeño sobre el APOR, dentro o fuera de la línea de precio más alto solo después de aplicar la sección vigente. Las cifras de ejemplo no son el umbral. Un monto de préstamo de muestra de $275,000 ilustra el expediente. Cifras de ejemplo."
+      "text": "Una comparación de muestra puede mostrar una tasa porcentual anual de ejemplo con un diferencial pequeño sobre el APOR, dentro o fuera de la línea de precio más alto solo después de aplicar la sección vigente. Las cifras de ejemplo no son el umbral. Una hipoteca calificada todavía puede ser solo una presunción rebatible si el diferencial es demasiado amplio, así que no ponga puerto seguro en toda QM. Un monto de préstamo de muestra de $275,000 ilustra el expediente. Cifras de ejemplo."
     }
   }
 }

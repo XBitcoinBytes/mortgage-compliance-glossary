@@ -8,7 +8,7 @@
   "complianceNotes": "Store the reason code, the supporting document, and both versions of the form. If the Closing Disclosure has already gone out, do not issue a Loan Estimate to reset a fee. Compare the revised charges with the final Closing Disclosure for any increase that still exceeds tolerance.",
   "example": {
     "setting": "Revised Loan Estimate, page 1, Date Issued, and the record of why it was issued",
-    "text": "A sample revision might change the loan amount from an example $300,000 to $312,000 after a contract addendum and reset only the charges the rule ties to that change. Example figures."
+    "text": "A sample revision might change the loan amount from an example $300,000 to $312,000 after a contract addendum and reset only the charges the rule ties to that change. Timing is generally three business days from receiving the information. The creditor may not provide a revised Loan Estimate on or after the date it provides the Closing Disclosure, and a revision is not a fresh start for every fee. Example figures."
   },
   "citations": [
     "reg-1026-19-e-3-iv",
@@ -26,7 +26,7 @@
     "tolerance-cure",
     "zero-tolerance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Estimación del préstamo revisada",
     "aliases": [],
@@ -35,7 +35,7 @@
     "complianceNotes": "Guarde el código de la razón, el documento de apoyo y ambas versiones del formulario. Si la Divulgación del cierre ya salió, no emita una Estimación del préstamo para reajustar un cargo. Compare los cargos revisados con la Divulgación del cierre final para cualquier aumento que igual exceda la tolerancia.",
     "example": {
       "setting": "Estimación del préstamo revisada, página 1, Fecha de emisión, y el registro de por qué se emitió",
-      "text": "Una revisión de muestra puede cambiar el monto del préstamo de un ejemplo de $300,000 a $312,000 después de un anexo del contrato y reajustar solo los cargos que la regla ata a ese cambio. Cifras de ejemplo."
+      "text": "Una revisión de muestra puede cambiar el monto del préstamo de un ejemplo de $300,000 a $312,000 después de un anexo del contrato y reajustar solo los cargos que la regla ata a ese cambio. El plazo es por lo general de tres días hábiles desde que se recibe la información. El acreedor no puede entregar una Estimación del préstamo revisada el mismo día o después del día en que entrega la Divulgación del cierre, y una revisión no es un comienzo nuevo para todos los cargos. Cifras de ejemplo."
     }
   }
 }

@@ -10,7 +10,7 @@
   "complianceNotes": "Decide which document the section requires and keep proof it was given. Do not treat the Loan Estimate APR as the risk-based pricing notice.",
   "example": {
     "setting": "Risk-based pricing notice or the credit-score disclosure exception",
-    "text": "A sample score disclosure might list an example score of 704. Example figures. The form must match 1022.72."
+    "text": "A sample score disclosure might list an example score of 704. Mortgage creditors often use the credit-score disclosure exception instead of the risk-based pricing notice; using neither, when one is required, is the violation. An adverse-action notice is a different document, and the Loan Estimate APR is not this notice. The form must match 1022.72. Example figures."
   },
   "citations": [
     "reg-1022-72",
@@ -23,7 +23,7 @@
     "note-rate",
     "regulation-v"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Aviso de precio basado en el riesgo",
     "aliases": [
@@ -34,7 +34,7 @@
     "complianceNotes": "Decida qué documento exige la sección y conserve la prueba de que se dio. No trate la tasa porcentual anual de la Estimación del préstamo como el aviso de precio basado en el riesgo.",
     "example": {
       "setting": "Aviso de precio basado en el riesgo o la excepción de divulgación del puntaje de crédito",
-      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 704. Cifras de ejemplo. El formulario debe coincidir con 1022.72."
+      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 704. Los acreedores hipotecarios a menudo usan la excepción de divulgación del puntaje de crédito en lugar del aviso de precio basado en el riesgo; no usar ninguno, cuando uno se exige, es la violación. Un aviso de acción adversa es un documento distinto, y la tasa porcentual anual de la Estimación del préstamo no es este aviso. El formulario debe coincidir con 1022.72. Cifras de ejemplo."
     }
   }
 }

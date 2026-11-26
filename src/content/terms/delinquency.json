@@ -8,7 +8,7 @@
   "complianceNotes": "Start early intervention from the correct date. Do not report a current loan delinquent, and do not suppress a true delinquency to avoid the outreach.",
   "example": {
     "setting": "Servicing system delinquency date, which starts early intervention and the foreclosure wait",
-    "text": "A sample loan due on the 1st and unpaid on the 2nd is delinquent for servicing outreach. An example payment of $1,500 illustrates the missed installment. Example figures."
+    "text": "A sample loan due on the 1st and unpaid on the 2nd is delinquent for servicing outreach. An example payment of $1,500 illustrates the missed installment. One missed payment is a delinquency and is not, by itself, a foreclosure. That date starts early intervention and the 120-day limit on the first foreclosure step, and a partial payment may leave the loan delinquent. Example figures."
   },
   "citations": [
     "reg-1024-39",
@@ -29,7 +29,7 @@
     "reinstatement",
     "repayment-plan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Mora",
     "aliases": [],
@@ -38,7 +38,7 @@
     "complianceNotes": "Empiece la intervención temprana desde la fecha correcta. No reporte como en mora un préstamo al día, y no oculte una mora verdadera para evitar el acercamiento.",
     "example": {
       "setting": "Fecha de mora del sistema de administración, que inicia la intervención temprana y la espera de la ejecución hipotecaria",
-      "text": "Un préstamo de muestra con vencimiento el día 1 e impago el día 2 está en mora para el acercamiento de administración. Un pago de ejemplo de $1,500 ilustra la cuota no pagada. Cifras de ejemplo."
+      "text": "Un préstamo de muestra con vencimiento el día 1 e impago el día 2 está en mora para el acercamiento de administración. Un pago de ejemplo de $1,500 ilustra la cuota no pagada. Un pago no realizado es una mora y no es, por sí solo, una ejecución hipotecaria. Esa fecha inicia la intervención temprana y el límite de 120 días para el primer paso de la ejecución hipotecaria, y un pago parcial puede dejar el préstamo en mora. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Do not send the first foreclosure notice before the 120-day mark unless an exception applies. Stop the steps the section freezes when an application is complete. Tell the borrower the state process in general terms and point them to housing counseling.",
   "example": {
     "setting": "Foreclosure referral or sale notice, subject to state procedure and the federal timing limits",
-    "text": "A sample loan 130 days delinquent might be eligible for a first notice, while a loan 90 days delinquent generally would not. Example figures illustrating the 120-day rule."
+    "text": "A sample loan 130 days delinquent might be eligible for a first notice, while a loan 90 days delinquent generally would not. The first notice or filing is generally barred until the borrower is more than 120 days delinquent, with exceptions in the section. There is no single national foreclosure procedure, and a complete loss-mitigation application still has to be evaluated under the dual-tracking limits. Example figures illustrating the 120-day rule."
   },
   "citations": [
     "reg-1024-41"
@@ -29,7 +29,7 @@
     "short-sale",
     "successor-in-interest"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Ejecución hipotecaria",
     "aliases": [],
@@ -38,7 +38,7 @@
     "complianceNotes": "No envíe el primer aviso de ejecución hipotecaria antes de la marca de 120 días salvo que se aplique una excepción. Detenga los pasos que la sección congela cuando una solicitud está completa. Dígale al prestatario el proceso estatal en términos generales y remítalo a la consejería de vivienda.",
     "example": {
       "setting": "Referencia o aviso de venta de ejecución hipotecaria, sujetos al procedimiento estatal y a los límites federales de plazo",
-      "text": "Un préstamo de muestra con 130 días de mora podría ser elegible para un primer aviso, mientras un préstamo con 90 días de mora por lo general no lo sería. Cifras de ejemplo que ilustran la regla de 120 días."
+      "text": "Un préstamo de muestra con 130 días de mora podría ser elegible para un primer aviso, mientras un préstamo con 90 días de mora por lo general no lo sería. El primer aviso o presentación por lo general está prohibido hasta que el prestatario tiene más de 120 días de mora, con excepciones en la sección. No hay un solo procedimiento nacional de ejecución hipotecaria, y una solicitud completa de mitigación de pérdidas todavía debe evaluarse según los límites de seguimiento doble. Cifras de ejemplo que ilustran la regla de 120 días."
     }
   }
 }

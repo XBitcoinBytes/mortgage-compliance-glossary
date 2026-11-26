@@ -8,7 +8,7 @@
   "complianceNotes": "State the dates and the exit. Do not say the debt is forgiven. Do not leave the end of the forbearance unwritten.",
   "example": {
     "setting": "Written forbearance agreement that pauses or reduces payments for a stated time",
-    "text": "A sample agreement might pause an example $1,700 payment for three months. The $5,100 is still owed. Example figures."
+    "text": "A sample agreement might pause an example $1,700 payment for three months. The $5,100 is still owed. Forbearance does not erase the payments, interest can keep accruing, and the agreement should be in writing. Do not describe the debt as forgiven. Example figures."
   },
   "citations": [
     "reg-1024-41",
@@ -21,16 +21,18 @@
     "loss-mitigation",
     "repayment-plan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Qué es una indulgencia?",
-    "aliases": [],
+    "aliases": [
+      "acuerdo de indulgencia"
+    ],
     "definition": "Una indulgencia reduce o pausa temporalmente sus pagos. No los borra. Cuando termina, el monto no pagado se devuelve por un plan, un aplazamiento, una modificación u otra opción que el inversionista permite. Obtenga el acuerdo por escrito.",
     "details": "12 CFR 1024.41 es el procedimiento de revisión. Los términos del producto vienen de la guía del inversionista. El interés puede seguir acumulándose. Un programa de la pandemia que terminó no debe ofrecerse como si estuviera abierto. El reporte de crédito debe coincidir con el acuerdo.",
     "complianceNotes": "Indique las fechas y la salida. No diga que la deuda está perdonada. No deje sin escribir el fin de la indulgencia.",
     "example": {
       "setting": "Acuerdo de indulgencia por escrito que pausa o reduce los pagos por un tiempo indicado",
-      "text": "Un acuerdo de muestra podría pausar un pago de ejemplo de $1,700 durante tres meses. Los $5,100 igual se deben. Cifras de ejemplo."
+      "text": "Un acuerdo de muestra podría pausar un pago de ejemplo de $1,700 durante tres meses. Los $5,100 igual se deben. La indulgencia no borra los pagos, el interés puede seguir acumulándose, y el acuerdo debe quedar por escrito. No describa la deuda como perdonada. Cifras de ejemplo."
     }
   }
 }

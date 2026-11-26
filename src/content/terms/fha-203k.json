@@ -8,7 +8,7 @@
   "complianceNotes": "Pick limited or standard from the handbook before you disclose. Do not mix HomeStyle rules into a 203(k). Inspect draws before you release funds.",
   "example": {
     "setting": "FHA 203(k) rehabilitation loan, standard or limited, in HUD 4000.1",
-    "text": "A sample limited 203(k) might include an example $25,000 repair escrow. Example figures, not the handbook maximum."
+    "text": "A sample limited 203(k) might include an example $25,000 repair escrow. HUD offers a limited version and a standard version, and the consultant rules and draws are in Handbook 4000.1. Those funds are not cash to the borrower for unrestricted use. Do not mix HomeStyle rules into a 203(k). Example figures, not the handbook maximum."
   },
   "citations": [
     "hud-4000-1"
@@ -20,16 +20,18 @@
     "fha-mip",
     "renovation-mortgage"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "FHA 203(k)",
-    "aliases": [],
+    "aliases": [
+      "hipoteca de rehabilitación 203(k)"
+    ],
     "definition": "El FHA 203(k) es una hipoteca de rehabilitación que financia la compra o el refinanciamiento de una vivienda más las reparaciones. HUD ofrece una versión limitada y una versión estándar. Los límites de reparación, las reglas del consultor y los desembolsos están en el Manual 4000.1. No cite un tope de reparación de memoria.",
     "details": "El 4000.1 distingue el 203(k) limitado del 203(k) estándar, incluido cuándo se exige un consultor y qué reparaciones son elegibles. El préstamo igual tiene seguro hipotecario de la FHA. Los programas de renovación de Fannie Mae, como HomeStyle, son productos distintos. Un calendario de desembolsos retiene los fondos de reparación. Esos fondos no son efectivo para el prestatario de uso irrestricto.",
     "complianceNotes": "Elija limitado o estándar a partir del manual antes de divulgar. No mezcle reglas de HomeStyle en un 203(k). Inspeccione los desembolsos antes de liberar fondos.",
     "example": {
       "setting": "Préstamo de rehabilitación FHA 203(k), estándar o limitado, en HUD 4000.1",
-      "text": "Un 203(k) limitado de muestra podría incluir un depósito de reparación de ejemplo de $25,000. Cifras de ejemplo, no el máximo del manual."
+      "text": "Un 203(k) limitado de muestra podría incluir un depósito de reparación de ejemplo de $25,000. HUD ofrece una versión limitada y una versión estándar, y las reglas del consultor y los desembolsos están en el Manual 4000.1. Esos fondos no son efectivo para el prestatario de uso libre. No mezcle las reglas de HomeStyle en un 203(k). Cifras de ejemplo, no el máximo del manual."
     }
   }
 }

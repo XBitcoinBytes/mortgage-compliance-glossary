@@ -8,7 +8,7 @@
   "complianceNotes": "Before you postpone a closing, identify which of the three events occurred. If none did, correct the form on the schedule the section allows and keep the original consummation date if the consumer already had the three days.",
   "example": {
     "setting": "Corrected Closing Disclosure and a new three-business-day count, only if a reset event occurred",
-    "text": "A sample APR that moves from an example 6.61 percent to 6.90 percent might become inaccurate and reset the wait. Whether it is inaccurate is the test in 1026.22. Example figures."
+    "text": "A sample APR that moves from an example 6.61 percent to 6.90 percent might become inaccurate and reset the wait. Whether it is inaccurate is the test in 1026.22. Only three changes reset the three-business-day wait: an inaccurate APR, a loan-product change, or adding a prepayment penalty. A tolerance cure or another fee change does not, by itself, reset the clock. Example figures."
   },
   "citations": [
     "reg-1026-19-f-2-ii",
@@ -22,7 +22,7 @@
     "three-business-day-rule",
     "tolerance-cure"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Reinicio de la espera de la Divulgación del cierre",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Antes de posponer un cierre, identifique cuál de los tres eventos ocurrió. Si ninguno ocurrió, corrija el formulario en el calendario que permite la sección y conserve la fecha original de consumación si el consumidor ya tuvo los tres días.",
     "example": {
       "setting": "Divulgación del cierre corregida y un nuevo conteo de tres días hábiles, solo si ocurrió un evento de reinicio",
-      "text": "Una tasa porcentual anual de muestra que pasa de un ejemplo del 6.61 por ciento al 6.90 por ciento podría volverse inexacta y reiniciar la espera. Si es inexacta es la prueba de 1026.22. Cifras de ejemplo."
+      "text": "Una tasa porcentual anual de muestra que pasa de un ejemplo del 6.61 por ciento al 6.90 por ciento podría volverse inexacta y reiniciar la espera. Si es inexacta es la prueba de 1026.22. Solo tres cambios reinician la espera de tres días hábiles: una tasa porcentual anual inexacta, un cambio del producto del préstamo o agregar una penalidad por pago anticipado. Una corrección de tolerancia u otro cambio de un cargo no reinicia, por sí solo, el reloj. Cifras de ejemplo."
     }
   }
 }
