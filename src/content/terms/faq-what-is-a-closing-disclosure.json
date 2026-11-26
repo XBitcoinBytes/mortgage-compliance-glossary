@@ -8,7 +8,7 @@
   "complianceNotes": "Prove the receipt date before you schedule consummation. Walk the borrower through cash to close and the loan terms. Do not say the signature is an acceptance.",
   "example": {
     "setting": "Closing Disclosure, five pages, before you sign the note",
-    "text": "A sample file might receive the form on Monday and sign on Thursday, with example cash to close of $18,400. Example figures."
+    "text": "A sample file might receive the form on Monday and sign on Thursday, with example cash to close of $18,400. 12 CFR 1026.19(f) counts specific business days, all days except Sundays and the listed federal legal holidays. Only three changes restart the three-day wait: an inaccurate APR, a product change, or a new prepayment penalty. A signature on the form is not an acceptance of the loan. Example figures."
   },
   "citations": [
     "reg-1026-19",
@@ -31,7 +31,7 @@
     "complianceNotes": "Pruebe la fecha de recepción antes de programar la consumación. Recorra con el prestatario el efectivo para el cierre y los términos del préstamo. No diga que la firma es una aceptación.",
     "example": {
       "setting": "Divulgación del cierre, cinco páginas, antes de que usted firme el pagaré",
-      "text": "Un expediente de muestra podría recibir el formulario el lunes y firmar el jueves, con un efectivo para el cierre de ejemplo de $18,400. Cifras de ejemplo."
+      "text": "Un expediente de muestra podría recibir el formulario el lunes y firmar el jueves, con un efectivo para el cierre de ejemplo de $18,400. 12 CFR 1026.19(f) cuenta días hábiles específicos, todos los días excepto los domingos y los feriados legales federales listados. Solo tres cambios reinician la espera de tres días: una APR inexacta, un cambio de producto o una nueva penalidad por prepago. Una firma en el formulario no es una aceptación del préstamo. Cifras de ejemplo."
     }
   }
 }

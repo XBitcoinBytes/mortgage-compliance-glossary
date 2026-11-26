@@ -12,7 +12,7 @@
   "complianceNotes": "Check the property eligibility map and the current income limits before you take a full application. Disclose both fees. Do not underwrite household income with only the note signers if the handbook counts others.",
   "example": {
     "setting": "USDA guaranteed loan under 7 CFR Part 3555, rural property and income limits checked",
-    "text": "A sample guaranteed loan might show an example amount of $220,000 in an eligible area. Example figures, not an income cap."
+    "text": "A sample guaranteed loan might show an example amount of $220,000 in an eligible area. 7 CFR Part 3555 and HB-1-3555 are the program rules. There is an upfront guarantee fee and an annual fee, household income is not the same as Fannie Mae qualifying income, and the direct USDA loan is a different product. Do not quote the income caps from this page. Example figures, not an income cap."
   },
   "citations": [
     "cfr-7-3555",
@@ -38,7 +38,7 @@
     "complianceNotes": "Revise el mapa de elegibilidad de la propiedad y los límites de ingreso vigentes antes de tomar una solicitud completa. Divulgue ambas cuotas. No suscriba el ingreso del hogar solo con los firmantes del pagaré si el manual cuenta a otras personas.",
     "example": {
       "setting": "Préstamo garantizado de USDA según 7 CFR Parte 3555, con la propiedad rural y los límites de ingreso revisados",
-      "text": "Un préstamo garantizado de muestra podría mostrar un monto de ejemplo de $220,000 en un área elegible. Cifras de ejemplo, no un tope de ingreso."
+      "text": "Un préstamo garantizado de muestra podría mostrar un monto de ejemplo de $220,000 en un área elegible. 7 CFR Parte 3555 y HB-1-3555 son las reglas del programa. Hay una cuota de garantía inicial y una cuota anual, el ingreso del hogar no es el mismo que el ingreso calificable de Fannie Mae, y el préstamo directo de USDA es un producto distinto. No cite los topes de ingreso desde esta página. Cifras de ejemplo, no un tope de ingreso."
     }
   }
 }

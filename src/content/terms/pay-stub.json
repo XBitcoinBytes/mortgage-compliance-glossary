@@ -11,7 +11,7 @@
   "complianceNotes": "Look at year-to-date pay, not only the current period. Explain a stub that shows zero hours or a job change. Do not annualize one unusually large check.",
   "example": {
     "setting": "Income file, most recent pay stubs required by the guide",
-    "text": "A sample stub might show example gross pay of $2,600 for a semi-monthly period and year-to-date base pay of $31,200. Example figures."
+    "text": "A sample stub might show example gross pay of $2,600 for a semi-monthly period and year-to-date base pay of $31,200. Year-to-date figures should be consistent with the stated pay rate. Do not annualize one unusually large check, and pay stubs do not replace a verbal verification when the guide requires one. Example figures."
   },
   "citations": [
     "fannie-b3-3-2-01",
@@ -39,7 +39,7 @@
     "complianceNotes": "Mire el pago del año a la fecha, no solo el período actual. Explique un talón que muestra cero horas o un cambio de empleo. No anualice un cheque inusualmente grande.",
     "example": {
       "setting": "Expediente de ingresos, talones de pago más recientes que exige la guía",
-      "text": "Un talón de muestra puede mostrar un pago bruto de ejemplo de $2,600 por un período quincenal y un pago base del año a la fecha de $31,200. Cifras de ejemplo."
+      "text": "Un talón de muestra puede mostrar un pago bruto de ejemplo de $2,600 por un período quincenal y un pago base del año a la fecha de $31,200. Las cifras del año a la fecha deben ser consistentes con la tasa de pago declarada. No anualice un solo cheque inusualmente grande, y los talones de pago no reemplazan una verificación verbal cuando la guía la exige. Cifras de ejemplo."
     }
   }
 }

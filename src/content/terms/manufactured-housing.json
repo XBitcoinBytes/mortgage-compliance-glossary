@@ -8,7 +8,7 @@
   "complianceNotes": "Confirm the HUD data plate and the title status early. Do not run a site-built appraisal form on a manufactured home. If the home is not real property, stop and use the correct program, if any.",
   "example": {
     "setting": "Appraisal and title work showing a HUD-code manufactured home, and whether it is real property",
-    "text": "A sample file might show an example manufactured home and land valued at $180,000, titled as real property. Example figures."
+    "text": "A sample file might show an example manufactured home and land valued at $180,000, titled as real property. The home must be built to the federal HUD code. Do not invent a width or year cutoff. Chattel loans secured only by the home, and not by the land, are a different product, and title must show the home is real property when the program requires that. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -30,7 +30,7 @@
     "complianceNotes": "Confirme temprano la placa de datos de HUD y el estado del título. No use un formulario de tasación de vivienda construida en el sitio para una vivienda prefabricada. Si la vivienda no es bien inmueble, deténgase y use el programa correcto, si existe.",
     "example": {
       "setting": "Tasación y trabajo de título que muestran una vivienda prefabricada del código HUD, y si es bien inmueble",
-      "text": "Un expediente de muestra puede mostrar una vivienda prefabricada y terreno de ejemplo valorados en $180,000, titulados como bien inmueble. Cifras de ejemplo."
+      "text": "Un expediente de muestra puede mostrar una vivienda prefabricada y terreno de ejemplo valorados en $180,000, titulados como bien inmueble. La vivienda debe construirse según el código federal de HUD. No invente un tope de ancho o de año. Los préstamos sobre bienes muebles garantizados solo por la vivienda, y no por el terreno, son un producto distinto, y el título debe mostrar que la vivienda es bien inmueble cuando el programa lo exige. Cifras de ejemplo."
     }
   }
 }

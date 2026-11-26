@@ -8,7 +8,7 @@
   "complianceNotes": "Issue TRID forms, give the rescission notices, and do not fund until the rescission period ends. Include the payment in any first-mortgage debt ratio if both loans close together.",
   "example": {
     "setting": "Closed-end second mortgage disclosed on a Loan Estimate, with rescission if it is on a principal dwelling",
-    "text": "A sample second mortgage of an example $30,000 would show a Loan Estimate and a three-business-day rescission. Example figures."
+    "text": "A sample second mortgage of an example $30,000 would show a Loan Estimate and a three-business-day rescission. 12 CFR 1026.19 and 12 CFR 1026.23 generally apply because it is a closed-end loan, not a HELOC. Do not use HELOC disclosures, and do not fund until the rescission period ends. The new second lien counts in the combined loan-to-value ratio of any first mortgage. Example figures."
   },
   "citations": [
     "reg-1026-19",
@@ -34,7 +34,7 @@
     "complianceNotes": "Emita los formularios de TRID, dé los avisos de rescisión y no desembolse hasta que termine el período de rescisión. Incluya el pago en cualquier relación de deudas de la primera hipoteca si ambos préstamos cierran juntos.",
     "example": {
       "setting": "Segunda hipoteca de crédito cerrado divulgada en una Estimación del préstamo, con rescisión si está sobre una vivienda principal",
-      "text": "Una segunda hipoteca de muestra de un ejemplo de $30,000 mostraría una Estimación del préstamo y una rescisión de tres días hábiles. Cifras de ejemplo."
+      "text": "Una segunda hipoteca de muestra de un ejemplo de $30,000 mostraría una Estimación del préstamo y una rescisión de tres días hábiles. 12 CFR 1026.19 y 12 CFR 1026.23 por lo general aplican porque es un préstamo de crédito cerrado, no un HELOC. No use las divulgaciones de HELOC, y no desembolse hasta que termine el período de rescisión. El nuevo segundo gravamen cuenta en la relación combinada préstamo-valor de cualquier primera hipoteca. Cifras de ejemplo."
     }
   }
 }

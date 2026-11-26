@@ -10,7 +10,7 @@
   "complianceNotes": "Print the validation message and follow it exactly. Do not skip a W-2 because a different file was validated. Revalidate or collect paper if the close is outside the message's window.",
   "example": {
     "setting": "DU findings, validation messages that replace listed documents",
-    "text": "A sample message might validate example base income of $5,200 a month and waive the pay stubs that message lists. Example figures."
+    "text": "A sample message might validate example base income of $5,200 a month and waive the pay stubs that message lists. The message lists what was validated and what documentation is no longer required. It does not validate a different employer or a later pay change, and if employment changes or the report expires, the lender falls back to standard documentation. Example figures."
   },
   "citations": [
     "fannie-b3-2-02"
@@ -31,7 +31,7 @@
     "complianceNotes": "Imprima el mensaje de validación y sígalo exactamente. No omita un W-2 porque otro expediente fue validado. Vuelva a validar o recoja papel si el cierre queda fuera de la ventana del mensaje.",
     "example": {
       "setting": "Hallazgos de DU, mensajes de validación que reemplazan documentos listados",
-      "text": "Un mensaje de muestra puede validar un ingreso base de ejemplo de $5,200 al mes y dispensar los talones de pago que ese mensaje enumera. Cifras de ejemplo."
+      "text": "Un mensaje de muestra puede validar un ingreso base de ejemplo de $5,200 al mes y dispensar los talones de pago que ese mensaje enumera. El mensaje indica qué se validó y qué documentación ya no se exige. No valida a un empleador distinto ni un cambio de pago posterior, y si el empleo cambia o el informe vence, el prestamista vuelve a la documentación estándar. Cifras de ejemplo."
     }
   }
 }

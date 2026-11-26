@@ -8,10 +8,11 @@
   "complianceNotes": "Use the address on the latest statement. Apply the transfer protections. Respond to error notices on the regulatory clock.",
   "example": {
     "setting": "Monthly statement showing the company you pay, which may not be the original lender",
-    "text": "A sample statement might show an example payment of $1,720 due to a servicer the borrower did not apply with. Example figures."
+    "text": "A sample statement might show an example payment of $1,720 due to a servicer the borrower did not apply with. Regulation X, 12 CFR Part 1024, is the servicing rulebook, and periodic statements are required by 12 CFR 1026.41 unless an exemption applies. A notice of error goes to the servicer, not to Fannie Mae. Example figures."
   },
   "citations": [
-    "reg-1024"
+    "reg-1024",
+    "reg-1026-41"
   ],
   "related": [
     "escrow-account",
@@ -29,7 +30,7 @@
     "complianceNotes": "Use la dirección del último estado de cuenta. Aplique las protecciones de la transferencia. Responda los avisos de error en el reloj del reglamento.",
     "example": {
       "setting": "Estado de cuenta mensual que muestra la empresa a la que usted paga, que puede no ser el prestamista original",
-      "text": "Un estado de cuenta de muestra podría mostrar un pago de ejemplo de $1,720 debido a un administrador con el que el prestatario no solicitó. Cifras de ejemplo."
+      "text": "Un estado de cuenta de muestra podría mostrar un pago de ejemplo de $1,720 debido a un administrador con el que el prestatario no solicitó. El Reglamento X, 12 CFR Parte 1024, es el libro de reglas de administración, y los estados de cuenta periódicos los exige 12 CFR 1026.41 salvo que aplique una excepción. Un aviso de error se envía al administrador, no a Fannie Mae. Cifras de ejemplo."
     }
   }
 }

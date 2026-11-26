@@ -10,7 +10,7 @@
   "complianceNotes": "Pull the report only after you have a permissible purpose, and give the adverse-action disclosures if you deny credit based on it. Refresh the report if it expires under the guide before closing. Investigate inquiries that suggest new debt.",
   "example": {
     "setting": "Credit file, tri-merge report from Experian, Equifax, and TransUnion",
-    "text": "A sample tri-merge might show three example scores of 702, 716, and 729 and a $6,400 credit-card balance. Example figures."
+    "text": "A sample tri-merge might show three example scores of 702, 716, and 729 and a $6,400 credit-card balance. Pulling the report requires a permissible purpose under 15 USC 1681b. A one-bureau report is not a substitute unless the guide expressly allows it, and the representative score is selected from these scores under a separate guide section. Example figures."
   },
   "citations": [
     "fannie-b3-5-2-01",
@@ -41,7 +41,7 @@
     "complianceNotes": "Obtenga el informe solo después de tener un propósito permitido, y dé las divulgaciones de acción adversa si niega el crédito con base en él. Actualice el informe si vence según la guía antes del cierre. Investigue las consultas que sugieren una deuda nueva.",
     "example": {
       "setting": "Expediente de crédito, informe tri-merge de Experian, Equifax y TransUnion",
-      "text": "Un informe de muestra de tres agencias puede mostrar tres puntajes de ejemplo de 702, 716 y 729 y un saldo de tarjeta de $6,400. Cifras de ejemplo."
+      "text": "Un informe de muestra de tres agencias puede mostrar tres puntajes de ejemplo de 702, 716 y 729 y un saldo de tarjeta de $6,400. Obtener el informe exige un propósito permitido según 15 USC 1681b. Un informe de una sola agencia no es un sustituto salvo que la guía lo permita expresamente, y el puntaje representativo se elige de estos puntajes según una sección aparte de la guía. Cifras de ejemplo."
     }
   }
 }

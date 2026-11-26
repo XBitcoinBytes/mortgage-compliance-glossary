@@ -8,7 +8,7 @@
   "complianceNotes": "Identify the balance, the date, and whether a collector now reports the same debt. Avoid double-counting one debt as both a charge-off and a collection. Document the program decision.",
   "example": {
     "setting": "Credit report, charge-off status on a tradeline",
-    "text": "A sample tradeline might show an example $2,250 charge-off from three years ago with a zero scheduled payment. Example figures."
+    "text": "A sample tradeline might show an example $2,250 charge-off from three years ago with a zero scheduled payment. You may still owe the debt, and a charge-off is not a bankruptcy discharge. Do not assume it must always be paid at closing, or that paying it always helps the score before funding, and avoid double-counting it as both a charge-off and a collection. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -30,7 +30,7 @@
     "complianceNotes": "Identifique el saldo, la fecha y si un cobrador ahora reporta la misma deuda. Evite contar dos veces una deuda como castigo y como cobranza. Documente la decisión del programa.",
     "example": {
       "setting": "Informe de crédito, estado de castigo en una línea",
-      "text": "Una línea de muestra puede mostrar un castigo de ejemplo de $2,250 de hace tres años con un pago programado de cero. Cifras de ejemplo."
+      "text": "Una línea de muestra puede mostrar un castigo de ejemplo de $2,250 de hace tres años con un pago programado de cero. Usted todavía puede deber la deuda, y un castigo no es una extinción por quiebra. No asuma que siempre debe pagarse en el cierre, ni que pagarlo siempre ayuda al puntaje antes del desembolso, y evite contarlo dos veces como castigo y como cobranza. Cifras de ejemplo."
     }
   }
 }

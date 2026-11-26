@@ -8,7 +8,7 @@
   "complianceNotes": "Code the old servicer's receipt during the protected window as timely. Reverse late fees that violate the section. Tell borrowers, in the notices, where to send the payment and for how long the old address still works.",
   "example": {
     "setting": "Payment sent to the old servicer during the protected period after a transfer",
-    "text": "A sample on-time payment of $1,375 sent to the prior servicer during the protected window should not draw a late fee. Example figures."
+    "text": "A sample on-time payment of $1,375 sent to the prior servicer during the protected window should not draw a late fee. 12 CFR 1024.33 is the section; the length of the period is in the current text. A payment that was already late before the transfer is not cured by the protection, and late fees that violate the section should be reversed. Example figures."
   },
   "citations": [
     "reg-1024-33"
@@ -30,7 +30,7 @@
     "complianceNotes": "Codifique el recibo del administrador anterior durante la ventana protegida como a tiempo. Revierta los cargos por mora que violan la sección. Dígales a los prestatarios, en los avisos, a dónde enviar el pago y por cuánto tiempo la dirección anterior todavía sirve.",
     "example": {
       "setting": "Pago enviado al administrador anterior durante el período protegido después de una transferencia",
-      "text": "Un pago a tiempo de muestra de $1,375 enviado al administrador anterior durante la ventana protegida no debería generar un cargo por mora. Cifras de ejemplo."
+      "text": "Un pago a tiempo de muestra de $1,375 enviado al administrador anterior durante la ventana protegida no debería generar un cargo por mora. 12 CFR 1024.33 es la sección; la duración del período está en el texto vigente. Un pago que ya era tardío antes de la transferencia no se cura con la protección, y los cargos por mora que violen la sección deben revertirse. Cifras de ejemplo."
     }
   }
 }

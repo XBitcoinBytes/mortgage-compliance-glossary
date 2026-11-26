@@ -10,7 +10,7 @@
   "complianceNotes": "Compare the verification to the application and to any gift. If the balance appeared suddenly, get the statement pages that show where it came from. Do not accept a borrower-completed form as the bank's verification.",
   "example": {
     "setting": "Verification of deposit form or the bank statements that replace it",
-    "text": "A sample verification might show an example checking balance of $22,400 and a savings balance of $9,100. Example figures."
+    "text": "A sample verification might show an example checking balance of $22,400 and a savings balance of $9,100. The Selling Guide accepts statements or a verification of deposit, but a balance without the recent deposits can hide an unsourced wire, and the form is not a substitute for sourcing a large deposit the guide requires the lender to explain. Do not accept a borrower-completed form as the bank's verification. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -33,7 +33,7 @@
     "complianceNotes": "Compare la verificación con la solicitud y con cualquier regalo. Si el saldo apareció de pronto, obtenga las páginas del estado de cuenta que muestran de dónde salió. No acepte un formulario llenado por el prestatario como la verificación del banco.",
     "example": {
       "setting": "Formulario de verificación de depósitos o los estados de cuenta que lo reemplazan",
-      "text": "Una verificación de muestra puede mostrar un saldo de cheques de ejemplo de $22,400 y un saldo de ahorros de $9,100. Cifras de ejemplo."
+      "text": "Una verificación de muestra puede mostrar un saldo de cheques de ejemplo de $22,400 y un saldo de ahorros de $9,100. La Guía de venta acepta estados de cuenta o una verificación de depósito, pero un saldo sin los depósitos recientes puede ocultar una transferencia no documentada, y el formulario no sustituye documentar un depósito grande que la guía exige explicar. No acepte un formulario completado por el prestatario como la verificación del banco. Cifras de ejemplo."
     }
   }
 }

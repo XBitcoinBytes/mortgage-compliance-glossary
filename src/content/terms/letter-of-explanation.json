@@ -10,7 +10,7 @@
   "complianceNotes": "Accept a letter only for what it can prove, and keep the document that proves the fact. Do not draft the borrower's letter for them in a way that hides a derogatory event.",
   "example": {
     "setting": "Underwriting file, borrower letter attached to the condition it claims to clear",
-    "text": "A sample letter might explain an example $8,000 deposit as a tax refund, with the refund transcript attached. Example figures."
+    "text": "A sample letter might explain an example $8,000 deposit as a tax refund, with the refund transcript attached. The letter does not replace the document the guide requires, and a letter that contradicts the documents is a problem, not a cure. Occupancy explanations are sensitive because a false occupancy statement can be fraud. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -40,7 +40,7 @@
     "complianceNotes": "Acepte una carta solo para lo que puede probar, y conserve el documento que prueba el hecho. No redacte la carta del prestatario de un modo que oculte un evento adverso.",
     "example": {
       "setting": "Expediente de suscripción, carta del prestatario unida a la condición que pretende levantar",
-      "text": "Una carta de muestra puede explicar un depósito de ejemplo de $8,000 como un reembolso de impuestos, con la transcripción del reembolso adjunta. Cifras de ejemplo."
+      "text": "Una carta de muestra puede explicar un depósito de ejemplo de $8,000 como un reembolso de impuestos, con la transcripción del reembolso adjunta. La carta no reemplaza el documento que exige la guía, y una carta que contradice los documentos es un problema, no una cura. Las explicaciones de ocupación son delicadas porque una declaración falsa de ocupación puede ser fraude. Cifras de ejemplo."
     }
   }
 }

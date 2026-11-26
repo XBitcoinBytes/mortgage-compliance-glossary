@@ -10,7 +10,7 @@
   "complianceNotes": "Mark the loan type correctly on the Loan Estimate. Do not quote FHA mortgage insurance on a conventional file. Confirm whether the loan is conforming before you promise a GSE delivery.",
   "example": {
     "setting": "Loan Estimate, page 1, loan type conventional",
-    "text": "A sample conventional purchase might be an example $420,000 loan with borrower-paid PMI. Example figures, not a required down payment."
+    "text": "A sample conventional purchase might be an example $420,000 loan with borrower-paid PMI. Ability to repay under 12 CFR 1026.43 still applies. Mortgage insurance on a conventional loan is PMI, governed for borrower-paid policies by the Homeowners Protection Act, not by FHA's MIP schedule. Confirm whether the loan is conforming before you promise a GSE delivery. Example figures, not a required down payment."
   },
   "citations": [
     "fannie-guide",
@@ -44,7 +44,7 @@
     "complianceNotes": "Marque el tipo de préstamo correctamente en la Estimación del préstamo. No cite el seguro hipotecario de la FHA en un expediente convencional. Confirme si el préstamo es conforme antes de prometer una entrega a una GSE.",
     "example": {
       "setting": "Estimación del préstamo, página 1, tipo de préstamo convencional",
-      "text": "Una compra convencional de muestra podría ser un préstamo de ejemplo de $420,000 con PMI pagado por el prestatario. Cifras de ejemplo, no un pago inicial exigido."
+      "text": "Una compra convencional de muestra podría ser un préstamo de ejemplo de $420,000 con PMI pagado por el prestatario. La capacidad de pago según 12 CFR 1026.43 sigue aplicando. El seguro hipotecario en un préstamo convencional es PMI, regido para las pólizas pagadas por el prestatario por la Ley de Protección de los Propietarios, no por el calendario de MIP de la FHA. Confirme si el préstamo es conforme antes de prometer una entrega a una agencia. Cifras de ejemplo, no un pago inicial exigido."
     }
   }
 }

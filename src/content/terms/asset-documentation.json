@@ -8,7 +8,7 @@
   "complianceNotes": "Collect all pages for the full period. Source what the guide flags. Subtract cash to close before you announce reserve months to the borrower.",
   "example": {
     "setting": "Asset stack: statements or verifications supporting funds to close and reserves",
-    "text": "A sample asset stack might document an example $46,000 in a checking account, of which $30,000 is needed to close. Example figures."
+    "text": "A sample asset stack might document an example $46,000 in a checking account, of which $30,000 is needed to close. B3-4.1-01 counts reserves after funds to close are subtracted. Large deposits, gifts, and borrowed funds each have additional rules, and stocks and retirement funds may be discounted for reserves when the guide says so. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -30,7 +30,7 @@
     "complianceNotes": "Recoja todas las páginas del período completo. Documente el origen de lo que la guía marca. Reste el efectivo para el cierre antes de anunciarle al prestatario los meses de reservas.",
     "example": {
       "setting": "Paquete de activos: estados o verificaciones que respaldan los fondos para el cierre y las reservas",
-      "text": "Un paquete de activos de muestra puede documentar un ejemplo de $46,000 en una cuenta de cheques, de los cuales $30,000 se necesitan para el cierre. Cifras de ejemplo."
+      "text": "Un paquete de activos de muestra puede documentar un ejemplo de $46,000 en una cuenta de cheques, de los cuales $30,000 se necesitan para el cierre. B3-4.1-01 cuenta las reservas después de restar los fondos para el cierre. Los depósitos grandes, los regalos y los fondos prestados tienen reglas adicionales, y las acciones y los fondos de retiro pueden descontarse para reservas cuando la guía lo dice. Cifras de ejemplo."
     }
   }
 }

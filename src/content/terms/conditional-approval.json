@@ -8,7 +8,7 @@
   "complianceNotes": "List conditions the borrower can understand, and separate internal review items. When a condition cannot be met, make a real decision and send the Regulation B notice if the action is adverse.",
   "example": {
     "setting": "Approval letter stating the conditions that remain",
-    "text": "A sample letter might conditionally approve an example $305,000 purchase subject to the appraisal and a gift letter. Example figures."
+    "text": "A sample letter might conditionally approve an example $305,000 purchase subject to the appraisal and a gift letter. A conditional approval is not a final approval, and the Loan Estimate and lock are separate from this credit status. If a condition cannot be met, the lender must make a real decision and send the Regulation B notice if the action is adverse. Example figures."
   },
   "citations": [
     "fannie-b3-2-11",
@@ -33,7 +33,7 @@
     "complianceNotes": "Liste condiciones que el prestatario pueda entender, y separe los puntos de revisión interna. Cuando una condición no puede cumplirse, tome una decisión real y envíe el aviso del Reglamento B si la acción es adversa.",
     "example": {
       "setting": "Carta de aprobación que indica las condiciones que quedan",
-      "text": "Una carta de muestra puede aprobar condicionalmente una compra de ejemplo de $305,000 sujeta a la tasación y a una carta de regalo. Cifras de ejemplo."
+      "text": "Una carta de muestra puede aprobar condicionalmente una compra de ejemplo de $305,000 sujeta a la tasación y a una carta de regalo. Una aprobación condicional no es una aprobación final, y la Estimación del préstamo y el bloqueo de tasa son aparte de este estado de crédito. Si no se puede cumplir una condición, el prestamista debe tomar una decisión real y enviar el aviso del Reglamento B si la acción es adversa. Cifras de ejemplo."
     }
   }
 }

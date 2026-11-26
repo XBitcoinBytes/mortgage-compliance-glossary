@@ -10,7 +10,7 @@
   "complianceNotes": "Tie every dollar of qualifying income to a document. Do not average bonus income if the guide requires a history you do not have. If validation fails, fall back to the full paper file.",
   "example": {
     "setting": "Income worksheet tied to pay stubs, W-2s, or transcripts",
-    "text": "A sample income worksheet might verify example base income of $5,400 a month from two pay stubs and last year's W-2. Example figures."
+    "text": "A sample income worksheet might verify example base income of $5,400 a month from two pay stubs and last year's W-2. Ability to repay under 12 CFR 1026.43 requires the creditor to consider and verify current or reasonably expected income, and Fannie Mae B3-3.1-01 adds that income be stable, documented, and expected to continue. A DU validation message can replace some paper only when the message says so. Example figures."
   },
   "citations": [
     "fannie-b3-3-1-01",
@@ -39,7 +39,7 @@
     "complianceNotes": "Ate cada dólar del ingreso de calificación a un documento. No promedie el ingreso por bonos si la guía exige un historial que usted no tiene. Si la validación falla, vuelva al expediente completo en papel.",
     "example": {
       "setting": "Hoja de ingresos ligada a talones de pago, W-2 o transcripciones",
-      "text": "Una hoja de ingresos de muestra puede verificar un ingreso base de ejemplo de $5,400 al mes a partir de dos talones de pago y el W-2 del año pasado. Cifras de ejemplo."
+      "text": "Una hoja de ingresos de muestra puede verificar un ingreso base de ejemplo de $5,400 al mes a partir de dos talones de pago y el W-2 del año pasado. La capacidad de pago según 12 CFR 1026.43 exige que el acreedor considere y verifique el ingreso actual o razonablemente esperado, y Fannie Mae B3-3.1-01 agrega que el ingreso sea estable, documentado y que se espere que continúe. Un mensaje de validación de DU puede reemplazar parte del papel solo cuando el mensaje lo dice. Cifras de ejemplo."
     }
   }
 }

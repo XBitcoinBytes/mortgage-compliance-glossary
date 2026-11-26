@@ -11,7 +11,7 @@
   "complianceNotes": "Substantiate every rate, savings, and approval claim before it is published. Keep the backup. Do not rely on a footnote to fix a false headline.",
   "example": {
     "setting": "Commercial communication about a mortgage product, reviewed under Regulation N",
-    "text": "A sample claim of an example $200 a month savings would need the comparison that makes it true, or it should not run. Example figures."
+    "text": "A sample claim of an example $200 a month savings would need the comparison that makes it true, or it should not run. 12 CFR Part 1014 covers claims about rates, payments, fees, and the consumer's ability to obtain the product. A communication can violate the MAP Rule and Regulation Z at the same time, and a footnote does not fix a false headline. Example figures."
   },
   "citations": [
     "reg-1014"
@@ -32,7 +32,7 @@
     "complianceNotes": "Respalde toda afirmación de tasa, de ahorro y de aprobación antes de publicarla. Conserve el respaldo. No se apoye en una nota al pie para arreglar un titular falso.",
     "example": {
       "setting": "Comunicación comercial sobre un producto hipotecario, revisada según el Reglamento N",
-      "text": "Una afirmación de muestra de un ahorro de ejemplo de $200 al mes necesitaría la comparación que la hace verdadera, o no debería publicarse. Cifras de ejemplo."
+      "text": "Una afirmación de muestra de un ahorro de ejemplo de $200 al mes necesitaría la comparación que la hace verdadera, o no debería publicarse. 12 CFR Parte 1014 cubre afirmaciones sobre tasas, pagos, cargos y la capacidad del consumidor de obtener el producto. Una comunicación puede violar la regla MAP y el Reglamento Z al mismo tiempo, y una nota al pie no corrige un titular falso. Cifras de ejemplo."
     }
   }
 }

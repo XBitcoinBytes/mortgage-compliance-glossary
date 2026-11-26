@@ -8,7 +8,7 @@
   "complianceNotes": "Evaluate the investor's waterfall, not a homemade payment. Send the written decision. Do not proceed to sale while the appeal window is open if the section forbids it.",
   "example": {
     "setting": "Permanent modification agreement changing the rate, term, or balance",
-    "text": "A sample modification might cut an example payment from $2,100 to $1,740 by extending the term. Example figures, not a required offer."
+    "text": "A sample modification might cut an example payment from $2,100 to $1,740 by extending the term. 12 CFR 1024.41 governs the review of a complete application. Capitalizing arrears increases the balance, extending the term can increase total interest, and a denial of a loan-modification option can carry an appeal right under 1024.41 when the section's conditions are met. Example figures, not a required offer."
   },
   "citations": [
     "reg-1024-41",
@@ -36,7 +36,7 @@
     "complianceNotes": "Evalúe la cascada del inversionista, no un pago casero. Envíe la decisión por escrito. No proceda a la venta mientras la ventana de apelación está abierta si la sección lo prohíbe.",
     "example": {
       "setting": "Acuerdo de modificación permanente que cambia la tasa, el plazo o el saldo",
-      "text": "Una modificación de muestra podría bajar un pago de ejemplo de $2,100 a $1,740 al extender el plazo. Cifras de ejemplo, no una oferta exigida."
+      "text": "Una modificación de muestra podría bajar un pago de ejemplo de $2,100 a $1,740 al extender el plazo. 12 CFR 1024.41 rige la revisión de una solicitud completa. Capitalizar atrasos aumenta el saldo, extender el plazo puede aumentar el interés total, y la denegación de una opción de modificación puede llevar un derecho de apelación según 1024.41 cuando se cumplen las condiciones de la sección. Cifras de ejemplo, no una oferta exigida."
     }
   }
 }

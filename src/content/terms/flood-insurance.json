@@ -8,7 +8,7 @@
   "complianceNotes": "Match the determination, the policy, and the mortgagee clause before funding. Do not waive flood insurance because the borrower has never seen water. Escrow when the rule requires it.",
   "example": {
     "setting": "Closing Disclosure flood premium, and the flood policy when the determination is in a special flood hazard area",
-    "text": "A sample policy might show an example annual premium of $1,050 for a building in Zone AE. Example figures, not an NFIP rate."
+    "text": "A sample policy might show an example annual premium of $1,050 for a building in Zone AE. 42 USC 4012a generally does not allow the lender to fund a designated loan in a special flood hazard area without evidence of insurance, and escrow of flood premiums is required in the circumstances the flood rules state. A private policy must meet the statutory standards if it is accepted. Example figures, not an NFIP rate."
   },
   "citations": [
     "usc-42-4012a",
@@ -33,7 +33,7 @@
     "complianceNotes": "Haga coincidir la determinación, la póliza y la cláusula del acreedor hipotecario antes del desembolso. No dispense el seguro de inundación porque el prestatario nunca ha visto agua. Ponga la prima en depósito en garantía cuando la regla lo exige.",
     "example": {
       "setting": "Prima de inundación en la Divulgación del cierre, y la póliza de inundación cuando la determinación está en una zona especial de riesgo de inundación",
-      "text": "Una póliza de muestra puede mostrar una prima anual de ejemplo de $1,050 para un edificio en la Zona AE. Cifras de ejemplo, no una tarifa del NFIP."
+      "text": "Una póliza de muestra puede mostrar una prima anual de ejemplo de $1,050 para un edificio en la Zona AE. 42 USC 4012a por lo general no permite al prestamista desembolsar un préstamo designado en un área especial de riesgo de inundación sin prueba de seguro, y el depósito en garantía de las primas de inundación se exige en las circunstancias que indican las reglas de inundación. Una póliza privada debe cumplir los estándares legales si se acepta. Cifras de ejemplo, no una tarifa del NFIP."
     }
   }
 }

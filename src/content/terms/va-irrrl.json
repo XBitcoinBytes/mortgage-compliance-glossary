@@ -10,10 +10,11 @@
   "complianceNotes": "Document the existing VA loan, the benefit, and the seasoning the chapter currently requires. Do not underwrite it as a cash-out. Disclose the funding fee or the exemption.",
   "example": {
     "setting": "VA Interest Rate Reduction Refinance Loan under Pamphlet 26-7, Chapter 6",
-    "text": "A sample IRRRL might lower an example rate from 6.75 percent to 6.00 percent. Example figures, not a required benefit formula."
+    "text": "A sample IRRRL might lower an example rate from 6.75 percent to 6.00 percent. It is not a cash-out refinance. The handbook requires a benefit to the borrower and seasoning rules that should be read from the current chapter, and TRID disclosures still apply. Adding cash to the borrower can push the loan into the cash-out product. Example figures, not a required benefit formula."
   },
   "citations": [
-    "va-pamphlet"
+    "va-pamphlet",
+    "reg-1026-19"
   ],
   "related": [
     "certificate-of-eligibility",
@@ -33,7 +34,7 @@
     "complianceNotes": "Documente el préstamo VA existente, el beneficio y la antigüedad que el capítulo exige ahora. No lo suscriba como un retiro de efectivo. Divulgue la cuota de financiamiento o la exención.",
     "example": {
       "setting": "Préstamo de refinanciamiento para reducción de la tasa de interés de VA según el Folleto 26-7, capítulo 6",
-      "text": "Un IRRRL de muestra podría bajar una tasa de ejemplo del 6.75 por ciento al 6.00 por ciento. Cifras de ejemplo, no una fórmula de beneficio exigida."
+      "text": "Un IRRRL de muestra podría bajar una tasa de ejemplo del 6.75 por ciento al 6.00 por ciento. No es un refinanciamiento con retiro de efectivo. El manual exige un beneficio para el prestatario y reglas de espera que deben leerse en el capítulo vigente, y las divulgaciones TRID siguen aplicando. Agregar efectivo al prestatario puede pasar el préstamo al producto de retiro de efectivo. Cifras de ejemplo, no una fórmula de beneficio exigida."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Document intent to occupy and any other owned home. Do not use primary-residence pricing for a property the borrower will not occupy. Read the current occupancy timeline from the guide.",
   "example": {
     "setting": "URLA occupancy section marked primary residence",
-    "text": "A sample declaration might state the borrower will occupy an example $295,000 home as a primary residence. Example figures."
+    "text": "A sample declaration might state the borrower will occupy an example $295,000 home as a primary residence. Agency guides expect a move-in within the period the current section states, and that period can change. Gift funds are generally allowed on a principal residence in situations where they are not allowed on an investment property. FHA and VA have their own occupancy rules. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -31,7 +31,7 @@
     "complianceNotes": "Documente la intención de ocupar y cualquier otra vivienda en propiedad. No use el precio de residencia principal para una propiedad que el prestatario no ocupará. Lea el plazo de ocupación vigente en la guía.",
     "example": {
       "setting": "Sección de ocupación de la URLA marcada como residencia principal",
-      "text": "Una declaración de muestra puede indicar que el prestatario ocupará una vivienda de ejemplo de $295,000 como residencia principal. Cifras de ejemplo."
+      "text": "Una declaración de muestra puede indicar que el prestatario ocupará una vivienda de ejemplo de $295,000 como residencia principal. Las guías de las agencias esperan una mudanza dentro del plazo que indica la sección vigente, y ese plazo puede cambiar. Los fondos de regalo por lo general se permiten en una residencia principal en situaciones en que no se permiten en una propiedad de inversión. La FHA y VA tienen sus propias reglas de ocupación. Cifras de ejemplo."
     }
   }
 }

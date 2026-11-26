@@ -10,7 +10,7 @@
   "complianceNotes": "Match the employer, the pay rate, and the year-to-date figures to the application. Explain gaps the guide treats as material. Do not calculate income from a verification that conflicts with the pay stub.",
   "example": {
     "setting": "Underwriting file, written verification of employment or the pay stubs and W-2s the guide accepts",
-    "text": "A sample written verification might show example base pay of $3,200 semi-monthly and a start date two years earlier. Example figures."
+    "text": "A sample written verification might show example base pay of $3,200 semi-monthly and a start date two years earlier. A written verification does not replace the closer verbal verification when the guide requires both. Match the employer, the pay rate, and the year-to-date figures to the application, and do not calculate income from a verification that conflicts with the pay stub. Example figures."
   },
   "citations": [
     "fannie-b3-3-2-01",
@@ -38,7 +38,7 @@
     "complianceNotes": "Haga coincidir el empleador, la tasa de pago y las cifras del año a la fecha con la solicitud. Explique las lagunas que la guía trata como importantes. No calcule el ingreso a partir de una verificación que contradice el talón de pago.",
     "example": {
       "setting": "Expediente de suscripción, verificación escrita de empleo o los talones de pago y los W-2 que la guía acepta",
-      "text": "Una verificación escrita de muestra puede mostrar un pago base de ejemplo de $3,200 quincenal y una fecha de inicio de dos años antes. Cifras de ejemplo."
+      "text": "Una verificación escrita de muestra puede mostrar un pago base de ejemplo de $3,200 quincenal y una fecha de inicio de dos años antes. Una verificación escrita no reemplaza la verificación verbal de cierre cuando la guía exige ambas. Haga coincidir el empleador, la tasa de pago y las cifras del año a la fecha con la solicitud, y no calcule el ingreso a partir de una verificación que contradiga el talón de pago. Cifras de ejemplo."
     }
   }
 }

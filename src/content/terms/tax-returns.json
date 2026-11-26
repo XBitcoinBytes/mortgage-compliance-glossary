@@ -8,7 +8,7 @@
   "complianceNotes": "Obtain signed returns and the schedules for the income you are using. Order transcripts when the guide or the AUS requires them. Do not qualify on a draft return the IRS has not received unless the guide's exception is actually met.",
   "example": {
     "setting": "Income file, signed personal tax returns for the years the income type requires",
-    "text": "A sample file might include two years of returns showing example Schedule C profit of $48,000 and $51,000. Example figures."
+    "text": "A sample file might include two years of returns showing example Schedule C profit of $48,000 and $51,000. Fannie Mae B3-3.1-02 and B3-3.5 state how many years are needed and when a transcript must confirm the return. Personal returns are not business returns, and a two-year history is a guide standard with exceptions, not a statute. Example figures."
   },
   "citations": [
     "fannie-b3-3-1-02",
@@ -33,7 +33,7 @@
     "complianceNotes": "Obtenga declaraciones firmadas y los anexos del ingreso que está usando. Pida transcripciones cuando la guía o el sistema automatizado las exija. No califique con un borrador que el IRS no ha recibido, salvo que la excepción de la guía de verdad se cumpla.",
     "example": {
       "setting": "Expediente de ingresos, declaraciones personales de impuestos firmadas de los años que exige el tipo de ingreso",
-      "text": "Un expediente de muestra puede incluir dos años de declaraciones que muestran una ganancia de ejemplo del Anexo C de $48,000 y $51,000. Cifras de ejemplo."
+      "text": "Un expediente de muestra puede incluir dos años de declaraciones que muestran una ganancia de ejemplo del Anexo C de $48,000 y $51,000. Fannie Mae B3-3.1-02 y B3-3.5 indican cuántos años se necesitan y cuando una transcripción debe confirmar la declaración. Las declaraciones personales no son declaraciones de negocio, y un historial de dos años es un estándar de la guía con excepciones, no una ley. Cifras de ejemplo."
     }
   }
 }

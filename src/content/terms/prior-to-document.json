@@ -10,7 +10,7 @@
   "complianceNotes": "Do not order documents while a prior-to-document income or collateral condition is open, unless the lender's procedure expressly allows a draft. Recheck the Loan Estimate tolerances if a condition changes a fee.",
   "example": {
     "setting": "Condition sheet, items marked prior to document, before the closing package is ordered",
-    "text": "A sample stack might mark the appraisal and an example $10,000 large-deposit source as prior to document. Example figures."
+    "text": "A sample stack might mark the appraisal and an example $10,000 large-deposit source as prior to document. That label is file language, not a term defined in Regulation Z. Clearing those items does not replace the Closing Disclosure waiting period, and a condition that changes a fee should be checked against the Loan Estimate tolerances. Example figures."
   },
   "citations": [
     "practice-file",
@@ -36,7 +36,7 @@
     "complianceNotes": "No pida documentos mientras una condición previa de ingreso o de garantía está abierta, salvo que el procedimiento del prestamista permita expresamente un borrador. Vuelva a revisar las tolerancias de la Estimación del préstamo si una condición cambia un cargo.",
     "example": {
       "setting": "Hoja de condiciones, puntos marcados como previos a los documentos, antes de pedir el paquete de cierre",
-      "text": "Una pila de muestra puede marcar la tasación y el origen de un depósito grande de ejemplo de $10,000 como previos a los documentos. Cifras de ejemplo."
+      "text": "Una pila de muestra puede marcar la tasación y el origen de un depósito grande de ejemplo de $10,000 como previos a los documentos. Esa etiqueta es lenguaje del expediente, no un término definido en el Reglamento Z. Completar esos puntos no reemplaza la espera de la Divulgación del cierre, y una condición que cambie un cargo debe revisarse frente a las tolerancias de la Estimación del préstamo. Cifras de ejemplo."
     }
   }
 }

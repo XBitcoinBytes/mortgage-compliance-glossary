@@ -8,7 +8,7 @@
   "complianceNotes": "Match the contract, the AUS, and page 3. Do not enter a seller credit in the lender-credit line. If the credit changes after the Loan Estimate, update the cash to close.",
   "example": {
     "setting": "Closing Disclosure, page 3, seller credit in the summaries of transactions",
-    "text": "A sample page 3 might credit an example $7,500 from the seller on a $375,000 purchase. Example figures, not the guide cap."
+    "text": "A sample page 3 might credit an example $7,500 from the seller on a $375,000 purchase. 12 CFR 1026.38 places seller credits in the summaries, not as a lender credit. The dollar cap is in the agency guides, not in Regulation Z, and a credit that exceeds the cap may have to be treated as a sales concession that reduces value. Example figures, not the guide cap."
   },
   "citations": [
     "reg-1026-38",
@@ -38,7 +38,7 @@
     "complianceNotes": "Haga coincidir el contrato, el sistema automatizado y la página 3. No ingrese un crédito del vendedor en la línea del crédito del prestamista. Si el crédito cambia después de la Estimación del préstamo, actualice el efectivo para el cierre.",
     "example": {
       "setting": "Divulgación del cierre, página 3, crédito del vendedor en los resúmenes de transacciones",
-      "text": "Una página 3 de muestra podría acreditar un ejemplo de $7,500 del vendedor en una compra de $375,000. Cifras de ejemplo, no el tope de la guía."
+      "text": "Una página 3 de muestra podría acreditar un ejemplo de $7,500 del vendedor en una compra de $375,000. 12 CFR 1026.38 coloca los créditos del vendedor en los resúmenes, no como un crédito del prestamista. El tope en dólares está en las guías de las agencias, no en el Reglamento Z, y un crédito que exceda el tope puede tener que tratarse como una concesión de venta que reduce el valor. Cifras de ejemplo, no el tope de la guía."
     }
   }
 }
