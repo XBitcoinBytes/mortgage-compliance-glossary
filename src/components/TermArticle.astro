@@ -16,6 +16,7 @@ import { categoryMap } from "../data/categories";
 import figures from "../data/figures.json";
 import { hasHudCounselor } from "../data/hud-counselor";
 import HudCounselorNote from "./HudCounselorNote.astro";
+import { hasLecPointer, LEC_URL } from "../data/lec-pointers";
 
 interface Props {
   lang: Lang;
@@ -70,6 +71,8 @@ const origin = (Astro.site ?? new URL("http://127.0.0.1:4327")).toString().repla
 const pageUrl = new URL(hrefFor(lang, `/terms/${term.slug}`), origin).toString();
 const citeText = `${ui.siteName}, “${name},” ${ui.reviewed.toLowerCase()} ${term.reviewed}, ${pageUrl}`;
 const changing = figures.filter((f) => f.terms.includes(term.slug));
+const showLec = hasLecPointer(term.slug);
+const lecParts = ui.lecPointer.split("{tool}");
 ---
 
 <article class="wrap term-layout">
@@ -117,6 +120,12 @@ const changing = figures.filter((f) => f.terms.includes(term.slug));
       <p>{example.text}</p>
       <p class="example-tag">{ui.exampleTag}</p>
     </section>
+
+    {showLec && (
+      <p class="lec-pointer no-print">
+        {lecParts[0]}<a href={LEC_URL}>{ui.lecTool}</a>{lecParts[1] ?? ""}
+      </p>
+    )}
 
     <section class="pro-panel" id="why" data-pro-section>
       <h2>

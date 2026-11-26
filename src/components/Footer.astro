@@ -1,6 +1,7 @@
 ---
 import type { Lang } from "../lib/types";
 import { hrefFor, t } from "../lib/i18n";
+import { LEC_URL } from "../data/lec-pointers";
 
 interface Props {
   lang: Lang;
@@ -8,6 +9,8 @@ interface Props {
 const { lang } = Astro.props;
 const ui = t(lang);
 const es = lang === "es";
+const lecLabel = ui.lecTool;
+const footerParts = ui.lecFooter.split("{tool}");
 ---
 
 <footer class="site-footer">
@@ -23,6 +26,9 @@ const es = lang === "es";
       <a href={hrefFor(lang, "/figures")}>{ui.figuresTitle}</a>
       <a href={hrefFor(lang, "/contribute")}>{ui.navContribute}</a>
     </div>
+    <p class="footer-lec">
+      {footerParts[0]}<a href={LEC_URL}>{lecLabel}</a>{footerParts[1] ?? ""}
+    </p>
     <div class="related-work">
       <h2>{ui.relatedWorkTitle}</h2>
       <ul>
@@ -31,7 +37,7 @@ const es = lang === "es";
           <span>{ui.relatedEvalDek}</span>
         </li>
         <li>
-          <strong>{ui.relatedClear}</strong>
+          <a href={LEC_URL}>{ui.relatedClear}</a>
           <span>{ui.relatedClearDek}</span>
         </li>
         <li>

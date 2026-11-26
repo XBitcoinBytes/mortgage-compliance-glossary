@@ -580,6 +580,18 @@ h2:hover .anchor, .anchor:focus { opacity: 1; }
 .related-work ul { list-style: none; margin: 0; padding: 0; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); }
 .related-work li { display: grid; gap: 0.2rem; }
 .related-work span { color: var(--ink-soft); font-size: 0.92rem; }
+.lec-pointer, .footer-lec {
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+  max-width: 42rem;
+  margin: 0 0 1.1rem;
+}
+.footer-lec { margin: 0.85rem 0 0; }
+.lec-pointer a, .footer-lec a {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
 
 .contribute pre, .wrap-narrow pre {
   overflow: auto;

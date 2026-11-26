@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { t } from "../../lib/i18n";
+import { LEC_URL } from "../../data/lec-pointers";
 const ui = t("es");
 ---
 <Base lang="es" title={ui.aboutTitle} description={ui.homeDek} path="/about">
@@ -27,7 +28,7 @@ npm run build</code></pre>
     <h2>{ui.relatedWorkTitle}</h2>
     <ul>
       <li><a href="https://mortgageeval.com">{ui.relatedEval}</a> — {ui.relatedEvalDek}</li>
-      <li>{ui.relatedClear} — {ui.relatedClearDek}</li>
+      <li><a href={LEC_URL}>{ui.relatedClear}</a> — {ui.relatedClearDek}</li>
       <li><a href="https://shaun-barry-portfolio.vercel.app">{ui.relatedPortfolio}</a> — {ui.relatedPortfolioDek}</li>
       <li><a href="https://github.com/XBitcoinBytes">{ui.relatedGithub}</a> — {ui.relatedGithubDek}</li>
     </ul>
