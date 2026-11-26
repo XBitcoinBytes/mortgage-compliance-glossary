@@ -8,7 +8,7 @@
   "complianceNotes": "Calendar the lookback and the notice from the note. Send the right notice for a first adjustment versus a later one. If the estimate changes materially, follow the section's correction duty.",
   "example": {
     "setting": "ARM adjustment notice sent before the rate and payment change",
-    "text": "A sample first-adjustment notice might estimate an example new rate of 7.00 percent and a new payment of $1,910. Example figures, not an index value."
+    "text": "A sample first-adjustment notice might estimate an example new rate of 7.00 percent and a new payment of $1,910. A later-adjustment notice is a different form. The day counts come from the current section and the note, not from a remembered 60 or 210 days. Example figures, not an index value."
   },
   "citations": [
     "reg-1026-20"
@@ -22,7 +22,7 @@
     "note-rate",
     "periodic-statement"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Aviso de ajuste de la ARM",
     "aliases": [],
@@ -31,7 +31,7 @@
     "complianceNotes": "Calendario el período de referencia y el aviso a partir del pagaré. Envíe el aviso correcto para un primer ajuste frente a uno posterior. Si el estimado cambia de manera importante, siga el deber de corrección de la sección.",
     "example": {
       "setting": "Aviso de ajuste de la ARM enviado antes de que cambien la tasa y el pago",
-      "text": "Un aviso de primer ajuste de muestra podría estimar una nueva tasa de ejemplo del 7.00 por ciento y un nuevo pago de $1,910. Cifras de ejemplo, no un valor del índice."
+      "text": "Un aviso de primer ajuste de muestra podría estimar una nueva tasa de ejemplo del 7.00 por ciento y un nuevo pago de $1,910. Un aviso de un ajuste posterior es un formulario distinto. Los conteos de días provienen de la sección vigente y del pagaré, no de un recordatorio de 60 o 210 días. Cifras de ejemplo, no un valor del índice."
     }
   }
 }

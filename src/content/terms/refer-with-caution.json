@@ -21,13 +21,15 @@
     "manual-underwriting",
     "out-of-scope"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Refer with Caution",
-    "aliases": [],
+    "aliases": [
+      "Referir con precaución"
+    ],
     "definition": "Refer with Caution es una recomendación de Desktop Underwriter que no es una aprobación. Fannie Mae la describe en la Selling Guide B3-2-07. No es una denegación automática, y no es por sí misma una hoja de suscripción manual.",
     "details": "El prestamista debe seguir B3-2-07 en lugar de tratar las palabras como una advertencia casual. Muchos préstamos con esta recomendación no son elegibles para la entrega a Fannie Mae. Si el prestamista niega la solicitud, el aviso de acción adversa del Reglamento B igual se aplica. No describa la recomendación como Approve con condiciones.",
-    "complianceNotes": "Detenga los elogios de producción del expediente hasta que alguien lea la sección de la guía y los mensajes. Si la decisión es una denegación, envíe el aviso de acción adversa a tiempo. No entregue el préstamo como si fuera Approve/Eligible.",
+    "complianceNotes": "No dé por bueno el expediente en producción hasta que alguien lea la sección de la guía y los mensajes. Si la decisión es una denegación, envíe el aviso de acción adversa a tiempo. No entregue el préstamo como si fuera Approve/Eligible.",
     "example": {
       "setting": "Hallazgos de DU, recomendación Refer with Caution",
       "text": "Una línea de hallazgos de muestra puede mostrar Refer with Caution en una solicitud de ejemplo con un expediente de crédito delgado. Las cifras de ejemplo se usan aquí solo para un monto de préstamo de muestra de $190,000. Cifras de ejemplo."

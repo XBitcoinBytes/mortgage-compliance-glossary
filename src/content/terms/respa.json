@@ -23,12 +23,14 @@
     "respa-section-8",
     "trid"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "RESPA",
-    "aliases": [],
+    "aliases": [
+      "Ley de Procedimientos de Liquidación de Bienes Raíces"
+    ],
     "definition": "RESPA es la Ley de Procedimientos de Liquidación de Bienes Raíces. Cubre los servicios de liquidación en muchas hipotecas de vivienda, incluida la prohibición de comisiones, las divulgaciones de negocios afiliados, las cuentas de depósito en garantía y la administración hipotecaria. Los formularios de divulgación de la mayoría de los préstamos de crédito cerrado pasaron al Reglamento Z, pero RESPA no desapareció.",
-    "details": "La ley empieza en 12 USC 2601. La Sección 8, 12 USC 2607, es la prohibición de comisiones. El Reglamento X, 12 CFR Parte 1024, aplica RESPA. El subparte C del Reglamento X es la regla de administración: transferencias, errores, pedidos de información, seguro impuesto y mitigación de pérdidas. La contabilidad del depósito en garantía es 12 CFR 1024.17.",
+    "details": "La ley empieza en 12 USC 2601. La Sección 8, 12 USC 2607, es la prohibición de comisiones. El Reglamento X, 12 CFR Parte 1024, aplica RESPA. La subparte C del Reglamento X es la regla de administración: transferencias, errores, pedidos de información, seguro impuesto y mitigación de pérdidas. La contabilidad del depósito en garantía es 12 CFR 1024.17.",
     "complianceNotes": "No busque en RESPA la tasa porcentual anual ni el derecho a cancelar. No busque en TILA si un pago de mercadeo es una comisión por referencia. Use la ley que corresponde a la conducta.",
     "example": {
       "setting": "Cargos por servicios de liquidación en la Estimación del préstamo, y el expediente de administración regido por RESPA",

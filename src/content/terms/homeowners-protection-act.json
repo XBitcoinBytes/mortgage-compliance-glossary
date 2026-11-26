@@ -10,7 +10,7 @@
   "complianceNotes": "Use original value as the statute defines it, not a new appraisal the borrower prefers, unless a provision you can cite allows it. Do not apply the Act to FHA MIP or to lender-paid mortgage insurance in the same way.",
   "example": {
     "setting": "PMI cancellation request measured against original value under the HPA",
-    "text": "A sample loan with an example original value of $400,000 would look to a scheduled balance of $320,000 for the cancellation date. Example figures illustrating 80 percent, subject to the statutory conditions."
+    "text": "A sample loan with an example original value of $400,000 would look to a scheduled balance of $320,000 for borrower-requested cancellation at 80 percent, and to $312,000 for automatic termination at 78 percent, if the borrower is current and the other statutory conditions are met. The Act does not cancel FHA mortgage insurance this way. Example figures illustrating the statute."
   },
   "citations": [
     "usc-12-4901",
@@ -24,7 +24,7 @@
     "pmi-borrower-cancellation",
     "private-mortgage-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Ley de Protección de los Propietarios",
     "aliases": [
@@ -35,7 +35,7 @@
     "complianceNotes": "Use el valor original como lo define la ley, no una tasación nueva que el prestatario prefiere, salvo que una disposición que usted pueda citar lo permita. No aplique la ley a la MIP de la FHA ni al seguro hipotecario pagado por el prestamista del mismo modo.",
     "example": {
       "setting": "Solicitud de cancelación del PMI medida contra el valor original según la HPA",
-      "text": "Un préstamo de muestra con un valor original de ejemplo de $400,000 miraría un saldo programado de $320,000 para la fecha de cancelación. Cifras de ejemplo que ilustran el 80 por ciento, sujetas a las condiciones de la ley."
+      "text": "Un préstamo de muestra con un valor original de ejemplo de $400,000 miraría un saldo programado de $320,000 para la cancelación pedida por el prestatario en el 80 por ciento, y $312,000 para la terminación automática en el 78 por ciento, si el prestatario está al corriente y se cumplen las demás condiciones de la ley. La ley no cancela de este modo el seguro hipotecario de la FHA. Cifras de ejemplo que ilustran la ley."
     }
   }
 }

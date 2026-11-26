@@ -10,7 +10,7 @@
   "complianceNotes": "Document why a product is outside the MLA, and still screen for SCRA benefits. Do not tell a servicemember that mortgage rules do not apply because the MLA does not.",
   "example": {
     "setting": "Coverage analysis showing a residential mortgage is outside MLA consumer credit",
-    "text": "A sample first mortgage secured by the dwelling would be marked outside MLA consumer credit, while an example unsecured $5,000 loan to the same borrower might not be. Example figures for the unsecured loan only."
+    "text": "A sample first mortgage secured by the dwelling would be marked outside MLA consumer credit, while an example unsecured $5,000 loan to the same borrower might not be. The typical mortgage APR is not rewritten to the MLA's 36 percent MAPR calculation because that exclusion applies. Example figures for the unsecured loan only."
   },
   "citations": [
     "reg-232-3",
@@ -22,7 +22,7 @@
     "scra",
     "va-loan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Ley de Préstamos para Militares",
     "aliases": [
@@ -33,7 +33,7 @@
     "complianceNotes": "Documente por qué un producto está fuera de la MLA, y todavía revise los beneficios de la SCRA. No le diga a un miembro del servicio que las reglas hipotecarias no se aplican porque la MLA no se aplica.",
     "example": {
       "setting": "Análisis de cobertura que muestra que una hipoteca residencial está fuera del crédito al consumidor de la MLA",
-      "text": "Una primera hipoteca de muestra garantizada por la vivienda se marcaría fuera del crédito al consumidor de la MLA, mientras un préstamo sin garantía de ejemplo de $5,000 al mismo prestatario podría no estarlo. Cifras de ejemplo solo para el préstamo sin garantía."
+      "text": "Una primera hipoteca de muestra garantizada por la vivienda se marcaría fuera del crédito al consumidor de la MLA, mientras un préstamo sin garantía de ejemplo de $5,000 al mismo prestatario podría no estarlo. La tasa porcentual anual de una hipoteca típica no se reescribe al cálculo del 36 por ciento de la MLA porque se aplica esa exclusión. Cifras de ejemplo solo para el préstamo sin garantía."
     }
   }
 }
