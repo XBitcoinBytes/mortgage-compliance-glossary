@@ -24,6 +24,9 @@ interface Props {
 }
 
 const { lang, title, description, path, ogType = "website" } = Astro.props;
+// Implicit default only: Spanish pages and Borrower question entries open in
+// Borrower view. An explicit header choice or ?view= still wins in the head script.
+const defaultView = lang === "es" || path.startsWith("/terms/faq-") ? "borrower" : "professional";
 const metaDescription = description.replace(/\s+/g, " ").trim();
 const shortDescription = metaDescription.length > 160 ? `${metaDescription.slice(0, 159).trimEnd()}…` : metaDescription;
 const ui = t(lang);
@@ -36,7 +39,7 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
 ---
 
 <!doctype html>
-<html lang={lang}>
+<html lang={lang} data-view={defaultView} data-default-view={defaultView}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -48,11 +51,15 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
             theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
           }
           document.documentElement.setAttribute("data-theme", theme);
-          var view = localStorage.getItem("mcg-view");
+          // mcg-view-pref is written only when the reader clicks Borrower or Professional.
+          // The older mcg-view key was also written on every page load, so it is ignored.
+          var view = localStorage.getItem("mcg-view-pref");
           // A shared link can carry ?view=borrower or ?view=professional.
           var shared = new URLSearchParams(location.search).get("view");
           if (shared === "borrower" || shared === "professional") view = shared;
-          if (view !== "borrower" && view !== "professional") view = "professional";
+          if (view !== "borrower" && view !== "professional") {
+            view = document.documentElement.getAttribute("data-default-view") || "professional";
+          }
           document.documentElement.setAttribute("data-view", view);
         } catch (e) {}
       })();
@@ -81,7 +88,7 @@ const fullTitle = title === ui.siteName ? title : `${title} · ${ui.siteName}`;
   </head>
   <body>
     <a class="skip" href="#main">{ui.skip}</a>
-    <Header lang={lang} path={path} />
+    <Header lang={lang} path={path} defaultView={defaultView} />
     <main id="main">
       <slot />
     </main>

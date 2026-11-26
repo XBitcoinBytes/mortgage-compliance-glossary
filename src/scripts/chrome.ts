@@ -51,7 +51,7 @@ function syncPro(view: View) {
 
 function setView(view: View) {
   document.documentElement.dataset.view = view;
-  localStorage.setItem("mcg-view", view);
+  localStorage.setItem("mcg-view-pref", view);
   document.querySelectorAll<HTMLButtonElement>("[data-view-set]").forEach((button) => {
     button.setAttribute("aria-pressed", button.dataset.viewSet === view ? "true" : "false");
   });
@@ -62,8 +62,17 @@ function currentView(): View {
   return document.documentElement.dataset.view === "borrower" ? "borrower" : "professional";
 }
 
+function syncViewChrome(view: View) {
+  document.querySelectorAll<HTMLButtonElement>("[data-view-set]").forEach((button) => {
+    button.setAttribute("aria-pressed", button.dataset.viewSet === view ? "true" : "false");
+  });
+  syncPro(view);
+}
+
 function initView() {
-  setView(currentView());
+  // Honor the view already set in the head script. Do not write an implicit
+  // page default to storage; only a header click should stick site-wide.
+  syncViewChrome(currentView());
   document.querySelectorAll<HTMLButtonElement>("[data-view-set]").forEach((button) => {
     button.addEventListener("click", () => setView(button.dataset.viewSet === "borrower" ? "borrower" : "professional"));
   });

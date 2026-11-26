@@ -5,8 +5,9 @@ import { hrefFor, t } from "../lib/i18n";
 interface Props {
   lang: Lang;
   path: string;
+  defaultView?: "borrower" | "professional";
 }
-const { lang, path } = Astro.props;
+const { lang, path, defaultView = "professional" } = Astro.props;
 const ui = t(lang);
 const enHref = hrefFor("en", path);
 const esHref = hrefFor("es", path);
@@ -45,8 +46,8 @@ const items = [
         {ui.search} <kbd>/</kbd>
       </button>
       <div class="seg" role="group" aria-label={ui.viewLabel} data-view-toggle>
-        <button type="button" data-view-set="borrower" aria-pressed="false">{ui.borrower}</button>
-        <button type="button" data-view-set="professional" aria-pressed="true">{ui.professional}</button>
+        <button type="button" data-view-set="borrower" aria-pressed={defaultView === "borrower" ? "true" : "false"}>{ui.borrower}</button>
+        <button type="button" data-view-set="professional" aria-pressed={defaultView === "professional" ? "true" : "false"}>{ui.professional}</button>
       </div>
       <div class="lang-toggle" role="group" aria-label={ui.language}>
         <a href={enHref} hreflang="en" aria-current={lang === "en" ? "true" : undefined} lang="en">EN</a>
