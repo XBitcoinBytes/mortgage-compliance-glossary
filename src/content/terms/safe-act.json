@@ -10,7 +10,7 @@
   "complianceNotes": "Do not let an unlicensed person take an application or negotiate terms for compensation. Processors and underwriters who do not do those things may fall outside the originator definition, but the file facts control. Keep sponsorship and state authority current in NMLS.",
   "example": {
     "setting": "Licensing file and the NMLS ID on the Loan Estimate, page 3, Contact Information",
-    "text": "A sample licensing checklist might show a state license expiring on a stated date and eight hours of continuing education still to be entered in NMLS. The hour count here is an example figure for a training file, not a substitute for the statute. Example figures, not a quote or a legal limit."
+    "text": "A sample licensing checklist might show a state license expiring on a stated date and eight hours of continuing education still to be entered in NMLS. The hour count here is an example figure for a training file, not a substitute for the statute. The SAFE Act is the license law; compensation limits live in Regulation Z. An unlicensed person may not take an application or negotiate terms for compensation. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "usc-12-5101",
@@ -26,16 +26,18 @@
     "nmls",
     "state-licensing"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Ley SAFE",
-    "aliases": [],
+    "aliases": [
+      "ley de licencias"
+    ],
     "definition": "La Ley SAFE es la ley federal que exige que los originadores de préstamos hipotecarios tengan licencia o estén registrados, pasen verificaciones de antecedentes y cumplan estándares de educación establecidos en la ley y en el derecho estatal. Es la ley de licencias. Los límites de compensación están en el Reglamento Z.",
     "details": "12 USC 5101 establece los propósitos. 12 USC 5104 trata la licencia estatal. El Reglamento G, 12 CFR 1007, cubre a los originadores de instituciones de depósito. El Reglamento H, 12 CFR 1008, es el piso federal para la licencia estatal de los demás originadores. Los estados agregan sus propias solicitudes, fianzas y cargos. Las horas de educación deben leerse en la ley y en la regla estatal vigente, no de memoria.",
     "complianceNotes": "No permita que una persona sin licencia tome una solicitud o negocie términos a cambio de compensación. Los procesadores y suscriptores que no hacen eso pueden quedar fuera de la definición de originador, pero mandan los hechos del expediente. Mantenga vigentes el patrocinio y la autoridad estatal en NMLS.",
     "example": {
       "setting": "Expediente de licencia y el identificador NMLS en la Estimación del préstamo, página 3, Información de contacto",
-      "text": "Una lista de muestra puede mostrar una licencia estatal que vence en una fecha indicada y ocho horas de educación continua todavía por registrar en NMLS. Ese número de horas es una cifra de ejemplo para un expediente de capacitación, no un sustituto de la ley. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una lista de muestra puede mostrar una licencia estatal que vence en una fecha indicada y ocho horas de educación continua todavía por registrar en NMLS. Ese número de horas es una cifra de ejemplo para un expediente de capacitación, no un sustituto de la ley. La Ley SAFE es la ley de licencias; los límites de compensación están en el Reglamento Z. Una persona sin licencia no puede tomar una solicitud ni negociar términos a cambio de compensación. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Use the current fee before you issue the Loan Estimate. Do not copy an FHA premium onto a USDA file. Recalculate if USDA changes the rate before closing.",
   "example": {
     "setting": "USDA upfront guarantee fee on the Loan Estimate",
-    "text": "A sample USDA loan might finance an upfront fee whose percentage is taken from the current notice, on an example base amount of $200,000. Example figures. The percentage is not stated."
+    "text": "A sample USDA loan might finance an upfront fee whose percentage is taken from the current notice, on an example base amount of $200,000. The percentage is not stated because the rate changes. The fee is not an FHA upfront premium and not a VA funding fee. There is also an annual fee collected with the payment; disclose them separately. Financing the fee increases the loan amount and must stay within the program's maximum. Example figures."
   },
   "citations": [
     "cfr-7-3555",
@@ -20,7 +20,7 @@
     "usda-guaranteed-loan",
     "va-funding-fee"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cuota de garantía de USDA",
     "aliases": [],
@@ -29,7 +29,7 @@
     "complianceNotes": "Use la cuota vigente antes de emitir la Estimación del préstamo. No copie una prima de la FHA en un expediente de USDA. Recalcule si USDA cambia la tasa antes del cierre.",
     "example": {
       "setting": "Cuota de garantía inicial de USDA en la Estimación del préstamo",
-      "text": "Un préstamo USDA de muestra podría financiar una cuota inicial cuyo porcentaje se toma del aviso vigente, sobre un monto base de ejemplo de $200,000. Cifras de ejemplo. El porcentaje no se indica."
+      "text": "Un préstamo USDA de muestra podría financiar una cuota inicial cuyo porcentaje se toma del aviso vigente, sobre un monto base de ejemplo de $200,000. El porcentaje no se indica porque la tasa cambia. La cuota no es una prima inicial de la FHA ni una cuota de financiamiento de VA. También hay una cuota anual que se cobra con el pago; divúlguelas por separado. Financiar la cuota aumenta el monto del préstamo y debe quedar dentro del máximo del programa. Cifras de ejemplo."
     }
   }
 }

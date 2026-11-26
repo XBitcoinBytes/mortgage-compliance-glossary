@@ -8,7 +8,7 @@
   "complianceNotes": "Separate the signing date, the consummation date, and the disbursement date in the file. Do not tell the borrower the loan has funded because they signed.",
   "example": {
     "setting": "Funding wire, which may be the same day as signing or a later day",
-    "text": "A sample dry closing might disburse an example $255,000 two days after signing. Example figures."
+    "text": "A sample dry closing might disburse an example $255,000 two days after signing. Disbursement is not consummation. Prepaid interest usually starts when the loan funds, not when the borrower first talked to the lender. On a rescindable loan, funds should not be disbursed until the rescission period ends, except as 1026.23 allows. Do not tell the borrower the loan has funded because they signed. Example figures."
   },
   "citations": [
     "practice-file",
@@ -24,7 +24,7 @@
     "settlement-agent",
     "wet-settlement"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Desembolso",
     "aliases": [],
@@ -33,7 +33,7 @@
     "complianceNotes": "Separe en el expediente la fecha de firma, la fecha de consumación y la fecha de desembolso. No le diga al prestatario que el préstamo se desembolsó porque firmó.",
     "example": {
       "setting": "Transferencia de fondos, que puede ser el mismo día de la firma o un día posterior",
-      "text": "Un cierre de muestra con desembolso posterior podría desembolsar un ejemplo de $255,000 dos días después de la firma. Cifras de ejemplo."
+      "text": "Un cierre de muestra con desembolso posterior podría desembolsar un ejemplo de $255,000 dos días después de la firma. El desembolso no es la consumación. El interés pagado por adelantado por lo general empieza cuando se desembolsan los fondos, no cuando el prestatario habló por primera vez con el prestamista. En un préstamo que se puede cancelar, los fondos no deben desembolsarse hasta que termine el período de cancelación, salvo lo que permite 1026.23. No diga al prestatario que el préstamo ya se fondeó porque firmó. Cifras de ejemplo."
     }
   }
 }

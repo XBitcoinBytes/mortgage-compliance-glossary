@@ -8,7 +8,7 @@
   "complianceNotes": "State the program minimum from the current guide, not from a slogan. Source the funds. Do not count a seller credit as the borrower's down payment.",
   "example": {
     "setting": "Loan Estimate, page 1, sale price and loan amount, the difference being part of the down payment",
-    "text": "A sample $400,000 price with an example $40,000 down payment is 10 percent down. Example figures, not a required minimum."
+    "text": "A sample $400,000 price with an example $40,000 down payment is 10 percent down. There is no single federal minimum for every loan. Gift funds can be part of the down payment when the guide allows the donor, and earnest money is usually part of the cash, not a separate down payment. Do not count a seller credit as the borrower's down payment. Example figures, not a required minimum."
   },
   "citations": [
     "fannie-b2-1-2-01",
@@ -21,7 +21,7 @@
     "loan-to-value-ratio",
     "private-mortgage-insurance"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Qué es el pago inicial?",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Indique el mínimo del programa a partir de la guía vigente, no de un lema. Documente el origen de los fondos. No cuente un crédito del vendedor como el pago inicial del prestatario.",
     "example": {
       "setting": "Estimación del préstamo, página 1, precio de venta y monto del préstamo, y la diferencia es parte del pago inicial",
-      "text": "Un precio de muestra de $400,000 con un pago inicial de ejemplo de $40,000 es un 10 por ciento de pago inicial. Cifras de ejemplo, no un mínimo exigido."
+      "text": "Un precio de muestra de $400,000 con un pago inicial de ejemplo de $40,000 es un 10 por ciento de pago inicial. No hay un mínimo federal único para todo préstamo. Los fondos de regalo pueden ser parte del pago inicial cuando la guía permite al donante, y el dinero de arras por lo general es parte del efectivo, no un pago inicial aparte. No cuente un crédito del vendedor como el pago inicial del prestatario. Cifras de ejemplo, no un mínimo exigido."
     }
   }
 }

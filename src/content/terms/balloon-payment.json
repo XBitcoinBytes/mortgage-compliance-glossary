@@ -8,7 +8,7 @@
   "complianceNotes": "If the note has a real balloon, disclose the amount and the date and do not call the loan a qualified mortgage unless the current exception is met and documented.",
   "example": {
     "setting": "Loan Estimate, balloon payment yes, with the amount and due date if the product has one",
-    "text": "A sample five-year note might require an example balloon of $180,000. Example figures of a product that is generally not a qualified mortgage."
+    "text": "A sample five-year note might require an example balloon of $180,000. Most qualified mortgages cannot have a balloon, and any remaining exception must be read from 12 CFR 1026.43 rather than assumed. Do not describe a 30-year amortizing loan as a balloon because the last payment is a few dollars different from rounding. Disclose the amount and the date if the note has a real balloon. Example figures of a product that is generally not a qualified mortgage."
   },
   "citations": [
     "reg-1026-43",
@@ -21,7 +21,7 @@
     "prepayment-penalty",
     "qualified-mortgage"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Pago global",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Si el pagaré tiene un pago global real, divulgue el monto y la fecha y no llame al préstamo hipoteca calificada salvo que se cumpla y se documente la excepción vigente.",
     "example": {
       "setting": "Estimación del préstamo, pago global sí, con el monto y la fecha de vencimiento si el producto lo tiene",
-      "text": "Un pagaré de muestra a cinco años podría exigir un pago global de ejemplo de $180,000. Cifras de ejemplo de un producto que por lo general no es una hipoteca calificada."
+      "text": "Un pagaré de muestra a cinco años podría exigir un pago global de ejemplo de $180,000. La mayoría de las hipotecas calificadas no pueden tener un pago global, y cualquier excepción que quede debe leerse en 12 CFR 1026.43 y no darse por sentada. No describa un préstamo de amortización a 30 años como un pago global porque el último pago difiere en unos dólares por el redondeo. Divulgue el monto y la fecha si el pagaré tiene un pago global real. Cifras de ejemplo de un producto que por lo general no es una hipoteca calificada."
     }
   }
 }

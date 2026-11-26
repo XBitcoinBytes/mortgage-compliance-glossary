@@ -10,7 +10,7 @@
   "complianceNotes": "Refuse payments tied to the number of referrals. Escalate a proposed marketing deal to compliance before it is signed. Keep the analysis of what service, if any, was actually performed.",
   "example": {
     "setting": "Payment or benefit given for referring settlement-service business",
-    "text": "A sample benefit of an example $1,000 sponsorship paid only when loans close would be treated as a referral payment. Example figures of what not to do."
+    "text": "A sample benefit of an example $1,000 sponsorship paid only when loans close would be treated as a referral payment. It is illegal under RESPA Section 8 even when the borrower still got a loan and even when the fee was disclosed. The word covers cash, gifts, free rent, and other benefits. A bona fide salary for an employee who does not refer business in exchange for extra pay is different. Example figures of what not to do."
   },
   "citations": [
     "reg-1024-14",
@@ -23,7 +23,7 @@
     "settlement-service",
     "thing-of-value"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Comisión por referencia",
     "aliases": [],
@@ -32,7 +32,7 @@
     "complianceNotes": "Rechace los pagos ligados al número de referencias. Escale un acuerdo de mercadeo propuesto a cumplimiento antes de firmarlo. Conserve el análisis de qué servicio, si alguno, se prestó de verdad.",
     "example": {
       "setting": "Pago o beneficio dado por referir un negocio de servicios de liquidación",
-      "text": "Un beneficio de muestra de un patrocinio de ejemplo de $1,000 pagado solo cuando los préstamos cierran se trataría como un pago por referencia. Cifras de ejemplo de lo que no se debe hacer."
+      "text": "Un beneficio de muestra de un patrocinio de ejemplo de $1,000 pagado solo cuando los préstamos cierran se trataría como un pago por referencia. Es ilegal según la Sección 8 de RESPA aunque el prestatario igual obtuvo un préstamo y aunque el cargo se divulgó. La palabra cubre efectivo, regalos, renta gratis y otros beneficios. Un sueldo de buena fe para un empleado que no refiere negocios a cambio de un pago extra es distinto. Cifras de ejemplo de lo que no se debe hacer."
     }
   }
 }

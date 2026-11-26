@@ -8,7 +8,7 @@
   "complianceNotes": "Do not offer a waiver on an HPML that lacks an exemption. Disclose any waiver fee in the Loan Estimate. Remind the borrower they must pay taxes and insurance on their own.",
   "example": {
     "setting": "Escrow waiver on the Loan Estimate only when the loan and the investor allow it",
-    "text": "A sample waiver fee might be an example 0.25 points on a $320,000 loan, disclosed in Section A. Example figures, not a required price."
+    "text": "A sample waiver fee might be an example 0.25 points on a $320,000 loan, disclosed in Section A. Some loans, including many higher-priced mortgage loans, cannot waive escrow. A waiver does not remove the duty to keep hazard insurance and to pay taxes, and force-placed insurance can follow if the insurance lapses. Do not offer a waiver on an HPML that lacks an exemption. The fee is a price of the loan, not a tax. Example figures, not a required price."
   },
   "citations": [
     "reg-1026-35",
@@ -21,7 +21,7 @@
     "hpml-escrow",
     "loan-estimate"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Renuncia a la cuenta de depósito en garantía",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "No ofrezca una renuncia en una HPML que no tiene una exención. Divulgue cualquier cargo por la renuncia en la Estimación del préstamo. Recuérdele al prestatario que debe pagar los impuestos y el seguro por su cuenta.",
     "example": {
       "setting": "Renuncia al depósito en garantía en la Estimación del préstamo solo cuando el préstamo y el inversionista lo permiten",
-      "text": "Un cargo por renuncia de muestra podría ser un ejemplo de 0.25 puntos en un préstamo de $320,000, divulgado en la Sección A. Cifras de ejemplo, no un precio exigido."
+      "text": "Una cuota de renuncia de muestra podría ser un ejemplo de 0.25 puntos sobre un préstamo de $320,000, divulgada en la Sección A. Algunos préstamos, incluidas muchas hipotecas de precio más alto, no pueden renunciar a la cuenta. Una renuncia no quita el deber de mantener el seguro contra riesgos y de pagar los impuestos, y puede seguir un seguro impuesto si el seguro caduca. No ofrezca una renuncia en una HPML que no tenga una exención. La cuota es un precio del préstamo, no un impuesto. Cifras de ejemplo, no un precio exigido."
     }
   }
 }

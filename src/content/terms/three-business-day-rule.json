@@ -11,7 +11,7 @@
   "complianceNotes": "Label which clock you are counting in the file. Do not schedule a purchase closing three days after signing as if rescission applied. Do not count Closing Disclosure days with the office-open calendar.",
   "example": {
     "setting": "Disclosure calendar separating the Loan Estimate clock, the Closing Disclosure clock, and rescission",
-    "text": "A sample week with no federal holiday might put application on Monday, the Loan Estimate on Thursday, and a separate Closing Disclosure wait that includes a Saturday. Example figures for the calendar only."
+    "text": "A sample week with no federal holiday might put application on Monday, the Loan Estimate on Thursday, and a separate Closing Disclosure wait that includes a Saturday. People use \"three-day rule\" for three different clocks. The Loan Estimate uses the general business-day definition. The Closing Disclosure and rescission use the specific definition: every day except Sundays and federal legal holidays, so a Saturday can count for the Closing Disclosure even if the office is closed. A purchase generally has no rescission period. Example figures for the calendar only."
   },
   "citations": [
     "reg-1026-19-f-1-ii",
@@ -32,7 +32,7 @@
     "loan-estimate",
     "right-of-rescission"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Regla de tres días hábiles",
     "aliases": [
@@ -43,7 +43,7 @@
     "complianceNotes": "Etiquete qué reloj está contando en el expediente. No programe el cierre de una compra tres días después de la firma como si se aplicara la rescisión. No cuente los días de la Divulgación del cierre con el calendario de oficina abierta.",
     "example": {
       "setting": "Calendario de divulgación que separa el reloj de la Estimación del préstamo, el de la Divulgación del cierre y la rescisión",
-      "text": "Una semana de muestra sin feriado federal podría poner la solicitud el lunes, la Estimación del préstamo el jueves, y una espera distinta de la Divulgación del cierre que incluye un sábado. Cifras de ejemplo solo para el calendario."
+      "text": "Una semana de muestra sin feriado federal podría poner la solicitud el lunes, la Estimación del préstamo el jueves, y una espera distinta de la Divulgación del cierre que incluye un sábado. La gente dice regla de tres días para tres relojes distintos. La Estimación del préstamo usa la definición general de día hábil. La Divulgación del cierre y la rescisión usan la definición específica: todos los días excepto los domingos y los feriados legales federales, así que un sábado puede contar para la Divulgación del cierre aunque la oficina esté cerrada. Una compra por lo general no tiene período de rescisión. Cifras de ejemplo solo para el calendario."
     }
   }
 }

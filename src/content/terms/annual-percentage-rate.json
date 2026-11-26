@@ -10,7 +10,7 @@
   "complianceNotes": "Recalculate the APR when points, lender credits, or the rate change. Compare it with the note rate before you explain the form to the borrower. If the APR moves past the accuracy tolerance, restart the Closing Disclosure wait.",
   "example": {
     "setting": "Loan Estimate, page 3, Comparisons, APR; Closing Disclosure, page 5, Loan Calculations",
-    "text": "A sample Loan Estimate might show a note rate of 6.500 percent and an APR of 6.712 percent on an example $300,000 loan with points. Example figures."
+    "text": "A sample Loan Estimate might show a note rate of 6.500 percent and an APR of 6.712 percent on an example $300,000 loan with points. The APR includes the interest rate and certain finance charges, such as points, so it is almost always higher than the note rate. It is not the payment. An inaccurate APR is one of the three events that can reset the three-business-day Closing Disclosure wait. Do not invent the accuracy tolerance. Example figures."
   },
   "citations": [
     "reg-1026-22",
@@ -35,7 +35,7 @@
     "total-interest-percentage",
     "trigger-terms"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Tasa porcentual anual",
     "aliases": [
@@ -46,7 +46,7 @@
     "complianceNotes": "Recalcule la tasa porcentual anual cuando cambian los puntos, los créditos del prestamista o la tasa. Compárela con la tasa del pagaré antes de explicar el formulario al prestatario. Si la tasa porcentual anual se mueve más allá de la tolerancia de exactitud, reinicie la espera de la Divulgación del cierre.",
     "example": {
       "setting": "Estimación del préstamo, página 3, Comparaciones, APR; Divulgación del cierre, página 5, Cálculos del préstamo",
-      "text": "Una Estimación del préstamo de muestra puede mostrar una tasa del pagaré del 6.500 por ciento y una tasa porcentual anual del 6.712 por ciento en un préstamo de ejemplo de $300,000 con puntos. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo de muestra puede mostrar una tasa del pagaré del 6.500 por ciento y una tasa porcentual anual del 6.712 por ciento en un préstamo de ejemplo de $300,000 con puntos. La tasa porcentual anual incluye la tasa de interés y ciertos cargos por financiamiento, como los puntos, así que casi siempre es más alta que la tasa del pagaré. No es el pago. Una tasa porcentual anual inexacta es uno de los tres eventos que pueden reiniciar la espera de tres días hábiles de la Divulgación del cierre. No invente la tolerancia de exactitud. Cifras de ejemplo."
     }
   }
 }

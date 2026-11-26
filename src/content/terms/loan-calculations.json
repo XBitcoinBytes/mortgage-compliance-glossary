@@ -8,7 +8,7 @@
   "complianceNotes": "Check that the APR in the calculations matches the comparisons and the pricing system. Recalculate the box when points or the rate change. Do not describe the total of payments as the payoff amount today.",
   "example": {
     "setting": "Closing Disclosure, page 5, Loan Calculations",
-    "text": "A sample box might show an example total of payments of $620,000 and an APR of 6.71 percent. Example figures."
+    "text": "A sample box might show an example total of payments of $620,000 and an APR of 6.71 percent. These are Truth in Lending figures, not the cash you bring to closing. The total of payments is larger than the loan amount because it includes interest, and it is not the payoff amount today. An inaccurate APR in this box can reset the three-business-day wait. Example figures."
   },
   "citations": [
     "reg-1026-38"
@@ -21,7 +21,7 @@
     "finance-charge",
     "total-interest-percentage"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cálculos del préstamo",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Verifique que la tasa porcentual anual de los cálculos coincida con las comparaciones y con el sistema de precios. Recalcule el recuadro cuando cambian los puntos o la tasa. No describa el total de pagos como el monto para liquidar hoy.",
     "example": {
       "setting": "Divulgación del cierre, página 5, Cálculos del préstamo",
-      "text": "Un recuadro de muestra podría mostrar un total de pagos de ejemplo de $620,000 y una tasa porcentual anual del 6.71 por ciento. Cifras de ejemplo."
+      "text": "Un recuadro de muestra podría mostrar un total de pagos de ejemplo de $620,000 y una tasa porcentual anual del 6.71 por ciento. Son cifras de la Ley de Veracidad en los Préstamos, no el efectivo que usted lleva al cierre. El total de pagos es mayor que el monto del préstamo porque incluye interés, y no es el monto de liquidación de hoy. Una tasa porcentual anual inexacta en este recuadro puede reiniciar la espera de tres días hábiles. Cifras de ejemplo."
     }
   }
 }

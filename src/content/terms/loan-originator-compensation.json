@@ -11,7 +11,7 @@
   "complianceNotes": "Test compensation plans against the term and proxy bans before they are used, including lead-source bonuses and product spiffs. Keep the plan, the agreement, and the calculation for the transaction. A charge shown in Section A is not the same record as the originator's pay.",
   "example": {
     "setting": "Loan Estimate, page 2, Section A, if a borrower-paid originator charge is imposed; compensation records in the creditor's compliance file",
-    "text": "On an example $300,000 loan, a creditor's plan might pay the originator 1.00 percent of the loan amount, $3,000, whether the note rate is 6.25 or 6.75 percent. Example figures, not a permitted pay grid beyond the rule."
+    "text": "On an example $300,000 loan, a creditor's plan might pay the originator 1.00 percent of the loan amount, $3,000, whether the note rate is 6.25 or 6.75 percent. Compensation generally may not be based on a term of the transaction other than the amount of credit extended. A loan originator may not be paid by both the consumer and another person in the same transaction. The rule is separate from the SAFE Act license. Example figures, not a permitted pay grid beyond the rule."
   },
   "citations": [
     "reg-1026-36",
@@ -29,7 +29,7 @@
     "retail-lending",
     "steering"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Compensación del originador del préstamo",
     "aliases": [],
@@ -38,7 +38,7 @@
     "complianceNotes": "Pruebe los planes de compensación contra las prohibiciones de términos e indicadores antes de usarlos, incluidos bonos por fuente de clientes y premios por producto. Conserve el plan, el acuerdo y el cálculo de la transacción. Un cargo de la Sección A no es el mismo registro que el pago del originador.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección A, si hay un cargo del originador pagado por el prestatario; registros de compensación en el expediente de cumplimiento",
-      "text": "En un préstamo de ejemplo de $300,000, el plan del acreedor podría pagar al originador el 1.00 por ciento del monto, $3,000, ya sea que la tasa del pagaré sea 6.25 o 6.75 por ciento. Cifras de ejemplo, no una tabla de pago más allá de la regla."
+      "text": "En un préstamo de ejemplo de $300,000, el plan del acreedor podría pagar al originador el 1.00 por ciento del monto, $3,000, ya sea que la tasa del pagaré sea 6.25 o 6.75 por ciento. La compensación por lo general no puede basarse en un término de la transacción que no sea el monto del crédito. Un originador no puede ser pagado por el consumidor y por otra persona en la misma transacción. La regla es distinta de la licencia de la Ley SAFE. Cifras de ejemplo, no una tabla de pago más allá de la regla."
     }
   }
 }

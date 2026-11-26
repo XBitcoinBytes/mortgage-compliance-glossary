@@ -8,7 +8,7 @@
   "complianceNotes": "Do not add a spouse's signature as a habit. If a co-signer is used, disclose that person's obligation clearly and decide, under the guide, whether their income and debts are in the ratio. Keep the Reg B analysis in the file.",
   "example": {
     "setting": "Promissory note signature page, a signer who is obligated but may not be on the application the same way",
-    "text": "A sample note might add a co-signer with no ownership on the deed, while the housing payment is still calculated on an example $1,900 principal and interest. Example figures."
+    "text": "A sample note might add a co-signer with no ownership on the deed, while the housing payment is still calculated on an example $1,900 principal and interest. Creditors may not require a co-signer, including a spouse, just to have an extra signature if the applicant qualifies alone. The note, not the job title, shows who is obligated. Example figures."
   },
   "citations": [
     "reg-1002-7",
@@ -22,7 +22,7 @@
     "non-occupant-co-borrower",
     "promissory-note"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Codeudor",
     "aliases": [
@@ -33,7 +33,7 @@
     "complianceNotes": "No agregue la firma del cónyuge por costumbre. Si se usa un codeudor, divulgue con claridad su obligación y decida, según la guía, si sus ingresos y deudas entran en la relación. Conserve el análisis del Reglamento B en el expediente.",
     "example": {
       "setting": "Página de firma del pagaré, un firmante que queda obligado pero puede no figurar en la solicitud del mismo modo",
-      "text": "Un pagaré de muestra puede agregar un codeudor sin propiedad en la escritura, mientras el pago de la vivienda se calcula igual sobre un capital e interés de ejemplo de $1,900. Cifras de ejemplo."
+      "text": "Un pagaré de muestra puede agregar un codeudor sin propiedad en la escritura, mientras el pago de la vivienda se calcula igual sobre un capital e interés de ejemplo de $1,900. Los acreedores no pueden exigir un codeudor, incluido un cónyuge, solo para tener una firma extra si el solicitante califica solo. El pagaré, no el título del puesto, muestra quién está obligado. Cifras de ejemplo."
     }
   }
 }

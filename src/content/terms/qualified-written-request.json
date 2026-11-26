@@ -10,7 +10,7 @@
   "complianceNotes": "Route the letter the day it arrives. If it alleges an error and asks for documents, run both clocks. Keep the response.",
   "example": {
     "setting": "A letter borrowers still call a QWR, handled today as a notice of error or a request for information",
-    "text": "A sample letter titled qualified written request might dispute an example escrow shortage of $240 and ask for the analysis. Example figures. It is both an error allegation and an information request."
+    "text": "A sample letter titled qualified written request might dispute an example escrow shortage of $240 and ask for the analysis. It is both an error allegation and an information request, and it must be handled under those sections even if it uses the old name. Do not reject a letter because it does not say QWR. If it alleges an error and asks for documents, run both clocks. Example figures."
   },
   "citations": [
     "reg-1024-35",
@@ -22,7 +22,7 @@
     "notice-of-error",
     "request-for-information"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Solicitud escrita calificada",
     "aliases": [
@@ -33,7 +33,7 @@
     "complianceNotes": "Enrute la carta el día que llega. Si alega un error y pide documentos, ejecute ambos relojes. Conserve la respuesta.",
     "example": {
       "setting": "Una carta que los prestatarios todavía llaman QWR, manejada hoy como un aviso de error o un pedido de información",
-      "text": "Una carta de muestra titulada solicitud escrita calificada podría disputar un faltante de depósito en garantía de ejemplo de $240 y pedir el análisis. Cifras de ejemplo. Es tanto una alegación de error como un pedido de información."
+      "text": "Una carta de muestra titulada solicitud escrita calificada podría disputar un faltante de depósito en garantía de ejemplo de $240 y pedir el análisis. Es tanto una alegación de error como un pedido de información, y debe manejarse según esas secciones aunque use el nombre antiguo. No rechace una carta porque no dice QWR. Si alega un error y pide documentos, corra ambos relojes. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Show both numbers. Do not quote a payment from the APR. Recalculate the APR when points or the rate change.",
   "example": {
     "setting": "Loan Estimate page 1 interest rate next to page 3 APR",
-    "text": "A sample loan might have an example note rate of 6.25 percent and an APR of 6.48 percent because of points. Example figures."
+    "text": "A sample loan might have an example note rate of 6.25 percent and an APR of 6.48 percent because of points. Use the note rate to understand the payment. Use the APR to compare the cost of two loans that have different points. Do not quote a payment from the APR. An inaccurate APR can restart the Closing Disclosure wait. Example figures."
   },
   "citations": [
     "reg-1026-22",
@@ -21,7 +21,7 @@
     "loan-estimate",
     "note-rate"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "¿Cuál es la diferencia entre la tasa porcentual anual y la tasa de interés?",
     "aliases": [],
@@ -30,7 +30,7 @@
     "complianceNotes": "Muestre ambos números. No cotice un pago a partir de la tasa porcentual anual. Recalcule la tasa porcentual anual cuando cambian los puntos o la tasa.",
     "example": {
       "setting": "Tasa de interés de la página 1 de la Estimación del préstamo junto a la tasa porcentual anual de la página 3",
-      "text": "Un préstamo de muestra podría tener una tasa del pagaré de ejemplo del 6.25 por ciento y una tasa porcentual anual del 6.48 por ciento por los puntos. Cifras de ejemplo."
+      "text": "Un préstamo de muestra podría tener una tasa del pagaré de ejemplo del 6.25 por ciento y una tasa porcentual anual del 6.48 por ciento por los puntos. Use la tasa del pagaré para entender el pago. Use la tasa porcentual anual para comparar el costo de dos préstamos que tienen puntos distintos. No cotice un pago a partir de la tasa porcentual anual. Una tasa porcentual anual inexacta puede reiniciar la espera de la Divulgación del cierre. Cifras de ejemplo."
     }
   }
 }

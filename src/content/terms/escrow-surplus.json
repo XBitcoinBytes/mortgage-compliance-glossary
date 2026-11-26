@@ -8,7 +8,7 @@
   "complianceNotes": "Refund surpluses that meet the threshold. Do not keep them to pad the account. Send the check or the credit with the annual statement.",
   "example": {
     "setting": "Annual escrow statement, surplus refund or credit",
-    "text": "A sample analysis might show an example surplus of $86, which would be refunded if the current section still uses the $50 threshold. Example figures."
+    "text": "A sample analysis might show an example surplus of $86, which would be refunded if the current section still uses the $50 threshold. A smaller surplus may be credited to next year's account. A surplus is the borrower's money, not a gift. Confirm the current text before you build the letter. Example figures."
   },
   "citations": [
     "reg-1024-17"
@@ -19,7 +19,7 @@
     "escrow-cushion",
     "escrow-shortage"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Excedente del depósito en garantía",
     "aliases": [],
@@ -28,7 +28,7 @@
     "complianceNotes": "Reembolse los excedentes que alcanzan el umbral. No los conserve para rellenar la cuenta. Envíe el cheque o el crédito con el estado anual.",
     "example": {
       "setting": "Estado anual del depósito en garantía, reembolso o crédito del excedente",
-      "text": "Un análisis de muestra podría mostrar un excedente de ejemplo de $86, que se reembolsaría si la sección vigente todavía usa el umbral de $50. Cifras de ejemplo."
+      "text": "Un análisis de muestra podría mostrar un excedente de ejemplo de $86, que se reembolsaría si la sección vigente todavía usa el umbral de $50. Un excedente menor puede acreditarse a la cuenta del año siguiente. Un excedente es dinero del prestatario, no un regalo. Confirme el texto vigente antes de redactar la carta. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Estimate prepaid interest from a realistic closing date and update it when the date moves. Do not park lender fees in Section F to avoid zero tolerance. Compare the insurance premium to the binder.",
   "example": {
     "setting": "Loan Estimate, page 2, Section F: Prepaids",
-    "text": "A sample Section F might show 12 days of prepaid interest totaling $820 and a $1,400 homeowners insurance premium on an example loan. Example figures."
+    "text": "A sample Section F might show 12 days of prepaid interest totaling $820 and a $1,400 homeowners insurance premium on an example loan. Prepaid interest, property insurance premiums, and amounts placed in escrow can change because they depend on the closing date or the bills, but they still have to be estimated in good faith. They are not a blank check. Do not park lender fees in Section F to avoid zero tolerance. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -23,7 +23,7 @@
     "per-diem-interest",
     "prepaid-interest"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Cargos pagados por adelantado",
     "aliases": [],
@@ -32,7 +32,7 @@
     "complianceNotes": "Estime el interés pagado por adelantado a partir de una fecha de cierre realista y actualícelo cuando la fecha se mueva. No esconda cargos del prestamista en la Sección F para evitar la tolerancia cero. Compare la prima del seguro con el comprobante de la póliza.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección F: Cargos pagados por adelantado",
-      "text": "Una Sección F de muestra puede mostrar 12 días de interés pagado por adelantado por un total de $820 y una prima de seguro de vivienda de $1,400 en un préstamo de ejemplo. Cifras de ejemplo."
+      "text": "Una Sección F de muestra puede mostrar 12 días de interés pagado por adelantado por un total de $820 y una prima de seguro de vivienda de $1,400 en un préstamo de ejemplo. El interés pagado por adelantado, las primas del seguro de la propiedad y los montos puestos en depósito en garantía pueden cambiar porque dependen de la fecha de cierre o de las facturas, pero igual deben estimarse de buena fe. No son un cheque en blanco. No coloque cargos del prestamista en la Sección F para evitar la tolerancia cero. Cifras de ejemplo."
     }
   }
 }

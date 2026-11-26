@@ -8,7 +8,7 @@
   "complianceNotes": "Mark assumption correctly on the forms and in the note. Do not advertise a conventional due-on-sale loan as freely assumable. If a buyer wants to assume, start the agency's assumption process.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure, assumption yes or no",
-    "text": "A sample FHA Loan Estimate might say assumption is allowed with an example remaining balance of $210,000, subject to credit approval. Example figures."
+    "text": "A sample FHA Loan Estimate might say assumption is allowed with an example remaining balance of $210,000, subject to credit approval. Many FHA and VA loans can be assumed with approval. Many conventional loans cannot, because of a due-on-sale clause. The seller may remain liable until the agency or the lender releases them. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -23,16 +23,19 @@
     "fha-loan",
     "va-loan"
   ],
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-25",
   "es": {
     "term": "Asunción",
-    "aliases": [],
+    "aliases": [
+      "asunción del préstamo",
+      "asunción de la hipoteca"
+    ],
     "definition": "Una asunción es que un comprador posterior tome su préstamo, por lo general con la aprobación del prestamista. La Estimación del préstamo y la Divulgación del cierre dicen si el préstamo puede asumirse. Muchos préstamos FHA y VA pueden asumirse con aprobación. Muchos préstamos convencionales no pueden, por una cláusula de vencimiento por venta.",
     "details": "12 CFR 1026.37 exige la divulgación de la asunción. Las reglas de asunción de la FHA están en HUD 4000.1, y las de VA están en el manual de VA. Igual se exige la aprobación de crédito. Un préstamo asumible no es un préstamo que un comprador puede tomar en secreto. El vendedor puede seguir responsable hasta que la agencia o el prestamista lo libere.",
     "complianceNotes": "Marque la asunción correctamente en los formularios y en el pagaré. No anuncie un préstamo convencional con cláusula de vencimiento por venta como libremente asumible. Si un comprador quiere asumir, inicie el proceso de asunción de la agencia.",
     "example": {
       "setting": "Estimación del préstamo y Divulgación del cierre, asunción sí o no",
-      "text": "Una Estimación del préstamo FHA de muestra podría decir que la asunción se permite con un saldo restante de ejemplo de $210,000, sujeta a aprobación de crédito. Cifras de ejemplo."
+      "text": "Una Estimación del préstamo FHA de muestra podría decir que la asunción se permite con un saldo restante de ejemplo de $210,000, sujeta a aprobación de crédito. Muchos préstamos FHA y VA pueden asumirse con aprobación. Muchos préstamos convencionales no pueden, por una cláusula de vencimiento por venta. El vendedor puede seguir obligado hasta que la agencia o el prestamista lo liberen. Cifras de ejemplo."
     }
   }
 }
