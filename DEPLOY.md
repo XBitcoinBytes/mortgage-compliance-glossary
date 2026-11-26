@@ -8,6 +8,7 @@ Deploys are direct uploads of a prebuilt `dist/` (no Git auto-deploy). Deploy on
 npm ci
 npm run data && python3 scripts/compile_terms.py
 SITE_URL=https://mortgagecomplianceglossary.com npm run build
+If SITE_URL is omitted, the build now defaults to https://mortgagecomplianceglossary.com. A post-build check fails if localhost origins leaked into `dist/` (canonicals, sitemap, robots.txt, or JSON-LD).
 npm run check:links && npm run check:es
 npm run preview   # then, in another shell:
 PLAYWRIGHT_HOME=<dir with playwright + axe-core> npm run audit && npm run audit:search

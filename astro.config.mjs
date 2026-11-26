@@ -2,9 +2,18 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 
-const site = process.env.SITE_URL || "http://127.0.0.1:4327";
-if (!process.env.SITE_URL && process.argv.includes("build")) {
-  console.warn("\n[glossary] SITE_URL is not set: canonical links, the sitemap, and 'Cite this entry' will point at 127.0.0.1. Set SITE_URL before a production build.\n");
+const PRODUCTION_SITE = "https://mortgagecomplianceglossary.com";
+const isBuild = process.argv.includes("build");
+const site = process.env.SITE_URL || (isBuild ? PRODUCTION_SITE : "http://127.0.0.1:4327");
+if (isBuild && !process.env.SITE_URL) {
+  console.warn(
+    `\n[glossary] SITE_URL is not set; using ${PRODUCTION_SITE} for canonicals, the sitemap, and 'Cite this entry'.\n`,
+  );
+}
+if (isBuild && /127\.0\.0\.1|localhost/.test(site)) {
+  console.warn(
+    `\n[glossary] Building with a local origin (${site}). Canonicals and the sitemap will not be production-ready.\n`,
+  );
 }
 
 export default defineConfig({

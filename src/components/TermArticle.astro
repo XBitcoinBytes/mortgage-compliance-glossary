@@ -190,7 +190,21 @@ const changing = figures.filter((f) => f.terms.includes(term.slug));
       }
       {
         relatedHidden > 0 && (
-          <li class="related-more">{ui.relatedMore.replace("{n}", String(relatedSorted.length))}</li>
+          <li class="related-more">
+            <details>
+              <summary>{ui.relatedMore.replace("{n}", String(relatedSorted.length))}</summary>
+              <ul>
+                {
+                  relatedSorted.slice(RELATED_CAP).map((item) => (
+                    <li>
+                      <a href={hrefFor(lang, `/terms/${item.slug}`)}>{displayName(item, lang)}</a>
+                      <div>{excerpt(lang === "es" ? item.es.definition : item.definition, 110)}</div>
+                    </li>
+                  ))
+                }
+              </ul>
+            </details>
+          </li>
         )
       }
     </ul>
@@ -213,3 +227,24 @@ const changing = figures.filter((f) => f.terms.includes(term.slug));
     }
   </aside>
 </article>
+
+<style>
+  .related-more details {
+    margin: 0;
+  }
+  .related-more summary {
+    cursor: pointer;
+    color: var(--ink-soft);
+  }
+  .related-more details[open] summary {
+    margin-bottom: 0.45rem;
+  }
+  .related-more details ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .related-more details li {
+    margin-top: 0.65rem;
+  }
+</style>
