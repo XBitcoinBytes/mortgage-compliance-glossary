@@ -10,7 +10,7 @@
   "complianceNotes": "Do not fund because the closing ceremony finished if a prior-to-funding condition is open. The funder should see the cleared item, not a promise that it will arrive.",
   "example": {
     "setting": "Condition sheet, items that must be cleared before the wire is sent",
-    "text": "A sample funding checklist might hold an example wire of $286,000 until the verbal verification dated the same day is in the file. Example figures."
+    "text": "A sample funding checklist might hold an example wire of $286,000 until the verbal verification dated the same day is in the file. That label is not in Regulation Z, and funding is not always the same day as consummation. Do not fund because the closing ceremony finished if a prior-to-funding condition is open. The funder should see the cleared item, not a promise that it will arrive. Example figures."
   },
   "citations": [
     "practice-file",
@@ -35,7 +35,7 @@
     "complianceNotes": "No desembolse porque la ceremonia de cierre terminó si una condición previa al desembolso está abierta. Quien desembolsa debe ver el punto resuelto, no una promesa de que llegará.",
     "example": {
       "setting": "Hoja de condiciones, puntos que deben resolverse antes de enviar la transferencia",
-      "text": "Una lista de desembolso de muestra puede retener una transferencia de ejemplo de $286,000 hasta que la verificación verbal con fecha del mismo día esté en el expediente. Cifras de ejemplo."
+      "text": "Una lista de desembolso de muestra puede retener una transferencia de ejemplo de $286,000 hasta que la verificación verbal con fecha del mismo día esté en el expediente. Esa etiqueta no está en el Reglamento Z, y el desembolso no es siempre el mismo día que la consumación. No desembolse porque terminó la ceremonia de cierre si una condición previa al desembolso sigue abierta. Quien desembolsa debe ver el punto cumplido, no una promesa de que llegará. Cifras de ejemplo."
     }
   }
 }

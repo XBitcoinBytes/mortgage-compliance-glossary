@@ -8,7 +8,7 @@
   "complianceNotes": "Name the index on the note and in the ARM disclosure. Keep a source for the published value. Do not let the creditor set the index.",
   "example": {
     "setting": "Note, index description, and the Loan Estimate ARM disclosures",
-    "text": "A sample note might use a SOFR-based index at an example value of 4.20 percent before the margin is added. Example figures, not a current index print."
+    "text": "A sample note might use a SOFR-based index at an example value of 4.20 percent before the margin is added. Regulation Z requires the index to be disclosed and beyond the creditor's control in the way 12 CFR 1026.20 describes. The lookback is the date the index is read before the change. Do not originate a new note on LIBOR. Example figures, not a current index print."
   },
   "citations": [
     "reg-1026-20",
@@ -30,7 +30,7 @@
     "complianceNotes": "Nombre el índice en el pagaré y en la divulgación de la ARM. Conserve una fuente del valor publicado. No deje que el acreedor fije el índice.",
     "example": {
       "setting": "Pagaré, descripción del índice, y las divulgaciones de la ARM en la Estimación del préstamo",
-      "text": "Un pagaré de muestra podría usar un índice basado en SOFR a un valor de ejemplo del 4.20 por ciento antes de sumar el margen. Cifras de ejemplo, no una impresión vigente del índice."
+      "text": "Un pagaré de muestra podría usar un índice basado en SOFR a un valor de ejemplo del 4.20 por ciento antes de sumar el margen. El Reglamento Z exige que el índice se divulgue y esté fuera del control del acreedor como describe 12 CFR 1026.20. La fecha de referencia es el día en que se lee el índice antes del cambio. No origine un pagaré nuevo sobre LIBOR. Cifras de ejemplo, no una impresión vigente del índice."
     }
   }
 }

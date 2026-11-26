@@ -8,7 +8,7 @@
   "complianceNotes": "Price a jumbo only after the FHFA comparison. Do not run it through DU as a conforming delivery. Document the investor's reserve and LTV rules in the file.",
   "example": {
     "setting": "Loan amount above the FHFA conforming limit for the county",
-    "text": "A sample loan above the county limit, illustrated as an example $1,200,000 amount, would be jumbo if the current FHFA cap is lower. Example figures."
+    "text": "A sample loan above the county limit, illustrated as an example $1,200,000 amount, would be jumbo if the current FHFA cap is lower. The line between jumbo and conforming is the current FHFA limit, including the high-cost limit if the county has one. A qualified-mortgage test under 12 CFR 1026.43 is separate from the conforming limit, and the higher-priced mortgage spread for jumbo first liens is in 12 CFR 1026.35. Do not run it through DU as a conforming delivery. Example figures."
   },
   "citations": [
     "fhfa-cll",
@@ -35,7 +35,7 @@
     "complianceNotes": "Cotice un jumbo solo después de la comparación con la FHFA. No lo pase por DU como una entrega conforme. Documente las reglas de reservas y de LTV del inversionista en el expediente.",
     "example": {
       "setting": "Monto del préstamo por encima del límite conforme de la FHFA para el condado",
-      "text": "Un préstamo de muestra por encima del límite del condado, ilustrado como un monto de ejemplo de $1,200,000, sería jumbo si el tope vigente de la FHFA es menor. Cifras de ejemplo."
+      "text": "Un préstamo de muestra por encima del límite del condado, ilustrado como un monto de ejemplo de $1,200,000, sería jumbo si el tope vigente de la FHFA es menor. La línea entre jumbo y conforme es el límite vigente de la FHFA, incluido el tope de alto costo si el condado tiene uno. Una prueba de hipoteca calificada según 12 CFR 1026.43 es aparte del límite conforme, y el margen de hipoteca de precio más alto para primeros gravámenes jumbo está en 12 CFR 1026.35. No lo procese en DU como una entrega conforme. Cifras de ejemplo."
     }
   }
 }

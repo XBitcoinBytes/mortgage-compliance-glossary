@@ -8,7 +8,7 @@
   "complianceNotes": "Mark investment if the borrower will not occupy as a primary or qualifying second home. Do not accept gift funds for the investment down payment. Underwrite rents with the guide's method, not the borrower's expected rent alone.",
   "example": {
     "setting": "URLA occupancy marked investment, and the rental-income worksheet",
-    "text": "A sample investment loan of $260,000 might show example reserves of six months of PITIA on the DU findings. Example figures, not a universal reserve rule."
+    "text": "A sample investment loan of $260,000 might show example reserves of six months of PITIA on the DU findings. The Selling Guide sets investment-property loan-to-value, reserve, and gift rules, and gift funds are not allowed as the source of funds on an investment property under B3-4.3-04. Rental income has its own calculation. Treating a rental as a primary residence to avoid these rules is occupancy misrepresentation. Example figures, not a universal reserve rule."
   },
   "citations": [
     "fannie-guide",
@@ -34,7 +34,7 @@
     "complianceNotes": "Marque inversión si el prestatario no ocupará como residencia principal ni como segunda vivienda que califica. No acepte fondos de regalo para el pago inicial de la inversión. Suscriba las rentas con el método de la guía, no solo con la renta que el prestatario espera.",
     "example": {
       "setting": "Ocupación de la URLA marcada como inversión, y la hoja de ingreso de alquiler",
-      "text": "Un préstamo de inversión de muestra de $260,000 puede mostrar reservas de ejemplo de seis meses de PITIA en los hallazgos de DU. Cifras de ejemplo, no una regla universal de reservas."
+      "text": "Un préstamo de inversión de muestra de $260,000 puede mostrar reservas de ejemplo de seis meses de PITIA en los hallazgos de DU. La Guía de venta fija las reglas de relación préstamo-valor, reservas y regalos para propiedades de inversión, y los fondos de regalo no se permiten como origen de fondos en una propiedad de inversión según B3-4.3-04. El ingreso de alquiler tiene su propio cálculo. Tratar un alquiler como residencia principal para evitar estas reglas es una falsa declaración de ocupación. Cifras de ejemplo, no una regla universal de reservas."
     }
   }
 }

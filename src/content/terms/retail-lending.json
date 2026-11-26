@@ -8,7 +8,7 @@
   "complianceNotes": "Use the retail compensation plan that was in effect when the rate was locked, and keep it out of the consumer's closing package unless a charge is actually imposed on the consumer. The plan is a compliance record.",
   "example": {
     "setting": "Loan Estimate, page 3, the creditor's own loan originator, and page 2, Section A",
-    "text": "A sample retail Section A might show a $1,295 origination fee on an example $350,000 loan, with the creditor's employee named as originator. Example figures."
+    "text": "A sample retail Section A might show a $1,295 origination fee on an example $350,000 loan, with the creditor's employee named as originator. Retail does not exempt the file from 12 CFR 1026.36. Individual originators may not be paid based on a term of the transaction. The same TRID timing, tolerance, and ability-to-repay rules apply as in wholesale. Example figures."
   },
   "citations": [
     "reg-1026-36",
@@ -30,7 +30,7 @@
     "complianceNotes": "Use el plan de compensación minorista que estaba vigente cuando se fijó la tasa, y no lo incluya en el paquete de cierre del consumidor salvo que de verdad se le imponga un cargo. El plan es un registro de cumplimiento.",
     "example": {
       "setting": "Estimación del préstamo, página 3, el originador del propio acreedor, y página 2, Sección A",
-      "text": "Una Sección A minorista de muestra puede mostrar una tarifa de originación de $1,295 sobre un préstamo de ejemplo de $350,000, con el empleado del acreedor nombrado como originador. Cifras de ejemplo."
+      "text": "Una Sección A minorista de muestra puede mostrar una tarifa de originación de $1,295 sobre un préstamo de ejemplo de $350,000, con el empleado del acreedor nombrado como originador. El canal minorista no exime el expediente de 12 CFR 1026.36. Los originadores individuales no pueden pagarse con base en un término de la transacción. Las mismas reglas TRID de plazos, tolerancia y capacidad de pago aplican que en el mayoreo. Cifras de ejemplo."
     }
   }
 }

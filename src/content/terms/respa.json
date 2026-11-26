@@ -10,11 +10,13 @@
   "complianceNotes": "Do not look in RESPA for the APR or the right to cancel. Do not look in TILA for whether a marketing payment is a kickback. Use the statute that matches the conduct.",
   "example": {
     "setting": "Settlement-service charges on the Loan Estimate, and the servicing file governed by RESPA",
-    "text": "A sample servicing file might show an annual escrow analysis required by Regulation X on an example account with a $200 surplus. Example figures."
+    "text": "A sample servicing file might show an annual escrow analysis required by Regulation X on an example account with a $200 surplus. The statute starts at 12 USC 2601, Section 8 at 12 USC 2607 is the kickback prohibition, and Regulation X, 12 CFR Part 1024, implements RESPA, including escrow accounting in 12 CFR 1024.17. Disclosure forms for most closed-end loans moved to Regulation Z, but RESPA did not go away. Do not look in RESPA for the APR or the right to cancel. Example figures."
   },
   "citations": [
     "usc-12-2601",
-    "reg-1024"
+    "reg-1024",
+    "reg-1024-17",
+    "usc-12-2607"
   ],
   "related": [
     "escrow-account",
@@ -34,7 +36,7 @@
     "complianceNotes": "No busque en RESPA la tasa porcentual anual ni el derecho a cancelar. No busque en TILA si un pago de mercadeo es una comisión por referencia. Use la ley que corresponde a la conducta.",
     "example": {
       "setting": "Cargos por servicios de liquidación en la Estimación del préstamo, y el expediente de administración regido por RESPA",
-      "text": "Un expediente de administración de muestra puede mostrar un análisis anual del depósito en garantía exigido por el Reglamento X en una cuenta de ejemplo con un excedente de $200. Cifras de ejemplo."
+      "text": "Un expediente de administración de muestra puede mostrar un análisis anual del depósito en garantía exigido por el Reglamento X en una cuenta de ejemplo con un excedente de $200. La ley comienza en 12 USC 2601, la Sección 8 en 12 USC 2607 es la prohibición de comisiones ilegales, y el Reglamento X, 12 CFR Parte 1024, implementa RESPA, incluida la contabilidad del depósito en garantía en 12 CFR 1024.17. Los formularios de divulgación de la mayoría de los préstamos de crédito cerrado pasaron al Reglamento Z, pero RESPA no desapareció. No busque en RESPA la APR ni el derecho a cancelar. Cifras de ejemplo."
     }
   }
 }

@@ -10,7 +10,7 @@
   "complianceNotes": "Document all eight factors even on a qualified mortgage, because the presumption has its own conditions. A no-document loan is not a compliance strategy. If the loan is not a QM, the file still needs the reasonable determination.",
   "example": {
     "setting": "ATR worksheet or QM evidence in the underwriting file",
-    "text": "A sample ATR worksheet might list example monthly income of $7,200 and a qualifying payment of $2,100, then record the other six factors. Example figures."
+    "text": "A sample ATR worksheet might list example monthly income of $7,200 and a qualifying payment of $2,100, then record the other six factors. 12 CFR 1026.43(c) lists eight factors, and the creditor must verify the information using reasonably reliable third-party records. The statute is 15 USC 1639c. Document all eight factors even on a qualified mortgage. A no-document loan is not a compliance strategy. Example figures."
   },
   "citations": [
     "reg-1026-43",
@@ -47,7 +47,7 @@
     "complianceNotes": "Documente los ocho factores aunque sea una hipoteca calificada, porque la presunción tiene sus propias condiciones. Un préstamo sin documentos no es una estrategia de cumplimiento. Si el préstamo no es una QM, el expediente igual necesita la determinación razonable.",
     "example": {
       "setting": "Hoja de capacidad de pago o prueba de hipoteca calificada en el expediente de suscripción",
-      "text": "Una hoja de capacidad de pago de muestra puede listar un ingreso mensual de ejemplo de $7,200 y un pago de calificación de $2,100, y luego registrar los otros seis factores. Cifras de ejemplo."
+      "text": "Una hoja de capacidad de pago de muestra puede listar un ingreso mensual de ejemplo de $7,200 y un pago de calificación de $2,100, y luego registrar los otros seis factores. 12 CFR 1026.43(c) lista ocho factores, y el acreedor debe verificar la información con registros confiables de terceros. La ley es 15 USC 1639c. Documente los ocho factores incluso en una hipoteca calificada. Un préstamo sin documentos no es una estrategia de cumplimiento. Cifras de ejemplo."
     }
   }
 }

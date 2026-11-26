@@ -10,10 +10,12 @@
   "complianceNotes": "Classify the refinance before you price it. If cash back or debt payoff crosses the guide's line, switch to cash-out rules. Give rescission notices when they apply.",
   "example": {
     "setting": "Refinance that changes the rate or term, with cash back limited by the guide",
-    "text": "A sample refinance might lower an example rate and give the borrower $800 at closing, then be tested against the guide's cash-back limit. Example figures."
+    "text": "A sample refinance might lower an example rate and give the borrower $800 at closing, then be tested against the guide's cash-back limit. Paying off credit cards can be treated as cash-out, and a rate-and-term file uses different loan-to-value and waiting-period rules than cash-out. TRID disclosures still apply, and a right of rescission often applies on a principal dwelling. Do not quote the cash-back limit from memory. Example figures."
   },
   "citations": [
-    "fannie-guide"
+    "fannie-guide",
+    "reg-1026-19",
+    "reg-1026-23"
   ],
   "related": [
     "cash-out-refinance",
@@ -32,7 +34,7 @@
     "complianceNotes": "Clasifique el refinanciamiento antes de cotizarlo. Si el efectivo de vuelta o el pago de deudas cruza la línea de la guía, cambie a las reglas de retiro de efectivo. Dé los avisos de rescisión cuando se aplican.",
     "example": {
       "setting": "Refinanciamiento que cambia la tasa o el plazo, con efectivo de vuelta limitado por la guía",
-      "text": "Un refinanciamiento de muestra podría bajar una tasa de ejemplo y dar al prestatario $800 en el cierre, y luego probarse contra el límite de efectivo de la guía. Cifras de ejemplo."
+      "text": "Un refinanciamiento de muestra podría bajar una tasa de ejemplo y dar al prestatario $800 en el cierre, y luego probarse contra el límite de efectivo de la guía. Liquidar tarjetas de crédito puede tratarse como retiro de efectivo, y un expediente de tasa y plazo usa reglas de relación préstamo-valor y de espera distintas de las de retiro de efectivo. Las divulgaciones TRID siguen aplicando, y un derecho de rescisión a menudo aplica en una vivienda principal. No cite el límite de efectivo de memoria. Cifras de ejemplo."
     }
   }
 }

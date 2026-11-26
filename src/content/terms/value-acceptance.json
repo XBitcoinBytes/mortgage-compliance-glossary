@@ -10,7 +10,7 @@
   "complianceNotes": "Use the offer only when the DU message allows it and the loan still meets every condition on that message. If the offer is lost because data change, order the appraisal. Do not call a skipped appraisal a value acceptance.",
   "example": {
     "setting": "DU findings, value-acceptance message, in place of an appraisal report",
-    "text": "A sample DU message might offer value acceptance on an example refinance of $275,000. Example figures. The offer is the message, not this sentence."
+    "text": "A sample DU message might offer value acceptance on an example refinance of $275,000. Selling Guide B4-1.4-10 states the offer and the ineligible transactions. Use it only when the DU message allows it. If no appraisal is obtained, any written valuation that is developed still has to be considered under 12 CFR 1002.14. If the offer is lost because data change, order the appraisal. Example figures. The offer is the message, not this sentence."
   },
   "citations": [
     "fannie-b4-1-4-10",
@@ -40,7 +40,7 @@
     "complianceNotes": "Use la oferta solo cuando el mensaje de DU la permite y el préstamo cumple cada condición de ese mensaje. Si la oferta se pierde porque cambian los datos, pida la tasación. No llame aceptación de valor a una tasación simplemente omitida.",
     "example": {
       "setting": "Hallazgos de DU, mensaje de aceptación de valor, en lugar de un informe de tasación",
-      "text": "Un mensaje de DU de muestra puede ofrecer aceptación de valor en un refinanciamiento de ejemplo de $275,000. Cifras de ejemplo. La oferta es el mensaje, no esta frase."
+      "text": "Un mensaje de DU de muestra puede ofrecer aceptación de valor en un refinanciamiento de ejemplo de $275,000. La Guía de venta B4-1.4-10 indica la oferta y las transacciones no elegibles. Úsela solo cuando el mensaje de DU lo permita. Si no se obtiene una tasación, cualquier valuación escrita que se elabore todavía debe considerarse según 12 CFR 1002.14. Si se pierde la oferta porque cambian los datos, ordene la tasación. Cifras de ejemplo. La oferta es el mensaje, no esta frase."
     }
   }
 }

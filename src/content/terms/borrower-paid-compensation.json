@@ -8,11 +8,12 @@
   "complianceNotes": "Do not collect a lender-paid commission on a file that already charges the consumer a broker or originator fee. Show the consumer charge in Section A and keep the compensation agreement. Retest the qualified-mortgage points-and-fees calculation when the charge is included.",
   "example": {
     "setting": "Loan Estimate, page 2, Section A: Origination Charges",
-    "text": "A sample Section A line might read Mortgage broker fee, $3,250, on an example $325,000 loan, with no separate lender-paid commission. Example figures."
+    "text": "A sample Section A line might read Mortgage broker fee, $3,250, on an example $325,000 loan, with no separate lender-paid commission. Under 12 CFR 1026.36(d), if the consumer pays the loan originator, another person may not pay that originator in connection with the same transaction. The charge is generally in the zero-tolerance category under 12 CFR 1026.19(e)(3)(i). Choosing this method does not lift the ban on pay that varies with the rate or product. Example figures."
   },
   "citations": [
     "reg-1026-36",
-    "reg-1026-37"
+    "reg-1026-37",
+    "reg-1026-19"
   ],
   "related": [
     "anti-steering",
@@ -30,7 +31,7 @@
     "complianceNotes": "No cobre una comisión pagada por el prestamista en un expediente que ya cobra al consumidor un cargo del corredor o del originador. Muestre el cargo del consumidor en la Sección A y conserve el acuerdo de compensación. Vuelva a calcular los puntos y cargos de la hipoteca calificada cuando el cargo se incluye.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección A: Cargos por originación",
-      "text": "Una línea de muestra de la Sección A puede decir Cargo del corredor hipotecario, $3,250, sobre un préstamo de ejemplo de $325,000, sin una comisión aparte pagada por el prestamista. Cifras de ejemplo."
+      "text": "Una línea de muestra de la Sección A puede decir Cargo del corredor hipotecario, $3,250, sobre un préstamo de ejemplo de $325,000, sin una comisión aparte pagada por el prestamista. Según 12 CFR 1026.36(d), si el consumidor paga al originador del préstamo, otra persona no puede pagar a ese originador en conexión con la misma transacción. El cargo por lo general está en la categoría de tolerancia cero según 12 CFR 1026.19(e)(3)(i). Elegir este método no elimina la prohibición de una paga que varíe con la tasa o el producto. Cifras de ejemplo."
     }
   }
 }

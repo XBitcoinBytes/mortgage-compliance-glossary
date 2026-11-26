@@ -10,7 +10,7 @@
   "complianceNotes": "Explain the TIP next to the note rate and the APR so the borrower sees three different numbers. Do not describe the TIP as the rate they will pay each year.",
   "example": {
     "setting": "Closing Disclosure, page 5, Comparisons, total interest percentage",
-    "text": "A sample 30-year loan might show an example TIP of 118 percent, meaning total scheduled interest is 118 percent of the example loan amount. Example figures."
+    "text": "A sample 30-year loan might show an example TIP of 118 percent, meaning total scheduled interest is 118 percent of the example loan amount. 12 CFR 1026.38 requires the TIP in the comparisons on the Closing Disclosure. It assumes the scheduled payments are made, and extra principal payments would reduce the interest actually paid. The TIP is a comparison tool, not a charge due at closing and not the rate the borrower will pay each year. Example figures."
   },
   "citations": [
     "reg-1026-38"
@@ -33,7 +33,7 @@
     "complianceNotes": "Explique el TIP junto a la tasa del pagaré y la tasa porcentual anual para que el prestatario vea tres números distintos. No describa el TIP como la tasa que pagará cada año.",
     "example": {
       "setting": "Divulgación del cierre, página 5, Comparaciones, porcentaje total de interés",
-      "text": "Un préstamo a 30 años de muestra podría mostrar un TIP de ejemplo del 118 por ciento, lo que significa que el interés programado total es el 118 por ciento del monto de ejemplo del préstamo. Cifras de ejemplo."
+      "text": "Un préstamo a 30 años de muestra podría mostrar un TIP de ejemplo del 118 por ciento, lo que significa que el interés programado total es el 118 por ciento del monto de ejemplo del préstamo. 12 CFR 1026.38 exige el TIP en las comparaciones de la Divulgación del cierre. Asume que se hacen los pagos programados, y los pagos extra a capital reducirían el interés realmente pagado. El TIP es una herramienta de comparación, no un cargo vencido en el cierre ni la tasa que el prestatario pagará cada año. Cifras de ejemplo."
     }
   }
 }

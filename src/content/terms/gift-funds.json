@@ -10,7 +10,7 @@
   "complianceNotes": "Do not treat a loan from a relative as a gift. Match the gift letter amount to the deposit or to the wire the closing agent receives. Large deposits still need a source. Investment-property files cannot use gift funds.",
   "example": {
     "setting": "Asset worksheet and, if the gift is used at closing, Closing Disclosure funds to close",
-    "text": "A sample gift of $15,000 might be wired to the closing agent for an example $375,000 primary-residence purchase. Example figures, not a guide maximum."
+    "text": "A sample gift of $15,000 might be wired to the closing agent for an example $375,000 primary-residence purchase. Fannie Mae B3-4.3-04 describes eligible donors, the gift letter, and when the borrower must still contribute their own funds. Those contribution rules depend on occupancy, units, and loan-to-value, and the guide can change them. Do not treat a loan from a relative as a gift, and investment-property files cannot use gift funds. Example figures, not a guide maximum."
   },
   "citations": [
     "fannie-b3-4-3-04",
@@ -48,7 +48,7 @@
     "complianceNotes": "No trate como regalo un préstamo de un familiar. Haga coincidir el monto de la carta de regalo con el depósito o con la transferencia que recibe el agente de cierre. Los depósitos grandes igual necesitan una fuente. Los expedientes de propiedad de inversión no pueden usar fondos de regalo.",
     "example": {
       "setting": "Hoja de activos y, si el regalo se usa en el cierre, fondos para el cierre en la Divulgación del cierre",
-      "text": "Un regalo de muestra de $15,000 podría transferirse al agente de cierre para una compra de residencia principal de ejemplo de $375,000. Cifras de ejemplo, no un máximo de la guía."
+      "text": "Un regalo de muestra de $15,000 podría transferirse al agente de cierre para una compra de residencia principal de ejemplo de $375,000. Fannie Mae B3-4.3-04 describe a los donantes elegibles, la carta de regalo y cuando el prestatario todavía debe aportar sus propios fondos. Esas reglas de contribución dependen de la ocupación, las unidades y la relación préstamo-valor, y la guía puede cambiarlas. No trate un préstamo de un familiar como un regalo, y los expedientes de propiedad de inversión no pueden usar fondos de regalo. Cifras de ejemplo, no un máximo de la guía."
     }
   }
 }

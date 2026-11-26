@@ -8,7 +8,7 @@
   "complianceNotes": "When you review a fee or a servicing practice, write down the injury, whether the consumer could avoid it, and any benefit. Do not label every complaint unfair. If the practice also violates Regulation X or Z, cite that rule too.",
   "example": {
     "setting": "Practice review under the statutory unfairness test",
-    "text": "A sample late fee of $45 imposed when the payment was received on time would be reviewed under the unfairness test and under the contract. Example figures."
+    "text": "A sample late fee of $45 imposed when the payment was received on time would be reviewed under the unfairness test and under the contract. 12 USC 5531(c) states the three-part unfairness standard. Substantial injury is usually monetary harm. Do not add a fourth element. Charging a fee the contract does not allow is a common place the test is applied. Example figures."
   },
   "citations": [
     "usc-12-5531"
@@ -29,7 +29,7 @@
     "complianceNotes": "Cuando revise un cargo o una práctica de administración, escriba el daño, si el consumidor podía evitarlo y cualquier beneficio. No etiquete toda queja como injusta. Si la práctica también viola el Reglamento X o Z, cite esa regla también.",
     "example": {
       "setting": "Revisión de la práctica según la prueba legal de injusticia",
-      "text": "Un cargo por mora de muestra de $45 impuesto cuando el pago se recibió a tiempo se revisaría según la prueba de injusticia y según el contrato. Cifras de ejemplo."
+      "text": "Un cargo por mora de muestra de $45 impuesto cuando el pago se recibió a tiempo se revisaría según la prueba de injusticia y según el contrato. 12 USC 5531(c) indica el estándar de tres partes de la injusticia. El daño sustancial por lo general es un daño monetario. No agregue un cuarto elemento. Cobrar un cargo que el contrato no permite es un lugar común en que se aplica la prueba. Cifras de ejemplo."
     }
   }
 }

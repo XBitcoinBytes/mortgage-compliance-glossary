@@ -8,7 +8,7 @@
   "complianceNotes": "Tell the borrower the new loan amount and the extra cash, and the contract deadline. Do not promise the value will be raised. Do not contact the appraiser with a target.",
   "example": {
     "setting": "Appraisal below the contract price, and the choices in the purchase contract",
-    "text": "A sample price of $400,000 and an example appraised value of $380,000 would leave a $20,000 gap if the loan stays at the same percentage. Example figures."
+    "text": "A sample price of $400,000 and an example appraised value of $380,000 would leave a $20,000 gap if the loan stays at the same percentage. Loan-to-value under the Fannie Mae guide uses the lower of price or appraised value on a purchase. A reconsideration of value is a request to look at additional comparable sales, not an instruction to hit the contract price. Appraisal independence still applies, and the contract's appraisal contingency, if you have one, is what lets you walk away. Example figures."
   },
   "citations": [
     "fannie-b2-1-2-01",
@@ -30,7 +30,7 @@
     "complianceNotes": "Dígale al prestatario el nuevo monto del préstamo y el efectivo extra, y el plazo del contrato. No prometa que el valor se subirá. No contacte al tasador con un objetivo.",
     "example": {
       "setting": "Tasación por debajo del precio del contrato, y las opciones del contrato de compra",
-      "text": "Un precio de muestra de $400,000 y un valor de tasación de ejemplo de $380,000 dejarían una brecha de $20,000 si el préstamo se mantiene en el mismo porcentaje. Cifras de ejemplo."
+      "text": "Un precio de muestra de $400,000 y un valor de tasación de ejemplo de $380,000 dejarían una brecha de $20,000 si el préstamo se mantiene en el mismo porcentaje. La relación préstamo-valor según la guía de Fannie Mae usa el menor entre el precio y el valor tasado en una compra. Una reconsideracion de valor es una solicitud de revisar ventas comparables adicionales, no una instrucción de alcanzar el precio del contrato. La independencia de la tasación sigue aplicando, y la contingencia de tasación del contrato, si usted tiene una, es lo que le permite retirarse. Cifras de ejemplo."
     }
   }
 }

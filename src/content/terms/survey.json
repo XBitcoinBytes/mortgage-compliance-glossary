@@ -8,7 +8,7 @@
   "complianceNotes": "Order the survey early if title or the lender requires it. Do not describe it to the borrower as the appraisal. Put the fee in the correct TRID section.",
   "example": {
     "setting": "Survey invoice, often a shoppable service in Section C, and the title exceptions it clears",
-    "text": "A sample survey fee might be an example $475 in Section C of the Loan Estimate if the lender requires a survey and lets you shop. Example figures."
+    "text": "A sample survey fee might be an example $475 in Section C of the Loan Estimate if the lender requires a survey and lets you shop. Under 12 CFR 1026.37, the tolerance depends on the provider list. Some title policies insure without a new survey and take exception to matters a survey would show. There is no federal requirement that every purchase include a survey. Do not describe it to the borrower as the appraisal. Example figures."
   },
   "citations": [
     "practice-file",
@@ -29,7 +29,7 @@
     "complianceNotes": "Pida el estudio temprano si el título o el prestamista lo exige. No se lo describa al prestatario como la tasación. Ponga el cargo en la sección correcta de TRID.",
     "example": {
       "setting": "Factura del estudio, a menudo un servicio comparable en la Sección C, y las excepciones de título que aclara",
-      "text": "Un cargo de estudio de muestra podría ser un ejemplo de $475 en la Sección C de la Estimación del préstamo si el prestamista exige un estudio y le permite comparar. Cifras de ejemplo."
+      "text": "Un cargo de estudio de muestra podría ser un ejemplo de $475 en la Sección C de la Estimación del préstamo si el prestamista exige un estudio y le permite comparar. Según 12 CFR 1026.37, la tolerancia depende de la lista de proveedores. Algunas pólizas de título aseguran sin un estudio nuevo y exceptúan asuntos que un estudio mostraría. No hay un requisito federal de que toda compra incluya un estudio. No lo describa al prestatario como la tasación. Cifras de ejemplo."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Do not waive a DU message because the borrower is in a hurry. Match each cleared condition to a document. If new information appears, add a condition or resubmit rather than ignoring it.",
   "example": {
     "setting": "DU findings conditions list, or the manual underwriter's condition sheet",
-    "text": "A sample findings list might include conditions to document an example $6,000 gift and to obtain a verbal verification of employment. Example figures."
+    "text": "A sample findings list might include conditions to document an example $6,000 gift and to obtain a verbal verification of employment. Fannie Mae B3-2-11 describes the DU findings, including verification messages and approval conditions. Clearing a condition means the document in the file satisfies it, not that a processor marked it received. Prior-to-document and prior-to-funding labels are industry timing labels, not separate federal categories. Do not waive a DU message because the borrower is in a hurry. Example figures."
   },
   "citations": [
     "fannie-b3-2-11",
@@ -37,7 +37,7 @@
     "complianceNotes": "No dispense un mensaje de DU porque el prestatario tiene prisa. Haga coincidir cada condición levantada con un documento. Si aparece información nueva, agregue una condición o vuelva a enviar en lugar de ignorarla.",
     "example": {
       "setting": "Lista de condiciones de los hallazgos de DU, o la hoja de condiciones del suscriptor manual",
-      "text": "Una lista de hallazgos de muestra puede incluir condiciones para documentar un regalo de ejemplo de $6,000 y para obtener una verificación verbal de empleo. Cifras de ejemplo."
+      "text": "Una lista de hallazgos de muestra puede incluir condiciones para documentar un regalo de ejemplo de $6,000 y para obtener una verificación verbal de empleo. Fannie Mae B3-2-11 describe los hallazgos de DU, incluidos los mensajes de verificación y las condiciones de aprobación. Cumplir una condición significa que el documento en el expediente la satisface, no que un procesador la marcó como recibida. Las etiquetas previas a los documentos y previas al desembolso son etiquetas de plazo de la industria, no categorías federales aparte. No dispense un mensaje de DU porque el prestatario tenga prisa. Cifras de ejemplo."
     }
   }
 }

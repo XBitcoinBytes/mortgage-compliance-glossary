@@ -8,7 +8,7 @@
   "complianceNotes": "Clear junior liens or document why the investor will accept them. Do not promise a waiver of the deficiency without the written agreement. Give the borrower the agreement before the deed is recorded.",
   "example": {
     "setting": "Deed transferring the home to the lienholder instead of a foreclosure sale",
-    "text": "A sample deed-in-lieu might transfer a home securing an example $190,000 debt, with the deficiency language stated in the agreement. Example figures."
+    "text": "A sample deed-in-lieu might transfer a home securing an example $190,000 debt, with the deficiency language stated in the agreement. 12 CFR 1024.41 places the deed in lieu in the loss-mitigation menu. The agreement should state whether a deficiency is waived. Do not promise a waiver of the deficiency without the written agreement, and junior liens can block the transfer. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -30,7 +30,7 @@
     "complianceNotes": "Limpie los gravámenes secundarios o documente por qué el inversionista los aceptará. No prometa una condonación de la deficiencia sin el acuerdo escrito. Dé al prestatario el acuerdo antes de que se registre la escritura.",
     "example": {
       "setting": "Escritura que transfiere la vivienda al titular del gravamen en lugar de una venta de ejecución hipotecaria",
-      "text": "Una escritura en lugar de ejecución de muestra podría transferir una vivienda que garantiza una deuda de ejemplo de $190,000, con el lenguaje de la deficiencia indicado en el acuerdo. Cifras de ejemplo."
+      "text": "Una escritura en lugar de ejecución de muestra podría transferir una vivienda que garantiza una deuda de ejemplo de $190,000, con el lenguaje de la deficiencia indicado en el acuerdo. 12 CFR 1024.41 coloca la escritura en lugar de ejecución en el menú de mitigación de pérdidas. El acuerdo debe indicar si se renuncia a la deficiencia. No prometa una renuncia a la deficiencia sin el acuerdo escrito, y los gravámenes junior pueden bloquear la transferencia. Cifras de ejemplo."
     }
   }
 }

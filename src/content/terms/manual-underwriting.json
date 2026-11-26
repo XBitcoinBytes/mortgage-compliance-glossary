@@ -8,7 +8,7 @@
   "complianceNotes": "Record the risk factors, the decision, and the conditions. Do not relabel a Refer finding as an Approve. If DU tolerances are exceeded and the loan is not resubmitted, the limited waiver can be lost and a manual assessment may be required.",
   "example": {
     "setting": "Underwriter's signed manual approval, not an AUS recommendation alone",
-    "text": "A sample manual transmittal might approve an example $220,000 loan with a listed housing payment and two documented compensating factors. Example figures."
+    "text": "A sample manual transmittal might approve an example $220,000 loan with a listed housing payment and two documented compensating factors. Fannie Mae B3-1-01 is the comprehensive risk assessment for manual loans, and FHA manual underwriting follows HUD 4000.1, including compensating factors. A lender may not manually approve a loan the investor says must receive an automated approval. Do not relabel a Refer finding as an Approve. Example figures."
   },
   "citations": [
     "fannie-b3-1-01",
@@ -41,7 +41,7 @@
     "complianceNotes": "Registre los factores de riesgo, la decisión y las condiciones. No vuelva a etiquetar un hallazgo de Referir como una aprobación. Si se exceden las tolerancias de DU y el préstamo no se reenvía, la renuncia limitada puede perderse y puede exigirse una evaluación manual.",
     "example": {
       "setting": "Aprobación manual firmada por el suscriptor, no solo una recomendación del AUS",
-      "text": "Una transmisión manual de muestra podría aprobar un préstamo de ejemplo de $220,000 con un pago de vivienda listado y dos factores compensatorios documentados. Cifras de ejemplo."
+      "text": "Una transmisión manual de muestra podría aprobar un préstamo de ejemplo de $220,000 con un pago de vivienda listado y dos factores compensatorios documentados. Fannie Mae B3-1-01 es la evaluación integral del riesgo para préstamos manuales, y la suscripción manual de la FHA sigue HUD 4000.1, incluidos los factores compensatorios. Un prestamista no puede aprobar manualmente un préstamo que el inversionista dice que debe recibir una aprobación automatizada. No reetiquete un hallazgo Refer como un Approve. Cifras de ejemplo."
     }
   }
 }

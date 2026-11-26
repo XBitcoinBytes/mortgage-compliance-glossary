@@ -8,7 +8,7 @@
   "complianceNotes": "Ask in the way Regulation B allows, and if the borrower wants the income counted, collect the order and the proof of receipt. If the borrower pays support, include the payment in the ratio.",
   "example": {
     "setting": "Divorce decree or court order, used either as income or as a debt",
-    "text": "A sample order might require an example $600 monthly child-support payment, counted as income or as debt depending on who pays it. Example figures."
+    "text": "A sample order might require an example $600 monthly child-support payment, counted as income or as debt depending on who pays it. Fannie Mae B3-3.4-02 covers receipt as income, including continuance, and B3-6-05 covers the obligation as a debt. Regulation B, 12 CFR 1002.6, limits how a creditor may treat this income. Child support may be nontaxable; do not gross it up unless the nontaxable-income rule is met. A verbal agreement is not enough. Example figures."
   },
   "citations": [
     "fannie-b3-3-4-02",
@@ -31,7 +31,7 @@
     "complianceNotes": "Pregunte del modo que permite el Reglamento B y, si el prestatario quiere que el ingreso cuente, recoja la orden y la prueba de recibo. Si el prestatario paga la pensión, incluya el pago en la relación.",
     "example": {
       "setting": "Decreto de divorcio u orden judicial, usado como ingreso o como deuda",
-      "text": "Una orden de muestra puede exigir un pago mensual de pensión de menores de ejemplo de $600, contado como ingreso o como deuda según quién lo paga. Cifras de ejemplo."
+      "text": "Una orden de muestra puede exigir un pago mensual de pensión de menores de ejemplo de $600, contado como ingreso o como deuda según quién lo paga. Fannie Mae B3-3.4-02 cubre el cobro como ingreso, incluida la continuidad, y B3-6-05 cubre la obligación como deuda. El Reglamento B, 12 CFR 1002.6, limita cómo un acreedor puede tratar este ingreso. La pensión de menores puede no ser gravable; no la aumente en bruto salvo que se cumpla la regla de ingreso no gravable. Un acuerdo verbal no basta. Cifras de ejemplo."
     }
   }
 }

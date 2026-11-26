@@ -11,7 +11,7 @@
   "complianceNotes": "Collect a binder that names the lender as mortgagee before funding. Match the premium to Section F. Do not accept a flood-only policy as hazard insurance.",
   "example": {
     "setting": "Loan Estimate, page 2, Section F, homeowners insurance premium, and the binder in the file",
-    "text": "A sample binder might show an example annual premium of $1,560 for a dwelling coverage amount the guide accepts. Example figures, not a required premium."
+    "text": "A sample binder might show an example annual premium of $1,560 for a dwelling coverage amount the guide accepts. The Fannie Mae Selling Guide states coverage expectations; read the current section rather than quoting a formula from memory. The premium is a prepaid in Section F, and if the policy lapses later, the servicer may force-place insurance under Regulation X. It is not flood insurance, title insurance, or mortgage insurance. Example figures, not a required premium."
   },
   "citations": [
     "fannie-guide",
@@ -41,7 +41,7 @@
     "complianceNotes": "Recoja un comprobante que nombre al prestamista como acreedor hipotecario antes del desembolso. Haga coincidir la prima con la Sección F. No acepte una póliza solo de inundación como seguro de riesgos.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección F, prima del seguro de la vivienda, y el comprobante en el expediente",
-      "text": "Un comprobante de muestra puede mostrar una prima anual de ejemplo de $1,560 por un monto de cobertura de la vivienda que la guía acepta. Cifras de ejemplo, no una prima exigida."
+      "text": "Un comprobante de muestra puede mostrar una prima anual de ejemplo de $1,560 por un monto de cobertura de la vivienda que la guía acepta. La Guía de venta de Fannie Mae indica las expectativas de cobertura; lea la sección vigente en lugar de citar una fórmula de memoria. La prima es un prepago en la Sección F, y si la póliza vence después, el administrador puede imponer un seguro según el Reglamento X. No es seguro de inundación, seguro de título ni seguro hipotecario. Cifras de ejemplo, no una prima exigida."
     }
   }
 }

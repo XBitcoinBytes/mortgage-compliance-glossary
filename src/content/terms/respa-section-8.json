@@ -11,11 +11,12 @@
   "complianceNotes": "Do not pay for leads on a per-closed-loan basis unless counsel has reviewed a real-services agreement. Document the service. This entry does not explain how to disguise a referral fee.",
   "example": {
     "setting": "Any payment tied to a referral of title, appraisal, or other settlement business",
-    "text": "A sample prohibited payment might be an example $400 gift card to an agent for each referred closing. Example figures of a violation, not a suggestion."
+    "text": "A sample prohibited payment might be an example $400 gift card to an agent for each referred closing. The statute is 12 USC 2607 and the regulation is 12 CFR 1024.14. A payment for a real service, priced at the market value of that service, is different from a payment for the referral. Affiliated business arrangements have a narrow permission in 12 CFR 1024.15. There is no safe harbor for a marketing agreement that is really a referral fee. Example figures of a violation, not a suggestion."
   },
   "citations": [
     "usc-12-2607",
-    "reg-1024-14"
+    "reg-1024-14",
+    "reg-1024-15"
   ],
   "related": [
     "affiliated-business-arrangement",
@@ -36,7 +37,7 @@
     "complianceNotes": "No pague por clientes potenciales por cada préstamo cerrado salvo que un asesor haya revisado un acuerdo de servicios reales. Documente el servicio. Esta entrada no explica cómo disfrazar un cargo por referencia.",
     "example": {
       "setting": "Cualquier pago ligado a una referencia de título, tasación u otro negocio de liquidación",
-      "text": "Un pago prohibido de muestra podría ser una tarjeta de regalo de ejemplo de $400 a un agente por cada cierre referido. Cifras de ejemplo de una violación, no una sugerencia."
+      "text": "Un pago prohibido de muestra podría ser una tarjeta de regalo de ejemplo de $400 a un agente por cada cierre referido. La ley es 12 USC 2607 y el reglamento es 12 CFR 1024.14. Un pago por un servicio real, tasado al valor de mercado de ese servicio, es distinto de un pago por la referencia. Los arreglos de negocio afiliado tienen un permiso estrecho en 12 CFR 1024.15. No hay un puerto seguro para un acuerdo de mercadeo que en realidad es una cuota de referencia. Cifras de ejemplo de una violación, no una sugerencia."
     }
   }
 }

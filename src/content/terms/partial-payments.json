@@ -8,10 +8,11 @@
   "complianceNotes": "Disclose the actual policy, not a marketing sentence. Tell the borrower a short payment can still leave the loan delinquent. Do not treat a partial payment as a forbearance.",
   "example": {
     "setting": "Closing Disclosure, page 4 or the partial-payment disclosure, whether the servicer may accept a partial payment",
-    "text": "A sample disclosure might say the servicer may hold an example partial payment of $400 in suspense until a full payment is received. Example figures."
+    "text": "A sample disclosure might say the servicer may hold an example partial payment of $400 in suspense until a full payment is received. 12 CFR 1026.38 requires that disclosure of the servicer's partial-payment policy. A payment held in suspense is not a loss-mitigation agreement, and accepting a partial payment is not a promise that the loan is current. Regulation X still governs how a servicer must respond if the borrower later asserts an error. Example figures."
   },
   "citations": [
-    "reg-1026-38"
+    "reg-1026-38",
+    "reg-1024-35"
   ],
   "related": [
     "closing-disclosure",
@@ -30,7 +31,7 @@
     "complianceNotes": "Divulgue la política real, no una frase de mercadeo. Dígale al prestatario que un pago corto igual puede dejar el préstamo en mora. No trate un pago parcial como una indulgencia.",
     "example": {
       "setting": "Divulgación del cierre, página 4 o la divulgación de pagos parciales, si el administrador puede aceptar un pago parcial",
-      "text": "Una divulgación de muestra podría decir que el administrador puede retener un pago parcial de ejemplo de $400 en suspenso hasta que se reciba un pago completo. Cifras de ejemplo."
+      "text": "Una divulgación de muestra podría decir que el administrador puede retener un pago parcial de ejemplo de $400 en suspenso hasta que se reciba un pago completo. 12 CFR 1026.38 exige esa divulgación de la política de pagos parciales del administrador. Un pago retenido en suspenso no es un acuerdo de mitigación de pérdidas, y aceptar un pago parcial no es una promesa de que el préstamo está al día. El Reglamento X todavía rige cómo debe responder el administrador si el prestatario luego alega un error. Cifras de ejemplo."
     }
   }
 }

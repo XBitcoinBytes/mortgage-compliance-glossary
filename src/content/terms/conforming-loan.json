@@ -8,7 +8,7 @@
   "complianceNotes": "Look up the current FHFA limit for the county before you lock a borderline loan. Do not use last year's chart. If the amount is over the limit, disclose a jumbo or portfolio product instead.",
   "example": {
     "setting": "Loan amount compared with the FHFA conforming limit for the county",
-    "text": "A sample county limit check might compare an example loan of $700,000 with the FHFA table rather than with a number printed here. Example figures."
+    "text": "A sample county limit check might compare an example loan of $700,000 with the FHFA table rather than with a number printed here. FHFA publishes the baseline limit and higher limits in designated high-cost areas. A loan at or under the limit is not automatically eligible; credit, property, and mortgage insurance still have to meet the guide. A loan above the local limit is jumbo even if it would have been conforming in another county. Do not use last year's chart. Example figures."
   },
   "citations": [
     "fhfa-cll",
@@ -32,7 +32,7 @@
     "complianceNotes": "Busque el límite vigente de la FHFA para el condado antes de fijar un préstamo en el límite. No use la tabla del año pasado. Si el monto está por encima del límite, divulgue un producto jumbo o de cartera.",
     "example": {
       "setting": "Monto del préstamo comparado con el límite conforme de la FHFA para el condado",
-      "text": "Una comprobación de límite de condado de muestra podría comparar un préstamo de ejemplo de $700,000 con la tabla de la FHFA y no con un número impreso aquí. Cifras de ejemplo."
+      "text": "Una comprobación de límite de condado de muestra podría comparar un préstamo de ejemplo de $700,000 con la tabla de la FHFA y no con un número impreso aquí. La FHFA publica el límite base y límites más altos en áreas designadas de alto costo. Un préstamo en el límite o por debajo no es automáticamente elegible; el crédito, la propiedad y el seguro hipotecario todavía tienen que cumplir la guía. Un préstamo por encima del límite local es jumbo aunque hubiera sido conforme en otro condado. No use la tabla del año pasado. Cifras de ejemplo."
     }
   }
 }

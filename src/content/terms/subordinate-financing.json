@@ -8,7 +8,7 @@
   "complianceNotes": "Collect every subordinate note before underwriting. Enter the balance, the limit, and the payment in the AUS. Disclose the second on the application.",
   "example": {
     "setting": "Second-lien note and the CLTV calculation on the transmittal",
-    "text": "A sample first mortgage of $280,000 plus an example $15,000 assistance lien on a $350,000 value changes both cash to close and the CLTV. Example figures."
+    "text": "A sample first mortgage of $280,000 plus an example $15,000 assistance lien on a $350,000 value changes both cash to close and the CLTV. Fannie Mae B2-1.2-01 explains how subordinate balances enter CLTV and how a HELOC limit enters HCLTV. The payment is generally included under B3-6-05 unless the guide allows otherwise. A silent second that is not disclosed is a fraud problem as well as a ratio problem. Example figures."
   },
   "citations": [
     "fannie-b2-1-2-01"
@@ -30,7 +30,7 @@
     "complianceNotes": "Recoja todo pagaré subordinado antes de la suscripción. Ingrese el saldo, el límite y el pago en el sistema automatizado. Divulgue el segundo en la solicitud.",
     "example": {
       "setting": "Pagaré del segundo gravamen y el cálculo de la CLTV en la transmisión",
-      "text": "Una primera hipoteca de muestra de $280,000 más un gravamen de asistencia de ejemplo de $15,000 sobre un valor de $350,000 cambia tanto el efectivo para el cierre como la CLTV. Cifras de ejemplo."
+      "text": "Una primera hipoteca de muestra de $280,000 más un gravamen de asistencia de ejemplo de $15,000 sobre un valor de $350,000 cambia tanto el efectivo para el cierre como la CLTV. Fannie Mae B2-1.2-01 explica cómo los saldos subordinados entran en la CLTV y cómo el límite de un HELOC entra en la HCLTV. El pago por lo general se incluye según B3-6-05 salvo que la guía permita otra cosa. Un segundo silencioso que no se divulga es un problema de fraude además de un problema de relación. Cifras de ejemplo."
     }
   }
 }
