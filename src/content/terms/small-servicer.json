@@ -10,7 +10,7 @@
   "complianceNotes": "Determine small-servicer status from the current section before you skip a periodic statement or a loss-mitigation step. Document the count and the affiliate analysis. Recheck the status when volume changes.",
   "example": {
     "setting": "Small-servicer determination under Regulation Z, used before applying a Regulation X exemption",
-    "text": "A sample servicer might test an example portfolio against the definition in 1026.41 and still answer a notice of error. The portfolio size is not stated here. Example figures are not the threshold."
+    "text": "A sample servicer might test its portfolio against the small-servicer definition in 12 CFR 1026.41 and still have to answer a notice of error about an example $75 late fee. Some loss-mitigation and statement duties do not apply, or apply differently, to a small servicer. Escrow rules, kickback rules, and many error duties still matter, and a servicer that grows past the definition loses the exemption. The dollar amount is an example figure. Example figures are not the threshold."
   },
   "citations": [
     "reg-1026-41",
@@ -34,7 +34,7 @@
     "complianceNotes": "Determine el estado de administrador pequeño a partir de la sección vigente antes de omitir un estado de cuenta periódico o un paso de mitigación de pérdidas. Documente el conteo y el análisis de afiliados. Vuelva a revisar el estado cuando cambia el volumen.",
     "example": {
       "setting": "Determinación de administrador pequeño según el Reglamento Z, usada antes de aplicar una exención del Reglamento X",
-      "text": "Un administrador de muestra podría probar una cartera de ejemplo contra la definición de 1026.41 y todavía responder un aviso de error. El tamaño de la cartera no se indica aquí. Las cifras de ejemplo no son el umbral. Cifras de ejemplo."
+      "text": "Un administrador de muestra podría comparar su cartera con la definición de administrador pequeño en 12 CFR 1026.41 y aun así tener que responder un aviso de error sobre un cargo por mora de ejemplo de $75. Algunos deberes de mitigación de pérdidas y de estados de cuenta no aplican, o aplican de forma distinta, a un administrador pequeño. Las reglas de depósito en garantía, de comisiones por referencia y muchos deberes ante errores siguen importando, y un administrador que supera la definición pierde la exención. El monto en dólares es una cifra de ejemplo. Cifras de ejemplo no son el umbral."
     }
   }
 }

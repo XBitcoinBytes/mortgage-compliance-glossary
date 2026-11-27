@@ -8,7 +8,7 @@
   "complianceNotes": "Separate the consent event from intent to proceed in the system log. If consent fails, mail or hand the disclosure and use that delivery date for the clock. Do not backdate consent.",
   "example": {
     "setting": "E-sign consent screen stored with the disclosure log",
-    "text": "A sample audit trail might show consent completed on a phone at 9:02 a.m. and the Loan Estimate opened at 9:06 a.m. The times are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample audit trail might show E-SIGN consent completed on a phone at 9:02 a.m. and the Loan Estimate opened at 9:06 a.m. 15 USC 7001 requires that consent before an electronic Loan Estimate or Closing Disclosure can satisfy a written-disclosure duty, plus a description of hardware and software, the right to paper, and the right to withdraw. A checkbox that the consumer agrees to the loan is not this consent. The times are example figures. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "usc-15-7001"
@@ -29,7 +29,7 @@
     "complianceNotes": "Separe en el registro del sistema el consentimiento de la intención de continuar. Si el consentimiento falla, envíe o entregue la divulgación en papel y use esa fecha de entrega para el plazo. No antedate el consentimiento.",
     "example": {
       "setting": "Pantalla de consentimiento de E-SIGN guardada con el registro de divulgaciones",
-      "text": "Un rastro de auditoría de muestra puede mostrar el consentimiento completado en un teléfono a las 9:02 a.m. y la Estimación del préstamo abierta a las 9:06 a.m. Las horas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un rastro de auditoría de muestra podría mostrar el consentimiento E-SIGN completado en un teléfono a las 9:02 a.m. y la Estimación del préstamo abierta a las 9:06 a.m. 15 USC 7001 exige ese consentimiento antes de que una Estimación del préstamo o una Divulgación del cierre electrónicas puedan cumplir un deber de divulgación escrita, más una descripción del equipo y el software, el derecho a papel y el derecho a retirarlo. Una casilla de que el consumidor acepta el préstamo no es este consentimiento. Las horas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

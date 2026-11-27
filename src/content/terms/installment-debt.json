@@ -8,10 +8,11 @@
   "complianceNotes": "Include the payment on the credit report unless an omission rule is documented. Do not drop a car lease because it feels small. If the borrower will pay the debt at closing, show the source of those funds and resubmit the file when the guide requires it.",
   "example": {
     "setting": "Credit report installment tradeline and the debt worksheet",
-    "text": "A sample car loan might show a $415 monthly payment with an example balance of $4,200. Whether that payment stays in the ratio depends on the current section, not on this illustration. Example figures."
+    "text": "A sample car loan might show a $415 monthly payment with an example balance of $4,200. Whether that payment stays in the ratio depends on Fannie Mae B3-6-05, including when a debt with few remaining payments may be omitted. The number of remaining payments is in that section and should be read there, not remembered. Paying the debt off at closing is a different rule, covered in B3-6-07, and the funds used to pay it must be documented. Example figures, not a ratio result."
   },
   "citations": [
-    "fannie-b3-6-05"
+    "fannie-b3-6-05",
+    "fannie-b3-6-07"
   ],
   "related": [
     "alimony-child-support",
@@ -34,7 +35,7 @@
     "complianceNotes": "Incluya el pago del informe de crédito salvo que documente una regla de omisión. No quite un arrendamiento de automóvil porque parece pequeño. Si el prestatario pagará la deuda en el cierre, muestre el origen de esos fondos y vuelva a enviar el expediente cuando la guía lo exija.",
     "example": {
       "setting": "Línea a plazos del informe de crédito y la hoja de deudas",
-      "text": "Un préstamo de automóvil de muestra puede mostrar un pago mensual de $415 con un saldo de ejemplo de $4,200. Si ese pago permanece en la relación depende de la sección vigente, no de esta ilustración. Cifras de ejemplo."
+      "text": "Un préstamo de automóvil de muestra podría mostrar un pago mensual de $415 con un saldo de ejemplo de $4,200. Si ese pago permanece en la relación depende de Fannie Mae B3-6-05, incluso cuándo una deuda con pocos pagos restantes puede omitirse. El número de pagos restantes está en esa sección y debe leerse allí, no memorizarse. Liquidar la deuda en el cierre es una regla distinta, cubierta en B3-6-07, y los fondos usados para pagarla deben documentarse. Cifras de ejemplo, no un resultado de relación."
     }
   }
 }

@@ -12,7 +12,7 @@
   "complianceNotes": "Print the payment evidence the guide requires, such as the credit report or the income-driven statement. Recalculate the ratio if the correct payment is higher than the one first used. Do not omit a deferred loan.",
   "example": {
     "setting": "Credit report student-loan tradeline and the payment used to qualify",
-    "text": "A sample report might show an example student-loan balance of $28,000 and a $0 scheduled payment. The qualifying payment is the one in the current section, not zero by default. Example figures."
+    "text": "A sample credit report might show an example student-loan balance of $28,000 and a $0 scheduled payment. Fannie Mae B3-6-05 tells the lender which qualifying payment to use, including when the report shows no payment; do not invent a percentage of the balance. Income-driven documentation has to match the current guide. A forgiveness application that is not complete does not remove the debt. FHA and other programs use their own handbooks. Example figures."
   },
   "citations": [
     "fannie-b3-6-05"
@@ -37,7 +37,7 @@
     "complianceNotes": "Imprima la prueba de pago que exige la guía, como el informe de crédito o el estado del plan según el ingreso. Recalcule la relación si el pago correcto es mayor que el que se usó primero. No omita un préstamo en aplazamiento.",
     "example": {
       "setting": "Línea de préstamo estudiantil del informe de crédito y el pago usado para calificar",
-      "text": "Un informe de muestra puede mostrar un saldo de ejemplo de préstamo estudiantil de $28,000 y un pago programado de $0. El pago de calificación es el de la sección vigente, no cero por defecto. Cifras de ejemplo."
+      "text": "Un informe de crédito de muestra podría mostrar un saldo de préstamos estudiantiles de ejemplo de $28,000 y un pago programado de $0. Fannie Mae B3-6-05 indica al prestamista qué pago de calificación usar, incluso cuando el informe no muestra un pago; no invente un porcentaje del saldo. La documentación de un plan basado en ingresos tiene que coincidir con la guía vigente. Una solicitud de condonación que no está completa no elimina la deuda. FHA y otros programas usan sus propios manuales. Cifras de ejemplo."
     }
   }
 }

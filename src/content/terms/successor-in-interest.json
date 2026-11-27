@@ -10,7 +10,7 @@
   "complianceNotes": "Have a confirmation process that asks for the documents the rule allows and then treats the person as a borrower for the listed protections. Do not refuse loss mitigation because the heir is not the original borrower.",
   "example": {
     "setting": "Confirmed successor in interest treated as a borrower for specified servicing rules",
-    "text": "A sample heir might be confirmed after providing an example death certificate and a recorded deed, then allowed to submit a loss-mitigation application. Example figures are not a fee for confirmation."
+    "text": "A sample heir might be confirmed after providing an example death certificate and a recorded deed, then allowed to submit a loss-mitigation application. Regulation X and Regulation Z contain the successor rules, including how a servicer confirms a successor and which protections apply. A confirmed successor can request information, assert errors, and apply for loss mitigation. The servicer should not demand that the successor assume the debt as a condition of those protections. Personal liability remains a note and state-law question. Example figures are not a fee for confirmation."
   },
   "citations": [
     "reg-1024",
@@ -32,7 +32,7 @@
     "complianceNotes": "Tenga un proceso de confirmación que pida los documentos que la regla permite y luego trate a la persona como prestatario para las protecciones enumeradas. No niegue la mitigación de pérdidas porque el heredero no es el prestatario original.",
     "example": {
       "setting": "Sucesor en interés confirmado tratado como prestatario para reglas de administración especificadas",
-      "text": "Un heredero de muestra podría confirmarse después de proporcionar un certificado de defunción de ejemplo y una escritura registrada, y luego se le permitiría presentar una solicitud de mitigación de pérdidas. Las cifras de ejemplo no son un cargo por la confirmación. Cifras de ejemplo."
+      "text": "Un heredero de muestra podría confirmarse después de presentar un certificado de defunción de ejemplo y una escritura registrada, y luego se le permitiría presentar una solicitud de mitigación de pérdidas. El Reglamento X y el Reglamento Z contienen las reglas de sucesores, incluido cómo un administrador confirma a un sucesor y qué protecciones aplican. Un sucesor confirmado puede pedir información, alegar errores y solicitar mitigación de pérdidas. El administrador no debe exigir que el sucesor asuma la deuda como condición de esas protecciones. La responsabilidad personal sigue siendo una cuestión del pagaré y de la ley estatal. Cifras de ejemplo no son un cargo por la confirmación."
     }
   }
 }

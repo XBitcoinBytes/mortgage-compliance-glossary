@@ -13,7 +13,7 @@
   "complianceNotes": "Map each person who talks to the applicant against the definition before they quote a rate. The person named on the Loan Estimate should be the originator responsible for the file. Licensing and the compensation rule are separate duties.",
   "example": {
     "setting": "Loan Estimate, page 3, Contact Information, Loan Originator and NMLS ID",
-    "text": "A sample contact block might name Jordan Lee, NMLS ID 100200, as loan originator on an example $280,000 purchase. The identifier is an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample contact block might name Jordan Lee, NMLS ID 100200, as loan originator on an example $280,000 purchase. Regulation Z defines the term in 12 CFR 1026.36, and the SAFE Act uses a parallel definition for licensing. Employees who only perform clerical tasks, underwriting, or processing may be outside the definition if they do not take applications or negotiate terms. A broker company can be a loan originator, and so can an individual. Compensation and steering rules apply to both. The identifier is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1026-36",
@@ -44,7 +44,7 @@
     "complianceNotes": "Compare a cada persona que habla con el solicitante con la definición antes de que cotice una tasa. La persona nombrada en la Estimación del préstamo debe ser el originador responsable del expediente. La licencia y la regla de compensación son deberes separados.",
     "example": {
       "setting": "Estimación del préstamo, página 3, Información de contacto, Originador del préstamo e identificador NMLS",
-      "text": "Un bloque de contacto de muestra puede nombrar a Jordan Lee, identificador NMLS 100200, como originador en una compra de ejemplo de $280,000. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un bloque de contacto de muestra podría nombrar a Jordan Lee, NMLS ID 100200, como originador del préstamo en una compra de ejemplo de $280,000. El Reglamento Z define el término en 12 CFR 1026.36, y la Ley SAFE usa una definición paralela para las licencias. Los empleados que solo realizan tareas administrativas, suscripción o procesamiento pueden quedar fuera de la definición si no toman solicitudes ni negocian términos. Una compañía corredora puede ser un originador del préstamo, y también un individuo. Las reglas de compensación y de dirección indebida aplican a ambos. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

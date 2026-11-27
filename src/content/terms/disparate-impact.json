@@ -8,7 +8,7 @@
   "complianceNotes": "Document why an overlay exists and review its effect before you adopt it. Remove an overlay that is not needed for the credit risk you can show. This entry is flagged because the case law moves.",
   "example": {
     "setting": "Policy review of a neutral overlay that may affect a protected class",
-    "text": "A sample lender might require an example minimum loan amount of $100,000. Whether that policy has a disparate impact depends on the data and the justification, not on the number alone. Example figures."
+    "text": "A sample lender might require an example minimum loan amount of $100,000. Whether that policy has a disparate impact depends on the data and the business justification, not on the number alone. The Fair Housing Act and Regulation B, 12 CFR 1002.4, are the authorities examiners and courts discuss. A lender that uses a minimum loan amount, a credit-score overlay, or a geography limit should be able to explain the business need and should look at the effect. Do not treat every difference in approval rates as a violation, and do not ignore a large unexplained difference. Example figures."
   },
   "citations": [
     "usc-42-3604",
@@ -30,7 +30,7 @@
     "complianceNotes": "Documente por qué existe un requisito adicional y revise su efecto antes de adoptarlo. Quite un requisito adicional que no es necesario para el riesgo de crédito que usted puede mostrar. Esta entrada está marcada porque la jurisprudencia se mueve.",
     "example": {
       "setting": "Revisión de política de un requisito adicional neutro que puede afectar a una clase protegida",
-      "text": "Un prestamista de muestra podría exigir un monto mínimo de préstamo de ejemplo de $100,000. Si esa política tiene un impacto dispar depende de los datos y de la justificación, no del número solo. Cifras de ejemplo."
+      "text": "Un prestamista de muestra podría exigir un monto mínimo de préstamo de ejemplo de $100,000. Si esa política tiene un impacto dispar depende de los datos y de la justificación comercial, no del número por sí solo. La Ley de Vivienda Justa y el Reglamento B, 12 CFR 1002.4, son las autoridades que invocan los examinadores y los tribunales. Un prestamista que usa un monto mínimo, un recargo de puntuación de crédito o un límite geográfico debe poder explicar la necesidad comercial y debe observar el efecto. No trate toda diferencia en las tasas de aprobación como una violación, y no ignore una diferencia grande sin explicación. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Disparate-impact doctrine is fact-specific and has been contested in the courts. Have counsel review any policy analysis before it is treated as a legal conclusion."

@@ -10,7 +10,7 @@
   "complianceNotes": "The legal name on the note, the Loan Estimate, and the NMLS record should be the same creditor. Update the Loan Estimate if the creditor changes before consummation, and check whether that change has its own disclosure consequence.",
   "example": {
     "setting": "Loan Estimate, page 3, Contact Information, Lender or creditor name and NMLS ID",
-    "text": "A sample page 3 might name Northline Mortgage as creditor, NMLS ID 445566, on an example $310,000 loan. The name and identifier are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample Loan Estimate page 3 might name Northline Mortgage as creditor, NMLS ID 445566, on an example $310,000 loan. Regulation Z defines the creditor in 12 CFR 1026.2 as the person to whom the obligation is initially payable, when that person regularly extends consumer credit. The Loan Estimate identifies that creditor under 12 CFR 1026.37. A correspondent that funds in its own name is the creditor on that loan. A broker is not, unless the note is payable to the broker. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1026-2",
@@ -36,7 +36,7 @@
     "complianceNotes": "El nombre legal en el pagaré, en la Estimación del préstamo y en el registro de NMLS debe ser el mismo acreedor. Actualice la Estimación del préstamo si el acreedor cambia antes de la consumación, y revise si ese cambio tiene su propia consecuencia de divulgación.",
     "example": {
       "setting": "Estimación del préstamo, página 3, Información de contacto, nombre del prestamista o acreedor e identificador NMLS",
-      "text": "Una página 3 de muestra puede nombrar a Northline Mortgage como acreedor, identificador NMLS 445566, en un préstamo de ejemplo de $310,000. El nombre y el identificador son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una página 3 de una Estimación del préstamo de muestra podría nombrar a Northline Mortgage como acreedor, NMLS ID 445566, en un préstamo de ejemplo de $310,000. El Reglamento Z define al acreedor en 12 CFR 1026.2 como la persona a quien la obligación es inicialmente pagadera, cuando esa persona otorga crédito al consumidor de forma habitual. La Estimación del préstamo identifica a ese acreedor bajo 12 CFR 1026.37. Un corresponsal que financia a su propio nombre es el acreedor de ese préstamo. Un corredor no lo es, a menos que el pagaré sea pagadero al corredor. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

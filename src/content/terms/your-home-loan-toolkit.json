@@ -11,7 +11,7 @@
   "complianceNotes": "Deliver the current CFPB booklet, not an old HUD booklet, and keep the evidence. Use the Spanish booklet when that is how the creditor is serving a Spanish-speaking applicant, without treating translation as a substitute for accurate English disclosures.",
   "example": {
     "setting": "Origination file, proof that the special information booklet was delivered with or within the required time after the application",
-    "text": "A sample file checklist might show the toolkit emailed the same day as an example application dated the 3rd of the month. The date is an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample file checklist might show the toolkit emailed the same day as an example purchase application dated the 3rd of the month. Regulation X, 12 CFR 1024.6, requires the special information booklet on federally related purchase mortgages, with the timing and exemptions stated in that section. It is not the list of homeownership counselors, which is a separate duty under 12 CFR 1024.20, and it is not a substitute for the Loan Estimate. The CFPB publishes an English version and a Spanish version. The date is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1024-6",
@@ -36,7 +36,7 @@
     "complianceNotes": "Entregue el folleto vigente de la CFPB, no un folleto viejo de HUD, y conserve la prueba. Use el folleto en español cuando así atienda el acreedor a un solicitante de habla hispana, sin tratar la traducción como sustituto de divulgaciones exactas en inglés.",
     "example": {
       "setting": "Expediente de originación, prueba de que el folleto especial de información se entregó con la solicitud o dentro del plazo exigido",
-      "text": "Una lista de muestra puede mostrar el conjunto de herramientas enviado por correo electrónico el mismo día de una solicitud de ejemplo con fecha el día 3 del mes. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una lista de verificación de muestra podría mostrar el conjunto de herramientas enviado por correo electrónico el mismo día de una solicitud de compra de ejemplo con fecha el día 3 del mes. El Reglamento X, 12 CFR 1024.6, exige el folleto de información especial en las hipotecas de compra federales relacionadas, con el plazo y las exenciones indicados en esa sección. No es la lista de organizaciones de consejería de vivienda, que es un deber aparte bajo 12 CFR 1024.20, y no sustituye la Estimación del préstamo. La CFPB publica una versión en inglés y una en español. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

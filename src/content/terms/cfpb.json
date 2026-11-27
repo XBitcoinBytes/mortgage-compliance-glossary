@@ -11,7 +11,7 @@
   "complianceNotes": "Use the Bureau's current form and the eCFR text, not a photocopy from a prior year, when a threshold or a form changes. The Bureau is not the investor. Fannie Mae, Freddie Mac, FHA, VA, and USDA still have their own guides.",
   "example": {
     "setting": "The agency that writes and examines the mortgage regulations in this glossary",
-    "text": "A sample compliance library might bookmark the Bureau's Loan Estimate page next to an example internal checklist. No fee is set by the Bureau in this illustration. Example figures are not a civil penalty."
+    "text": "A sample compliance library might bookmark the Bureau's Loan Estimate page next to an example internal checklist for a $320,000 purchase. The Consumer Financial Protection Bureau was created by the Dodd-Frank Act. Its mortgage resources include the integrated disclosure forms, the interactive regulations, and consumer explainers. Supervision and enforcement authority depends on the institution. Some banks are examined by a prudential regulator for consumer laws, with the Bureau involved as the statute provides. No fee or civil penalty is set by the Bureau in this illustration. Example figures are not a civil penalty."
   },
   "citations": [
     "cfpb-mortgage-resources",
@@ -41,7 +41,7 @@
     "complianceNotes": "Use el formulario vigente de la Oficina y el texto del eCFR, no una fotocopia de un año anterior, cuando cambia un umbral o un formulario. La Oficina no es el inversionista. Fannie Mae, Freddie Mac, la FHA, VA y USDA igual tienen sus propias guías.",
     "example": {
       "setting": "La agencia que escribe y examina los reglamentos hipotecarios de este glosario",
-      "text": "Una biblioteca de cumplimiento de muestra podría marcar la página de la Estimación del préstamo de la Oficina junto a una lista interna de ejemplo. Ningún cargo lo fija la Oficina en esta ilustración. Las cifras de ejemplo no son una sanción civil. Cifras de ejemplo."
+      "text": "Una biblioteca de cumplimiento de muestra podría guardar la página de la Estimación del préstamo de la Oficina junto a una lista interna de ejemplo para una compra de $320,000. La Oficina de Protección Financiera del Consumidor fue creada por la Ley Dodd-Frank. Sus recursos hipotecarios incluyen los formularios de divulgación integrada, los reglamentos interactivos y las explicaciones para consumidores. La autoridad de supervisión y de cumplimiento depende de la institución. Algunos bancos son examinados por un regulador prudencial en las leyes de consumo, con la Oficina involucrada según dispone la ley. Ningún cargo ni sanción civil lo fija la Oficina en esta ilustración. Cifras de ejemplo no son una sanción civil."
     }
   }
 }

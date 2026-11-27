@@ -10,7 +10,7 @@
   "complianceNotes": "Recompute small-creditor status each year from the current thresholds before you rely on a special QM or an escrow exemption. Keep the asset and origination math.",
   "example": {
     "setting": "Small-creditor status worksheet before using a special QM or HPML escrow provision",
-    "text": "A sample creditor might test an example origination count against the current 1026.35 definition. The count is not stated here because it is defined in the rule. Example figures are not the threshold."
+    "text": "A sample community-bank file for an example $185,000 loan might rely on small-creditor status only after the creditor tests its origination count and assets, including affiliates, against the current definition in 12 CFR 1026.35. That status can affect certain escrow exemptions and qualified-mortgage paths in 12 CFR 1026.43. The CFPB publishes annual adjustments. Ignoring affiliates can misclassify the creditor. Rural and underserved tests are separate where the rule uses them. The loan amount is an example figure. Example figures are not the threshold."
   },
   "citations": [
     "reg-1026-35",
@@ -33,7 +33,7 @@
     "complianceNotes": "Recalcule el estado de acreedor pequeño cada año a partir de los umbrales vigentes antes de apoyarse en una QM especial o en una exención de depósito en garantía. Conserve el cálculo de activos y de originaciones.",
     "example": {
       "setting": "Hoja del estado de acreedor pequeño antes de usar una QM especial o una disposición de depósito en garantía de HPML",
-      "text": "Un acreedor de muestra podría probar un conteo de originaciones de ejemplo contra la definición vigente de 1026.35. El conteo no se indica aquí porque está definido en la regla. Las cifras de ejemplo no son el umbral. Cifras de ejemplo."
+      "text": "Un expediente de un banco comunitario de muestra para un préstamo de ejemplo de $185,000 podría basarse en la condición de acreedor pequeño solo después de que el acreedor compare su número de originaciones y sus activos, incluidos los afiliados, con la definición vigente en 12 CFR 1026.35. Esa condición puede afectar ciertas exenciones de depósito en garantía y ciertas vías de hipoteca calificada en 12 CFR 1026.43. La CFPB publica ajustes anuales. Ignorar a los afiliados puede clasificar mal al acreedor. Las pruebas rurales y desatendidas son aparte donde la regla las usa. El monto del préstamo es una cifra de ejemplo. Cifras de ejemplo no son el umbral."
     }
   }
 }

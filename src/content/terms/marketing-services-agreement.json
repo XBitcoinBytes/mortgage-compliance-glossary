@@ -10,11 +10,12 @@
   "complianceNotes": "Do not sign a per-closing marketing deal. Have counsel review the services, the price, and the tracking. Keep proof the service was performed. This page does not provide a template for hiding a referral fee.",
   "example": {
     "setting": "Marketing contract reviewed for whether it pays for services or for referrals",
-    "text": "A sample contract paying an example $300 per closed loan for a logo on a website would be treated as a referral payment until the services were proved. Example figures of a risk, not a model."
+    "text": "A sample marketing-services agreement might pay an example $300 per closed loan for placing a lender's logo on a realtor website. Until the file shows that marketing work was actually performed, at a price that reflects those services and not a quota of closings, 12 CFR 1024.14 treats that payment as a referral fee. There is no CFR safe harbor that blesses the label \"MSA.\" The dollars are example figures of a risk, not a model contract. Example figures."
   },
   "citations": [
     "reg-1024-14",
-    "cfpb-mortgage-resources"
+    "cfpb-mortgage-resources",
+    "usc-12-2607"
   ],
   "related": [
     "affiliated-business-arrangement",
@@ -35,7 +36,7 @@
     "complianceNotes": "No firme un acuerdo de mercadeo por cada cierre. Haga que un asesor revise los servicios, el precio y el seguimiento. Conserve la prueba de que el servicio se prestó. Esta página no proporciona una plantilla para ocultar un cargo por referencia.",
     "example": {
       "setting": "Contrato de mercadeo revisado para ver si paga por servicios o por referencias",
-      "text": "Un contrato de muestra que paga un ejemplo de $300 por préstamo cerrado por un logotipo en un sitio web se trataría como un pago por referencia hasta que se probaran los servicios. Cifras de ejemplo de un riesgo, no un modelo."
+      "text": "Un acuerdo de servicios de mercadeo de muestra podría pagar un ejemplo de $300 por préstamo cerrado por colocar el logotipo de un prestamista en el sitio web de un agente inmobiliario. Hasta que el expediente muestre que el trabajo de mercadeo se realizó de verdad, a un precio que refleje esos servicios y no una cuota de cierres, 12 CFR 1024.14 trata ese pago como un cargo por referencia. No hay un puerto seguro en el CFR que bendiga la etiqueta \"MSA.\" Los dólares son cifras de ejemplo de un riesgo, no un contrato modelo. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Marketing services agreements have no regulatory safe harbor. Counsel should review any proposed agreement against 12 CFR 1024.14 and current CFPB enforcement."

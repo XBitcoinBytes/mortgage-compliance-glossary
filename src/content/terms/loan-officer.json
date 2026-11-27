@@ -11,7 +11,7 @@
   "complianceNotes": "Do not let an unlicensed assistant quote rates or take application information that starts the file, unless that person is outside the originator definition on the actual facts. Keep the NMLS ID on advertisements and on the Loan Estimate in agreement.",
   "example": {
     "setting": "Loan Estimate, page 3, Contact Information, the individual originator",
-    "text": "A sample page 3 might list loan officer Sam Patel, NMLS ID 222333, email and phone, for an example application. The identifier is an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample Loan Estimate page 3 might list loan officer Sam Patel, NMLS ID 222333, email and phone, for an example $310,000 application. 12 CFR 1026.36 and the SAFE Act attach licensing and compensation duties to the activity, not the job title. A bank employee registers through NMLS; a nonbank originator must hold the required state license. The person named on the Loan Estimate should be the originator on the file. The identifier is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1026-36",
@@ -38,7 +38,7 @@
     "complianceNotes": "No deje que un asistente sin licencia cotice tasas o tome datos de solicitud que inician el expediente, salvo que esa persona quede fuera de la definición de originador según los hechos reales. Mantenga el identificador NMLS de la publicidad y el de la Estimación del préstamo en acuerdo.",
     "example": {
       "setting": "Estimación del préstamo, página 3, Información de contacto, el originador individual",
-      "text": "Una página 3 de muestra puede listar al oficial de préstamos Sam Patel, identificador NMLS 222333, correo electrónico y teléfono, para una solicitud de ejemplo. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una página 3 de una Estimación del préstamo de muestra podría enumerar al oficial de préstamos Sam Patel, NMLS ID 222333, correo y teléfono, para una solicitud de ejemplo de $310,000. 12 CFR 1026.36 y la Ley SAFE vinculan las obligaciones de licencia y compensación a la actividad, no al título del puesto. Un empleado de un banco se registra a través de NMLS; un originador que no es banco debe tener la licencia estatal exigida. La persona nombrada en la Estimación del préstamo debe ser el originador del expediente. El identificador es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

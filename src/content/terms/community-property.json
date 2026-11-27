@@ -8,11 +8,12 @@
   "complianceNotes": "If the property is in a community-property state, pull the debts the guide requires even when the spouse is not an applicant. Do not require the spouse to sign the note solely because of marriage.",
   "example": {
     "setting": "Application, marital status and property state, plus the non-borrowing spouse debt search where required",
-    "text": "A sample file in a community-property state might add an example $350 monthly auto payment owed only by the non-borrowing spouse. Example figures, and only if that state's law and the guide require it."
+    "text": "A sample file in a community-property state might add an example $350 monthly auto payment owed only by the non-borrowing spouse, if that state's law and the current agency guide require it. Agency guides require the lender to consider community-property debts of a non-borrowing spouse when the guide says so. Regulation B, 12 CFR 1002.6, governs how a creditor evaluates an application and works together with 12 CFR 1002.7 on when a spouse's signature may be required. Do not publish a homemade list of states. Confirm the property state and the guide. Example figures."
   },
   "citations": [
     "fannie-guide",
-    "reg-1002-6"
+    "reg-1002-6",
+    "reg-1002-7"
   ],
   "related": [
     "co-borrower",
@@ -33,7 +34,7 @@
     "complianceNotes": "Si la propiedad está en un estado de comunidad conyugal, obtenga las deudas que exige la guía aunque el cónyuge no sea solicitante. No exija que el cónyuge firme el pagaré solo por el matrimonio.",
     "example": {
       "setting": "Solicitud, estado civil y estado de la propiedad, más la búsqueda de deudas del cónyuge que no solicita cuando se exige",
-      "text": "Un expediente de muestra en un estado de comunidad conyugal podría agregar un pago mensual de automóvil de ejemplo de $350 que debe solo el cónyuge que no solicita. Cifras de ejemplo, y solo si la ley de ese estado y la guía lo exigen."
+      "text": "Un expediente de muestra en un estado de comunidad conyugal podría agregar un pago mensual de automóvil de ejemplo de $350 adeudado solo por el cónyuge que no es prestatario, si la ley de ese estado y la guía vigente de la agencia lo exigen. Las guías de las agencias exigen que el prestamista considere las deudas de comunidad conyugal de un cónyuge no prestatario cuando la guía lo indica. El Reglamento B, 12 CFR 1002.6, rige cómo un acreedor evalúa una solicitud y funciona junto con 12 CFR 1002.7 sobre cuándo se puede exigir la firma del cónyuge. No publique una lista casera de estados. Confirme el estado de la propiedad y la guía. Cifras de ejemplo."
     }
   }
 }

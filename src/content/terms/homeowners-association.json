@@ -10,7 +10,7 @@
   "complianceNotes": "Put the current dues in PITIA and ask about special assessments. Do not clear a condo file on the unit appraisal alone. Obtain the questionnaire the guide requires.",
   "example": {
     "setting": "HOA statement or questionnaire, and the dues line inside PITIA",
-    "text": "A sample condo might have example dues of $285 a month included in a $2,100 PITIA. Those dues are part of the monthly housing payment. Overdue dues can become a lien that title must clear. Example figures."
+    "text": "A sample condo might have example dues of $285 a month included in a $2,100 PITIA. Fannie Mae B3-6-03 includes association dues in the housing expense, and special assessments can count as well. Those dues are part of the monthly housing payment. Overdue dues can become a lien that title must clear. Project reviews for condominiums and some planned unit developments are separate collateral work in the Selling Guide. A questionnaire from the association is common evidence of dues, insurance, and delinquency. Example figures."
   },
   "citations": [
     "fannie-b3-6-03",
@@ -36,7 +36,7 @@
     "complianceNotes": "Incluya las cuotas vigentes en el PITIA y pregunte por cuotas especiales. No levante un expediente de condominio solo con la tasación de la unidad. Obtenga el cuestionario que exige la guía.",
     "example": {
       "setting": "Estado o cuestionario de la asociación, y la línea de cuotas dentro del PITIA",
-      "text": "Un condominio de muestra puede tener cuotas de ejemplo de $285 al mes incluidas en un PITIA de $2,100. Esas cuotas son parte del pago mensual de la vivienda. Las cuotas atrasadas pueden volverse un gravamen que el título debe limpiar. Cifras de ejemplo."
+      "text": "Un condominio de muestra podría tener cuotas de ejemplo de $285 al mes incluidas en un PITIA de $2,100. Fannie Mae B3-6-03 incluye las cuotas de la asociación en el gasto de vivienda, y las derramas especiales también pueden contar. Esas cuotas forman parte del pago mensual de vivienda. Las cuotas vencidas pueden convertirse en un gravamen que el título debe liquidar. Las revisiones de proyectos de condominios y de algunos desarrollos de unidades planificadas son un trabajo colateral aparte en la Guía de venta. Un cuestionario de la asociación es una evidencia común de las cuotas, el seguro y la morosidad. Cifras de ejemplo."
     }
   }
 }

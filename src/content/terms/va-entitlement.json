@@ -8,7 +8,7 @@
   "complianceNotes": "Read the certificate before you promise zero down on a second VA loan. Document restoration if a prior loan was paid off and the entitlement was released.",
   "example": {
     "setting": "Certificate of Eligibility showing available entitlement",
-    "text": "A sample certificate might show partial entitlement remaining after an example prior loan. The dollar line must be read from the certificate, not invented. Example figures are not an entitlement amount."
+    "text": "A sample Certificate of Eligibility might show partial entitlement remaining after an example prior loan. VA Pamphlet 26-7, Chapter 2, explains how to read the certificate and how entitlement is restored after a sale or a payoff. The guaranty is what protects the lender; it is not cash to the veteran. Using entitlement on one home can reduce what is left for the next, unless restoration rules are met. The dollar line must be read from the certificate, not invented. Example figures are not an entitlement amount."
   },
   "citations": [
     "va-pamphlet",
@@ -29,7 +29,7 @@
     "complianceNotes": "Lea el certificado antes de prometer cero pago inicial en un segundo préstamo VA. Documente la restauración si un préstamo anterior se liquidó y el derecho se liberó.",
     "example": {
       "setting": "Certificado de elegibilidad que muestra el derecho disponible",
-      "text": "Un certificado de muestra podría mostrar un derecho parcial restante después de un préstamo anterior de ejemplo. La línea en dólares debe leerse en el certificado, no inventarse. Las cifras de ejemplo no son un monto de derecho. Cifras de ejemplo."
+      "text": "Un Certificado de Elegibilidad de muestra podría mostrar un derecho parcial restante después de un préstamo anterior de ejemplo. El Folleto VA 26-7, Capítulo 2, explica cómo leer el certificado y cómo se restablece el derecho después de una venta o un pago total. La garantía es lo que protege al prestamista; no es dinero en efectivo para el veterano. Usar el derecho en una vivienda puede reducir lo que queda para la siguiente, a menos que se cumplan las reglas de restablecimiento. La línea en dólares debe leerse del certificado, no inventarse. Cifras de ejemplo no son un monto de derecho."
     }
   }
 }

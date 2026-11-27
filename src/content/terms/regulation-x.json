@@ -11,7 +11,7 @@
   "complianceNotes": "Map each servicing complaint to a section: a payment dispute may be a notice of error, a request for a payoff history may be a request for information, and a foreclosure timeline question may be 1024.41. Do not answer all of them with one generic letter.",
   "example": {
     "setting": "Regulation X servicing and escrow procedures, 12 CFR Part 1024",
-    "text": "A sample error notice might challenge an example $75 late fee. The dollar amount is an example figure. The response clock is the one in 12 CFR 1024.35. Example figures, not a quote or a legal limit."
+    "text": "A sample error notice might challenge an example $75 late fee. The response clock is the one in 12 CFR 1024.35, not a courtesy deadline the servicer invents. Regulation X, 12 CFR Part 1024, also covers kickbacks, affiliated businesses, escrow, servicing transfers, information requests, force-placed insurance, early intervention, continuity of contact, and loss mitigation. Small servicers have some exemptions defined elsewhere; read the section before you assume one applies. The dollar amount is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1024"
@@ -33,7 +33,7 @@
     "complianceNotes": "Asigne cada queja de administración a una sección: una disputa de pago puede ser un aviso de error, un pedido del historial de liquidación puede ser un pedido de información, y una pregunta de plazo de ejecución hipotecaria puede ser 1024.41. No responda todas con una sola carta genérica.",
     "example": {
       "setting": "Procedimientos de administración y de depósito en garantía del Reglamento X, 12 CFR Parte 1024",
-      "text": "Un aviso de error de muestra puede cuestionar un cargo por mora de ejemplo de $75. El monto es una cifra de ejemplo. El plazo de respuesta es el de 12 CFR 1024.35. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un aviso de error de muestra podría cuestionar un cargo por mora de ejemplo de $75. El plazo de respuesta es el de 12 CFR 1024.35, no un plazo de cortesía que invente el administrador. El Reglamento X, 12 CFR Parte 1024, también cubre las comisiones por referencia, los negocios afiliados, el depósito en garantía, las transferencias de administración, las solicitudes de información, el seguro colocado por la fuerza, la intervención temprana, la continuidad de contacto y la mitigación de pérdidas. Los administradores pequeños tienen algunas exenciones definidas en otra parte; lea la sección antes de asumir que una aplica. El monto en dólares es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

@@ -10,7 +10,7 @@
   "complianceNotes": "Read the zone on the determination and order insurance before closing when the zone requires it. Do not tell the borrower a zone is safe because a neighbor is not in it.",
   "example": {
     "setting": "Flood determination certificate, zone designation",
-    "text": "A sample determination might read Zone AE for an example property. The zone is the fact. Any premium shown in training, such as $900, is an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample flood determination might read Zone AE for an example property, which ordinarily triggers the mandatory-purchase rule in 42 USC 4012a. FEMA's flood maps and the National Flood Insurance Program explain the zones. A Zone X determination ordinarily does not trigger mandatory purchase. A lender should not reclassify a zone to avoid the premium. A surveyor or an elevation certificate may support a map change, but that change is FEMA's process, not the loan officer's. Any premium shown in training, such as $900, is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "usc-42-4012a",
@@ -34,7 +34,7 @@
     "complianceNotes": "Lea la zona en la determinación y pida el seguro antes del cierre cuando la zona lo exige. No le diga al prestatario que una zona es segura porque un vecino no está en ella.",
     "example": {
       "setting": "Certificado de determinación de inundación, designación de la zona",
-      "text": "Una determinación de muestra puede decir Zona AE para una propiedad de ejemplo. La zona es el hecho. Cualquier prima mostrada en la capacitación, como $900, es una cifra de ejemplo. Cifras de ejemplo."
+      "text": "Una determinación de inundación de muestra podría indicar Zona AE para una propiedad de ejemplo, lo que normalmente activa la regla de compra obligatoria en 42 USC 4012a. Los mapas de inundación de FEMA y el Programa Nacional de Seguro contra Inundaciones explican las zonas. Una determinación de Zona X normalmente no activa la compra obligatoria. Un prestamista no debe reclasificar una zona para evitar la prima. Un agrimensor o un certificado de elevación puede respaldar un cambio de mapa, pero ese cambio es el proceso de FEMA, no el del oficial de préstamos. Cualquier prima mostrada en una capacitación, como $900, es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

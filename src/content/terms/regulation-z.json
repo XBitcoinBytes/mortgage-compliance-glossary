@@ -11,7 +11,7 @@
   "complianceNotes": "Cite the section, not the whole part, in an exam response. Check the current eCFR text before you rely on a remembered threshold. Dollar thresholds in this part are often adjusted annually.",
   "example": {
     "setting": "Regulation Z citations on the disclosure file, 12 CFR Part 1026",
-    "text": "A sample compliance checklist might mark 12 CFR 1026.19(e) complete for an example Loan Estimate dated the 2nd of the month. The date is an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample compliance checklist might mark 12 CFR 1026.19(e) complete for an example Loan Estimate dated the 2nd of the month. Part 1026 is organized by topic: 1026.19, 1026.37, and 1026.38 are the TRID timing and form rules; 1026.23 is rescission; 1026.32 and 1026.34 are HOEPA; 1026.35 is higher-priced mortgage loans; 1026.36 is loan originators; and 1026.43 is ability to repay and qualified mortgages. Always read the section that matches the question, plus its official interpretation. The date is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1026"
@@ -33,7 +33,7 @@
     "complianceNotes": "Cite la sección, no toda la parte, en una respuesta de examen. Revise el texto vigente del eCFR antes de apoyarse en un umbral recordado. Los umbrales en dólares de esta parte a menudo se ajustan cada año.",
     "example": {
       "setting": "Citas del Reglamento Z en el expediente de divulgación, 12 CFR Parte 1026",
-      "text": "Una lista de cumplimiento de muestra puede marcar 12 CFR 1026.19(e) como completo para una Estimación del préstamo de ejemplo con fecha el día 2 del mes. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una lista de cumplimiento de muestra podría marcar 12 CFR 1026.19(e) como completo para una Estimación del préstamo de ejemplo con fecha el día 2 del mes. La Parte 1026 está organizada por tema: 1026.19, 1026.37 y 1026.38 son las reglas de plazos y formularios de TRID; 1026.23 es la rescisión; 1026.32 y 1026.34 son HOEPA; 1026.35 son los préstamos hipotecarios de precio más alto; 1026.36 son los originadores; y 1026.43 es la capacidad de pago y las hipotecas calificadas. Siempre lea la sección que corresponde a la pregunta, más su interpretación oficial. La fecha es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

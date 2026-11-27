@@ -8,12 +8,13 @@
   "complianceNotes": "Put the extension agreement, the fee, and the new expiration in the file before documents are drawn. If a fee is added, test it against the tolerance buckets. Do not assume an extension is a changed circumstance.",
   "example": {
     "setting": "Lock confirmation in the origination file, and Loan Estimate, page 1, Rate Lock expiration if a revised disclosure is issued",
-    "text": "A sample extension might add seven days to a lock and charge an example fee of $250 on a $400,000 loan, shown later in Section A if the creditor imposes it. Example figures, not a required price."
+    "text": "A sample extension might add seven days to a lock and charge an example fee of $250 on a $400,000 loan, shown later in Section A if the creditor imposes it. Revised estimates are allowed only for the reasons in 12 CFR 1026.19(e)(3)(iv). An extension the creditor offers because its own lock expired is often a creditor-caused delay, which the rule treats differently from a changed circumstance outside the creditor's control. The new expiration still has to be disclosed if the lock information changes. Example figures, not a required price."
   },
   "citations": [
     "reg-1026-19",
     "reg-1026-37",
-    "practice-file"
+    "practice-file",
+    "reg-1026-19-e-3-iv"
   ],
   "related": [
     "changed-circumstance",
@@ -32,7 +33,7 @@
     "complianceNotes": "Incluya en el expediente el acuerdo de extensión, el cargo y el nuevo vencimiento antes de preparar los documentos. Si se agrega un cargo, pruébelo contra los grupos de tolerancia. No suponga que una extensión es una circunstancia cambiada.",
     "example": {
       "setting": "Confirmación de fijación en el expediente, y Estimación del préstamo, página 1, vencimiento de la fijación si se emite una divulgación revisada",
-      "text": "Una extensión de muestra puede agregar siete días a una fijación y cobrar un cargo de ejemplo de $250 sobre un préstamo de $400,000, mostrado después en la Sección A si el acreedor lo impone. Cifras de ejemplo, no un precio obligatorio."
+      "text": "Una extensión de muestra podría agregar siete días a una fijación y cobrar un cargo de ejemplo de $250 en un préstamo de $400,000, mostrado después en la Sección A si el acreedor lo impone. Las estimaciones revisadas se permiten solo por las razones en 12 CFR 1026.19(e)(3)(iv). Una extensión que el acreedor ofrece porque su propia fijación venció suele ser una demora causada por el acreedor, que la regla trata de forma distinta de un cambio de circunstancias fuera de su control. El nuevo vencimiento todavía tiene que divulgarse si cambia la información de la fijación. Cifras de ejemplo, no un precio obligatorio."
     }
   }
 }

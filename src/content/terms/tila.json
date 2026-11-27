@@ -12,11 +12,13 @@
   "complianceNotes": "When a question is about the APR, the finance charge, rescission, advertising, or ability to repay, start with Regulation Z. When it is about a referral fee or a servicing error, start with Regulation X.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure finance-charge and APR disclosures, which implement TILA",
-    "text": "A sample Closing Disclosure loan-calculations section might show an example finance charge and an example APR of 6.82 percent on a note rate of 6.50 percent. Example figures, not a market quote."
+    "text": "A sample Closing Disclosure loan-calculations section might show an example finance charge and an example APR of 6.82 percent on a note rate of 6.50 percent. The Truth in Lending Act begins at 15 USC 1601; ability to repay is at 15 USC 1639c, and HOEPA's high-cost rules are in 15 USC 1639. Regulation Z, 12 CFR Part 1026, implements the statute. TILA is not RESPA. A file can violate one statute and not the other. Example figures, not a market quote."
   },
   "citations": [
     "usc-15-1601",
-    "reg-1026"
+    "reg-1026",
+    "usc-15-1639c",
+    "usc-15-1639"
   ],
   "related": [
     "ability-to-repay",
@@ -38,7 +40,7 @@
     "complianceNotes": "Cuando la pregunta es sobre la tasa porcentual anual, el cargo por financiamiento, la rescisión, la publicidad o la capacidad de pago, empiece por el Reglamento Z. Cuando es sobre un cargo por referencia o un error de administración, empiece por el Reglamento X.",
     "example": {
       "setting": "Divulgaciones del cargo por financiamiento y de la tasa porcentual anual en la Estimación del préstamo y la Divulgación del cierre, que aplican TILA",
-      "text": "Una sección de cálculos del préstamo de una Divulgación del cierre de muestra puede mostrar un cargo por financiamiento de ejemplo y una tasa porcentual anual de ejemplo del 6.82 por ciento sobre una tasa del pagaré del 6.50 por ciento. Cifras de ejemplo, no una cotización de mercado."
+      "text": "Una sección de cálculos del préstamo de una Divulgación del cierre de muestra podría mostrar un cargo por financiamiento de ejemplo y una tasa porcentual anual de ejemplo del 6.82 por ciento sobre una tasa del pagaré del 6.50 por ciento. La Ley de Veracidad en los Préstamos comienza en 15 USC 1601; la capacidad de pago está en 15 USC 1639c, y las reglas de alto costo de HOEPA están en 15 USC 1639. El Reglamento Z, 12 CFR Parte 1026, implementa la ley. TILA no es RESPA. Un expediente puede violar una ley y no la otra. Cifras de ejemplo, no una cotización de mercado."
     }
   }
 }

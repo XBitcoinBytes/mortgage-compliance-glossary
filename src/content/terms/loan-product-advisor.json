@@ -11,7 +11,7 @@
   "complianceNotes": "Do not deliver an LPA loan on DU findings or the reverse. Resubmit when the loan data change. Clear every feedback message that the guide treats as a condition.",
   "example": {
     "setting": "Loan Product Advisor feedback certificate in the underwriting file",
-    "text": "A sample feedback certificate might list an example loan of $265,000 and a risk class the lender then documents. Example figures. The risk-class label should be read from the certificate, not assumed."
+    "text": "A sample Loan Product Advisor feedback certificate might list an example loan of $265,000 and a risk class the lender then documents from the certificate, not from memory. Freddie Mac's Seller/Servicer Guide and the LPA documentation govern the assessment, the data, and the conditions. The lender remains responsible for accurate data and for ability to repay. Older market speech called the system Loan Prospector; use the current name in the file. Example figures, not an automated decision."
   },
   "citations": [
     "freddie-lpa",
@@ -35,7 +35,7 @@
     "complianceNotes": "No entregue un préstamo de LPA con hallazgos de DU ni al revés. Vuelva a enviar cuando cambien los datos del préstamo. Levante cada mensaje de retroalimentación que la guía trate como condición.",
     "example": {
       "setting": "Certificado de retroalimentación de Loan Product Advisor en el expediente de suscripción",
-      "text": "Un certificado de muestra puede listar un préstamo de ejemplo de $265,000 y una clase de riesgo que el prestamista luego documenta. Cifras de ejemplo. La etiqueta de la clase de riesgo debe leerse en el certificado, no suponerse."
+      "text": "Un certificado de comentarios de Loan Product Advisor de muestra podría enumerar un préstamo de ejemplo de $265,000 y una clase de riesgo que el prestamista documenta a partir del certificado, no de memoria. La Guía del vendedor/administrador de Freddie Mac y la documentación de LPA rigen la evaluación, los datos y las condiciones. El prestamista sigue siendo responsable de la exactitud de los datos y de la capacidad de pago. Antes, en el mercado, el sistema se llamaba Loan Prospector; use el nombre vigente en el expediente. Cifras de ejemplo, no una decisión automatizada."
     }
   }
 }

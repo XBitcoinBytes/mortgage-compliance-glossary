@@ -11,7 +11,7 @@
   "complianceNotes": "Document which score was selected and why. When a co-borrower is added or removed, recalculate. Do not average the three bureau scores.",
   "example": {
     "setting": "AUS findings and the underwriting transmittal, representative score field",
-    "text": "If example scores are 700, 720, and 742, the single-borrower representative score under the usual middle-of-three method is 720. Example figures. Confirm the current section when a score is missing."
+    "text": "If example scores are 700, 720, and 742, the single-borrower representative score under the usual middle-of-three method in Fannie Mae B3-5.1-02 is 720. That section also states the lower-of-two rule when a repository is missing and the rule for multiple borrowers. The representative score drives eligibility and pricing in the matrix. Desktop Underwriter uses the scores submitted. A mis-selected score can make an ineligible loan look eligible. Example figures. Confirm the current section when a score is missing."
   },
   "citations": [
     "fannie-b3-5-1-02"
@@ -32,7 +32,7 @@
     "complianceNotes": "Documente qué puntaje se eligió y por qué. Cuando se agrega o se quita un coprestatario, vuelva a calcular. No promedie los tres puntajes de las agencias.",
     "example": {
       "setting": "Hallazgos del AUS y la hoja de transmisión, campo del puntaje representativo",
-      "text": "Si los puntajes de ejemplo son 700, 720 y 742, el puntaje representativo de un solo prestatario según el método usual del puntaje de en medio es 720. Cifras de ejemplo. Confirme la sección vigente cuando falta un puntaje."
+      "text": "Si las puntuaciones de ejemplo son 700, 720 y 742, la puntuación representativa de un solo prestatario bajo el método habitual del medio de tres en Fannie Mae B3-5.1-02 es 720. Esa sección también indica la regla del menor de dos cuando falta un repositorio y la regla para varios prestatarios. La puntuación representativa determina la elegibilidad y el precio en la matriz. Desktop Underwriter usa las puntuaciones enviadas. Una puntuación mal seleccionada puede hacer que un préstamo inelegible parezca elegible. Cifras de ejemplo. Confirme la sección vigente cuando falte una puntuación."
     }
   }
 }

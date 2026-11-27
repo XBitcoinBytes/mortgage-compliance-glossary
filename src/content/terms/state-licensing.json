@@ -8,12 +8,13 @@
   "complianceNotes": "Check company and individual authority in the property state before application. Track sponsorship and renewal dates. Do not rely on a license in the originator's home state alone.",
   "example": {
     "setting": "State license record in NMLS for the property state",
-    "text": "A sample NMLS record might show an active license in one state and an example renewal date. The date is an example figure, not a statutory deadline. Example figures, not a quote or a legal limit."
+    "text": "A sample NMLS record might show an active license in one state and an example renewal date of January 31. 12 USC 5104 and Regulation H, 12 CFR Part 1008, are the federal floor; the state regulator issues the license through NMLS. Depository institutions and their registered originators follow Regulation G, 12 CFR Part 1007, instead of a state license in the situations the SAFE Act describes. Working in a state without authority, even for one loan, is a licensing problem. The date is an example figure, not a statutory deadline. Example figures."
   },
   "citations": [
     "usc-12-5104",
     "reg-1008",
-    "nmls"
+    "nmls",
+    "reg-1007"
   ],
   "related": [
     "loan-officer",
@@ -31,7 +32,7 @@
     "complianceNotes": "Verifique la autoridad de la empresa y de la persona en el estado de la propiedad antes de la solicitud. Controle las fechas de patrocinio y de renovación. No se apoye solo en una licencia del estado de residencia del originador.",
     "example": {
       "setting": "Registro de licencia estatal en NMLS para el estado de la propiedad",
-      "text": "Un registro de NMLS de muestra puede mostrar una licencia activa en un estado y una fecha de renovación de ejemplo. La fecha es una cifra de ejemplo, no un plazo legal. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un registro NMLS de muestra podría mostrar una licencia activa en un estado y una fecha de renovación de ejemplo del 31 de enero. 12 USC 5104 y el Reglamento H, 12 CFR Parte 1008, son el piso federal; el regulador estatal emite la licencia a través de NMLS. Las instituciones de depósito y sus originadores registrados siguen el Reglamento G, 12 CFR Parte 1007, en lugar de una licencia estatal en las situaciones que describe la Ley SAFE. Trabajar en un estado sin autoridad, incluso por un préstamo, es un problema de licencia. La fecha es una cifra de ejemplo, no un plazo legal. Cifras de ejemplo."
     }
   }
 }
