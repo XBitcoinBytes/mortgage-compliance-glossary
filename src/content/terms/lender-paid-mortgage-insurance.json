@@ -10,11 +10,12 @@
   "complianceNotes": "Disclose the higher rate honestly and do not promise HPA cancellation at 80 percent. Compare the lifetime cost with borrower-paid MI using example numbers labeled as examples.",
   "example": {
     "setting": "Higher note rate with no monthly PMI line, because the lender pays the premium",
-    "text": "A sample lender-paid structure might show an example note rate 0.25 percentage point higher and no monthly MI line. You generally cannot cancel it at 80 percent under the Homeowners Protection Act the way you cancel borrower-paid PMI. Example figures."
+    "text": "A sample lender-paid structure might show an example note rate 0.25 percentage point higher and no monthly MI line. You generally cannot cancel it at 80 percent under the Homeowners Protection Act the way you cancel borrower-paid PMI. The HPA's cancellation rights in 12 USC 4902 are built for borrower-paid private mortgage insurance, and 12 USC 4901's definitions matter before anyone promises cancellation. The higher rate lasts according to the note. A refinance into a loan without MI is a new transaction, not an HPA cancellation. Example figures."
   },
   "citations": [
     "usc-12-4901",
-    "fannie-guide"
+    "fannie-guide",
+    "usc-12-4902"
   ],
   "related": [
     "borrower-paid-mortgage-insurance",
@@ -35,7 +36,7 @@
     "complianceNotes": "Divulgue la tasa más alta con honestidad y no prometa la cancelación de la HPA al 80 por ciento. Compare el costo de por vida con el MI pagado por el prestatario usando números de ejemplo etiquetados como ejemplos.",
     "example": {
       "setting": "Tasa del pagaré más alta sin línea mensual de PMI, porque el prestamista paga la prima",
-      "text": "Una estructura pagada por el prestamista de muestra podría mostrar una tasa del pagaré de ejemplo 0.25 puntos porcentuales más alta y ninguna línea mensual de MI. Por lo general no puede cancelarla en el 80 por ciento bajo la Ley de Protección de los Propietarios como cancela el PMI pagado por el prestatario. Cifras de ejemplo."
+      "text": "Una estructura pagada por el prestamista de muestra podría mostrar una tasa del pagaré de ejemplo 0.25 puntos porcentuales más alta y ninguna línea mensual de MI. Por lo general no puede cancelarla en el 80 por ciento bajo la Ley de Protección de los Propietarios como cancela el PMI pagado por el prestatario. Los derechos de cancelación de la HPA en 12 USC 4902 están pensados para el seguro hipotecario privado pagado por el prestatario, y las definiciones de 12 USC 4901 importan antes de que alguien prometa una cancelación. La tasa más alta dura según el pagaré. Un refinanciamiento a un préstamo sin MI es una transacción nueva, no una cancelación de la HPA. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Confirm HPA coverage of lender-paid mortgage insurance under 12 USC 4901 before telling borrowers they cannot cancel it, and before telling them they can."

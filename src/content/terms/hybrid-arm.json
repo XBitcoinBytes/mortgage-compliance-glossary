@@ -8,7 +8,7 @@
   "complianceNotes": "Name the fixed period and the adjustment frequency on the form and in the conversation. Show a payment that can rise. Confirm the plan is eligible before delivery.",
   "example": {
     "setting": "Loan Estimate product description such as 5/6 or 7/6 adjustable rate",
-    "text": "A sample 7/6 ARM on an example $480,000 loan would show a seven-year fixed period on page 1, then the rate can adjust. The qualifying rate may not be the start rate. Do not advertise the fixed period as if the loan were fixed for the full term. Example figures."
+    "text": "A sample 7/6 ARM on an example $480,000 loan would show a seven-year fixed period on page 1, then the rate can adjust. The Loan Estimate must describe the product under 12 CFR 1026.37 so the borrower can see the fixed period and that the rate can change. Agency eligibility for a particular ARM plan is in the Selling Guide. The qualifying rate may not be the start rate. Do not advertise the fixed period as if the loan were fixed for the full term. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -32,7 +32,7 @@
     "complianceNotes": "Nombre el período fijo y la frecuencia de ajuste en el formulario y en la conversación. Muestre un pago que puede subir. Confirme que el plan es elegible antes de la entrega.",
     "example": {
       "setting": "Descripción del producto en la Estimación del préstamo, como tasa ajustable 5/6 o 7/6",
-      "text": "Una ARM 7/6 de muestra sobre un préstamo de ejemplo de $480,000 mostraría un período fijo de siete años en la página 1, y luego la tasa puede ajustarse. La tasa de calificación puede no ser la tasa inicial. No anuncie el período fijo como si el préstamo fuera fijo por todo el plazo. Cifras de ejemplo."
+      "text": "Una ARM 7/6 de muestra sobre un préstamo de ejemplo de $480,000 mostraría un período fijo de siete años en la página 1, y luego la tasa puede ajustarse. La Estimación del préstamo debe describir el producto bajo 12 CFR 1026.37 para que el prestatario vea el período fijo y que la tasa puede cambiar. La elegibilidad de las agencias para un plan ARM particular está en la Guía de venta. La tasa de calificación puede no ser la tasa inicial. No anuncie el período fijo como si el préstamo fuera fijo por todo el plazo. Cifras de ejemplo."
     }
   }
 }

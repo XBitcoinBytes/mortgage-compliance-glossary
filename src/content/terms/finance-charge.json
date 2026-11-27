@@ -10,7 +10,7 @@
   "complianceNotes": "Classify each fee as inside or outside the finance charge before you compute the APR. Do not treat title insurance and the origination fee the same way. Recalculate when points change.",
   "example": {
     "setting": "Closing Disclosure, page 5, Loan Calculations, finance charge",
-    "text": "A sample Closing Disclosure, page 5, Loan Calculations, might show an example finance charge of $214,000 over the life of the loan. That figure is the dollar cost of credit shown there; it is not cash to close and not the amount financed. Example figures, not a quote."
+    "text": "A sample Closing Disclosure, page 5, Loan Calculations, might show an example finance charge of $214,000 over the life of the loan. 12 CFR 1026.4 defines the finance charge and the exclusions, including some real-estate related fees if they are bona fide and reasonable. The annual percentage rate is built from the finance charge and the amount financed under 12 CFR 1026.22. Points and fees for QM and HOEPA are a different total. A tolerance error on a finance charge can also make the APR inaccurate. That figure is the dollar cost of credit shown there; it is not cash to close and not the amount financed. Example figures, not a quote."
   },
   "citations": [
     "reg-1026-4",
@@ -45,7 +45,7 @@
     "complianceNotes": "Clasifique cada cargo como dentro o fuera del cargo por financiamiento antes de calcular la tasa porcentual anual. No trate el seguro de título y la tarifa de originación del mismo modo. Recalcule cuando cambian los puntos.",
     "example": {
       "setting": "Divulgación del cierre, página 5, Cálculos del préstamo, cargo por financiamiento",
-      "text": "Una Divulgación del cierre de muestra, página 5, Cálculos del préstamo, puede mostrar un cargo por financiamiento de ejemplo de $214,000 durante la vida del préstamo. Esa cifra es el costo en dólares del crédito que aparece ahí; no es el efectivo para el cierre ni el monto financiado. Cifras de ejemplo, no una cotización."
+      "text": "Una Divulgación del cierre de muestra, página 5, Calculos del préstamo, puede mostrar un cargo por financiamiento de ejemplo de $214,000 durante la vida del préstamo. 12 CFR 1026.4 define el cargo por financiamiento y las exclusiones, incluidos algunos cargos relacionados con bienes raices si son de buena fe y razonables. La tasa porcentual anual se construye a partir del cargo por financiamiento y del monto financiado bajo 12 CFR 1026.22. Los puntos y cargos para una hipoteca calificada y HOEPA son un total distinto. Un error de tolerancia en un cargo por financiamiento también puede hacer inexacta la tasa porcentual anual. Esa cifra es el costo en dólares del crédito que aparece ahí; no es el efectivo para el cierre ni el monto financiado. Cifras de ejemplo, no una cotización."
     }
   }
 }

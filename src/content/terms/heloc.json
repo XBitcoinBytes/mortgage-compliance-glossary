@@ -11,7 +11,7 @@
   "complianceNotes": "Do not issue a Loan Estimate for a HELOC. Give the open-end disclosures. If the line sits behind a new first mortgage, enter the full limit in HCLTV.",
   "example": {
     "setting": "HELOC early disclosures under Regulation Z, not a Loan Estimate",
-    "text": "A sample line might have an example limit of $40,000 and a $5,000 initial draw. The early disclosures are the open-end forms under Regulation Z, not a Loan Estimate. When a first mortgage is also being underwritten, the undrawn limit counts in the HCLTV. Example figures."
+    "text": "A sample line might have an example limit of $40,000 and a $5,000 initial draw. 12 CFR 1026.40 states the disclosure requirements for home-equity plans. A HELOC on a principal dwelling can carry a right of rescission under 12 CFR 1026.23. The early disclosures are the open-end forms under Regulation Z, not a Loan Estimate. When a first mortgage is also being underwritten, the undrawn limit counts in the HCLTV. The payment used in a debt ratio depends on the guide when the line is a debt on another loan's application. Variable rates and teasers must be disclosed as the HELOC rules require. Example figures."
   },
   "citations": [
     "reg-1026-40",
@@ -39,7 +39,7 @@
     "complianceNotes": "No emita una Estimación del préstamo para una HELOC. Dé las divulgaciones de crédito abierto. Si la línea está detrás de una nueva primera hipoteca, ingrese el límite completo en la HCLTV.",
     "example": {
       "setting": "Divulgaciones tempranas de la HELOC según el Reglamento Z, no una Estimación del préstamo",
-      "text": "Una línea de muestra podría tener un límite de ejemplo de $40,000 y una disposición inicial de $5,000. Las divulgaciones tempranas son los formularios de crédito abierto según el Reglamento Z, no una Estimación del préstamo. Cuando también se está suscribiendo una primera hipoteca, el límite no dispuesto cuenta en el HCLTV. Cifras de ejemplo."
+      "text": "Una línea de muestra podría tener un límite de ejemplo de $40,000 y una disposición inicial de $5,000. 12 CFR 1026.40 indica los requisitos de divulgación para los planes de equidad sobre la vivienda. Una HELOC sobre una vivienda principal puede llevar un derecho de rescisión bajo 12 CFR 1026.23. Las divulgaciones tempranas son los formularios de crédito abierto según el Reglamento Z, no una Estimación del préstamo. Cuando también se está suscribiendo una primera hipoteca, el límite no dispuesto cuenta en el HCLTV. El pago usado en una relación de deudas depende de la guía cuando la línea es una deuda en la solicitud de otro préstamo. Las tasas variables y las tasas de introducción deben divulgarse como exigen las reglas de HELOC. Cifras de ejemplo."
     }
   }
 }

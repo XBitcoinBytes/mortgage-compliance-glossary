@@ -10,7 +10,7 @@
   "complianceNotes": "Separate appraisal ordering from loan-production pay. Do not email an appraiser the value you need. Log any reconsideration and the new data that supported it.",
   "example": {
     "setting": "Appraisal order file, showing the appraiser was not selected by production staff to hit a value",
-    "text": "A prohibited sample request would say please hit $430,000 so the example loan works. The compliant file instead orders the appraisal with no target value. The dollar amount is an example figure of a violation, not a goal. Example figures, not a quote or a legal limit."
+    "text": "A prohibited sample request would say please hit $430,000 so the example loan works. The compliant file instead orders the appraisal with no target value. Regulation Z, 12 CFR 1026.42, prohibits causing a value to be based on a desired result and ties appraiser compensation to that ban. Fannie Mae's Appraiser Independence Requirements apply to conventional loans delivered to Fannie Mae. A borrower may ask for a reconsideration of value with new comparable sales. That request is not a demand for a predetermined number. The dollar amount is an example figure of a violation, not a goal. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1026-42",
@@ -36,7 +36,7 @@
     "complianceNotes": "Separe el pedido de la tasación del pago del personal de producción. No envíe al tasador por correo electrónico el valor que necesita. Registre cualquier reconsideración y los datos nuevos que la apoyaron.",
     "example": {
       "setting": "Expediente del pedido de tasación, que muestra que el tasador no fue elegido por el personal de producción para lograr un valor",
-      "text": "Una petición prohibida de muestra diría por favor llegue a $430,000 para que el préstamo de ejemplo funcione. El expediente que cumple, en cambio, pide la tasación sin un valor objetivo. El monto es una cifra de ejemplo de una infracción, no una meta. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una petición prohibida de muestra diría por favor llegue a $430,000 para que el préstamo de ejemplo funcione. El expediente que cumple, en cambio, pide la tasación sin un valor objetivo. El Reglamento Z, 12 CFR 1026.42, prohíbe hacer que un valor se base en un resultado deseado y vincula la compensación del tasador a esa prohibición. Los Requisitos de Independencia del Tasador de Fannie Mae aplican a los préstamos convencionales entregados a Fannie Mae. Un prestatario puede pedir una reconsideración de valor con ventas comparables nuevas. Esa petición no es una exigencia de un número predeterminado. El monto es una cifra de ejemplo de una infracción, no una meta. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Do not tell a borrower they have a Ginnie Mae loan as if Ginnie Mae approved their credit. Say the loan may be placed in a Ginnie Mae security if it is FHA, VA, or USDA.",
   "example": {
     "setting": "Ginnie Mae mortgage-backed security containing government loans, not a credit decision",
-    "text": "A sample FHA loan of an example $190,000 might be pooled into a Ginnie Mae security after endorsement. A conventional loan is not pooled in a standard Ginnie Mae security. Ginnie Mae's role is the guarantee; it does not approve the borrower's credit. Example figures."
+    "text": "A sample FHA loan of an example $190,000 might be pooled into a Ginnie Mae security after endorsement. Ginnie Mae's role is the guarantee of the security, which lets lenders fund government loans. A conventional loan is not pooled in a standard Ginnie Mae security. Ginnie Mae does not approve the borrower's credit. Servicers of Ginnie Mae pools have issuer duties on top of the agency servicing rules. Investors in the security are not the borrower's point of contact. Example figures."
   },
   "citations": [
     "ginnie"
@@ -31,7 +31,7 @@
     "complianceNotes": "No le diga a un prestatario que tiene un préstamo de Ginnie Mae como si Ginnie Mae hubiera aprobado su crédito. Diga que el préstamo puede colocarse en un valor de Ginnie Mae si es FHA, VA o USDA.",
     "example": {
       "setting": "Valor respaldado por hipotecas de Ginnie Mae que contiene préstamos del gobierno, no una decisión de crédito",
-      "text": "Un préstamo FHA de muestra de un ejemplo de $190,000 podría agruparse en un valor de Ginnie Mae después del endoso. Un préstamo convencional no se agrupa en un valor estándar de Ginnie Mae. El papel de Ginnie Mae es la garantía; no aprueba el crédito del prestatario. Cifras de ejemplo."
+      "text": "Un préstamo FHA de muestra de un ejemplo de $190,000 podría agruparse en un valor de Ginnie Mae después del endoso. El papel de Ginnie Mae es la garantía del valor, lo que permite a los prestamistas fondear préstamos gubernamentales. Un préstamo convencional no se agrupa en un valor estándar de Ginnie Mae. Ginnie Mae no aprueba el crédito del prestatario. Los administradores de grupos de Ginnie Mae tienen deberes de emisor además de las reglas de administración de la agencia. Los inversionistas del valor no son el punto de contacto del prestatario. Cifras de ejemplo."
     }
   }
 }

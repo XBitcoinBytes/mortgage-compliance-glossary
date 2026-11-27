@@ -11,7 +11,7 @@
   "complianceNotes": "Train staff on the prohibited bases before they take applications. A denial, a counteroffer not accepted, or a file left incomplete can require a notice under 12 CFR 1002.9. Do not collect prohibited information except where the regulation allows monitoring data.",
   "example": {
     "setting": "Adverse-action notice and the application decision record",
-    "text": "A sample adverse-action notice might deny an example application for insufficient income, with the ECOA notice and the reasons stated. The income figure is not needed to illustrate the notice. Example figures for a sample requested amount of $250,000 only."
+    "text": "A sample adverse-action notice might deny an example application for insufficient income, with the ECOA notice and the reasons stated. The statute is 15 USC 1691. Regulation B, 12 CFR Part 1002, implements it. The Act requires notices of action, limits what a creditor may ask, and requires copies of appraisals. It is not the Fair Housing Act. The two laws overlap on mortgage lending and have different protected classes and different enforcing agencies. The income figure is not needed to illustrate the notice. Example figures for a sample requested amount of $250,000 only."
   },
   "citations": [
     "usc-15-1691",
@@ -41,7 +41,7 @@
     "complianceNotes": "Capacite al personal sobre los motivos prohibidos antes de que tomen solicitudes. Una denegación, una contraoferta no aceptada o un expediente dejado incompleto puede exigir un aviso según 12 CFR 1002.9. No recoja información prohibida salvo donde el reglamento permite datos de monitoreo.",
     "example": {
       "setting": "Aviso de acción adversa y el registro de la decisión de la solicitud",
-      "text": "Un aviso de acción adversa de muestra puede negar una solicitud de ejemplo por ingreso insuficiente, con el aviso de ECOA y las razones indicadas. No hace falta una cifra de ingreso para ilustrar el aviso. Cifras de ejemplo solo para un monto solicitado de muestra de $250,000."
+      "text": "Un aviso de acción adversa de muestra puede negar una solicitud de ejemplo por ingreso insuficiente, con el aviso de ECOA y las razones indicadas. La ley es 15 USC 1691. El Reglamento B, 12 CFR Parte 1002, la implementa. La Ley exige avisos de acción, limita lo que un acreedor puede preguntar y exige copias de las tasaciones. No es la Ley de Vivienda Justa. Las dos leyes se superponen en el préstamo hipotecario y tienen clases protegidas distintas y agencias encargadas distintas. No hace falta una cifra de ingreso para ilustrar el aviso. Cifras de ejemplo solo para un monto solicitado de muestra de $250,000."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Order the appraisal independently. Deliver the copy when it is done. Do not tell the appraiser the value the contract needs.",
   "example": {
     "setting": "Appraisal report, opinion of value, delivered to the applicant",
-    "text": "A sample appraisal might opine an example value of $415,000. It is not a home inspection. The copy is due promptly upon completion or three business days before consummation, whichever is earlier. A value-acceptance offer is not a promise on every file. Example figures."
+    "text": "A sample appraisal might opine an example value of $415,000. It is not a home inspection. Regulation B, 12 CFR 1002.14, requires delivery promptly upon completion or three business days before consummation, whichever is earlier. Fannie Mae B4-1.1-02 and related topics describe acceptable appraisals. The loan officer may not pressure the appraiser for a number. Some loans receive a value-acceptance offer instead of an appraisal. A value-acceptance offer is not a promise on every file. Example figures."
   },
   "citations": [
     "reg-1002-14",
@@ -30,7 +30,7 @@
     "complianceNotes": "Pida la tasación de manera independiente. Entregue la copia cuando está lista. No le diga al tasador el valor que el contrato necesita.",
     "example": {
       "setting": "Informe de tasación, opinión de valor, entregada al solicitante",
-      "text": "Una tasación de muestra podría opinar un valor de ejemplo de $415,000. No es una inspección de la vivienda. La copia vence de inmediato al terminarse o tres días hábiles antes de la consumación, lo que ocurra primero. Una oferta de aceptación de valor no es una promesa en todo expediente. Cifras de ejemplo."
+      "text": "Una tasación de muestra podría opinar un valor de ejemplo de $415,000. No es una inspección de la vivienda. El Reglamento B, 12 CFR 1002.14, exige la entrega de inmediato al terminarse o tres días hábiles antes de la consumación, lo que ocurra primero. Fannie Mae B4-1.1-02 y los temas relacionados describen las tasaciones aceptables. El oficial de préstamos no puede presionar al tasador por un número. Algunos préstamos reciben una oferta de aceptación de valor en lugar de una tasación. Una oferta de aceptación de valor no es una promesa en todo expediente. Cifras de ejemplo."
     }
   }
 }

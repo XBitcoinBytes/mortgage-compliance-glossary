@@ -11,11 +11,12 @@
   "complianceNotes": "Run the points-and-fees test on final numbers before consummation. Separate safe harbor from rebuttable presumption using the higher-priced test. Keep the worksheet.",
   "example": {
     "setting": "QM points-and-fees test and the underwriting evidence in the closed loan file",
-    "text": "On an example $400,000 loan, points and fees might be tested against the cap that applies once the current dollar threshold is read from the CFPB adjustment. Example figures for the loan amount only. The cap percentage is in 12 CFR 1026.43 and steps down for smaller loans."
+    "text": "On an example $400,000 loan, points and fees might be tested against the cap that applies once the current dollar threshold is read from the CFPB adjustment. The definition is in 12 CFR 1026.43(e). Features such as negative amortization, interest-only periods, and most balloon payments are not allowed. The points-and-fees cap uses the calculation in 12 CFR 1026.32, and the dollar breakpoints that decide which percentage applies are adjusted periodically. Do not use last year's dollar cutoff. The temporary GSE qualified-mortgage patch has ended. Do not treat agency delivery alone as the current general definition. Example figures for the loan amount only. The cap percentage is in 12 CFR 1026.43 and steps down for smaller loans."
   },
   "citations": [
     "reg-1026-43",
-    "usc-15-1639c"
+    "usc-15-1639c",
+    "reg-1026-32"
   ],
   "related": [
     "ability-to-repay",
@@ -48,7 +49,7 @@
     "complianceNotes": "Ejecute la prueba de puntos y cargos con los números finales antes de la consumación. Separe el puerto seguro de la presunción refutable usando la prueba de precio más alto. Conserve la hoja.",
     "example": {
       "setting": "Prueba de puntos y cargos de la QM y la prueba de suscripción en el expediente cerrado",
-      "text": "En un préstamo de ejemplo de $400,000, los puntos y cargos podrían probarse contra el tope que se aplica una vez que se lee el umbral en dólares vigente en el ajuste de la CFPB. Cifras de ejemplo solo para el monto del préstamo. El porcentaje del tope está en 12 CFR 1026.43 y baja para préstamos más pequeños."
+      "text": "En un préstamo de ejemplo de $400,000, los puntos y cargos podrían probarse contra el tope que se aplica una vez que se lee el umbral en dólares vigente en el ajuste de la CFPB. La definición está en 12 CFR 1026.43(e). Características como la amortización negativa, los períodos de solo interés y la mayoría de los pagos globo no se permiten. El tope de puntos y cargos usa el cálculo de 12 CFR 1026.32, y los puntos de corte en dólares que deciden qué porcentaje aplica se ajustan periódicamente. No use el corte en dólares del año pasado. El parche temporal de hipoteca calificada de las GSE ya terminó. No trate la entrega a una agencia por sí sola como la definición general vigente. Cifras de ejemplo solo para el monto del préstamo. El porcentaje del tope está en 12 CFR 1026.43 y baja para préstamos más pequeños."
     }
   }
 }

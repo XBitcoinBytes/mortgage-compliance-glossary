@@ -11,12 +11,13 @@
   "complianceNotes": "Log the date and time each of the six items is received, including a property address added later. A pre-approval without an address has not started the Loan Estimate clock. The counseling list and the toolkit have their own clocks and should not be confused with this one.",
   "example": {
     "setting": "Loan Estimate, page 1, the date issued, read against the application log",
-    "text": "A sample log might show income and a name on Monday and a property address on Wednesday, making Wednesday the application date once the sixth of the six items is in, with the Loan Estimate due three general business days later. Example figures for the timeline only."
+    "text": "A sample log might show income and a name on Monday and a property address on Wednesday, making Wednesday the application date once the sixth of the six items is in, with the Loan Estimate due three general business days later. The definition is in 12 CFR 1026.2(a)(3)(ii). Once the sixth item arrives, the creditor generally has three business days to deliver the Loan Estimate. The general business-day definition in 12 CFR 1026.2(a)(6) is the one used for this three-day period, not the rescission definition. Creditors may not hold a file in pre-qualification status to avoid the clock after the six items are in hand. Example figures for the timeline only."
   },
   "citations": [
     "reg-1026-2-a-3-ii",
     "reg-1026-2",
-    "reg-1026-19"
+    "reg-1026-19",
+    "reg-1026-2-a-6"
   ],
   "related": [
     "business-day",
@@ -41,7 +42,7 @@
     "complianceNotes": "Registre la fecha y la hora en que recibe cada uno de los seis datos, incluida una dirección que se agregue después. Una preaprobación sin dirección no ha iniciado el plazo de la Estimación del préstamo. La lista de consejería y el conjunto de herramientas tienen sus propios plazos.",
     "example": {
       "setting": "Estimación del préstamo, página 1, la fecha de emisión, leída junto con el registro de la solicitud",
-      "text": "Un registro de muestra puede mostrar el nombre y los ingresos el lunes y la dirección el miércoles, de modo que el miércoles es la fecha de solicitud una vez que está el sexto de los seis datos, y la Estimación del préstamo vence tres días hábiles generales después. Cifras de ejemplo solo para el calendario."
+      "text": "Un registro de muestra puede mostrar el nombre y los ingresos el lunes y la dirección el miércoles, de modo que el miércoles es la fecha de solicitud una vez que está el sexto de los seis datos, y la Estimación del préstamo vence tres días hábiles generales después. La definición está en 12 CFR 1026.2(a)(3)(ii). Una vez que llega el sexto dato, el acreedor por lo general tiene tres días hábiles para entregar la Estimación del préstamo. La definición general de día hábil en 12 CFR 1026.2(a)(6) es la que se usa para este período de tres días, no la definición de rescisión. Los acreedores no pueden retener un expediente en estado de precalificación para evitar el reloj después de tener los seis datos. Cifras de ejemplo solo para el calendario."
     }
   }
 }

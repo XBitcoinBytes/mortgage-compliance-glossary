@@ -8,7 +8,7 @@
   "complianceNotes": "Run a credit refresh before documents or funding, as the investor requires. If a new payment appears, stop and recalculate. Do not tell the borrower the inquiry will be ignored.",
   "example": {
     "setting": "Credit refresh or undisclosed-debt monitoring report before closing",
-    "text": "A sample refresh might find a new example car payment of $390 opened after the application. That debt is new information: add the payment, resubmit Desktop Underwriter if required under B3-2-10, and do not fund if the loan no longer qualifies. Example figures."
+    "text": "A sample refresh might find a new example car payment of $390 opened after the application. That debt is new information: add the payment, resubmit Desktop Underwriter if required under B3-2-10, and do not fund if the loan no longer qualifies. Fannie Mae B3-2-10 requires accurate DU data and resubmission when tolerances are exceeded. B3-5.3-04 addresses new credit inquiries. The lender adds the payment, resubmits if required, and, if the loan no longer qualifies, does not fund it. Example figures."
   },
   "citations": [
     "fannie-b3-2-10",
@@ -30,7 +30,7 @@
     "complianceNotes": "Ejecute una actualización de crédito antes de los documentos o del desembolso, como exija el inversionista. Si aparece un pago nuevo, deténgase y recalcule. No le diga al prestatario que la consulta se ignorará.",
     "example": {
       "setting": "Actualización de crédito o informe de monitoreo de deuda no divulgada antes del cierre",
-      "text": "Una actualización de muestra puede encontrar un pago de automóvil nuevo de ejemplo de $390 abierto después de la solicitud. Esa deuda es información nueva: agregue el pago, vuelva a enviar Desktop Underwriter si se exige según B3-2-10 y no desembolse si el préstamo ya no califica. Cifras de ejemplo."
+      "text": "Una actualización de muestra puede encontrar un pago de automovil nuevo de ejemplo de $390 abierto después de la solicitud. Esa deuda es información nueva: agregue el pago, vuelva a enviar Desktop Underwriter si se exige según B3-2-10 y no desembolse si el préstamo ya no califica. Fannie Mae B3-2-10 exige datos exactos de DU y un reenvío cuando se superan las tolerancias. B3-5.3-04 trata las nuevas consultas de crédito. El prestamista agrega el pago, reenvia si se exige y, si el préstamo ya no califica, no lo desembolsa. Cifras de ejemplo."
     }
   }
 }

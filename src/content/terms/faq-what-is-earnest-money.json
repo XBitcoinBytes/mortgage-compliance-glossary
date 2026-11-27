@@ -8,7 +8,7 @@
   "complianceNotes": "Collect the receipt and the source. Credit it on page 3. Do not call it the down payment if the down payment is larger.",
   "example": {
     "setting": "Purchase contract earnest-money line, credited on the Closing Disclosure",
-    "text": "A sample contract might require example earnest money of $5,000, later credited against cash to close on page 3 of the Closing Disclosure. It is not the lender's escrow account for taxes, and it is not the down payment if the down payment is larger. Example figures."
+    "text": "A sample contract might require example earnest money of $5,000, later credited against cash to close on page 3 of the Closing Disclosure. The contract says when you get the deposit back if the sale fails. The Closing Disclosure shows it as a credit under 12 CFR 1026.38. The lender still has to source the deposit if it is a large deposit or part of the funds to close. A cancelled check or the escrow receipt is the usual proof. It is not the lender's escrow account for taxes, and it is not the down payment if the down payment is larger. Example figures."
   },
   "citations": [
     "practice-file",
@@ -30,7 +30,7 @@
     "complianceNotes": "Recoja el recibo y el origen. Acredítelo en la página 3. No lo llame el pago inicial si el pago inicial es mayor.",
     "example": {
       "setting": "Línea de dinero de arras del contrato de compra, acreditada en la Divulgación del cierre",
-      "text": "Un contrato de muestra podría exigir dinero de arras de ejemplo de $5,000, acreditado después contra el efectivo para el cierre en la página 3 de la Divulgación del cierre. No es la cuenta de depósito en garantía del prestamista para los impuestos, y no es el pago inicial si el pago inicial es mayor. Cifras de ejemplo."
+      "text": "Un contrato de muestra podría exigir dinero de arras de ejemplo de $5,000, acreditado después contra el efectivo para el cierre en la página 3 de la Divulgación del cierre. El contrato dice cuándo se le devuelve el depósito si la venta falla. La Divulgación del cierre lo muestra como un crédito bajo 12 CFR 1026.38. El prestamista igual tiene que documentar la fuente del depósito si es un depósito grande o parte de los fondos para el cierre. Un cheque cancelado o el recibo de la cuenta de depósito en garantía es la prueba habitual. No es la cuenta de depósito en garantía del prestamista para los impuestos, y no es el pago inicial si el pago inicial es mayor. Cifras de ejemplo."
     }
   }
 }

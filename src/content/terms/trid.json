@@ -12,12 +12,13 @@
   "complianceNotes": "Confirm the loan is a covered closed-end consumer mortgage before you issue a Loan Estimate. Do not use a HUD-1 on a TRID loan or a Loan Estimate on a HELOC. Count business days with the correct definition.",
   "example": {
     "setting": "Loan Estimate and Closing Disclosure, the two TRID forms",
-    "text": "A sample TRID purchase file might contain a Loan Estimate issued three general business days after application and a Closing Disclosure received three specific business days before an example consummation. The days illustrate the two clocks. Example figures."
+    "text": "A sample TRID purchase file might contain a Loan Estimate issued three general business days after application and a Closing Disclosure received three specific business days before an example consummation. The rule lives in Regulation Z at 12 CFR 1026.19(e) and (f), with content in 12 CFR 1026.37 and 1026.38. HELOCs, reverse mortgages, and mortgages secured by a dwelling that is not real property, such as many chattel-only manufactured homes, are outside the integrated forms. Certain housing-assistance loans are also outside. TRID did not repeal RESPA Section 8, 12 USC 2607, or the servicing rules in Regulation X. The days illustrate the two clocks. Example figures."
   },
   "citations": [
     "reg-1026-19",
     "reg-1026-37",
-    "reg-1026-38"
+    "reg-1026-38",
+    "usc-12-2607"
   ],
   "related": [
     "application-definition",
@@ -44,7 +45,7 @@
     "complianceNotes": "Confirme que el préstamo es una hipoteca de consumo de crédito cerrado cubierta antes de emitir una Estimación del préstamo. No use un HUD-1 en un préstamo de TRID ni una Estimación del préstamo en una HELOC. Cuente los días hábiles con la definición correcta.",
     "example": {
       "setting": "Estimación del préstamo y Divulgación del cierre, los dos formularios de TRID",
-      "text": "Un expediente de compra TRID de muestra puede contener una Estimación del préstamo emitida tres días hábiles generales después de la solicitud y una Divulgación del cierre recibida tres días hábiles específicos antes de una consumación de ejemplo. Los días ilustran los dos relojes. Cifras de ejemplo."
+      "text": "Un expediente de compra TRID de muestra puede contener una Estimación del préstamo emitida tres días hábiles generales después de la solicitud y una Divulgación del cierre recibida tres días hábiles específicos antes de una consumación de ejemplo. La regla está en el Reglamento Z, 12 CFR 1026.19(e) y (f), con el contenido en 12 CFR 1026.37 y 1026.38. Las HELOC, las hipotecas inversas y las hipotecas garantizadas por una vivienda que no es bien inmueble, como muchas casas prefabricadas solo de bien mueble, quedan fuera de los formularios integrados. Ciertos préstamos de asistencia para vivienda también quedan fuera. TRID no derogó la Sección 8 de RESPA, 12 USC 2607, ni las reglas de administración del Reglamento X. Los días ilustran los dos relojes. Cifras de ejemplo."
     }
   }
 }

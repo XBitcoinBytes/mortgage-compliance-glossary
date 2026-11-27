@@ -11,7 +11,7 @@
   "complianceNotes": "Do not label a file QM because DU returned Approve/Eligible. Complete the Regulation Z test. Flag files underwritten to an outdated patch checklist for a current review.",
   "example": {
     "setting": "General QM underwriting and price worksheet in the closed file",
-    "text": "A sample test might show an example note rate and APR compared with the current price threshold in 12 CFR 1026.43, without stating this year's cutoff here. Example figures are not a threshold. A sample loan amount of $360,000 only illustrates the file."
+    "text": "A sample test might show an example note rate and APR compared with the current price threshold in 12 CFR 1026.43, without stating this year's cutoff here. The CFPB amended the qualified-mortgage definition so the general category is not the expired GSE patch. Price thresholds that separate safe harbor from rebuttable presumption, and annual dollar adjustments, are in the regulation and the CFPB's adjustment notices. A loan can be eligible for Fannie Mae or Freddie Mac and still need this Regulation Z test. The two systems are not the same. Example figures are not a threshold. A sample loan amount of $360,000 only illustrates the file."
   },
   "citations": [
     "reg-1026-43"
@@ -32,7 +32,7 @@
     "complianceNotes": "No etiquete un expediente como QM porque DU devolvió Approve/Eligible. Complete la prueba del Reglamento Z. Marque los expedientes suscritos con una lista vieja del parche para una revisión vigente.",
     "example": {
       "setting": "Hoja de suscripción y de precio de la QM general en el expediente cerrado",
-      "text": "Una prueba de muestra puede mostrar una tasa del pagaré y una tasa porcentual anual de ejemplo comparadas con el umbral de precio vigente en 12 CFR 1026.43, sin indicar aquí el corte de este año. Las cifras de ejemplo no son un umbral. Un monto de préstamo de muestra de $360,000 solo ilustra el expediente. Cifras de ejemplo."
+      "text": "Una prueba de muestra puede mostrar una tasa del pagaré y una tasa porcentual anual de ejemplo comparadas con el umbral de precio vigente en 12 CFR 1026.43, sin indicar aquí el corte de este año. La CFPB enmendó la definición de hipoteca calificada para que la categoría general no sea el parche de las GSE ya vencido. Los umbrales de precio que separan el puerto seguro de la presunción refutable, y los ajustes anuales en dólares, están en el reglamento y en los avisos de ajuste de la CFPB. Un préstamo puede ser elegible para Fannie Mae o Freddie Mac y aún así necesitar esta prueba del Reglamento Z. Los dos sistemas no son lo mismo. Las cifras de ejemplo no son un umbral. Un monto de préstamo de muestra de $360,000 solo ilustra el expediente. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Confirm the current general QM definition in 12 CFR 1026.43(e), including any price-based threshold, before training staff on the expired GSE patch."

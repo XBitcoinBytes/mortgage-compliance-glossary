@@ -10,7 +10,7 @@
   "complianceNotes": "Use the legal description and the appraisal, not the listing headline, to classify the project. Complete the PUD review the guide requires before delivery.",
   "example": {
     "setting": "Appraisal and project file identifying the property as a PUD, not a condominium",
-    "text": "A sample appraisal might identify an example townhouse as a PUD with $95 monthly dues. Those dues belong in the housing payment. Misclassifying a condominium as a PUD, or the reverse, sends the file down the wrong project-review path. Example figures."
+    "text": "A sample appraisal might identify an example townhouse as a PUD with $95 monthly dues. Those dues belong in the housing payment. The Fannie Mae Selling Guide defines PUDs and when a project review is required. Misclassifying a condominium as a PUD, or the reverse, sends the file down the wrong project-review path. Insurance may be on the unit, the master policy, or both. You typically own the land under a PUD home, which is different from a condominium. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -33,7 +33,7 @@
     "complianceNotes": "Use la descripción legal y la tasación, no el título del anuncio, para clasificar el proyecto. Complete la revisión de PUD que exige la guía antes de la entrega.",
     "example": {
       "setting": "Tasación y expediente del proyecto que identifican la propiedad como un PUD, no como un condominio",
-      "text": "Una tasación de muestra puede identificar una casa adosada de ejemplo como un PUD con cuotas mensuales de $95. Esas cuotas pertenecen al pago de la vivienda. Clasificar mal un condominio como PUD, o al revés, envía el expediente por la vía de revisión de proyecto equivocada. Cifras de ejemplo."
+      "text": "Una tasación de muestra puede identificar una casa adosada de ejemplo como un PUD con cuotas mensuales de $95. Esas cuotas pertenecen al pago de la vivienda. La Guía de venta de Fannie Mae define los PUD y cuándo se exige una revisión de proyecto. Clasificar mal un condominio como PUD, o al revés, envía el expediente por la via de revisión de proyecto equivocada. El seguro puede estar sobre la unidad, la póliza maestra, o ambas. Por lo general usted es dueño del terreno bajo una vivienda PUD, lo que es distinto de un condominio. Cifras de ejemplo."
     }
   }
 }

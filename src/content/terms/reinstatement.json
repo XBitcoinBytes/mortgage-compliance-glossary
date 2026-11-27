@@ -8,7 +8,7 @@
   "complianceNotes": "Provide a reinstatement figure that matches the note and the state deadline. Accept the funds if the right still exists. Do not add fees the note does not allow.",
   "example": {
     "setting": "Amount required to reinstate the loan and stop acceleration, when the note or state law allows",
-    "text": "A sample reinstatement might be an example $6,400 of missed payments and allowed costs. The note and state law, not a universal Regulation X right, say whether reinstatement is available and until when. A forbearance or repayment plan is a different agreement. Example figures."
+    "text": "A sample reinstatement might be an example $6,400 of missed payments and allowed costs. The note and state foreclosure law state whether reinstatement is available and until when. A servicer must quote the amount accurately. Regulation X does not create a universal reinstatement right, but a wrongful refusal can be a notice of error, and loss-mitigation duties continue. A forbearance or repayment plan is a different agreement. Example figures."
   },
   "citations": [
     "practice-file",
@@ -32,7 +32,7 @@
     "complianceNotes": "Proporcione una cifra de rehabilitación que coincida con el pagaré y con el plazo estatal. Acepte los fondos si el derecho todavía existe. No agregue cargos que el pagaré no permite.",
     "example": {
       "setting": "Monto exigido para rehabilitar el préstamo y detener la aceleración, cuando el pagaré o la ley estatal lo permite",
-      "text": "Una rehabilitación de muestra podría ser un ejemplo de $6,400 de pagos no realizados y costos permitidos. El pagaré y la ley estatal, no un derecho universal del Reglamento X, dicen si la rehabilitación está disponible y hasta cuándo. Una moratoria o un plan de pago es un acuerdo distinto. Cifras de ejemplo."
+      "text": "Una rehabilitación de muestra podría ser un ejemplo de $6,400 de pagos no realizados y costos permitidos. El pagaré y la ley estatal de ejecución hipotecaria indican si la rehabilitación está disponible y hasta cuándo. El administrador debe cotizar el monto con exactitud. El Reglamento X no crea un derecho universal de rehabilitación, pero una negativa indebida puede ser un aviso de error, y los deberes de mitigación de pérdidas continuan. Una moratoria o un plan de pago es un acuerdo distinto. Cifras de ejemplo."
     }
   }
 }
