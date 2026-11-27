@@ -10,7 +10,7 @@
   "complianceNotes": "Adopt the written program if the rule applies, train the people who see the documents, and record how flags were cleared. Do not fund over an unresolved fraud alert.",
   "example": {
     "setting": "Identity-theft prevention program for covered accounts",
-    "text": "A sample flag might be an example credit report with a fraud alert and an address that does not match the URLA. No dollar threshold applies. Example figures are not the point. A sample loan number of 88 only identifies the file."
+    "text": "A sample flag might be an example credit report with a fraud alert and an address that does not match the URLA. Part 681 requires the program to detect, prevent, and mitigate identity theft in connection with covered accounts. Red flags include altered documents, an address that does not match, and a credit report that contains a fraud alert. The program should say what staff do when a flag appears. Ignoring a fraud alert because the closing is scheduled is the failure mode. No dollar threshold applies. Example figures are not the point. A sample loan number of 88 only identifies the file."
   },
   "citations": [
     "cfr-16-681"
@@ -30,7 +30,7 @@
     "complianceNotes": "Adopte el programa escrito si la regla se aplica, capacite a las personas que ven los documentos y registre cómo se resolvieron las señales. No desembolse por encima de una alerta de fraude no resuelta.",
     "example": {
       "setting": "Programa de prevención del robo de identidad para cuentas cubiertas",
-      "text": "Una señal de muestra podría ser un informe de crédito de ejemplo con una alerta de fraude y una dirección que no coincide con la URLA. No se aplica un umbral en dólares. Las cifras de ejemplo no son el punto. Un número de préstamo de muestra de 88 solo identifica el expediente. Cifras de ejemplo."
+      "text": "Una señal de muestra podría ser un informe de crédito de ejemplo con una alerta de fraude y una dirección que no coincide con la URLA. La Parte 681 exige que el programa detecte, prevenga y mitigue el robo de identidad en relación con las cuentas cubiertas. Las señales de alerta incluyen documentos alterados, una dirección que no coincide y un informe de crédito que contiene una alerta de fraude. El programa debe decir qué hace el personal cuando aparece una señal. Ignorar una alerta de fraude porque el cierre está programado es el fallo típico. No se aplica un umbral en dólares. Las cifras de ejemplo no son el punto. Un número de préstamo de muestra de 88 solo identifica el expediente. Cifras de ejemplo."
     }
   }
 }

@@ -10,7 +10,7 @@
   "complianceNotes": "Run the HOEPA test before you lock a high-fee or high-rate loan. If the loan is covered, follow 1026.34, including counseling, and do not use a standard QM checklist as a substitute.",
   "example": {
     "setting": "High-cost mortgage coverage test under HOEPA, kept with the rate sheet",
-    "text": "A sample high-fee loan of $120,000 might be tested under both the APR trigger and the points-and-fees trigger in the current 12 CFR 1026.32. Example figures for the loan amount only. The triggers are not restated here because they adjust."
+    "text": "A sample high-fee loan of $120,000 might be tested under both the APR trigger and the points-and-fees trigger in the current 12 CFR 1026.32. The coverage tests and the extra restrictions are in 12 CFR 1026.32 and 1026.34, implementing 15 USC 1639. The dollar amounts in those tests are adjusted. Do not publish this year's numbers from memory. A high-cost mortgage has counseling, disclosure, and prohibited-term consequences that a merely higher-priced loan does not. Example figures for the loan amount only. The triggers are not restated here because they adjust."
   },
   "citations": [
     "reg-1026-32",
@@ -36,7 +36,7 @@
     "complianceNotes": "Ejecute la prueba de HOEPA antes de fijar un préstamo de cargos altos o de tasa alta. Si el préstamo está cubierto, siga 1026.34, incluida la consejería, y no use una lista estándar de QM como sustituto.",
     "example": {
       "setting": "Prueba de cobertura de hipoteca de alto costo según HOEPA, guardada con la hoja de tasas",
-      "text": "Un préstamo de cargos altos de muestra de $120,000 podría probarse bajo el disparador de la tasa porcentual anual y el de puntos y cargos en el 12 CFR 1026.32 vigente. Cifras de ejemplo solo para el monto del préstamo. Los disparadores no se repiten aquí porque se ajustan."
+      "text": "Un préstamo de cargos altos de muestra de $120,000 podría probarse bajo el disparador de la tasa porcentual anual y el de puntos y cargos en el 12 CFR 1026.32 vigente. Las pruebas de cobertura y las restricciones extra están en 12 CFR 1026.32 y 1026.34, que implementan 15 USC 1639. Los montos en dólares de esas pruebas se ajustan. No publique de memoria los números de este año. Una hipoteca de alto costo tiene consejería, divulgación y consecuencias de términos prohibidos que un préstamo meramente de precio más alto no tiene. Cifras de ejemplo solo para el monto del préstamo. Los disparadores no se repiten aquí porque se ajustan."
     }
   }
 }

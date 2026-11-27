@@ -8,7 +8,7 @@
   "complianceNotes": "Use the title company's proration and the contract. Explain a credit that reduces cash to close so the borrower does not think it is a lender gift.",
   "example": {
     "setting": "Closing Disclosure, page 3, prorations of taxes, dues, or rents",
-    "text": "A sample tax proration might credit the buyer an example $640 for the seller's share of the current period, on page 3 of the Closing Disclosure. That proration is not the same as the annual escrow deposit in Section G. Example figures."
+    "text": "A sample tax proration might credit the buyer an example $640 for the seller's share of the current period, on page 3 of the Closing Disclosure. 12 CFR 1026.38 shows prorations in the summaries of transactions. A tax proration can be a credit to the buyer or to the seller depending on whether the tax was already paid. The annual escrow deposit in Section G is a different collection. Do not count the same tax both as a proration and as an extra prepaid without looking at the bills. Example figures."
   },
   "citations": [
     "reg-1026-38",
@@ -31,7 +31,7 @@
     "complianceNotes": "Use el prorrateo de la compañía de título y el contrato. Explique un crédito que reduce el efectivo para el cierre para que el prestatario no piense que es un regalo del prestamista.",
     "example": {
       "setting": "Divulgación del cierre, página 3, prorrateos de impuestos, cuotas o rentas",
-      "text": "Un prorrateo de impuestos de muestra podría acreditar al comprador un ejemplo de $640 por la parte del vendedor del período actual, en la página 3 de la Divulgación del cierre. Ese prorrateo no es lo mismo que el depósito anual de la cuenta de depósito en garantía en la Sección G. Cifras de ejemplo."
+      "text": "Un prorrateo de impuestos de muestra podría acreditar al comprador un ejemplo de $640 por la parte del vendedor del período actual, en la página 3 de la Divulgación del cierre. 12 CFR 1026.38 muestra los prorrateos en los resúmenes de transacciones. Un prorrateo de impuestos puede ser un crédito al comprador o al vendedor según si el impuesto ya se pagó. El depósito anual de la cuenta de depósito en garantía en la Sección G es una recaudación distinta. No cuente el mismo impuesto como prorrateo y como un prepago extra sin revisar las facturas. Cifras de ejemplo."
     }
   }
 }

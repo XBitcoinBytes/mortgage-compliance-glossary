@@ -11,7 +11,7 @@
   "complianceNotes": "Download the current year's county table before you tell a borrower the maximum conforming amount. Note the unit count. Do not blend FHA limits into the same sentence.",
   "example": {
     "setting": "FHFA conforming loan limit table for the subject county, checked before lock",
-    "text": "A sample one-unit loan might be tested against the current baseline. Any dollar figure used in training, such as a placeholder of $766,550, is an example figure and may already be stale. Example figures, not a quote or a legal limit."
+    "text": "A sample one-unit loan might be tested against the current baseline. The FHFA conforming loan limit page is the official source. One-unit, two-unit, three-unit, and four-unit properties have different limits. A loan amount that includes financed mortgage insurance can push a file over the limit. The limit is not an FHA or VA limit. Those agencies publish their own. Any dollar figure used in training, such as a placeholder of $766,550, is an example figure and may already be stale. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "fhfa-cll"
@@ -34,7 +34,7 @@
     "complianceNotes": "Descargue la tabla del condado del año vigente antes de decirle a un prestatario el monto conforme máximo. Note el número de unidades. No mezcle los límites de la FHA en la misma frase.",
     "example": {
       "setting": "Tabla del límite de préstamo conforme de la FHFA para el condado de la propiedad, revisada antes de la fijación",
-      "text": "Un préstamo de una unidad de muestra podría probarse contra la base vigente. Cualquier cifra en dólares usada en la capacitación, como un marcador de $766,550, es una cifra de ejemplo y puede ya estar desactualizada. Cifras de ejemplo."
+      "text": "Un préstamo de una unidad de muestra podría probarse contra la base vigente. La página de límites de préstamo conforme de la FHFA es la fuente oficial. Las propiedades de una, dos, tres y cuatro unidades tienen límites distintos. Un monto de préstamo que incluye seguro hipotecario financiado puede hacer que un expediente supere el límite. El límite no es un límite de FHA ni de VA. Esas agencias publican los suyos. Cualquier cifra en dólares usada en la capacitación, como un marcador de $766,550, es una cifra de ejemplo y puede ya estar desactualizada. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

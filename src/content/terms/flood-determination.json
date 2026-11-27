@@ -8,7 +8,7 @@
   "complianceNotes": "Order the determination early enough to bind a policy before closing if one is required. Do not fund a designated loan in a special flood hazard area without evidence of flood insurance. Escrow the premium when the flood rules require an escrow.",
   "example": {
     "setting": "Flood determination certificate in the file, and flood insurance on the Closing Disclosure if the home is in a special flood hazard area",
-    "text": "A sample certificate might place an example property in Zone AE, requiring a flood policy with coverage the statute describes rather than a number invented here. Example figures for a sample premium of $900 a year only, not a required rate."
+    "text": "A sample certificate might place an example property in Zone AE, requiring a flood policy with coverage the statute describes rather than a number invented here. 42 USC 4012a is the mandatory-purchase statute. FEMA publishes the maps and describes the National Flood Insurance Program. A determination has a life and must be redone when the statute or the investor requires it. A Zone X result generally does not trigger the purchase requirement. A Zone A or V result generally does. Say generally, because map panels and grandfathering are fact-specific. Example figures for a sample premium of $900 a year only, not a required rate."
   },
   "citations": [
     "usc-42-4012a",
@@ -30,7 +30,7 @@
     "complianceNotes": "Pida la determinación con tiempo suficiente para emitir una póliza antes del cierre si se exige una. No desembolse un préstamo designado en una zona especial de riesgo de inundación sin prueba del seguro de inundación. Ponga la prima en depósito en garantía cuando las reglas de inundación exigen una cuenta.",
     "example": {
       "setting": "Certificado de determinación de inundación en el expediente, y seguro de inundación en la Divulgación del cierre si la vivienda está en una zona especial de riesgo de inundación",
-      "text": "Un certificado de muestra puede ubicar una propiedad de ejemplo en la Zona AE, lo que exige una póliza de inundación con la cobertura que describe la ley y no un número inventado aquí. Cifras de ejemplo solo para una prima de muestra de $900 al año, no una tarifa exigida."
+      "text": "Un certificado de muestra puede ubicar una propiedad de ejemplo en la Zona AE, lo que exige una póliza de inundación con la cobertura que describe la ley y no un número inventado aquí. 42 USC 4012a es la ley de compra obligatoria. FEMA publica los mapas y describe el Programa Nacional de Seguro contra Inundaciones. Una determinación tiene una vigencia y debe rehacerse cuando la ley o el inversionista lo exigen. Un resultado de Zona X por lo general no activa el requisito de compra. Un resultado de Zona A o V por lo general sí lo activa. Diga por lo general, porque los paneles de mapa y la protección de derechos adquiridos son específicos de los hechos. Cifras de ejemplo solo para una prima de muestra de $900 al año, no una tarifa exigida."
     }
   }
 }

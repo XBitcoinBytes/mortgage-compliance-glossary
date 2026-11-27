@@ -8,7 +8,7 @@
   "complianceNotes": "Put the petition and the discharge in the file and count from the correct date. Disclose the bankruptcy on the application. If the waiting period is not met, do not deliver the loan on an exception you cannot document.",
   "example": {
     "setting": "Credit file, bankruptcy discharge dates measured under the current guide",
-    "text": "A sample timeline might show a Chapter 7 discharge four years before an example application, then a check against the current B3-5.3-07 table. The four years are an example figure, not the rule. Example figures, not a quote or a legal limit."
+    "text": "A sample timeline might show a Chapter 7 discharge four years before an example application, then a check against the current B3-5.3-07 table. Fannie Mae B3-5.3-07 states the waiting periods and the re-established credit expectation. FHA, VA, and USDA publish their own periods in their handbooks. A discharge date and a filing date are different. A bankruptcy that also included a foreclosure can have the longer waiting period. Quote the current section, not a remembered four-year rule. The four years are an example figure, not the rule. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "fannie-b3-5-3-07"
@@ -30,7 +30,7 @@
     "complianceNotes": "Incluya la petición y la descarga en el expediente y cuente desde la fecha correcta. Divulgue la quiebra en la solicitud. Si no se cumple el período de espera, no entregue el préstamo con una excepción que no puede documentar.",
     "example": {
       "setting": "Expediente de crédito, fechas de descarga de la quiebra medidas según la guía vigente",
-      "text": "Una línea de tiempo de muestra puede mostrar una descarga del Capítulo 7 cuatro años antes de una solicitud de ejemplo, y luego una comprobación contra la tabla vigente de B3-5.3-07. Los cuatro años son una cifra de ejemplo, no la regla. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una línea de tiempo de muestra puede mostrar una descarga del Capítulo 7 cuatro años antes de una solicitud de ejemplo, y luego una comprobación contra la tabla vigente de B3-5.3-07. Fannie Mae B3-5.3-07 indica los períodos de espera y la expectativa de crédito restablecido. FHA, VA y USDA publican sus propios períodos en sus manuales. Una fecha de descarga y una fecha de presentación son distintas. Una quiebra que también incluyó una ejecución hipotecaria puede tener el período de espera más largo. Cite la sección vigente, no una regla recordada de cuatro años. Los cuatro años son una cifra de ejemplo, no la regla. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Review compensation plans under 1026.36(d) at least when they change, and test steering controls under 1026.36(e). Keep the plan out of the consumer's closing set unless a charge is actually imposed.",
   "example": {
     "setting": "Compensation plan and the Loan Estimate originator identification, tested under 12 CFR 1026.36",
-    "text": "A sample plan might pay 80 basis points of an example $200,000 loan regardless of the note rate. The plan still has to be tested against the rule, including the ban on compensation based on a term of the transaction. Example figures."
+    "text": "A sample plan might pay 80 basis points of an example $200,000 loan regardless of the note rate. 12 CFR 1026.36 includes the compensation limits in paragraph (d), the anti-steering provisions in paragraph (e), and qualification and identification duties. It also reaches prohibited acts such as directing a consumer to a particular title provider in the circumstances the section describes. A compliant license does not prove the compensation plan is compliant. The plan still has to be tested against the rule, including the ban on compensation based on a term of the transaction. Example figures."
   },
   "citations": [
     "reg-1026-36"
@@ -32,7 +32,7 @@
     "complianceNotes": "Revise los planes de compensación según 1026.36(d) al menos cuando cambian, y pruebe los controles de dirección indebida según 1026.36(e). Mantenga el plan fuera del conjunto de cierre del consumidor salvo que de verdad se imponga un cargo.",
     "example": {
       "setting": "Plan de compensación y la identificación del originador en la Estimación del préstamo, probados según 12 CFR 1026.36",
-      "text": "Un plan de muestra podría pagar 80 puntos base de un préstamo de ejemplo de $200,000 sin importar la tasa del pagaré. El plan igual tiene que probarse contra la regla, incluida la prohibición de compensación basada en un término de la transacción. Cifras de ejemplo."
+      "text": "Un plan de muestra podría pagar 80 puntos base de un préstamo de ejemplo de $200,000 sin importar la tasa del pagaré. 12 CFR 1026.36 incluye los límites de compensación en el párrafo (d), las disposiciones contra la dirección indebida en el párrafo (e) y los deberes de calificación e identificación. También alcanza actos prohibidos como dirigir a un consumidor a un proveedor de título particular en las circunstancias que describe la sección. Una licencia conforme no prueba que el plan de compensación sea conforme. El plan igual tiene que probarse contra la regla, incluida la prohibición de compensación basada en un término de la transacción. Cifras de ejemplo."
     }
   }
 }

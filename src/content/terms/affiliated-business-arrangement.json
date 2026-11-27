@@ -10,7 +10,7 @@
   "complianceNotes": "Give the AfBA disclosure when the referral is made and keep the signed copy. Do not require the affiliate. Confirm the payment is a real return on ownership, not a per-loan referral fee.",
   "example": {
     "setting": "Affiliated business arrangement disclosure given with the referral",
-    "text": "A sample disclosure might identify an affiliated title company and an example ownership interest, without a required-use box checked. Any ownership percentage in training materials is an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample disclosure might identify an affiliated title company and an example ownership interest, without a required-use box checked. 12 CFR 1024.15 states the disclosure, the timing, and the conditions. A sham arrangement that pays for referrals and does not provide real services fails the rule even if a disclosure form was signed. Required use of the affiliate is generally prohibited, with the narrow exceptions in the section. The disclosure does not authorize a kickback. Any ownership percentage in training materials is an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1024-15"
@@ -35,7 +35,7 @@
     "complianceNotes": "Dé la divulgación del arreglo cuando se hace la referencia y conserve la copia firmada. No exija el afiliado. Confirme que el pago es un rendimiento real sobre la propiedad, no un cargo por referencia por cada préstamo.",
     "example": {
       "setting": "Divulgación del arreglo de negocio afiliado entregada con la referencia",
-      "text": "Una divulgación de muestra podría identificar una compañía de título afiliada y una participación de propiedad de ejemplo, sin una casilla de uso obligatorio marcada. Cualquier porcentaje de propiedad en materiales de capacitación es una cifra de ejemplo. Cifras de ejemplo."
+      "text": "Una divulgación de muestra podría identificar una compañía de título afiliada y una participación de propiedad de ejemplo, sin una casilla de uso obligatorio marcada. 12 CFR 1024.15 indica la divulgación, el plazo y las condiciones. Un arreglo simulado que paga por referencias y no presta servicios reales incumple la regla aunque se haya firmado un formulario de divulgación. El uso obligatorio del afiliado está por lo general prohibido, con las excepciones estrechas de la sección. La divulgación no autoriza una comisión por referencia. Cualquier porcentaje de propiedad en materiales de capacitación es una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

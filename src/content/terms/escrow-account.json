@@ -11,11 +11,12 @@
   "complianceNotes": "Set the account up from the real tax and insurance bills. Run the annual analysis. Do not call a suspense balance an escrow account. Pay taxes before penalties accrue when the borrower is current and the account can cover them.",
   "example": {
     "setting": "Monthly statement escrow line, and Loan Estimate page 1 escrow indicator",
-    "text": "On a sample Loan Estimate, page 1 might show that an escrow account is included, and a monthly payment with an example $410 escrow portion for property taxes and homeowners insurance. That escrow amount is not earnest money. Example figures."
+    "text": "On a sample Loan Estimate, page 1 might show that an escrow account is included, and a monthly payment with an example $410 escrow portion for property taxes and homeowners insurance. Regulation X, 12 CFR 1024.17, governs the analysis, the cushion, shortages, and surpluses. The Loan Estimate states whether the loan has an escrow account. Some higher-priced loans must have one under 12 CFR 1026.35. A waiver is allowed only when the loan and the law permit it. The servicer must pay the bills on time if the account is adequately funded. That escrow amount is not earnest money. Example figures."
   },
   "citations": [
     "reg-1024-17",
-    "reg-1026-37"
+    "reg-1026-37",
+    "reg-1026-35"
   ],
   "related": [
     "aggregate-adjustment",
@@ -54,7 +55,7 @@
     "complianceNotes": "Establezca la cuenta a partir de las facturas reales de impuestos y de seguro. Ejecute el análisis anual. No llame cuenta de depósito en garantía a un saldo en suspenso. Pague los impuestos antes de que se acumulen penalidades cuando el prestatario está al día y la cuenta puede cubrirlos.",
     "example": {
       "setting": "Línea de depósito en garantía del estado mensual, e indicador de depósito en garantía en la página 1 de la Estimación del préstamo",
-      "text": "En una Estimación del préstamo de muestra, la página 1 puede indicar que hay una cuenta de depósito en garantía, y un pago mensual con una parte de depósito en garantía de ejemplo de $410 para impuestos de la propiedad y el seguro de la vivienda. Ese monto no es el dinero de arras. Cifras de ejemplo."
+      "text": "En una Estimación del préstamo de muestra, la página 1 puede indicar que hay una cuenta de depósito en garantía, y un pago mensual con una parte de depósito en garantía de ejemplo de $410 para impuestos de la propiedad y el seguro de la vivienda. El Reglamento X, 12 CFR 1024.17, rige el análisis, el colchón, los faltantes y los excedentes. La Estimación del préstamo indica si el préstamo tiene una cuenta de depósito en garantía. Algunos préstamos de precio más alto deben tener una bajo 12 CFR 1026.35. Una exención se permite solo cuando el préstamo y la ley lo permiten. El administrador debe pagar las facturas a tiempo si la cuenta está financiada de forma adecuada. Ese monto no es el dinero de arras. Cifras de ejemplo."
     }
   }
 }

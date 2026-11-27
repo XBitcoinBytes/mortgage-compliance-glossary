@@ -11,11 +11,12 @@
   "complianceNotes": "Give the privacy notice the regulation requires and keep the safeguards program current if 16 CFR 314 applies to the company. A mortgage disclosure file does not replace either one.",
   "example": {
     "setting": "Privacy notice and the information-security program for customer data",
-    "text": "A sample privacy notice might be delivered with an example application package. No dollar figure belongs on that notice. Example figures are not used for a premium. The delivery date on a sample log might be the 5th of the month."
+    "text": "A sample privacy notice might be delivered with an example application package. The privacy duty is in 15 USC 6801 and following. The CFPB's Regulation P, 12 CFR Part 1016, covers privacy notices for the institutions under its jurisdiction. The Safeguards Rule for many nonbank financial institutions is the FTC rule at 16 CFR Part 314, not a CFPB mortgage disclosure. Do not cite Regulation Z for a privacy-notice failure. No dollar figure belongs on that notice. The delivery date on a sample log might be the 5th of the month. Example figures are not used for a premium."
   },
   "citations": [
     "usc-15-6801",
-    "reg-1016"
+    "reg-1016",
+    "cfr-16-314"
   ],
   "related": [
     "cfpb",
@@ -34,7 +35,7 @@
     "complianceNotes": "Dé el aviso de privacidad que exige el reglamento y mantenga vigente el programa de salvaguardas si 16 CFR 314 se aplica a la empresa. Un expediente de divulgación hipotecaria no reemplaza ninguno de los dos.",
     "example": {
       "setting": "Aviso de privacidad y el programa de seguridad de la información de los datos del cliente",
-      "text": "Un aviso de privacidad de muestra puede entregarse con un paquete de solicitud de ejemplo. Ninguna cifra en dólares pertenece a ese aviso. Las cifras de ejemplo no se usan como una prima. La fecha de entrega en un registro de muestra puede ser el día 5 del mes. Cifras de ejemplo."
+      "text": "Un aviso de privacidad de muestra puede entregarse con un paquete de solicitud de ejemplo. El deber de privacidad está en 15 USC 6801 y siguientes. El Reglamento P de la CFPB, 12 CFR Parte 1016, cubre los avisos de privacidad de las instituciones bajo su jurisdicción. La Regla de Salvaguardas para muchas instituciones financieras que no son bancos es la regla de la FTC en 16 CFR Parte 314, no una divulgación hipotecaria de la CFPB. No cite el Reglamento Z por un fallo de un aviso de privacidad. Ninguna cifra en dólares pertenece a ese aviso. La fecha de entrega en un registro de muestra puede ser el día 5 del mes. Cifras de ejemplo."
     }
   }
 }

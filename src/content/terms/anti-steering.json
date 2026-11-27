@@ -8,7 +8,7 @@
   "complianceNotes": "If you rely on the safe harbor, keep the options presented and the consumer's choice. Do not pay the originator more for a higher rate and skip the options. Fair-lending steering is a separate review.",
   "example": {
     "setting": "Originator file showing the loan options presented under the anti-steering safe harbor, if the creditor relies on it",
-    "text": "A sample broker worksheet might show three example options: a lower rate with points, a lower-fee option, and a no-risky-feature option, on a requested example amount of $240,000. Example figures. The safe-harbor content must match 1026.36(e)."
+    "text": "A sample broker worksheet might show three example options: a lower rate with points, a lower-fee option, and a no-risky-feature option, on a requested example amount of $240,000. 12 CFR 1026.36(e) states the ban and the safe harbor. The safe harbor generally involves presenting the consumer with loan options from a significant number of creditors with whom the originator regularly does business, including the lowest rate, the lowest points and fees, and the lowest rate without risky features, as the section defines those options. Read the current paragraph before you design the form. A creditor's own retail originator has a different analysis than a broker. Example figures. The safe-harbor content must match 1026.36(e)."
   },
   "citations": [
     "reg-1026-36"
@@ -32,7 +32,7 @@
     "complianceNotes": "Si usted se apoya en el puerto seguro, conserve las opciones presentadas y la elección del consumidor. No pague más al originador por una tasa más alta y omita las opciones. La dirección indebida de préstamos justos es una revisión distinta.",
     "example": {
       "setting": "Expediente del originador que muestra las opciones de préstamo presentadas según el puerto seguro contra la dirección indebida, si el acreedor se apoya en él",
-      "text": "Una hoja de corredor de muestra puede mostrar tres opciones de ejemplo: una tasa más baja con puntos, una opción de menores cargos y una opción sin características riesgosas, sobre un monto solicitado de ejemplo de $240,000. Cifras de ejemplo. El contenido del puerto seguro debe coincidir con 1026.36(e)."
+      "text": "Una hoja de corredor de muestra puede mostrar tres opciones de ejemplo: una tasa más baja con puntos, una opción de menores cargos y una opción sin características riesgosas, sobre un monto solicitado de ejemplo de $240,000. 12 CFR 1026.36(e) establece la prohibición y el puerto seguro. El puerto seguro por lo general implica presentar al consumidor opciones de préstamo de un número significativo de acreedores con los que el originador hace negocios de forma regular, incluida la tasa más baja, los puntos y cargos más bajos, y la tasa más baja sin características riesgosas, según define esas opciones la sección. Lea el párrafo vigente antes de diseñar el formulario. Un originador minorista del propio acreedor tiene un análisis distinto al de un corredor. Cifras de ejemplo. El contenido del puerto seguro debe coincidir con 1026.36(e)."
     }
   }
 }

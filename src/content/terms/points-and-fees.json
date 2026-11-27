@@ -11,7 +11,7 @@
   "complianceNotes": "Calculate points and fees from the final charges, not from an early worksheet. Re-run the test if a fee or a credit changes. Do not exclude a broker fee or a prepayment penalty that the section includes.",
   "example": {
     "setting": "Points-and-fees worksheet using the final Loan Estimate or Closing Disclosure charges",
-    "text": "On an example $500,000 loan, 3 percent is $15,000, which illustrates the top-tier percentage in 12 CFR 1026.43 only if the loan is at or above the current dollar threshold. Example figures. Confirm the threshold in the CFPB's annual adjustment."
+    "text": "On an example $500,000 loan, 3 percent is $15,000, which illustrates the top-tier percentage in 12 CFR 1026.43 only if the loan is at or above the current dollar threshold. The inclusions and exclusions are in 12 CFR 1026.32(b). Bona fide discount points can be excluded only if they meet that section. The qualified-mortgage cap in 12 CFR 1026.43 uses this total. For larger loans the cap is 3 percent of the total loan amount. Smaller loans use higher percentage or dollar caps. The dollar breakpoints are adjusted each year. Confirm the current adjustment before you apply a cutoff. Example figures. Confirm the threshold in the CFPB's annual adjustment."
   },
   "citations": [
     "reg-1026-32",
@@ -36,7 +36,7 @@
     "complianceNotes": "Calcule los puntos y cargos a partir de los cargos finales, no de una hoja temprana. Vuelva a ejecutar la prueba si cambia un cargo o un crédito. No excluya un cargo de corredor o una penalidad por pago anticipado que la sección incluye.",
     "example": {
       "setting": "Hoja de puntos y cargos que usa los cargos finales de la Estimación del préstamo o de la Divulgación del cierre",
-      "text": "En un préstamo de ejemplo de $500,000, el 3 por ciento es $15,000, lo que ilustra el porcentaje del nivel superior en 12 CFR 1026.43 solo si el préstamo está en el umbral en dólares vigente o por encima. Cifras de ejemplo. Confirme el umbral en el ajuste anual de la CFPB."
+      "text": "En un préstamo de ejemplo de $500,000, el 3 por ciento es $15,000, lo que ilustra el porcentaje del nivel superior en 12 CFR 1026.43 solo si el préstamo está en el umbral en dólares vigente o por encima. Las inclusiones y exclusiones están en 12 CFR 1026.32(b). Los puntos de descuento de buena fe pueden excluirse solo si cumplen esa sección. El tope de hipoteca calificada en 12 CFR 1026.43 usa este total. Para préstamos más grandes el tope es el 3 por ciento del monto total del préstamo. Los préstamos más pequeños usan topes de porcentaje o de dólares más altos. Los puntos de corte en dólares se ajustan cada año. Confirme el ajuste vigente antes de aplicar un corte. Cifras de ejemplo. Confirme el umbral en el ajuste anual de la CFPB."
     }
   }
 }

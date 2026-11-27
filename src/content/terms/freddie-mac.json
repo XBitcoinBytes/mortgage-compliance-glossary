@@ -8,11 +8,12 @@
   "complianceNotes": "Run LPA if you will sell to Freddie Mac. Do not deliver a Fannie Mae DU file to Freddie Mac. Keep the feedback certificate that matches the note.",
   "example": {
     "setting": "Loan sold to Freddie Mac under the Seller/Servicer Guide",
-    "text": "A sample LPA loan of an example $265,000 might be delivered to Freddie Mac. Borrowers apply with a lender, not with Freddie Mac. A DU finding does not make a loan eligible for Freddie Mac. Loan limits still come from FHFA. Example figures."
+    "text": "A sample LPA loan of an example $265,000 might be delivered to Freddie Mac. Borrowers apply with a lender, not with Freddie Mac. Freddie Mac is not Fannie Mae. A DU finding does not make a loan eligible for Freddie Mac, and an LPA finding does not make it eligible for Fannie Mae. Loan limits still come from FHFA. Home Possible is Freddie Mac's affordable product. Servicing obligations after sale are in Freddie Mac's guide. Example figures."
   },
   "citations": [
     "freddie-guide",
-    "freddie-lpa"
+    "freddie-lpa",
+    "fhfa-cll"
   ],
   "related": [
     "conforming-loan",
@@ -32,7 +33,7 @@
     "complianceNotes": "Ejecute LPA si venderá a Freddie Mac. No entregue un expediente de DU de Fannie Mae a Freddie Mac. Conserve el certificado de retroalimentación que coincide con el pagaré.",
     "example": {
       "setting": "Préstamo vendido a Freddie Mac según la Guía del vendedor/administrador",
-      "text": "Un préstamo LPA de muestra de un ejemplo de $265,000 podría entregarse a Freddie Mac. Los prestatarios solicitan con un prestamista, no con Freddie Mac. Un resultado de DU no hace que un préstamo sea elegible para Freddie Mac. Los límites de préstamo siguen viniendo de la FHFA. Cifras de ejemplo."
+      "text": "Un préstamo LPA de muestra de un ejemplo de $265,000 podría entregarse a Freddie Mac. Los prestatarios solicitan con un prestamista, no con Freddie Mac. Freddie Mac no es Fannie Mae. Un resultado de DU no hace que un préstamo sea elegible para Freddie Mac, y un resultado de LPA no lo hace elegible para Fannie Mae. Los límites de préstamo siguen viniendo de la FHFA. Home Possible es el producto asequible de Freddie Mac. Las obligaciones de administración después de la venta están en la guía de Freddie Mac. Cifras de ejemplo."
     }
   }
 }

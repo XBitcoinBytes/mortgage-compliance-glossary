@@ -8,7 +8,7 @@
   "complianceNotes": "Match the borrower names, the legal description, and the loan amount on the note and the security instrument. Record it after funding as the instructions require.",
   "example": {
     "setting": "Mortgage or deed of trust signed at closing and sent for recording",
-    "text": "A sample deed of trust might secure an example $300,000 note on a described lot. The promissory note is the promise to pay; the security instrument creates the lien. A signature on the Closing Disclosure does not create the lien. Example figures."
+    "text": "A sample deed of trust might secure an example $300,000 note on a described lot. The promissory note is the promise to pay; the security instrument creates the lien. The note can be sold without a new security instrument being signed. The lien is what the lender enforces in foreclosure, through the procedure the state and the instrument allow. Recording fees pay to put the instrument in the land records. A signature on the Closing Disclosure does not create the lien. The security instrument does. Example figures."
   },
   "citations": [
     "practice-file"
@@ -31,7 +31,7 @@
     "complianceNotes": "Haga coincidir los nombres de los prestatarios, la descripción legal y el monto del préstamo en el pagaré y en el instrumento de garantía. Regístrelo después del desembolso como exigen las instrucciones.",
     "example": {
       "setting": "Hipoteca o fideicomiso firmado en el cierre y enviado a registro",
-      "text": "Un fideicomiso de muestra podría garantizar un pagaré de ejemplo de $300,000 sobre un lote descrito. El pagaré es la promesa de pagar; el instrumento de garantía crea el gravamen. Una firma en la Divulgación de cierre no crea el gravamen. Cifras de ejemplo."
+      "text": "Un fideicomiso de muestra podría garantizar un pagaré de ejemplo de $300,000 sobre un lote descrito. El pagaré es la promesa de pagar; el instrumento de garantía crea el gravamen. El pagaré puede venderse sin que se firme un nuevo instrumento de garantía. El gravamen es lo que el prestamista ejecuta en una ejecución hipotecaria, mediante el procedimiento que permiten el estado y el instrumento. Los cargos de registro se pagan para asentar el instrumento en los registros de la propiedad. Una firma en la Divulgación del cierre no crea el gravamen. Lo crea el instrumento de garantía. Cifras de ejemplo."
     }
   }
 }

@@ -12,7 +12,7 @@
   "complianceNotes": "Send the statement unless an exemption is documented. Include the content the section lists. Do not rely on a coupon book unless that exemption's conditions are met.",
   "example": {
     "setting": "Monthly periodic statement required by Regulation Z for many residential mortgages",
-    "text": "A sample statement might show an example amount due of $1,642, including principal, interest, and escrow. The statement is also how many borrowers first see an escrow change. It does not replace the annual escrow analysis. Example figures."
+    "text": "A sample statement might show an example amount due of $1,642, including principal, interest, and escrow. 12 CFR 1026.41 states the content, the timing, and the exemptions. A statement that hides fees or shows a suspense balance without explanation is a problem. The statement is also how many borrowers first see an escrow change. It does not replace the annual escrow analysis. Example figures."
   },
   "citations": [
     "reg-1026-41"
@@ -42,7 +42,7 @@
     "complianceNotes": "Envíe el estado salvo que se documente una exención. Incluya el contenido que enumera la sección. No se apoye en un talonario salvo que se cumplan las condiciones de esa exención.",
     "example": {
       "setting": "Estado de cuenta periódico mensual exigido por el Reglamento Z para muchas hipotecas residenciales",
-      "text": "Un estado de muestra puede mostrar un monto de ejemplo a pagar de $1,642, que incluye capital, interés y depósito en garantía. El estado también es cómo muchos prestatarios ven por primera vez un cambio del depósito en garantía. No sustituye el análisis anual de la cuenta de depósito en garantía. Cifras de ejemplo."
+      "text": "Un estado de muestra puede mostrar un monto de ejemplo a pagar de $1,642, que incluye capital, interés y depósito en garantía. 12 CFR 1026.41 indica el contenido, el plazo y las exenciones. Un estado que oculta cargos o muestra un saldo en suspenso sin explicación es un problema. El estado también es cómo muchos prestatarios ven por primera vez un cambio del depósito en garantía. No sustituye el análisis anual de la cuenta de depósito en garantía. Cifras de ejemplo."
     }
   }
 }

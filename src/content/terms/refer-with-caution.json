@@ -8,7 +8,7 @@
   "complianceNotes": "Stop production praise of the file until someone reads the guide section and the messages. If the decision is a denial, send the adverse-action notice on time. Do not deliver the loan as if it were Approve/Eligible.",
   "example": {
     "setting": "DU findings, recommendation Refer with Caution",
-    "text": "A sample findings line might show Refer with Caution on an example application with a thin credit file. Example figures are not used because the recommendation itself is the illustration. Example figures for a sample loan amount of $190,000 only."
+    "text": "A sample findings line might show Refer with Caution on an example application with a thin credit file. The lender must follow B3-2-07 rather than treat the words as a casual caution. Many loans with this recommendation are not eligible for delivery to Fannie Mae. If the lender denies the application, Regulation B's adverse-action notice still applies. Do not describe the recommendation as Approve with conditions. Example figures are used here only for a sample loan amount of $190,000."
   },
   "citations": [
     "fannie-b3-2-07",
@@ -33,7 +33,7 @@
     "complianceNotes": "No dé por bueno el expediente en producción hasta que alguien lea la sección de la guía y los mensajes. Si la decisión es una denegación, envíe el aviso de acción adversa a tiempo. No entregue el préstamo como si fuera Approve/Eligible.",
     "example": {
       "setting": "Hallazgos de DU, recomendación Refer with Caution",
-      "text": "Una línea de hallazgos de muestra puede mostrar Refer with Caution en una solicitud de ejemplo con un expediente de crédito delgado. Las cifras de ejemplo se usan aquí solo para un monto de préstamo de muestra de $190,000. Cifras de ejemplo."
+      "text": "Una línea de hallazgos de muestra puede mostrar Refer with Caution en una solicitud de ejemplo con un expediente de crédito delgado. El prestamista debe seguir B3-2-07 en lugar de tratar las palabras como una simple precaución. Muchos préstamos con esta recomendación no son elegibles para entrega a Fannie Mae. Si el prestamista niega la solicitud, el aviso de acción adversa del Reglamento B sigue aplicando. No describa la recomendación como Approve with conditions. Las cifras de ejemplo se usan aquí solo para un monto de préstamo de muestra de $190,000. Cifras de ejemplo."
     }
   }
 }

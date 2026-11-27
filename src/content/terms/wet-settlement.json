@@ -8,7 +8,7 @@
   "complianceNotes": "Know whether the state is wet or dry before you promise the borrower the keys and the wire on the same afternoon. Do not fund before the Closing Disclosure wait ends.",
   "example": {
     "setting": "Closing where funds are disbursed at the signing table, as state practice requires or allows",
-    "text": "A sample wet closing might sign and disburse an example $290,000 loan on the same Thursday, after the three-day wait has already run. Some states require wet settlement. It is a state practice, not a federal form. Example figures."
+    "text": "A sample wet closing might sign and disburse an example $290,000 loan on the same Thursday, after the three-day wait has already run. Consummation under Regulation Z is still the moment the borrower becomes obligated, which state law defines. Funding can be the same moment or a later one. The Closing Disclosure wait runs to consummation, not to the wire. A wet closing does not waive that wait. Good-funds laws in some states require collected funds before disbursement. Some states require wet settlement. It is a state practice, not a federal form. Example figures."
   },
   "citations": [
     "practice-file",
@@ -32,7 +32,7 @@
     "complianceNotes": "Sepa si el estado es de desembolso inmediato o posterior antes de prometerle al prestatario las llaves y la transferencia la misma tarde. No desembolse antes de que termine la espera de la Divulgación del cierre.",
     "example": {
       "setting": "Cierre en el que los fondos se desembolsan en la mesa de firma, como la práctica del estado exige o permite",
-      "text": "Un cierre de muestra con desembolso inmediato podría firmar y desembolsar un préstamo de ejemplo de $290,000 el mismo jueves, después de que la espera de tres días ya corrió. Algunos estados exigen la liquidación con desembolso inmediato. Es una práctica estatal, no un formulario federal. Cifras de ejemplo."
+      "text": "Un cierre de muestra con desembolso inmediato podría firmar y desembolsar un préstamo de ejemplo de $290,000 el mismo jueves, después de que la espera de tres días ya corrió. La consumación bajo el Reglamento Z sigue siendo el momento en que el prestatario queda obligado, lo que define la ley estatal. El desembolso puede ser el mismo momento o uno posterior. La espera de la Divulgación del cierre corre hasta la consumación, no hasta la transferencia. Un cierre con desembolso inmediato no renuncia a esa espera. Las leyes de fondos disponibles en algunos estados exigen fondos cobrados antes del desembolso. Algunos estados exigen la liquidación con desembolso inmediato. Es una práctica estatal, no un formulario federal. Cifras de ejemplo."
     }
   }
 }

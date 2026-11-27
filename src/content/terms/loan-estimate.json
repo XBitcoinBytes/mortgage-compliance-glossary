@@ -12,13 +12,14 @@
   "complianceNotes": "Track the application timestamp, the delivery method, and evidence the consumer received the form before fees other than a bona fide credit-report fee are collected. A worksheet that looks like a Loan Estimate can be treated as one. Do not issue a revised Loan Estimate on or after the Closing Disclosure except as 12 CFR 1026.19(e) allows.",
   "example": {
     "setting": "Loan Estimate, page 1, Loan Terms; page 2, Closing Cost Details",
-    "text": "On a sample purchase, page 1 might show a 30-year fixed product and an example note rate of 6.50 percent, and page 2, Section A, an origination charge of $1,195 on a $360,000 example loan. Example figures, not a quote or a current market rate."
+    "text": "On a sample purchase, page 1 might show a 30-year fixed product and an example note rate of 6.50 percent, and page 2, Section A, an origination charge of $1,195 on a $360,000 example loan. Regulation Z requires the creditor to deliver the Loan Estimate or place it in the mail within three business days after receiving an application, and generally no later than the seventh business day before consummation. The content is prescribed by 12 CFR 1026.37. An application for this purpose exists when the creditor has the six items in 12 CFR 1026.2(a)(3)(ii). The form replaced the Good Faith Estimate and the early Truth in Lending disclosure for covered closed-end loans. Reverse mortgages, HELOCs, and certain housing-assistance loans are outside this form. Example figures, not a quote or a current market rate."
   },
   "citations": [
     "reg-1026-19-e-1-iii",
     "reg-1026-19",
     "reg-1026-37",
-    "cfpb-le"
+    "cfpb-le",
+    "reg-1026-2-a-3-ii"
   ],
   "related": [
     "application-definition",
@@ -77,7 +78,7 @@
     "complianceNotes": "Controle la hora de la solicitud, el método de entrega y la prueba de que el consumidor recibió el formulario antes de cobrar cargos distintos de un cargo razonable por el informe de crédito. Una hoja de trabajo que parezca una Estimación del préstamo puede tratarse como tal. No emita una Estimación revisada en la fecha de la Divulgación del cierre o después, salvo lo que permite 12 CFR 1026.19(e).",
     "example": {
       "setting": "Estimación del préstamo, página 1, Términos del préstamo; página 2, Detalle de los costos de cierre",
-      "text": "En una compra de muestra, la página 1 puede mostrar un producto fijo a 30 años y una tasa del pagaré de ejemplo del 6.50 por ciento, y la página 2, Sección A, un cargo de originación de $1,195 sobre un préstamo de ejemplo de $360,000. Cifras de ejemplo, no una cotización ni una tasa de mercado vigente."
+      "text": "En una compra de muestra, la página 1 puede mostrar un producto fijo a 30 años y una tasa del pagaré de ejemplo del 6.50 por ciento, y la página 2, Sección A, un cargo de originación de $1,195 sobre un préstamo de ejemplo de $360,000. El Reglamento Z exige que el acreedor entregue la Estimación del préstamo o la ponga en el correo dentro de los tres días hábiles siguientes a la solicitud, y por lo general no más tarde del séptimo día hábil antes de la consumación. El contenido lo prescribe 12 CFR 1026.37. Una solicitud para este fin existe cuando el acreedor tiene los seis datos de 12 CFR 1026.2(a)(3)(ii). El formulario reemplazó al Good Faith Estimate y a la divulgación temprana de TILA en los préstamos cubiertos. Las hipotecas inversas, las HELOC y ciertos préstamos de asistencia para vivienda quedan fuera de este formulario. Cifras de ejemplo, no una cotización ni una tasa de mercado vigente."
     }
   }
 }

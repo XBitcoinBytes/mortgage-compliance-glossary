@@ -10,7 +10,7 @@
   "complianceNotes": "Keep an AML program that matches Part 1029 if the company is covered. Escalate unusual source-of-funds facts. Do not tell staff the threshold that makes a report optional as a way to stay under it.",
   "example": {
     "setting": "AML program file for a residential mortgage lender, not a borrower disclosure",
-    "text": "A sample program might assign a compliance officer and an annual training date. No dollar threshold is stated here. Example figures are not used for a reporting cutoff. A sample file number of 14 reviews in a quarter is only an illustration."
+    "text": "A sample program might assign a compliance officer and an annual training date. 31 USC 5311 states the purpose. 31 CFR Part 1029 contains FinCEN rules for loan or finance companies, including residential mortgage lenders and originators. The program, the compliance officer, training, independent testing, and suspicious-activity reporting are in that part. Bank customer-identification rules are not automatically the same text. Do not describe how to structure a transaction to avoid a report. No dollar threshold is stated here. Example figures are not used for a reporting cutoff. A sample file number of 14 reviews in a quarter is only an illustration."
   },
   "citations": [
     "usc-31-5311",
@@ -34,7 +34,7 @@
     "complianceNotes": "Mantenga un programa contra el lavado de dinero que coincida con la Parte 1029 si la empresa está cubierta. Escale los hechos inusuales del origen de los fondos. No le diga al personal el umbral que hace opcional un reporte como una forma de quedarse por debajo.",
     "example": {
       "setting": "Expediente del programa contra el lavado de dinero de un prestamista hipotecario residencial, no una divulgación al prestatario",
-      "text": "Un programa de muestra podría asignar un oficial de cumplimiento y una fecha de capacitación anual. Aquí no se indica un umbral en dólares. Las cifras de ejemplo no se usan como un corte de reporte. Un número de muestra de 14 revisiones en un trimestre es solo una ilustración. Cifras de ejemplo."
+      "text": "Un programa de muestra podría asignar un oficial de cumplimiento y una fecha de capacitación anual. 31 USC 5311 indica el propósito. 31 CFR Parte 1029 contiene las reglas de FinCEN para compañías de préstamos o financiamiento, incluidos los prestamistas e originadores de hipotecas residenciales. El programa, el oficial de cumplimiento, la capacitación, las pruebas independientes y el reporte de actividad sospechosa están en esa parte. Las reglas bancarias de identificación del cliente no son automáticamente el mismo texto. No describa cómo estructurar una transacción para evitar un reporte. Aquí no se indica un umbral en dólares. Las cifras de ejemplo no se usan como un corte de reporte. Un número de muestra de 14 revisiones en un trimestre es solo una ilustración. Cifras de ejemplo."
     }
   }
 }

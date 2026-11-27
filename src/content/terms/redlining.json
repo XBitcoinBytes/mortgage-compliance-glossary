@@ -8,7 +8,7 @@
   "complianceNotes": "Review branch locations, marketing, and exception practices for gaps that track race or national origin. Document legitimate risk reasons for any geographic limit. Do not draw a lending area around demographics.",
   "example": {
     "setting": "Lending-area and marketing maps reviewed against application patterns",
-    "text": "A sample review might compare an example of 400 applications inside a metro area with the census tracts where loan officers marketed. The count is an example figure, not a legal threshold. Example figures, not a quote or a legal limit."
+    "text": "A sample review might compare an example of 400 applications inside a metro area with the census tracts where loan officers marketed. The Fair Housing Act and ECOA are the main authorities. Examiners compare applications, originations, and marketing with the demographics of the assessment area, often using HMDA data. A lender can serve a wide area on paper and still discourage applicants from particular neighborhoods. The count is an example figure, not a legal threshold. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "usc-42-3605",
@@ -33,7 +33,7 @@
     "complianceNotes": "Revise las ubicaciones de sucursales, el mercadeo y las prácticas de excepción por brechas que siguen a la raza o al origen nacional. Documente razones legítimas de riesgo para cualquier límite geográfico. No dibuje un área de préstamos alrededor de la demografía.",
     "example": {
       "setting": "Mapas del área de préstamos y de mercadeo revisados contra los patrones de solicitudes",
-      "text": "Una revisión de muestra podría comparar un ejemplo de 400 solicitudes dentro de un área metropolitana con los sectores censales donde los oficiales de préstamos hicieron mercadeo. El conteo es una cifra de ejemplo, no un umbral legal. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una revisión de muestra podría comparar un ejemplo de 400 solicitudes dentro de un área metropolitana con los sectores censales donde los oficiales de préstamos hicieron mercadeo. La Ley de Vivienda Justa y ECOA son las autoridades principales. Los examinadores comparan solicitudes, originaciones y mercadeo con la demografía del área de evaluación, a menudo usando datos de HMDA. Un prestamista puede servir un área amplia en el papel y todavía desalentar a solicitantes de vecindarios particulares. El conteo es una cifra de ejemplo, no un umbral legal. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

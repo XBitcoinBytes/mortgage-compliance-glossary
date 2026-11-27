@@ -11,7 +11,7 @@
   "complianceNotes": "Compare Social Security wages and Medicare wages with the pay stubs. If the borrower cannot find a W-2, a transcript may fill the gap when the guide allows it. Do not use a W-2 to qualify self-employment income.",
   "example": {
     "setting": "Income file, IRS Form W-2 for the years the guide requires",
-    "text": "A sample W-2 might show example wages of $62,400 from one employer. Those wages should be compared with the pay stub, and a second job would need its own W-2 if that income is used. Do not use a W-2 to qualify self-employment income. Example figures."
+    "text": "A sample W-2 might show example wages of $62,400 from one employer. Those wages should be compared with the pay stub, and a second job would need its own W-2 if that income is used. Fannie Mae's employment documentation standards in B3-3.2-01 include W-2s for wage income, and B3-3.1-02 addresses transcripts that can confirm them. A W-2 that does not match the employer's name on the application needs an explanation. Multiple W-2s can mean multiple jobs, each of which must meet the continuance test if the income is used. Do not use a W-2 to qualify self-employment income. Example figures."
   },
   "citations": [
     "fannie-b3-3-2-01",
@@ -39,7 +39,7 @@
     "complianceNotes": "Compare los salarios del Seguro Social y de Medicare con los talones de pago. Si el prestatario no encuentra un W-2, una transcripción puede llenar el vacío cuando la guía lo permite. No use un W-2 para calificar ingreso de trabajo por cuenta propia.",
     "example": {
       "setting": "Expediente de ingresos, Formulario W-2 del IRS de los años que exige la guía",
-      "text": "Un W-2 de muestra puede mostrar salarios de ejemplo de $62,400 de un empleador. Esos salarios deben compararse con el talón de pago, y un segundo empleo necesitaría su propio W-2 si se usa ese ingreso. No use un W-2 para calificar ingreso por cuenta propia. Cifras de ejemplo."
+      "text": "Un W-2 de muestra puede mostrar salarios de ejemplo de $62,400 de un empleador. Esos salarios deben compararse con el talón de pago, y un segundo empleo necesitaría su propio W-2 si se usa ese ingreso. Las normas de documentación de empleo de Fannie Mae en B3-3.2-01 incluyen los W-2 para ingreso salarial, y B3-3.1-02 trata las transcripciones que pueden confirmarlos. Un W-2 que no coincide con el nombre del empleador en la solicitud necesita una explicación. Varios W-2 pueden significar varios empleos, cada uno de los cuales debe cumplir la prueba de continuidad si se usa el ingreso. No use un W-2 para calificar ingreso por cuenta propia. Cifras de ejemplo."
     }
   }
 }

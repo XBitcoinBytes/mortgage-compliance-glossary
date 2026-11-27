@@ -8,7 +8,7 @@
   "complianceNotes": "Set the system cushion at one-sixth or less. Do not collect extra months at closing or at the annual analysis. If state law is tighter, follow the state.",
   "example": {
     "setting": "Escrow analysis target balance, limited by the one-sixth cushion",
-    "text": "On an example annual tax and insurance bill of $3,600, one-sixth is $600, about two months. A servicer may not add a third or fourth month of cushion for comfort. State law can be stricter. Example figures illustrating the regulatory fraction."
+    "text": "On an example annual tax and insurance bill of $3,600, one-sixth is $600, about two months. 12 CFR 1024.17 states the one-sixth limit and the aggregate analysis that applies it across the year. A servicer may not add a third or fourth month of cushion for comfort. The aggregate adjustment at closing exists so the initial deposit respects the same limit. State law can be stricter. Example figures illustrating the regulatory fraction."
   },
   "citations": [
     "reg-1024-17"
@@ -34,7 +34,7 @@
     "complianceNotes": "Fije el colchón del sistema en un sexto o menos. No cobre meses extra en el cierre ni en el análisis anual. Si la ley estatal es más estricta, siga al estado.",
     "example": {
       "setting": "Saldo objetivo del análisis del depósito en garantía, limitado por el colchón de un sexto",
-      "text": "Sobre una factura anual de impuestos y seguro de ejemplo de $3,600, un sexto es $600, cerca de dos meses. Un administrador no puede agregar un tercer o cuarto mes de colchón por comodidad. La ley estatal puede ser más estricta. Cifras de ejemplo que ilustran la fracción del reglamento."
+      "text": "Sobre una factura anual de impuestos y seguro de ejemplo de $3,600, un sexto es $600, cerca de dos meses. 12 CFR 1024.17 indica el límite de un sexto y el análisis agregado que lo aplica a lo largo del año. Un administrador no puede agregar un tercer o cuarto mes de colchón por comodidad. El ajuste agregado en el cierre existe para que el depósito inicial respete el mismo límite. La ley estatal puede ser más estricta. Cifras de ejemplo que ilustran la fracción del reglamento."
     }
   }
 }

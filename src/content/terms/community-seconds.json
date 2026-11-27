@@ -8,7 +8,7 @@
   "complianceNotes": "Read the second-lien documents against the current topic before you approve the first mortgage. Enter the lien in the AUS. Do not call it a grant if it must be repaid.",
   "example": {
     "setting": "Subsidized second lien from a housing agency or nonprofit, paired with a first mortgage",
-    "text": "A sample community second of an example $12,000 might be deferred and included in the CLTV. It is not a personal gift, and it should not be called a grant if it must be repaid. A payment, if one is due, counts in the debt ratio. Example figures."
+    "text": "A sample community second of an example $12,000 might be deferred and included in the CLTV. The Fannie Mae Selling Guide has a community-seconds topic. Eligible providers and acceptable terms, including deferred payments, are defined there. The second counts in the CLTV. A payment, if one is due, counts in the debt ratio. A second that does not meet the topic is ordinary subordinate financing and may not be eligible at the same CLTV. It is not a personal gift, and it should not be called a grant if it must be repaid. Example figures."
   },
   "citations": [
     "fannie-guide"
@@ -31,7 +31,7 @@
     "complianceNotes": "Lea los documentos del segundo gravamen contra el tema vigente antes de aprobar la primera hipoteca. Ingrese el gravamen en el sistema automatizado. No lo llame una subvención si debe pagarse.",
     "example": {
       "setting": "Segundo gravamen subsidiado de una agencia de vivienda o una organización sin fines de lucro, junto con una primera hipoteca",
-      "text": "Un segundo comunitario de muestra de un ejemplo de $12,000 podría estar diferido e incluido en la CLTV. No es un regalo personal, y no debe llamarse donación si hay que devolverlo. Un pago, si vence, cuenta en la relación de deudas. Cifras de ejemplo."
+      "text": "Un segundo comunitario de muestra de un ejemplo de $12,000 podría estar diferido e incluido en la CLTV. La Guía de venta de Fannie Mae tiene un tema de segundos comunitarios. Allí se definen los proveedores elegibles y los términos aceptables, incluidos los pagos diferidos. El segundo cuenta en la CLTV. Un pago, si vence, cuenta en la relación de deudas. Un segundo que no cumple el tema es financiamiento subordinado ordinario y puede no ser elegible a la misma CLTV. No es un regalo personal, y no debe llamarse donación si hay que devolverlo. Cifras de ejemplo."
     }
   }
 }
