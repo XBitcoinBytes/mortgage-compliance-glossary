@@ -3,7 +3,7 @@
   "term": "Prepaid interest",
   "aliases": [],
   "category": "closing",
-  "definition": "Prepaid interest is the interest from the day the loan funds through the day before your first payment period starts. It is collected at closing because mortgage interest is paid in arrears. If the closing date moves, the amount changes.",
+  "definition": "Prepaid interest is the interest from the day the loan funds through the day before your first payment period starts. It is collected at closing and appears on the Loan Estimate and the Closing Disclosure because mortgage interest is paid in arrears. If the closing date moves, the amount changes.",
   "details": "12 CFR 1026.37 places it in Section F. 12 CFR 1026.19(e)(3)(iii) allows it to change because it depends on the disbursement date. The estimate still has to be made in good faith from a realistic closing date. A large increase because the creditor delayed without a permitted reason is not automatically harmless.",
   "complianceNotes": "Estimate the per diem from the locked rate and a real closing date. Update Section F when the date changes. Explain to the borrower why a later closing can cost more interest even at the same rate.",
   "example": {
@@ -29,7 +29,7 @@
     "aliases": [
       "Pago anticipado de interés"
     ],
-    "definition": "El interés pagado por adelantado es el interés desde el día en que se desembolsa el préstamo hasta el día anterior al inicio de su primer período de pago. Se cobra en el cierre porque el interés hipotecario se paga por período vencido. Si la fecha de cierre se mueve, el monto cambia.",
+    "definition": "El interés pagado por adelantado es el interés desde el día en que se desembolsa el préstamo hasta el día anterior al inicio de su primer período de pago. Se cobra en el cierre y aparece en la Estimación del préstamo y en la Divulgación del cierre porque el interés hipotecario se paga por período vencido. Si la fecha de cierre se mueve, el monto cambia.",
     "details": "12 CFR 1026.37 lo coloca en la Sección F. 12 CFR 1026.19(e)(3)(iii) permite que cambie porque depende de la fecha de desembolso. El estimado igual tiene que hacerse de buena fe a partir de una fecha de cierre realista. Un aumento grande porque el acreedor se demoró sin una razón permitida no es automáticamente inofensivo.",
     "complianceNotes": "Estime el interés diario a partir de la tasa fijada y de una fecha de cierre real. Actualice la Sección F cuando cambia la fecha. Explíquele al prestatario por qué un cierre más tarde puede costar más interés aunque la tasa sea la misma.",
     "example": {

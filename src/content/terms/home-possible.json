@@ -8,10 +8,11 @@
   "complianceNotes": "Run the file in Loan Product Advisor as Home Possible only after the income test passes. Follow Freddie's guide, not Fannie's, for conditions.",
   "example": {
     "setting": "Home Possible eligibility under the current Freddie Mac Guide",
-    "text": "A sample file might compare example household income with the current Home Possible limit. Follow the Freddie Mac Guide, not Fannie Mae's HomeReady rules, and do not state a current area-median-income percentage here. Home Possible is not an FHA loan. Example figures are not the limit."
+    "text": "A sample file might compare example household income with the current Home Possible limit. The Seller/Servicer Guide states the income test, the property types, and the underwriting, including Loan Product Advisor feedback. Education requirements, if any, are in the guide. Follow the Freddie Mac Guide, not Fannie Mae's HomeReady rules, and do not state a current area-median-income percentage here. Mixing HomeReady rules into a Home Possible delivery is a defect. Home Possible is not an FHA loan. Example figures are not the limit."
   },
   "citations": [
-    "freddie-guide"
+    "freddie-guide",
+    "freddie-lpa"
   ],
   "related": [
     "conventional-loan",
@@ -29,7 +30,7 @@
     "complianceNotes": "Ejecute el expediente en Loan Product Advisor como Home Possible solo después de que pase la prueba de ingreso. Siga la guía de Freddie, no la de Fannie, para las condiciones.",
     "example": {
       "setting": "Elegibilidad de Home Possible según la Guía vigente de Freddie Mac",
-      "text": "Un expediente de muestra podría comparar un ingreso del hogar de ejemplo con el límite vigente de Home Possible. Siga la guía de Freddie Mac, no las reglas de HomeReady de Fannie Mae, y no indique aquí un porcentaje vigente del ingreso medio del área. Home Possible no es un préstamo FHA. Las cifras de ejemplo no son el límite. Cifras de ejemplo."
+      "text": "Un expediente de muestra podría comparar un ingreso del hogar de ejemplo con el límite vigente de Home Possible. La guía del vendedor y administrador indica la prueba de ingresos, los tipos de propiedad y la suscripción, incluido el resultado de Loan Product Advisor. Los requisitos de educación, si los hay, están en la guía. Siga la guía de Freddie Mac, no las reglas de HomeReady de Fannie Mae, y no indique aquí un porcentaje vigente del ingreso medio del área. Mezclar las reglas de HomeReady en una entrega de Home Possible es un defecto. Home Possible no es un préstamo FHA. Las cifras de ejemplo no son el límite. Cifras de ejemplo."
     }
   }
 }

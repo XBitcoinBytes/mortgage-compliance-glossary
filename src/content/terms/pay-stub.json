@@ -6,7 +6,7 @@
     "paystub"
   ],
   "category": "underwriting",
-  "definition": "A pay stub is your employer's record of a recent paycheck, showing gross pay, hours, deductions, and year-to-date totals. Lenders use it to calculate base pay and to see overtime or bonus amounts. The guide, not a local habit, sets how many stubs are required.",
+  "definition": "A pay stub is your employer's record of a recent paycheck, showing gross pay, hours, deductions, and year-to-date totals. Lenders use it to calculate base pay and to see bonus, overtime, and commission income. The guide, not a local habit, sets how many stubs are required.",
   "details": "Fannie Mae B3-3.2-01 and B3-3.3-01 describe employment documentation and base income. Year-to-date figures should be consistent with the stated pay rate. A raise, a new job, or unpaid leave has to be read against the continuance standard in B3-3.1-01. Pay stubs do not replace a verbal verification when the guide requires one.",
   "complianceNotes": "Look at year-to-date pay, not only the current period. Explain a stub that shows zero hours or a job change. Do not annualize one unusually large check.",
   "example": {
@@ -34,7 +34,7 @@
     "aliases": [
       "talones de pago"
     ],
-    "definition": "Un talón de pago es el registro de su empleador de un cheque reciente, que muestra el pago bruto, las horas, las deducciones y los totales del año a la fecha. Los prestamistas lo usan para calcular el pago base y ver los montos de tiempo extra o bonos. La guía, no una costumbre local, fija cuántos talones se exigen.",
+    "definition": "Un talón de pago es el registro de su empleador de un cheque reciente, que muestra el pago bruto, las horas, las deducciones y los totales del año a la fecha. Los prestamistas lo usan para calcular el pago base y ver el ingreso por bono, tiempo extra y comisión. La guía, no una costumbre local, fija cuántos talones se exigen.",
     "details": "Fannie Mae B3-3.2-01 y B3-3.3-01 describen la documentación del empleo y el ingreso base. Las cifras del año a la fecha deben ser consistentes con la tasa de pago declarada. Un aumento, un empleo nuevo o una licencia sin pago deben leerse contra el estándar de continuidad de B3-3.1-01. Los talones de pago no reemplazan una verificación verbal cuando la guía la exige.",
     "complianceNotes": "Mire el pago del año a la fecha, no solo el período actual. Explique un talón que muestra cero horas o un cambio de empleo. No anualice un cheque inusualmente grande.",
     "example": {

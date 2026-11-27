@@ -3,7 +3,7 @@
   "term": "Disparate treatment",
   "aliases": [],
   "category": "compliance",
-  "definition": "Disparate treatment means treating people differently because of a prohibited basis. It includes an overt policy and unequal treatment that is less obvious, such as helping one applicant document income and not helping another who is similarly situated. It does not require a written rule.",
+  "definition": "Disparate treatment means treating people differently because of a prohibited basis under the Equal Credit Opportunity Act or the Fair Housing Act. It includes an overt policy and unequal treatment that is less obvious, such as helping one applicant document income and not helping another who is similarly situated. It does not require a written rule.",
   "details": "Regulation B, 12 CFR 1002.4, and the Fair Housing Act both reach disparate treatment. Evidence can be emails, pricing exceptions, or a pattern in the files. A creditor's explanation must be the true reason and must not itself be discriminatory. Comparative file review is the usual exam technique.",
   "complianceNotes": "Give similarly situated applicants the same assistance and the same exception criteria. If you deny one file for a large deposit and approve another, the difference needs a real reason in the file.",
   "example": {
@@ -26,7 +26,7 @@
   "es": {
     "term": "Trato dispar",
     "aliases": [],
-    "definition": "El trato dispar significa tratar a las personas de modo distinto por un motivo prohibido. Incluye una política abierta y un trato desigual menos obvio, como ayudar a un solicitante a documentar ingresos y no ayudar a otro que está en una situación similar. No exige una regla escrita.",
+    "definition": "El trato dispar significa tratar a las personas de modo distinto por un motivo prohibido bajo la Ley de Igualdad de Oportunidad de Crédito o la Ley de Vivienda Justa. Incluye una política abierta y un trato desigual menos obvio, como ayudar a un solicitante a documentar ingresos y no ayudar a otro que está en una situación similar. No exige una regla escrita.",
     "details": "El Reglamento B, 12 CFR 1002.4, y la Ley de Vivienda Justa alcanzan el trato dispar. La prueba puede ser correos electrónicos, excepciones de precio o un patrón en los expedientes. La explicación del acreedor debe ser la razón verdadera y no debe ser discriminatoria en sí. La revisión comparativa de expedientes es la técnica usual de examen.",
     "complianceNotes": "Dé a los solicitantes en situación similar la misma ayuda y los mismos criterios de excepción. Si niega un expediente por un depósito grande y aprueba otro, la diferencia necesita una razón real en el expediente.",
     "example": {

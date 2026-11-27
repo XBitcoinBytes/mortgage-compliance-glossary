@@ -8,10 +8,11 @@
   "complianceNotes": "Do not tell a borrower they applied with Fannie Mae. Tell them the lender may sell the loan. Deliver only files that match the guide and the final DU findings.",
   "example": {
     "setting": "Loan delivered to Fannie Mae under the Selling Guide",
-    "text": "A sample delivery might be an example $305,000 DU Approve/Eligible loan. Fannie Mae does not take applications from home buyers. A loan sold to Fannie Mae must meet the Selling Guide and the DU findings. It is not Freddie Mac, and it does not insure FHA loans. Example figures."
+    "text": "A sample delivery might be an example $305,000 DU Approve/Eligible loan. Fannie Mae does not take applications from home buyers. A loan sold to Fannie Mae must meet the Selling Guide and the DU findings. Fannie Mae is not the same as Freddie Mac, and it is not Ginnie Mae. It does not insure FHA loans. Its loan limits come from FHFA. Servicing rules after sale are in the Servicing Guide, which is separate from the Selling Guide. Example figures."
   },
   "citations": [
-    "fannie-guide"
+    "fannie-guide",
+    "fhfa-cll"
   ],
   "related": [
     "conforming-loan",
@@ -33,7 +34,7 @@
     "complianceNotes": "No le diga a un prestatario que solicitó con Fannie Mae. Dígale que el prestamista puede vender el préstamo. Entregue solo expedientes que coinciden con la guía y con los hallazgos finales de DU.",
     "example": {
       "setting": "Préstamo entregado a Fannie Mae según la Selling Guide",
-      "text": "Una entrega de muestra podría ser un préstamo de ejemplo de $305,000 con Approve/Eligible de DU. Fannie Mae no recibe solicitudes de compradores de vivienda. Un préstamo vendido a Fannie Mae debe cumplir la Guía de venta y los resultados de DU. No es Freddie Mac, y no asegura préstamos FHA. Cifras de ejemplo."
+      "text": "Una entrega de muestra podría ser un préstamo de ejemplo de $305,000 con Approve/Eligible de DU. Fannie Mae no recibe solicitudes de compradores de vivienda. Un préstamo vendido a Fannie Mae debe cumplir la Guía de venta y los resultados de DU. Fannie Mae no es lo mismo que Freddie Mac, y no es Ginnie Mae. No asegura préstamos FHA. Sus límites de préstamo vienen de la FHFA. Las reglas de administración después de la venta están en la Guía de administración, que es distinta de la Guía de venta. Cifras de ejemplo."
     }
   }
 }

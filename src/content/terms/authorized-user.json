@@ -6,7 +6,7 @@
     "authorized-user account"
   ],
   "category": "underwriting",
-  "definition": "An authorized user is someone who may use another person's credit account but did not agree to repay it. The account can appear on the authorized user's credit report. It is not automatically the user's own debt, and it is not automatically usable as credit history.",
+  "definition": "An authorized user is someone who may use another person's credit account but did not agree to repay it. The account can appear on the authorized user's credit report. It is not automatically counted in the debt-to-income ratio, and it is not automatically usable as credit history.",
   "details": "Fannie Mae B3-5.3-06 limits when an authorized-user account may support the credit history and whether its payment is included. Desktop Underwriter and manual underwriting can treat the account differently. A spouse's card on which the borrower is only an authorized user is not the same as a joint account.",
   "complianceNotes": "Read the account ownership field before you count the payment or the history. Do not tell a borrower to be added as an authorized user solely to manufacture a score for a pending application without considering the guide.",
   "example": {
@@ -29,7 +29,7 @@
     "aliases": [
       "usuario autorizado"
     ],
-    "definition": "Un usuario autorizado es alguien que puede usar la cuenta de crédito de otra persona pero no acordó pagarla. La cuenta puede aparecer en el informe de crédito del usuario autorizado. No es automáticamente la deuda propia del usuario, y no es automáticamente utilizable como historial de crédito.",
+    "definition": "Un usuario autorizado es alguien que puede usar la cuenta de crédito de otra persona pero no acordó pagarla. La cuenta puede aparecer en el informe de crédito del usuario autorizado. No se cuenta automáticamente en la relación deuda-ingreso, y no es automáticamente utilizable como historial de crédito.",
     "details": "Fannie Mae B3-5.3-06 limita cuándo una cuenta de usuario autorizado puede apoyar el historial de crédito y si su pago se incluye. Desktop Underwriter y la suscripción manual pueden tratar la cuenta de modo distinto. La tarjeta de un cónyuge en la que el prestatario es solo usuario autorizado no es lo mismo que una cuenta conjunta.",
     "complianceNotes": "Lea el campo de titularidad de la cuenta antes de contar el pago o el historial. No le diga a un prestatario que lo agreguen como usuario autorizado solo para fabricar un puntaje para una solicitud pendiente sin considerar la guía.",
     "example": {

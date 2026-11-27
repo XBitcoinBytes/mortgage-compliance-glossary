@@ -5,7 +5,7 @@
     "successors in interest"
   ],
   "category": "servicing",
-  "definition": "A successor in interest is a person who received an ownership interest in the home after the loan was made, for example after a death, a divorce, or a transfer to a relative. Once confirmed, that person is treated as a borrower for important servicing protections. Confirmation does not, by itself, make the person personally liable on the note.",
+  "definition": "A successor in interest is a person who received an ownership interest in the home after the loan was made, for example after a death, a divorce, or a transfer to a relative. Once confirmed, that person is treated as a borrower for important servicing protections under Regulation X. Confirmation does not, by itself, make the person personally liable on the note.",
   "details": "Regulation X and Regulation Z contain the successor rules, including how a servicer confirms a successor and which protections apply. A confirmed successor can request information, assert errors, and apply for loss mitigation. The servicer should not demand that the successor assume the debt as a condition of those protections. Personal liability remains a note and state-law question.",
   "complianceNotes": "Have a confirmation process that asks for the documents the rule allows and then treats the person as a borrower for the listed protections. Do not refuse loss mitigation because the heir is not the original borrower.",
   "example": {
@@ -27,7 +27,7 @@
   "es": {
     "term": "Sucesor en interés",
     "aliases": [],
-    "definition": "Un sucesor en interés es una persona que recibió un interés de propiedad en la vivienda después de que se hizo el préstamo, por ejemplo después de una muerte, un divorcio o una transferencia a un familiar. Una vez confirmado, esa persona es tratada como prestatario para protecciones importantes de administración. La confirmación no hace, por sí sola, que la persona sea personalmente responsable en el pagaré.",
+    "definition": "Un sucesor en interés es una persona que recibió un interés de propiedad en la vivienda después de que se hizo el préstamo, por ejemplo después de una muerte, un divorcio o una transferencia a un familiar. Una vez confirmado, esa persona es tratada como prestatario para protecciones importantes de administración bajo el Reglamento X. La confirmación no hace, por sí sola, que la persona sea personalmente responsable en el pagaré.",
     "details": "El Reglamento X y el Reglamento Z contienen las reglas del sucesor, incluido cómo un administrador confirma a un sucesor y qué protecciones se aplican. Un sucesor confirmado puede pedir información, alegar errores y solicitar mitigación de pérdidas. El administrador no debe exigir que el sucesor asuma la deuda como condición de esas protecciones. La responsabilidad personal sigue siendo una cuestión del pagaré y de la ley estatal.",
     "complianceNotes": "Tenga un proceso de confirmación que pida los documentos que la regla permite y luego trate a la persona como prestatario para las protecciones enumeradas. No niegue la mitigación de pérdidas porque el heredero no es el prestatario original.",
     "example": {

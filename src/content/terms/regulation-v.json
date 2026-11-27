@@ -11,7 +11,7 @@
   "complianceNotes": "Do not skip both the risk-based pricing notice and the score-disclosure exception. Keep whichever document the section requires with the application. A denial still needs the FCRA adverse-action content.",
   "example": {
     "setting": "Risk-based pricing or credit-score disclosure file under Regulation V",
-    "text": "A sample score disclosure might list an example score of 688 and the agency that supplied it. 12 CFR 1022.72 requires a risk-based pricing notice in the cases it covers; a credit-score disclosure exception exists. The adverse-action score disclosure is a different document. Example figures."
+    "text": "A sample score disclosure might list an example score of 688 and the agency that supplied it. 12 CFR 1022.72 requires a risk-based pricing notice when a creditor extends credit on terms that are materially less favorable than the most favorable terms it offers a substantial proportion of consumers, based on a consumer report. A credit-score disclosure exception exists. Read the section before you decide a notice is unnecessary. The adverse-action score disclosure under the statute is a different document. Example figures."
   },
   "citations": [
     "reg-1022",
@@ -33,7 +33,7 @@
     "complianceNotes": "No omita tanto el aviso de precio basado en el riesgo como la excepción de divulgación del puntaje. Conserve el documento que exige la sección con la solicitud. Una denegación igual necesita el contenido de acción adversa de la FCRA.",
     "example": {
       "setting": "Expediente del aviso de precio basado en el riesgo o de la divulgación del puntaje según el Reglamento V",
-      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 688 y la agencia que lo proporcionó. 12 CFR 1022.72 exige un aviso de precios basados en el riesgo en los casos que cubre; existe una excepción de divulgación del puntaje de crédito. La divulgación del puntaje en una acción adversa es un documento distinto. Cifras de ejemplo."
+      "text": "Una divulgación de puntaje de muestra puede listar un puntaje de ejemplo de 688 y la agencia que lo proporciono. 12 CFR 1022.72 exige un aviso de precios basados en el riesgo cuando un acreedor otorga crédito en términos materialmente menos favorables que los más favorables que ofrece a una proporción sustancial de consumidores, con base en un informe del consumidor. Existe una excepción de divulgación del puntaje de crédito. Lea la sección antes de decidir que un aviso no es necesario. La divulgación del puntaje en una acción adversa bajo la ley es un documento distinto. Cifras de ejemplo."
     }
   }
 }

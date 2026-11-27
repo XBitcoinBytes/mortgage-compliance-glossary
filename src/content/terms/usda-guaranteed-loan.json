@@ -7,7 +7,7 @@
     "Section 502 Guaranteed"
   ],
   "category": "loan-programs",
-  "definition": "A USDA guaranteed loan is a Section 502 rural housing loan made by a lender and guaranteed by USDA. The property must be in an eligible rural area, and household income must be within limits USDA publishes. Those limits and the guarantee fee change. Do not quote them from this page.",
+  "definition": "A USDA guaranteed loan is a Section 502 rural housing loan made by a lender and guaranteed by USDA. The property must be in an eligible rural area, and household income must be within limits USDA publishes. Those limits and the guarantee fee change. It is not an FHA loan or a VA loan. Do not quote them from this page.",
   "details": "7 CFR Part 3555 is the program regulation. HB-1-3555 is the handbook. GUS is the automated system. There is an upfront guarantee fee and an annual fee. Income is calculated as USDA defines household income, which is not the same as Fannie Mae qualifying income. The direct USDA loan program is a different product from the guaranteed loan.",
   "complianceNotes": "Check the property eligibility map and the current income limits before you take a full application. Disclose both fees. Do not underwrite household income with only the note signers if the handbook counts others.",
   "example": {
@@ -33,7 +33,7 @@
       "Sección 502",
       "préstamo USDA"
     ],
-    "definition": "Un préstamo garantizado de USDA es un préstamo de vivienda rural de la Sección 502 hecho por un prestamista y garantizado por USDA. La propiedad debe estar en un área rural elegible, y el ingreso del hogar debe estar dentro de los límites que publica USDA. Esos límites y la cuota de garantía cambian. No los cite desde esta página.",
+    "definition": "Un préstamo garantizado de USDA es un préstamo de vivienda rural de la Sección 502 hecho por un prestamista y garantizado por USDA. La propiedad debe estar en un área rural elegible, y el ingreso del hogar debe estar dentro de los límites que publica USDA. Esos límites y la cuota de garantía cambian. No es un préstamo FHA ni un préstamo VA. No los cite desde esta página.",
     "details": "7 CFR Parte 3555 es el reglamento del programa. HB-1-3555 es el manual. GUS es el sistema automatizado. Hay una cuota de garantía inicial y una cuota anual. El ingreso se calcula como USDA define el ingreso del hogar, que no es lo mismo que el ingreso de calificación de Fannie Mae. El programa de préstamo directo de USDA es un producto distinto del préstamo garantizado.",
     "complianceNotes": "Revise el mapa de elegibilidad de la propiedad y los límites de ingreso vigentes antes de tomar una solicitud completa. Divulgue ambas cuotas. No suscriba el ingreso del hogar solo con los firmantes del pagaré si el manual cuenta a otras personas.",
     "example": {

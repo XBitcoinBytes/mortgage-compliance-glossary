@@ -8,7 +8,7 @@
   "complianceNotes": "Say, in the AfBA disclosure and in practice, that the consumer may choose another provider. Do not condition approval on the affiliate. If the creditor legitimately selects a provider the consumer cannot shop for, put the fee in Section B and do not call it a shoppable affiliate referral.",
   "example": {
     "setting": "Affiliated-business disclosure, the statement that use of the affiliate is not required",
-    "text": "A sample script that says the example title fee of $1,200 is available only from the lender's affiliate would be required use. If the creditor legitimately selects a provider the consumer cannot shop for, that fee belongs in Section B and is not a shoppable affiliate referral. Example figures."
+    "text": "A sample script that says the example title fee of $1,200 is available only from the lender's affiliate would be required use. 12 CFR 1024.2 defines required use, and 12 CFR 1024.15 uses that idea in the affiliated-business conditions. A written list of providers under TRID is a different rule about tolerance buckets. If the creditor legitimately selects a provider the consumer cannot shop for, that fee belongs in Section B and is not a shoppable affiliate referral. Putting only the affiliate on that list, with no real chance to shop, can be both a tolerance problem and a required-use problem. Example figures."
   },
   "citations": [
     "reg-1024-15",
@@ -31,7 +31,7 @@
     "complianceNotes": "Diga, en la divulgación del arreglo y en la práctica, que el consumidor puede elegir otro proveedor. No condicione la aprobación al afiliado. Si el acreedor selecciona legítimamente un proveedor que el consumidor no puede comparar, ponga el cargo en la Sección B y no lo llame una referencia de un afiliado que se puede comparar.",
     "example": {
       "setting": "Divulgación de negocio afiliado, la declaración de que el uso del afiliado no es obligatorio",
-      "text": "Un guion de muestra que dice que el cargo de título de ejemplo de $1,200 está disponible solo del afiliado del prestamista sería uso obligatorio. Si el acreedor elige de manera legítima un proveedor que el consumidor no puede comparar, ese cargo pertenece a la Sección B y no es una referencia afiliada que se pueda comparar. Cifras de ejemplo."
+      "text": "Un guion de muestra que diga que el cargo de título de ejemplo de $1,200 está disponible solo del afiliado del prestamista sería uso obligatorio. 12 CFR 1024.2 define el uso obligatorio, y 12 CFR 1024.15 usa esa idea en las condiciones de un arreglo de negocio afiliado. Una lista escrita de proveedores bajo TRID es una regla distinta sobre los grupos de tolerancia. Si el acreedor elige de forma legítima un proveedor que el consumidor no puede comparar, ese cargo pertenece a la Sección B y no es una referencia comparable a un afiliado. Poner solo al afiliado en esa lista, sin una oportunidad real de comparar, puede ser un problema de tolerancia y de uso obligatorio. Cifras de ejemplo."
     }
   }
 }

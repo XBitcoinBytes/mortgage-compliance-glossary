@@ -3,7 +3,7 @@
   "term": "Seasoned funds",
   "aliases": [],
   "category": "underwriting",
-  "definition": "Seasoned funds are money that has been in your account long enough, under the guide, that the lender does not have to trace the original deposit the same way. They are still your funds. The seasoning period is a guide rule, not a statute.",
+  "definition": "Seasoned funds are money that has been in your account long enough, under the guide, that the lender does not have to trace the original deposit the same way as a large deposit. They are still your funds. The seasoning period is a guide rule, not a statute.",
   "details": "The Fannie Mae Selling Guide describes when funds are considered seasoned and when a large deposit still must be sourced. Moving money from an undisclosed account into the borrower's account the week before closing does not make it seasoned. The lender should read the current section for the number of days rather than rely on memory.",
   "complianceNotes": "Count seasoning from the statements you actually have. If the guide's period is not met, source the deposit. Do not advise a borrower to wait out a sourcing request by transferring funds in a circle.",
   "example": {
@@ -24,7 +24,7 @@
   "es": {
     "term": "Fondos con antigüedad",
     "aliases": [],
-    "definition": "Los fondos con antigüedad son dinero que ha estado en su cuenta el tiempo suficiente, según la guía, para que el prestamista no tenga que rastrear el depósito original del mismo modo. Siguen siendo sus fondos. El período de antigüedad es una regla de la guía, no una ley.",
+    "definition": "Los fondos con antigüedad son dinero que ha estado en su cuenta el tiempo suficiente, según la guía, para que el prestamista no tenga que rastrear el depósito original del mismo modo que un depósito grande. Siguen siendo sus fondos. El período de antigüedad es una regla de la guía, no una ley.",
     "details": "La Selling Guide de Fannie Mae describe cuándo los fondos se consideran con antigüedad y cuándo un depósito grande igual debe documentarse. Mover dinero de una cuenta no divulgada a la cuenta del prestatario la semana antes del cierre no lo vuelve antiguo. El prestamista debe leer la sección vigente para el número de días en lugar de confiar en la memoria.",
     "complianceNotes": "Cuente la antigüedad a partir de los estados que de verdad tiene. Si no se cumple el período de la guía, documente el origen del depósito. No aconseje a un prestatario que evite un pedido de origen transfiriendo fondos en círculo.",
     "example": {

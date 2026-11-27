@@ -5,7 +5,7 @@
     "POA"
   ],
   "category": "origination",
-  "definition": "A power of attorney lets a named person sign loan documents for the borrower. Lenders and agencies allow it only in limited cases, such as a borrower who is deployed or medically unable to sign. It is not a convenience shortcut.",
+  "definition": "A power of attorney lets a named person sign the promissory note and other loan documents for the borrower. Lenders and agencies allow it only in limited cases, such as a borrower who is deployed or medically unable to sign. It is not a convenience shortcut.",
   "details": "The Fannie Mae Selling Guide sets conditions for a power of attorney on loans delivered to Fannie Mae, including who may be the agent and whether the borrower must still sign some documents. Title companies and state law add formalities. A power of attorney does not change who the borrower is, and it does not waive the Loan Estimate or Closing Disclosure.",
   "complianceNotes": "Approve the form before the closing package is drawn. Do not let an interested party, such as the seller, act as agent unless the guide and the title insurer both allow it. Keep a copy of the recorded instrument if recording is required.",
   "example": {
@@ -29,7 +29,7 @@
     "aliases": [
       "Poder legal"
     ],
-    "definition": "Un poder notarial permite que una persona nombrada firme los documentos del préstamo por el prestatario. Los prestamistas y las agencias lo permiten solo en casos limitados, como un prestatario que está desplegado o que no puede firmar por razones médicas. No es un atajo de conveniencia.",
+    "definition": "Un poder notarial permite que una persona nombrada firme el pagaré y los demás documentos del préstamo por el prestatario. Los prestamistas y las agencias lo permiten solo en casos limitados, como un prestatario que está desplegado o que no puede firmar por razones médicas. No es un atajo de conveniencia.",
     "details": "La Selling Guide de Fannie Mae fija condiciones para un poder notarial en los préstamos que se entregan a Fannie Mae, incluido quién puede ser el apoderado y si el prestatario igual debe firmar algunos documentos. Las compañías de título y la ley estatal agregan formalidades. Un poder notarial no cambia quién es el prestatario y no dispensa la Estimación del préstamo ni la Divulgación del cierre.",
     "complianceNotes": "Apruebe el formulario antes de preparar el paquete de cierre. No deje que una parte interesada, como el vendedor, actúe como apoderado salvo que la guía y la aseguradora de título lo permitan. Conserve una copia del instrumento registrado si el registro es necesario.",
     "example": {

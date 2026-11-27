@@ -3,7 +3,7 @@
   "term": "Bankruptcy seasoning",
   "aliases": [],
   "category": "underwriting",
-  "definition": "Bankruptcy seasoning is the waiting period after a bankruptcy before a new mortgage is allowed under a given guide. The period depends on the bankruptcy chapter and on whether the guide's extenuating-circumstances path applies. It is not one number of years for every case.",
+  "definition": "Bankruptcy seasoning is the waiting period after a bankruptcy before a new mortgage is allowed under a given guide. The period depends on the bankruptcy chapter and on whether the guide's extenuating-circumstances path applies. It is not the same as foreclosure seasoning, and it is not one number of years for every case.",
   "details": "Fannie Mae B3-5.3-07 states the waiting periods and the re-established credit expectation. FHA, VA, and USDA publish their own periods in their handbooks. A discharge date and a filing date are different. A bankruptcy that also included a foreclosure can have the longer waiting period. Quote the current section, not a remembered four-year rule.",
   "complianceNotes": "Put the petition and the discharge in the file and count from the correct date. Disclose the bankruptcy on the application. If the waiting period is not met, do not deliver the loan on an exception you cannot document.",
   "example": {
@@ -25,7 +25,7 @@
   "es": {
     "term": "Período de espera después de la quiebra",
     "aliases": [],
-    "definition": "El período de espera después de la quiebra es el tiempo que debe pasar después de una quiebra antes de que una nueva hipoteca se permita según una guía dada. El período depende del capítulo de la quiebra y de si se aplica la vía de circunstancias atenuantes de la guía. No es un solo número de años para todo caso.",
+    "definition": "El período de espera después de la quiebra es el tiempo que debe pasar después de una quiebra antes de que una nueva hipoteca se permita según una guía dada. El período depende del capítulo de la quiebra y de si se aplica la vía de circunstancias atenuantes de la guía. No es lo mismo que el período de espera después de la ejecución hipotecaria, y no es un solo número de años para todo caso.",
     "details": "Fannie Mae B3-5.3-07 establece los períodos de espera y la expectativa de crédito restablecido. La FHA, VA y USDA publican sus propios períodos en sus manuales. La fecha de descarga y la fecha de presentación son distintas. Una quiebra que también incluyó una ejecución hipotecaria puede tener el período de espera más largo. Cite la sección vigente, no una regla recordada de cuatro años.",
     "complianceNotes": "Incluya la petición y la descarga en el expediente y cuente desde la fecha correcta. Divulgue la quiebra en la solicitud. Si no se cumple el período de espera, no entregue el préstamo con una excepción que no puede documentar.",
     "example": {

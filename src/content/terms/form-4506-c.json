@@ -6,12 +6,12 @@
     "4506-T"
   ],
   "category": "underwriting",
-  "definition": "Form 4506-C is the IRS form that authorizes a lender to receive a transcript of your tax return. It lets the lender check that the return in the file matches what you filed. The older Form 4506-T is the former version.",
+  "definition": "Form 4506-C is the IRS form that authorizes a lender to receive a transcript of your tax returns. It lets the lender check that the return in the file matches what you filed. The older Form 4506-T is the former version.",
   "details": "Fannie Mae B3-3.1-02 describes when transcripts are required and how the 4506-C is used. A signed form is not itself the transcript. The lender must actually obtain the transcript when the guide requires it and compare wages and self-employment income. A mismatch is a reason to stop, not a clerical note.",
   "complianceNotes": "Use the current IRS form, not a stockpile of 4506-T forms. Order the transcript early enough to clear the condition before documents. Compare every income line you used.",
   "example": {
     "setting": "Signed IRS Form 4506-C in the income file",
-    "text": "A sample 4506-C might request transcripts for two example tax years for a borrower qualifying on $54,000 of self-employment income. The signed form is not itself the transcript; the lender still has to obtain and compare the transcript when the guide requires it. Example figures."
+    "text": "A sample 4506-C might request transcripts for two example tax years for a borrower qualifying on $54,000 of self-employment income. Fannie Mae B3-3.1-02 describes when transcripts are required and how the 4506-C is used. The signed form is not itself the transcript; the lender still has to obtain and compare the transcript when the guide requires it. A mismatch is a reason to stop, not a clerical note. Example figures."
   },
   "citations": [
     "fannie-b3-3-1-02"
@@ -32,12 +32,12 @@
       "4506-C",
       "4506-T"
     ],
-    "definition": "El Formulario 4506-C es el formulario del IRS que autoriza a un prestamista a recibir una transcripción de su declaración de impuestos. Permite al prestamista comprobar que la declaración del expediente coincide con la que usted presentó. El Formulario 4506-T anterior es la versión antigua.",
+    "definition": "El Formulario 4506-C es el formulario del IRS que autoriza a un prestamista a recibir una transcripción de sus declaraciones de impuestos. Permite al prestamista comprobar que la declaración del expediente coincide con la que usted presentó. El Formulario 4506-T anterior es la versión antigua.",
     "details": "Fannie Mae B3-3.1-02 describe cuándo se exigen transcripciones y cómo se usa el 4506-C. Un formulario firmado no es en sí la transcripción. El prestamista debe obtener de verdad la transcripción cuando la guía lo exige y comparar los salarios y el ingreso de trabajo por cuenta propia. Una diferencia es una razón para detenerse, no una nota administrativa.",
     "complianceNotes": "Use el formulario vigente del IRS, no una reserva de formularios 4506-T. Pida la transcripción con tiempo suficiente para levantar la condición antes de los documentos. Compare cada línea de ingreso que usó.",
     "example": {
       "setting": "Formulario 4506-C del IRS firmado en el expediente de ingresos",
-      "text": "Un 4506-C de muestra podría pedir transcripciones de dos años fiscales de ejemplo para un prestatario que se califica con $54,000 de ingreso por cuenta propia. El formulario firmado no es en sí la transcripción; el prestamista igual tiene que obtener y comparar la transcripción cuando la guía lo exige. Cifras de ejemplo."
+      "text": "Un 4506-C de muestra podría pedir transcripciónes de dos años fiscales de ejemplo para un prestatario que se califica con $54,000 de ingreso por cuenta propia. Fannie Mae B3-3.1-02 describe cuándo se exigen transcripciónes y cómo se usa el 4506-C. El formulario firmado no es en sí la transcripción; el prestamista igual tiene que obtener y comparar la transcripción cuando la guía lo exige. Una diferencia es una razón para detenerse, no una nota administrativa. Cifras de ejemplo."
     }
   }
 }

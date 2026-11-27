@@ -10,7 +10,7 @@
   "complianceNotes": "Reconcile the LAR to the system of record before filing. Correct known errors within the rule's process. Do not let the demographic fields drive underwriting.",
   "example": {
     "setting": "HMDA loan/application register submitted under Regulation C",
-    "text": "A sample row might show an example loan amount of $333,000 and an action of originated. 12 CFR 1003.4 and 1003.5 list the data and the annual submission; quote the deadline from the current section. Errors in action taken, loan purpose, or demographics are exam findings. Example figures."
+    "text": "A sample row might show an example loan amount of $333,000 and an action of originated. 12 CFR 1003.4 lists the data to compile. 12 CFR 1003.5 states the reporting and disclosure schedule, including the annual submission. Quote the deadline from the current section rather than from memory, because the rule also addresses what happens when the date falls on a weekend or holiday. Errors in action taken, loan purpose, or demographics are exam findings. Example figures."
   },
   "citations": [
     "reg-1003-4",
@@ -34,7 +34,7 @@
     "complianceNotes": "Concilie el registro con el sistema de registro antes de presentar. Corrija los errores conocidos dentro del proceso de la regla. No deje que los campos demográficos dirijan la suscripción.",
     "example": {
       "setting": "Registro de préstamos y solicitudes de HMDA presentado según el Reglamento C",
-      "text": "Una fila de muestra puede mostrar un monto de préstamo de ejemplo de $333,000 y una acción de originado. 12 CFR 1003.4 y 1003.5 enumeran los datos y la presentación anual; cite la fecha límite desde la sección vigente. Los errores en la acción tomada, el propósito del préstamo o los datos demográficos son hallazgos de examen. Cifras de ejemplo."
+      "text": "Una fila de muestra puede mostrar un monto de préstamo de ejemplo de $333,000 y una acción de originado. 12 CFR 1003.4 enumera los datos que hay que recopilar. 12 CFR 1003.5 indica el calendario de reporte y divulgación, incluida la presentación anual. Cite la fecha límite desde la sección vigente en lugar de la memoria, porque la regla también trata lo que ocurre cuando la fecha cae en un fin de semana o un feriado. Los errores en la acción tomada, el propósito del préstamo o los datos demográficos son hallazgos de examen. Cifras de ejemplo."
     }
   }
 }

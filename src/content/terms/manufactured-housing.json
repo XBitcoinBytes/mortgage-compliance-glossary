@@ -3,7 +3,7 @@
   "term": "Manufactured housing",
   "aliases": [],
   "category": "underwriting",
-  "definition": "Manufactured housing is a home built to the federal HUD code in a factory and delivered to a site. It is not the same as a modular home or a mobile home under older labels. Whether the loan can be sold to an agency depends on the foundation, the title as real property, and the guide's other conditions.",
+  "definition": "Manufactured housing is a home built to the federal HUD code in a factory and delivered to a site. It is not the same as a modular home or a mobile home under older labels. Whether the loan can be sold to Fannie Mae or Freddie Mac depends on the foundation, the title as real property, and the guide's other conditions.",
   "details": "The Fannie Mae Selling Guide and HUD Handbook 4000.1 each set manufactured-housing rules, including titling, foundations, and ineligible features. Do not invent a width or year cutoff. Chattel loans secured only by the home and not by the land are a different product and are often outside standard TRID real-property coverage. Title must show the home is real property when the program requires that.",
   "complianceNotes": "Confirm the HUD data plate and the title status early. Do not run a site-built appraisal form on a manufactured home. If the home is not real property, stop and use the correct program, if any.",
   "example": {
@@ -25,7 +25,7 @@
   "es": {
     "term": "Vivienda prefabricada",
     "aliases": [],
-    "definition": "La vivienda prefabricada es una vivienda construida según el código federal de HUD en una fábrica y entregada en un sitio. No es lo mismo que una vivienda modular o una casa móvil bajo etiquetas antiguas. Si el préstamo puede venderse a una agencia depende de los cimientos, del título como bien inmueble y de las otras condiciones de la guía.",
+    "definition": "La vivienda prefabricada es una vivienda construida según el código federal de HUD en una fábrica y entregada en un sitio. No es lo mismo que una vivienda modular o una casa móvil bajo etiquetas antiguas. Si el préstamo puede venderse a Fannie Mae o Freddie Mac depende de los cimientos, del título como bien inmueble y de las otras condiciones de la guía.",
     "details": "La Selling Guide de Fannie Mae y el Manual HUD 4000.1 fijan cada uno reglas de vivienda prefabricada, incluidos el título, los cimientos y las características no elegibles. No invente un corte de ancho o de año. Los préstamos sobre el bien mueble garantizados solo por la vivienda y no por el terreno son un producto distinto y a menudo quedan fuera de la cobertura estándar de TRID para bienes inmuebles. El título debe mostrar que la vivienda es bien inmueble cuando el programa lo exige.",
     "complianceNotes": "Confirme temprano la placa de datos de HUD y el estado del título. No use un formulario de tasación de vivienda construida en el sitio para una vivienda prefabricada. Si la vivienda no es bien inmueble, deténgase y use el programa correcto, si existe.",
     "example": {

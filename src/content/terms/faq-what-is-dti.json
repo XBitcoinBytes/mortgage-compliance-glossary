@@ -8,7 +8,7 @@
   "complianceNotes": "Use gross income the guide will accept and the qualifying PITIA. Do not omit student loans or a car payment. Recalculate when the rate changes.",
   "example": {
     "setting": "Underwriting worksheet, monthly debts divided by monthly income",
-    "text": "A sample borrower with example income of $6,000 and debts of $2,400 would have a DTI of 40 percent. There is no single legal maximum for every mortgage, and 43 percent should not be quoted as a universal cap; that figure was tied to older qualified-mortgage rules. Example figures."
+    "text": "A sample borrower with example income of $6,000 and debts of $2,400 would have a DTI of 40 percent. Fannie Mae B3-6-02 describes the ratio and says the maximum depends on the transaction and Desktop Underwriter. There is no single legal maximum for every mortgage, and 43 percent should not be quoted as a universal cap; that figure was tied to older qualified-mortgage rules and is not a universal current cutoff. The qualifying payment may be higher than the payment in the first year of an ARM or a buydown. Example figures."
   },
   "citations": [
     "fannie-b3-6-02"
@@ -29,7 +29,7 @@
     "complianceNotes": "Use el ingreso bruto que la guía aceptará y el PITIA de calificación. No omita préstamos estudiantiles ni un pago de automóvil. Recalcule cuando cambia la tasa.",
     "example": {
       "setting": "Hoja de suscripción, deudas mensuales divididas entre el ingreso mensual",
-      "text": "Un prestatario de muestra con un ingreso de ejemplo de $6,000 y deudas de $2,400 tendría una relación del 40 por ciento. No hay un máximo legal único para toda hipoteca, y no se debe citar el 43 por ciento como un tope universal; esa cifra estaba ligada a reglas anteriores de la hipoteca calificada. Cifras de ejemplo."
+      "text": "Un prestatario de muestra con un ingreso de ejemplo de $6,000 y deudas de $2,400 tendria una relación del 40 por ciento. Fannie Mae B3-6-02 describe la relación y dice que el máximo depende de la transacción y de Desktop Underwriter. No hay un máximo legal único para toda hipoteca, y no se debe citar el 43 por ciento como un tope universal; esa cifra estaba ligada a reglas anteriores de la hipoteca calificada y no es un corte vigente universal. El pago de calificación puede ser más alto que el pago del primer año de una ARM o de una reducción temporal. Cifras de ejemplo."
     }
   }
 }

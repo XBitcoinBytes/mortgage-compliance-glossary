@@ -37,7 +37,7 @@
   "es": {
     "term": "Agente de liquidación",
     "aliases": [],
-    "definition": "El agente de liquidación es la persona que conduce el cierre, recoge los fondos y los desembolsa. Según el estado, esa persona puede ser una compañía de título, una compañía de depósito en garantía o un abogado. El agente no siempre es el prestamista.",
+    "definition": "El agente de liquidación es la persona que conduce el cierre y el servicio de liquidación, recoge los fondos y los desembolsa. Según el estado, esa persona puede ser una compañía de título, una compañía de depósito en garantía o un abogado. El agente no siempre es el prestamista.",
     "details": "El Reglamento X trata los servicios de liquidación de modo amplio en 12 CFR 1024.2. La Divulgación del cierre identifica al agente de liquidación según 12 CFR 1026.38. Las instrucciones de transferencia deben verificarse con el agente por un teléfono que usted busca, porque las instrucciones falsas son un fraude común. El agente sigue las instrucciones del prestamista y el compromiso de título.",
     "complianceNotes": "Ponga al agente real en la página 5. Dígale al prestatario que verifique las transferencias. No acepte un cambio de instrucciones de transferencia que llega solo por correo electrónico.",
     "example": {

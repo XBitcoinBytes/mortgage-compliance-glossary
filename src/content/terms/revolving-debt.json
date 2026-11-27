@@ -3,7 +3,7 @@
   "term": "Revolving debt",
   "aliases": [],
   "category": "underwriting",
-  "definition": "Revolving debt is an account you can draw, repay, and draw again, such as a credit card or some credit lines. If the credit report shows a payment, that payment is generally used. If it shows a balance and no payment, the guide tells the lender what payment to use.",
+  "definition": "Revolving debt is an account you can draw, repay, and draw again, such as a credit card or some credit lines. If the credit report shows a payment, that payment is generally used in the debt-to-income ratio. If it shows a balance and no payment, the guide tells the lender what payment to use.",
   "details": "Fannie Mae B3-6-05 states the payment to use when the report does not show one. Do not invent a percentage of the balance. Read the current section. A HELOC secured by the subject property is also part of the combined loan-to-value analysis, which is separate from the monthly payment test. Paying a card down before closing can change the payment only if the supplement or the new statement is documented.",
   "complianceNotes": "Do not enter a zero payment for a card that carries a balance unless the guide allows it. Order a credit supplement when the borrower pays the card and you need the new payment before documents.",
   "example": {
@@ -28,7 +28,7 @@
     "aliases": [
       "Deuda renovable"
     ],
-    "definition": "La deuda revolvente es una cuenta de la que usted puede disponer, pagar y volver a disponer, como una tarjeta de crédito o algunas líneas. Si el informe de crédito muestra un pago, por lo general se usa ese pago. Si muestra un saldo y ningún pago, la guía le dice al prestamista qué pago usar.",
+    "definition": "La deuda revolvente es una cuenta de la que usted puede disponer, pagar y volver a disponer, como una tarjeta de crédito o algunas líneas. Si el informe de crédito muestra un pago, por lo general se usa ese pago en la relación deuda-ingreso. Si muestra un saldo y ningún pago, la guía le dice al prestamista qué pago usar.",
     "details": "Fannie Mae B3-6-05 establece el pago que se usa cuando el informe no muestra uno. No invente un porcentaje del saldo. Lea la sección vigente. Una HELOC garantizada por la propiedad también forma parte del análisis de la relación combinada préstamo-valor, que es distinto de la prueba del pago mensual. Bajar una tarjeta antes del cierre puede cambiar el pago solo si se documenta el suplemento o el nuevo estado.",
     "complianceNotes": "No ingrese un pago de cero para una tarjeta que tiene saldo, salvo que la guía lo permita. Pida un suplemento de crédito cuando el prestatario paga la tarjeta y usted necesita el nuevo pago antes de los documentos.",
     "example": {

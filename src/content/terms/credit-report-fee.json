@@ -8,11 +8,12 @@
   "complianceNotes": "Collect only the actual, reasonable report cost before intent to proceed. Do not label an application fee as a credit-report fee. Keep the vendor invoice next to the amount charged.",
   "example": {
     "setting": "Loan Estimate, page 2, Section B, credit report fee; the only fee that may be collected before intent to proceed",
-    "text": "A sample Section B line might show Credit report, $38, matching a vendor invoice, on an example application. That is generally a zero-tolerance charge, and a markup that turns a small invoice into an application fee is not a bona fide and reasonable credit-report fee. Example figures."
+    "text": "A sample Section B line might show Credit report, $38, matching a vendor invoice, on an example application. 12 CFR 1026.19(e)(2) is the fee restriction. A markup that turns a small vendor invoice into a large application fee is not a bona fide and reasonable credit-report fee. The charge, when imposed, is disclosed in Section B if the consumer cannot shop for the provider, and it is generally subject to zero tolerance. The permissible purpose for the pull is a Fair Credit Reporting Act question as well. Example figures."
   },
   "citations": [
     "reg-1026-19",
-    "reg-1026-37"
+    "reg-1026-37",
+    "usc-15-1681"
   ],
   "related": [
     "fee-worksheet",
@@ -34,7 +35,7 @@
     "complianceNotes": "Cobre solo el costo real y razonable del informe antes de la intención de continuar. No llame cargo del informe de crédito a un cargo de solicitud. Conserve la factura del proveedor junto al monto cobrado.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección B, cargo del informe de crédito; el único cargo que puede cobrarse antes de la intención de continuar",
-      "text": "Una línea de muestra de la Sección B puede mostrar Informe de crédito, $38, igual a la factura del proveedor, en una solicitud de ejemplo. Por lo general es un cargo de tolerancia cero, y un recargo que convierte una factura pequeña en un cargo de solicitud no es un cargo de buena fe y razonable por el informe de crédito. Cifras de ejemplo."
+      "text": "Una línea de muestra de la Sección B puede mostrar Informe de crédito, $38, igual a la factura del proveedor, en una solicitud de ejemplo. 12 CFR 1026.19(e)(2) es la restricción de cargos. Un recargo que convierte una factura pequeña de proveedor en un cargo grande de solicitud no es un cargo de buena fe y razonable por el informe de crédito. El cargo, cuando se impone, se divulga en la Sección B si el consumidor no puede comparar el proveedor, y por lo general está sujeto a tolerancia cero. El propósito permitido de la consulta también es una cuestión de la Ley de Informes de Crédito Justos. Cifras de ejemplo."
     }
   }
 }

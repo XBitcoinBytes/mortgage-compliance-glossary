@@ -8,7 +8,7 @@
   "complianceNotes": "Show the note rate and the temporary payment. Qualify at the rate the current guide requires. Count a seller-funded buydown toward the contribution cap.",
   "example": {
     "setting": "Buydown agreement showing a temporary reduction, with the note rate unchanged",
-    "text": "A sample 2-1 buydown might reduce an example note payment for two years and then step up. The note rate does not change. Do not assume the borrower is qualified at the reduced payment, and do not describe the reduced rate as the product's permanent rate. Example figures, not a required subsidy."
+    "text": "A sample 2-1 buydown might reduce an example note payment for two years and then step up. The Fannie Mae Selling Guide states how temporary buydowns are documented and which payment is used to qualify. The note rate does not change. Do not assume the borrower is qualified at the reduced payment, and do not describe the reduced rate as the product's permanent rate. A seller-paid buydown is an interested-party contribution and must fit the guide's cap. The Loan Estimate should not describe the reduced rate as the product's permanent rate. Example figures, not a required subsidy."
   },
   "citations": [
     "fannie-guide",
@@ -32,7 +32,7 @@
     "complianceNotes": "Muestre la tasa del pagaré y el pago temporal. Califique a la tasa que exige la guía vigente. Cuente una reducción financiada por el vendedor hacia el tope de aportación.",
     "example": {
       "setting": "Acuerdo de reducción que muestra una reducción temporal, con la tasa del pagaré sin cambio",
-      "text": "Una reducción 2-1 de muestra podría reducir un pago del pagaré de ejemplo durante dos años y luego subir. La tasa del pagaré no cambia. No presuponga que el prestatario se califica con el pago reducido, y no describa la tasa reducida como la tasa permanente del producto. Cifras de ejemplo, no un subsidio exigido."
+      "text": "Una reducción temporal 2-1 de muestra podría reducir un pago del pagaré de ejemplo durante dos años y luego subir. La Guía de venta de Fannie Mae indica cómo se documentan las reducciones temporales y que pago se usa para calificar. La tasa del pagaré no cambia. No asuma que el prestatario se califica con el pago reducido, y no describa la tasa reducida como la tasa permanente del producto. Una reducción pagada por el vendedor es una contribución de una parte interesada y debe caber en el tope de la guía. La Estimación del préstamo no debe describir la tasa reducida como la tasa permanente del producto. Cifras de ejemplo, no un subsidio exigido."
     }
   }
 }

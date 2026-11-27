@@ -8,11 +8,12 @@
   "complianceNotes": "Classify each third-party fee before the Loan Estimate goes out. If the consumer may shop, it is Section C and needs a provider on the written list. If the creditor requires its provider, it is Section B and should not increase without a permitted reason.",
   "example": {
     "setting": "Loan Estimate, page 2, Section B: Services You Cannot Shop For",
-    "text": "A sample Section B might show an appraisal fee of $625 and a credit report fee of $45 on a purchase of an example $380,000 home. Those charges generally cannot increase above the Loan Estimate (zero tolerance). A shoppable title fee belongs in Section C, not Section B. Example figures."
+    "text": "A sample Section B might show an appraisal fee of $625 and a credit report fee of $45 on a purchase of an example $380,000 home. Under 12 CFR 1026.19(e)(3)(i), charges paid to the creditor's affiliate, or to a provider the consumer cannot shop for, generally cannot increase above the Loan Estimate. That is the zero-tolerance rule, subject to the section's exceptions such as a changed circumstance. 12 CFR 1026.37 places the charges in Section B. A shoppable title fee belongs in Section C, not Section B. Putting a shoppable title fee in Section B by mistake freezes a fee the consumer was entitled to shop. Example figures."
   },
   "citations": [
     "reg-1026-37",
-    "reg-1026-19"
+    "reg-1026-19",
+    "reg-1026-19-e-3-i"
   ],
   "related": [
     "appraisal",
@@ -31,7 +32,7 @@
     "complianceNotes": "Clasifique cada cargo de un tercero antes de enviar la Estimación del préstamo. Si el consumidor puede comparar, es Sección C y necesita un proveedor en la lista escrita. Si el acreedor exige su proveedor, es Sección B y no debe aumentar sin una razón permitida.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección B: Servicios que usted no puede comparar",
-      "text": "Una Sección B de muestra puede mostrar un cargo de tasación de $625 y un cargo de informe de crédito de $45 en la compra de una vivienda de ejemplo de $380,000. Esos cargos por lo general no pueden aumentar por encima de la Estimación del préstamo (tolerancia cero). Un cargo de título que se puede comparar pertenece a la Sección C, no a la Sección B. Cifras de ejemplo."
+      "text": "Una Sección B de muestra puede mostrar un cargo de tasación de $625 y un cargo de informe de crédito de $45 en la compra de una vivienda de ejemplo de $380,000. Bajo 12 CFR 1026.19(e)(3)(i), los cargos pagados al afiliado del acreedor, o a un proveedor que el consumidor no puede comparar, por lo general no pueden aumentar por encima de la Estimación del préstamo. Esa es la regla de tolerancia cero, sujeta a las excepciones de la sección, como una circunstancia cambiada. 12 CFR 1026.37 coloca los cargos en la Sección B. Un cargo de título que se puede comparar pertenece a la Sección C, no a la Sección B. Poner por error un cargo de título comparable en la Sección B congela un cargo que el consumidor tenia derecho a comparar. Cifras de ejemplo."
     }
   }
 }
