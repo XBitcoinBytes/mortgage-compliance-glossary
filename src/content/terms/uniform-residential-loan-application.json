@@ -12,7 +12,7 @@
   "complianceNotes": "Match the URLA income, assets, and declarations to the documents in the file before submission to Desktop Underwriter or Loan Product Advisor. A change to loan amount, occupancy, or property address after the Loan Estimate can require a new disclosure analysis. Keep the signed or electronically consented application in the origination file.",
   "example": {
     "setting": "Uniform Residential Loan Application, Section 1, Borrower Information, and Section 4, Loan and Property Information",
-    "text": "Section 4 of a sample URLA might show a purchase price of $450,000 and a base loan amount of $360,000, with occupancy marked primary residence. Example figures, not a program limit."
+    "text": "Section 4 of a sample URLA might show a purchase price of $450,000 and a base loan amount of $360,000, with occupancy marked primary residence. Fannie Mae Form 1003 and Freddie Mac Form 65 are the same redesigned URLA. Completing it does not by itself start the TRID clock. That clock starts when the creditor has the six Regulation Z application items, including a property address. The URLA does collect the data creditors later submit to an automated underwriting system. Demographic information on the form is government monitoring information, not a credit factor. Example figures, not a program limit."
   },
   "citations": [
     "fannie-urla",
@@ -41,7 +41,7 @@
     "complianceNotes": "Haga coincidir los ingresos, los activos y las declaraciones de la URLA con los documentos del expediente antes de enviarla a Desktop Underwriter o Loan Product Advisor. Un cambio del monto, la ocupación o la dirección después de la Estimación del préstamo puede exigir un nuevo análisis de divulgación. Conserve la solicitud firmada o consentida electrónicamente.",
     "example": {
       "setting": "Solicitud uniforme de préstamo residencial, Sección 1, Información del prestatario, y Sección 4, Información del préstamo y de la propiedad",
-      "text": "La Sección 4 de una URLA de muestra puede mostrar un precio de compra de $450,000 y un monto base de $360,000, con ocupación marcada como residencia principal. Cifras de ejemplo, no un límite del programa."
+      "text": "La Sección 4 de una URLA de muestra podría mostrar un precio de compra de $450,000 y un monto base del préstamo de $360,000, con la ocupación marcada como residencia principal. El Formulario 1003 de Fannie Mae y el Formulario 65 de Freddie Mac son la misma URLA rediseñada. Completarla no inicia por sí sola el reloj TRID. Ese reloj empieza cuando el acreedor tiene los seis datos de solicitud del Reglamento Z, incluida una dirección de la propiedad. La URLA sí reúne los datos que los acreedores envían después a un sistema automatizado de suscripción. La información demográfica en el formulario es información de monitoreo del gobierno, no un factor de crédito. Cifras de ejemplo, no un límite del programa."
     }
   }
 }

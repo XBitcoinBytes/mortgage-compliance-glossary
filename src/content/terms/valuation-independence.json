@@ -8,7 +8,7 @@
   "complianceNotes": "Keep ordering separate from production incentives. Ban target-value language in email templates. Deliver the valuation to the borrower under Regulation B.",
   "example": {
     "setting": "Appraisal engagement that states no target value",
-    "text": "A prohibited sample email would name an example target of $450,000. The compliant order names the property and not a target. Example figures of the prohibited sentence only."
+    "text": "A prohibited sample email would name an example target of $450,000. The compliant order names the property and not a target. 12 CFR 1026.42 prohibits causing the value to be based on a desired result, and it restricts conflicts and compensation. Asking an appraiser to consider additional comparable sales is different from telling the appraiser the number the loan needs. The rule has a safe harbor for reasonable compensation and for certain communications. Read it before you write the email. Example figures of the prohibited sentence only."
   },
   "citations": [
     "reg-1026-42"
@@ -29,7 +29,7 @@
     "complianceNotes": "Mantenga el pedido separado de los incentivos de producción. Prohíba el lenguaje de valor objetivo en las plantillas de correo electrónico. Entregue la valoración al prestatario según el Reglamento B.",
     "example": {
       "setting": "Encargo de tasación que no indica un valor objetivo",
-      "text": "Un correo electrónico prohibido de muestra nombraría un objetivo de ejemplo de $450,000. El pedido que cumple nombra la propiedad y no un objetivo. Cifras de ejemplo solo de la frase prohibida."
+      "text": "Un correo prohibido de muestra nombraría un objetivo de ejemplo de $450,000. La orden conforme nombra la propiedad y no un objetivo. 12 CFR 1026.42 prohíbe hacer que el valor se base en un resultado deseado, y restringe conflictos y compensación. Pedir a un tasador que considere ventas comparables adicionales es distinto de decirle al tasador el número que el préstamo necesita. La regla tiene un puerto seguro para una compensación razonable y para ciertas comunicaciones. Léala antes de escribir el correo. Cifras de ejemplo solo de la oración prohibida."
     }
   }
 }

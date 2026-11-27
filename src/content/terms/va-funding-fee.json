@@ -8,7 +8,7 @@
   "complianceNotes": "Check the exemption before you disclose a fee. Use the current table for the loan type. Show the fee on the Loan Estimate if it is charged.",
   "example": {
     "setting": "VA funding fee on the Loan Estimate, or the exemption documented in the file",
-    "text": "A sample exempt file would show a funding fee of zero. A non-exempt sample might finance a fee whose percentage is read from VA, not from this page. Example figures are not a percentage."
+    "text": "A sample exempt file would show a funding fee of zero. A non-exempt sample might finance a fee whose percentage is read from VA, not from memory. VA Pamphlet 26-7 and VA's funding-fee tables are the sources. The fee may be financed. Financing it does not by itself make the loan a cash-out refinance. An exempt veteran should not be charged. The certificate and the disability status need to be in the file before you waive the fee. Example figures are not a percentage."
   },
   "citations": [
     "va-pamphlet"
@@ -32,7 +32,7 @@
     "complianceNotes": "Revise la exención antes de divulgar una cuota. Use la tabla vigente para el tipo de préstamo. Muestre la cuota en la Estimación del préstamo si se cobra.",
     "example": {
       "setting": "Cuota de financiamiento de VA en la Estimación del préstamo, o la exención documentada en el expediente",
-      "text": "Un expediente exento de muestra mostraría una cuota de financiamiento de cero. Una muestra no exenta podría financiar una cuota cuyo porcentaje se lee en VA, no en esta página. Las cifras de ejemplo no son un porcentaje. Cifras de ejemplo."
+      "text": "Un expediente exento de muestra mostraría una cuota de financiamiento de cero. Un expediente no exento de muestra podría financiar una cuota cuyo porcentaje se lee en VA, no de memoria. El Folleto VA 26-7 y las tablas de cuota de financiamiento de VA son las fuentes. La cuota puede financiarse. Financiarla no convierte por sí sola el préstamo en un refinanciamiento con retiro de efectivo. No se debe cobrar a un veterano exento. El certificado y el estado de discapacidad deben estar en el expediente antes de eximir la cuota. Cifras de ejemplo, no un porcentaje."
     }
   }
 }

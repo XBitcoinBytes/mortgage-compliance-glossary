@@ -10,7 +10,7 @@
   "complianceNotes": "Name the broker and the creditor accurately on the Loan Estimate. Do not collect a broker fee from the consumer and a lender-paid commission on the same loan. Keep the broker agreement and the compensation election.",
   "example": {
     "setting": "Loan Estimate, page 3, Contact Information, identifying the broker, and page 2, Section A, if the consumer pays the broker",
-    "text": "A sample Section A might show a broker fee of $2,900 paid by the consumer on an example $290,000 loan, with the wholesale creditor named separately on page 3. Example figures."
+    "text": "A sample Section A might show a broker fee of $2,900 paid by the consumer on an example $290,000 loan, with the wholesale creditor named separately on page 3. Regulation Z's loan-originator rules in 12 CFR 1026.36 cover brokers. Regulation X defines mortgage broker and table funding in 12 CFR 1024.2. The broker's charge, if the consumer pays it, is an origination charge in Section A and is generally zero-tolerance. The creditor identified on the Loan Estimate is the person who will be initially obligated as creditor, which may not be the broker. Example figures."
   },
   "citations": [
     "reg-1026-36",
@@ -41,7 +41,7 @@
     "complianceNotes": "Nombre con exactitud al corredor y al acreedor en la Estimación del préstamo. No cobre un cargo del corredor al consumidor y una comisión pagada por el prestamista en el mismo préstamo. Conserve el acuerdo del corredor y la elección de compensación.",
     "example": {
       "setting": "Estimación del préstamo, página 3, Información de contacto, que identifica al corredor, y página 2, Sección A, si el consumidor paga al corredor",
-      "text": "Una Sección A de muestra puede mostrar un cargo del corredor de $2,900 pagado por el consumidor sobre un préstamo de ejemplo de $290,000, con el acreedor mayorista nombrado aparte en la página 3. Cifras de ejemplo."
+      "text": "Una Sección A de muestra podría mostrar un cargo del corredor de $2,900 pagado por el consumidor en un préstamo de ejemplo de $290,000, con el acreedor mayorista nombrado por separado en la página 3. Las reglas de originador del préstamo del Reglamento Z en 12 CFR 1026.36 cubren a los corredores. El Reglamento X define corredor hipotecario y financiamiento en mesa en 12 CFR 1024.2. El cargo del corredor, si el consumidor lo paga, es un cargo de originación en la Sección A y por lo general es de tolerancia cero. El acreedor identificado en la Estimación del préstamo es la persona que quedará inicialmente obligada como acreedor, que puede no ser el corredor. Cifras de ejemplo."
     }
   }
 }

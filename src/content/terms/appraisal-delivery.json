@@ -8,10 +8,11 @@
   "complianceNotes": "Deliver the appraisal when it is completed and keep the proof. Do not wait for the borrower to request it. If there is a reconsideration, deliver the revised valuation too.",
   "example": {
     "setting": "Copy of the appraisal delivered to the applicant, with the delivery log",
-    "text": "A sample appraisal completed on the 1st might be emailed on the 2nd, well before an example closing on the 20th. The dates are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample appraisal completed on the 1st might be emailed on the 2nd, well before an example closing on the 20th. 12 CFR 1002.14 is the rule. It applies whether the loan is approved or denied. Promptly upon completion is its own branch. Waiting until three days before closing when the appraisal was finished weeks earlier can miss the rule. A waiver must be obtained as the section allows. Electronic delivery still needs the E-SIGN consent if it replaces a written copy. The dates are example figures. Example figures, not a quote or a legal limit."
   },
   "citations": [
-    "reg-1002-14"
+    "reg-1002-14",
+    "usc-15-7001"
   ],
   "related": [
     "appraisal",
@@ -31,7 +32,7 @@
     "complianceNotes": "Entregue la tasación cuando se completa y conserve la prueba. No espere a que el prestatario la pida. Si hay una reconsideración, entregue también la valoración revisada.",
     "example": {
       "setting": "Copia de la tasación entregada al solicitante, con el registro de entrega",
-      "text": "Una tasación de muestra terminada el día 1 podría enviarse por correo electrónico el día 2, mucho antes de un cierre de ejemplo el día 20. Las fechas son cifras de ejemplo. Cifras de ejemplo."
+      "text": "Una tasación de muestra completada el día 1 podría enviarse por correo electrónico el día 2, mucho antes de un cierre de ejemplo el día 20. 12 CFR 1002.14 es la regla. Aplica tanto si el préstamo se aprueba como si se niega. De inmediato al completarse es su propia vía. Esperar hasta tres días antes del cierre cuando la tasación se terminó semanas antes puede incumplir la regla. Una renuncia debe obtenerse como permite la sección. La entrega electrónica todavía necesita el consentimiento de E-SIGN si reemplaza una copia escrita. Las fechas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

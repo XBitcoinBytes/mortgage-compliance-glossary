@@ -8,7 +8,7 @@
   "complianceNotes": "Tell the borrower, in the denial, whether an appeal is available and the deadline. Route the appeal to the reviewer the section requires. Hold the sale.",
   "example": {
     "setting": "Appeal of a denial of a loan-modification option, within the section's window",
-    "text": "A sample denial might give an example 14 days to appeal a modification decision. The number of days must match the current section. Example figures if the section's period differs from 14."
+    "text": "A sample denial might give an example 14 days to appeal a modification decision. The number of days must match the current section. 12 CFR 1024.41 states which denials may be appealed, who must review the appeal, and the time to decide. The right is focused on loan-modification denials that meet the section's conditions, not on every forbearance or short-sale decision. A sale scheduled inside the appeal protection has to be stopped. Example figures if the section's period differs from 14."
   },
   "citations": [
     "reg-1024-41"
@@ -28,7 +28,7 @@
     "complianceNotes": "Dígale al prestatario, en la denegación, si hay una apelación disponible y el plazo. Enrute la apelación al revisor que exige la sección. Detenga la venta.",
     "example": {
       "setting": "Apelación de una denegación de una opción de modificación del préstamo, dentro de la ventana de la sección",
-      "text": "Una denegación de muestra podría dar un ejemplo de 14 días para apelar una decisión de modificación. El número de días debe coincidir con la sección vigente. Cifras de ejemplo si el período de la sección difiere de 14."
+      "text": "Una denegación de muestra podría dar un ejemplo de 14 días para apelar una decisión de modificación. El número de días debe coincidir con la sección vigente. 12 CFR 1024.41 indica qué denegaciones pueden apelarse, quién debe revisar la apelación y el plazo para decidir. El derecho se centra en las denegaciones de modificación de préstamo que cumplen las condiciones de la sección, no en toda decisión de indulgencia o de venta corta. Una venta programada dentro de la protección de la apelación tiene que detenerse. Cifras de ejemplo si el plazo de la sección difiere de 14."
     }
   }
 }

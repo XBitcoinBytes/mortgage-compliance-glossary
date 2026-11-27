@@ -8,10 +8,11 @@
   "complianceNotes": "Log the receipt date, acknowledge, and respond in substance. If you need the extension, send it properly. Correct the account if the error is confirmed, including any late fee caused by the error.",
   "example": {
     "setting": "Written notice of error to the servicer asserting a covered error",
-    "text": "A sample notice might dispute an example $48 fee posted on the 3rd. The servicer's five-day acknowledgment and 30-day response are the regulatory clocks. Example figures for the fee."
+    "text": "A sample notice might dispute an example $48 fee posted on the 3rd. The servicer's five-day acknowledgment and 30-day response are the regulatory clocks. 12 CFR 1024.35 lists covered errors and generally requires acknowledgment within five business days and a response within 30 business days, with a possible extension the section describes. Those day counts are the regulatory text. Not every complaint is a covered error. A request only for information is a different letter under 1024.36. The older name qualified written request overlaps both ideas. Example figures for the fee."
   },
   "citations": [
-    "reg-1024-35"
+    "reg-1024-35",
+    "reg-1024-36"
   ],
   "related": [
     "error-resolution",
@@ -31,7 +32,7 @@
     "complianceNotes": "Registre la fecha de recepción, acuse recibo y responda en sustancia. Si necesita la extensión, envíela correctamente. Corrija la cuenta si se confirma el error, incluido cualquier cargo por mora causado por el error.",
     "example": {
       "setting": "Aviso de error por escrito al administrador que alega un error cubierto",
-      "text": "Un aviso de muestra podría disputar un cargo de ejemplo de $48 registrado el día 3. El acuse de recibo de cinco días y la respuesta de 30 días del administrador son los relojes del reglamento. Cifras de ejemplo para el cargo."
+      "text": "Un aviso de muestra podría disputar un cargo de ejemplo de $48 anotado el día 3. El acuse de cinco días y la respuesta de 30 días del administrador son los relojes reglamentarios. 12 CFR 1024.35 lista los errores cubiertos y por lo general exige un acuse dentro de cinco días hábiles y una respuesta dentro de 30 días hábiles, con una extensión posible que describe la sección. Esos conteos de días son el texto reglamentario. No toda queja es un error cubierto. Una solicitud solo de información es una carta distinta según 1024.36. El nombre más antiguo de solicitud escrita calificada se superpone a ambas ideas. Cifras de ejemplo para el cargo."
     }
   }
 }

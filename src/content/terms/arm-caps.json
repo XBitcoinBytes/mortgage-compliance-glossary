@@ -8,7 +8,7 @@
   "complianceNotes": "Match the caps on the Loan Estimate, the note, and the early ARM disclosure. Explain the lifetime maximum in dollars of payment, not only in rate points.",
   "example": {
     "setting": "Loan Estimate, page 1, interest rate caps on an adjustable-rate product",
-    "text": "A sample note might cap the first change at an example 2 percentage points and the life of the loan at 5 percentage points above the start rate. Example figures, not a required cap."
+    "text": "A sample note might cap the first change at an example 2 percentage points and the life of the loan at 5 percentage points above the start rate. 12 CFR 1026.37 requires the disclosure of the maximum rate and the adjustment limits. A 2/1/5 example means different things on different notes. Read the note's cap section rather than assuming a market shorthand. The index plus the margin can point above the cap. The cap wins. The adjustment notice later estimates the payment inside those caps. Example figures, not a required cap."
   },
   "citations": [
     "reg-1026-37"
@@ -30,7 +30,7 @@
     "complianceNotes": "Haga coincidir los topes de la Estimación del préstamo, del pagaré y de la divulgación temprana de la ARM. Explique el máximo de por vida en dólares de pago, no solo en puntos de tasa.",
     "example": {
       "setting": "Estimación del préstamo, página 1, topes de la tasa de interés en un producto de tasa ajustable",
-      "text": "Un pagaré de muestra podría limitar el primer cambio a un ejemplo de 2 puntos porcentuales y la vida del préstamo a 5 puntos porcentuales por encima de la tasa inicial. Cifras de ejemplo, no un tope exigido."
+      "text": "Un pagaré de muestra podría topar el primer cambio en un ejemplo de 2 puntos porcentuales y la vida del préstamo en 5 puntos porcentuales por encima de la tasa inicial. 12 CFR 1026.37 exige la divulgación de la tasa máxima y de los límites de ajuste. Un ejemplo 2/1/5 significa cosas distintas en pagarés distintos. Lea la sección de topes del pagaré en lugar de asumir una abreviatura del mercado. El índice más el margen puede señalar por encima del tope. El tope gana. El aviso de ajuste después estima el pago dentro de esos topes. Cifras de ejemplo, no un tope exigido."
     }
   }
 }

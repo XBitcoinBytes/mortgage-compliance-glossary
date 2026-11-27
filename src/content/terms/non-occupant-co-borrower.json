@@ -8,7 +8,7 @@
   "complianceNotes": "Mark occupancy for each borrower on the URLA and in the AUS. Do not blend a non-occupant's income into the file without the guide's limit. Tell both borrowers who is obligated on the note.",
   "example": {
     "setting": "URLA occupancy declaration for the additional borrower, and the underwriting income worksheet",
-    "text": "A sample worksheet might use $3,000 of a non-occupant's example monthly income toward a $2,100 housing payment, only to the extent the guide allows. Example figures, not a guide ratio."
+    "text": "A sample worksheet might use $3,000 of a non-occupant's example monthly income toward a $2,100 housing payment, only to the extent the guide allows. Agency guides, including the Fannie Mae Selling Guide, limit how a non-occupant co-borrower's income is used and often require the occupant to qualify in part on their own. Gift rules and minimum borrower contributions can differ from an occupant-only file. Misstating that the non-occupant will live in the home is an occupancy misrepresentation. Example figures, not a guide ratio."
   },
   "citations": [
     "fannie-guide",
@@ -32,7 +32,7 @@
     "complianceNotes": "Marque la ocupación de cada prestatario en la URLA y en el sistema automatizado. No mezcle los ingresos de un no ocupante en el expediente sin el límite de la guía. Diga a ambos prestatarios quién está obligado en el pagaré.",
     "example": {
       "setting": "Declaración de ocupación de la URLA para el prestatario adicional, y la hoja de ingresos de suscripción",
-      "text": "Una hoja de muestra podría usar $3,000 de los ingresos mensuales de ejemplo de un no ocupante para un pago de vivienda de $2,100, solo en la medida en que la guía lo permita. Cifras de ejemplo, no una relación de la guía."
+      "text": "Una hoja de muestra podría usar $3,000 del ingreso mensual de ejemplo de un no ocupante hacia un pago de vivienda de $2,100, solo en la medida que la guía lo permite. Las guías de las agencias, incluida la Guía de venta de Fannie Mae, limitan cómo se usa el ingreso de un coprestatario no ocupante y a menudo exigen que el ocupante califique en parte por su cuenta. Las reglas de regalos y las contribuciones mínimas del prestatario pueden diferir de un expediente solo de ocupantes. Declarar falsamente que el no ocupante vivirá en la vivienda es una tergiversación de la ocupación. Cifras de ejemplo, no una relación de la guía."
     }
   }
 }

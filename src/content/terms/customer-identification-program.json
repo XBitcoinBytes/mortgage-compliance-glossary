@@ -10,7 +10,7 @@
   "complianceNotes": "Follow the company's written identification procedure and the Part 1029 program. Do not photocopy a bank CIP manual and call it the mortgage rule. Escalate a customer who will not provide identity information.",
   "example": {
     "setting": "Identity documentation collected at application, governed by the company's AML program",
-    "text": "A sample application file might contain a government photo ID checked against the URLA name on an example $200,000 loan. Example figures. The ID type is set by the company's procedure."
+    "text": "A sample application file might contain a government photo ID checked against the URLA name on an example $200,000 loan. The ID type is set by the company's procedure. 31 CFR Part 1029 is the mortgage-company AML framework. The bank CIP at 31 CFR 1020.220 is a bank rule and does not automatically bind every mortgage broker. Whatever procedure the company adopts should be strong enough to support the AML program and OFAC screening. Nonbank identification details are easy to overstate. Example figures."
   },
   "citations": [
     "cfr-31-1029",
@@ -34,7 +34,7 @@
     "complianceNotes": "Siga el procedimiento escrito de identificación de la empresa y el programa de la Parte 1029. No fotocopie un manual de CIP bancario y llámelo la regla hipotecaria. Escale a un cliente que no proporciona información de identidad.",
     "example": {
       "setting": "Documentación de identidad recogida en la solicitud, regida por el programa contra el lavado de dinero de la empresa",
-      "text": "Un expediente de solicitud de muestra puede contener una identificación con foto del gobierno cotejada con el nombre de la URLA en un préstamo de ejemplo de $200,000. Cifras de ejemplo. El tipo de identificación lo fija el procedimiento de la empresa."
+      "text": "Un expediente de solicitud de muestra podría contener una identificación con foto del gobierno comparada con el nombre de la URLA en un préstamo de ejemplo de $200,000. El tipo de identificación lo fija el procedimiento de la empresa. 31 CFR Parte 1029 es el marco de AML de las compañías hipotecarias. El CIP bancario en 31 CFR 1020.220 es una regla bancaria y no obliga automáticamente a todo corredor hipotecario. Cualquier procedimiento que adopte la empresa debe ser lo bastante sólido para respaldar el programa de AML y la revisión OFAC. Los detalles de identificación de las entidades no bancarias son fáciles de exagerar. Cifras de ejemplo."
     }
   },
   "reviewFlag": "Nonbank mortgage customer-identification duties should be confirmed against 31 CFR Part 1029 and counsel. Do not treat the bank CIP rule at 31 CFR 1020.220 as automatically applicable."

@@ -12,7 +12,7 @@
   "complianceNotes": "Write down the event, the date the creditor learned of it, the charges affected, and the evidence. If you cannot tie the fee increase to a permitted reason, cure it instead of revising. Do not use a changed-circumstance code as a label for every redisclosure.",
   "example": {
     "setting": "Revised Loan Estimate, the changed-circumstance record in the disclosure log",
-    "text": "A sample log might record a storm appraisal delay learned on the 4th, with a revised Section B appraisal fee issued on the 6th, increasing an example fee from $600 to $750. Example figures."
+    "text": "A sample log might record a storm appraisal delay learned on the 4th, with a revised Section B appraisal fee issued on the 6th, increasing an example fee from $600 to $750. The definition and the revision rights are in 12 CFR 1026.19(e)(3)(iv). The creditor generally must issue the revised Loan Estimate within three business days of receiving the information and not on or after the day the Closing Disclosure is issued, except as that section allows. Rate-lock expirations caused by the creditor, and ordinary market moves the creditor simply dislikes, are not on the list. The consumer must not be charged for the creditor's own mistakes. Example figures."
   },
   "citations": [
     "reg-1026-19-e-3-iv",
@@ -37,7 +37,7 @@
     "complianceNotes": "Escriba el evento, la fecha en que el acreedor se enteró, los cargos afectados y la prueba. Si no puede atar el aumento del cargo a una razón permitida, corríjalo en lugar de revisar. No use un código de circunstancia cambiada como etiqueta de toda nueva divulgación.",
     "example": {
       "setting": "Estimación del préstamo revisada, el registro de la circunstancia cambiada en el libro de divulgaciones",
-      "text": "Un registro de muestra puede anotar una demora de la tasación por una tormenta, conocida el día 4, con un cargo de tasación de la Sección B revisado el día 6, que sube un cargo de ejemplo de $600 a $750. Cifras de ejemplo."
+      "text": "Un registro de muestra podría anotar un retraso de tasación por una tormenta conocido el día 4, con un cargo de tasación revisado de la Sección B emitido el día 6, que aumenta un cargo de ejemplo de $600 a $750. La definición y los derechos de revisión están en 12 CFR 1026.19(e)(3)(iv). El acreedor por lo general debe emitir la Estimación del préstamo revisada dentro de tres días hábiles de recibir la información y no el día en que se emite la Divulgación del cierre ni después, salvo lo que permite esa sección. Los vencimientos de fijación causados por el acreedor, y los movimientos ordinarios del mercado que al acreedor simplemente no le gustan, no están en la lista. No se debe cobrar al consumidor por los errores del propio acreedor. Cifras de ejemplo."
     }
   }
 }

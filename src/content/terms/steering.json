@@ -8,7 +8,7 @@
   "complianceNotes": "Keep the compensation options and the property-search facts in separate reviews. Do not coach borrowers toward or away from neighborhoods based on who lives there.",
   "example": {
     "setting": "Two different steering files: compensation loan options, and fair-lending neighborhood or product direction",
-    "text": "A sample broker might show three priced options on an example $210,000 request and still need a separate fair-lending review of where those borrowers bought. Example figures."
+    "text": "A sample broker might show three priced options on an example $210,000 request and still need a separate fair-lending review of where those borrowers bought. 12 CFR 1026.36(e) is the compensation anti-steering rule. The Fair Housing Act, including 42 USC 3604, reaches steering in housing. A broker can violate one, the other, or both. Presenting the loan options required by the compensation safe harbor does not answer a claim that borrowers were sent to different neighborhoods because of race. Example figures."
   },
   "citations": [
     "reg-1026-36",
@@ -33,7 +33,7 @@
     "complianceNotes": "Conserve las opciones de compensación y los hechos de la búsqueda de la propiedad en revisiones separadas. No oriente a los prestatarios hacia vecindarios o lejos de ellos según quién vive allí.",
     "example": {
       "setting": "Dos expedientes distintos de dirección indebida: opciones de préstamo por compensación, y dirección de vecindario o de producto por préstamos justos",
-      "text": "Un corredor de muestra podría mostrar tres opciones de precio sobre un pedido de ejemplo de $210,000 y todavía necesitar una revisión separada de préstamos justos de dónde compraron esos prestatarios. Cifras de ejemplo."
+      "text": "Un corredor de muestra podría mostrar tres opciones cotizadas en una solicitud de ejemplo de $210,000 y todavía necesitar una revisión aparte de otorgamiento justo de crédito sobre dónde compraron esos prestatarios. 12 CFR 1026.36(e) es la regla de compensación contra la dirección indebida. La Ley de Vivienda Justa, incluido 42 USC 3604, alcanza la dirección indebida en la vivienda. Un corredor puede violar una, la otra, o ambas. Presentar las opciones de préstamo que exige el puerto seguro de compensación no responde a una reclamación de que se envió a los prestatarios a vecindarios distintos por raza. Cifras de ejemplo."
     }
   }
 }

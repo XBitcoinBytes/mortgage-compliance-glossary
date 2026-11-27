@@ -8,7 +8,7 @@
   "complianceNotes": "Use the lower income when a decline is known. Do not gross up or average in a way the section does not allow. Document continuance when the income will stop.",
   "example": {
     "setting": "Income worksheet, stable monthly income used in the ratio",
-    "text": "A sample wage of $4,500 a month might be stable, while an example $2,000 contract that ends in six months would not be used without the continuance the guide requires. Example figures."
+    "text": "A sample wage of $4,500 a month might be stable, while an example $2,000 contract that ends in six months would not be used without the continuance the guide requires. Fannie Mae B3-3.1-01 requires income that is stable, has a documented history, and is expected to continue. If the income has a defined expiration, the lender generally must document that it will continue for at least three years from application. If the borrower is moving to a lower pay, the lower amount is used. That three-year test is for income with an end date, not for ordinary wages. Example figures."
   },
   "citations": [
     "fannie-b3-3-1-01"
@@ -43,7 +43,7 @@
     "complianceNotes": "Use el ingreso menor cuando se conoce una baja. No haga un aumento ni un promedio de un modo que la sección no permite. Documente la continuidad cuando el ingreso va a terminar.",
     "example": {
       "setting": "Hoja de ingresos, ingreso mensual estable usado en la relación",
-      "text": "Un salario de muestra de $4,500 al mes puede ser estable, mientras un contrato de ejemplo de $2,000 que termina en seis meses no se usaría sin la continuidad que exige la guía. Cifras de ejemplo."
+      "text": "Un sueldo de muestra de $4,500 al mes podría ser estable, mientras que un contrato de ejemplo de $2,000 que termina en seis meses no se usaría sin la continuidad que exige la guía. Fannie Mae B3-3.1-01 exige un ingreso que sea estable, que tenga un historial documentado y que se espere que continue. Si el ingreso tiene un vencimiento definido, el prestamista por lo general debe documentar que continuará por lo menos tres años desde la solicitud. Si el prestatario pasa a un sueldo más bajo, se usa el monto más bajo. Esa prueba de tres años es para ingreso con fecha de término, no para sueldos ordinarios. Cifras de ejemplo."
     }
   }
 }

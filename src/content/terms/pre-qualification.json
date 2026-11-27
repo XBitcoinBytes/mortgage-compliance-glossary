@@ -8,7 +8,7 @@
   "complianceNotes": "Label the worksheet as an unverified estimate and keep it out of the Loan Estimate template. Do not collect fees. Move the file to a real application only when the consumer is ready to provide the six items.",
   "example": {
     "setting": "Pre-qualification worksheet kept in the conversation notes, before an application exists",
-    "text": "A sample worksheet might estimate a payment of $2,400 a month on an example loan of $320,000 at 6.75 percent, based only on income the consumer stated. Example figures, not a qualification."
+    "text": "A sample worksheet might estimate a payment of $2,400 a month on an example loan of $320,000 at 6.75 percent, based only on income the consumer stated. Because income, credit, and the property are unverified, a pre-qualification does not start the TRID application clock unless the six Regulation Z items have in fact been received. A written worksheet must not be formatted to look like the Loan Estimate. If it is, the creditor may have issued a Loan Estimate and taken on its timing and tolerance duties. Example figures, not a qualification."
   },
   "citations": [
     "practice-cfpb",
@@ -31,7 +31,7 @@
     "complianceNotes": "Marque la hoja como un estimado no verificado y no use la plantilla de la Estimación del préstamo. No cobre cargos. Pase el expediente a una solicitud real solo cuando el consumidor esté listo para dar los seis datos.",
     "example": {
       "setting": "Hoja de precalificación guardada en las notas de la conversación, antes de que exista una solicitud",
-      "text": "Una hoja de muestra puede estimar un pago de $2,400 al mes sobre un préstamo de ejemplo de $320,000 al 6.75 por ciento, solo con los ingresos que el consumidor declaró. Cifras de ejemplo, no una calificación."
+      "text": "Una hoja de muestra podría estimar un pago de $2,400 al mes en un préstamo de ejemplo de $320,000 al 6.75 por ciento, basado solo en el ingreso que el consumidor declaró. Porque el ingreso, el crédito y la propiedad no están verificados, una precalificación no inicia el reloj de solicitud TRID salvo que de hecho se hayan recibido los seis datos del Reglamento Z. Una hoja escrita no debe formatearse para parecer una Estimación del préstamo. Si se formatea así, el acreedor puede haber emitido una Estimación del préstamo y haber asumido sus deberes de plazos y de tolerancia. Cifras de ejemplo, no una calificación."
     }
   }
 }

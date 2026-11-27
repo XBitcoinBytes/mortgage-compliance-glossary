@@ -8,7 +8,7 @@
   "complianceNotes": "Use the correct region and household size. Do not substitute a debt-to-income ratio for VA residual income. On FHA, use residual income as a compensating factor only where the handbook allows it.",
   "example": {
     "setting": "VA Loan Analysis, residual income line, or the FHA manual underwriting worksheet when residual income is used as a compensating factor",
-    "text": "A sample VA analysis might show example residual income of $1,150 compared with the table for that region and family size, which must be read from the handbook. Example figures."
+    "text": "A sample VA analysis might show example residual income of $1,150 compared with the table for that region and family size, which must be read from the handbook. VA Pamphlet 26-7, Chapter 4, contains the residual-income analysis and the tables. HUD Handbook 4000.1 allows residual income as a compensating factor on some manual FHA loans by reference to the VA table. Do not reprint a dollar chart from memory. Maintenance and utility amounts used in the calculation are also in the handbook. Example figures."
   },
   "citations": [
     "va-pamphlet",
@@ -32,7 +32,7 @@
     "complianceNotes": "Use la región y el tamaño del hogar correctos. No sustituya una relación deuda-ingreso por el ingreso residual de VA. En la FHA, use el ingreso residual como factor compensatorio solo donde el manual lo permite.",
     "example": {
       "setting": "Análisis del préstamo VA, línea de ingreso residual, o la hoja de suscripción manual de la FHA cuando el ingreso residual se usa como factor compensatorio",
-      "text": "Un análisis VA de muestra puede mostrar un ingreso residual de ejemplo de $1,150 comparado con la tabla de esa región y ese tamaño de familia, que debe leerse en el manual. Cifras de ejemplo."
+      "text": "Un análisis VA de muestra podría mostrar un ingreso residual de ejemplo de $1,150 comparado con la tabla de esa región y tamaño de familia, que debe leerse en el manual. El Folleto VA 26-7, Capítulo 4, contiene el análisis de ingreso residual y las tablas. El Manual HUD 4000.1 permite el ingreso residual como un factor compensatorio en algunos préstamos FHA manuales por referencia a la tabla de VA. No reimprima un cuadro de dólares de memoria. Los montos de mantenimiento y de servicios usados en el cálculo también están en el manual. Cifras de ejemplo."
     }
   }
 }

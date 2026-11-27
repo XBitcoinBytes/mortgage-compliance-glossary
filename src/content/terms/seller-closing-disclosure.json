@@ -8,7 +8,7 @@
   "complianceNotes": "Produce the seller's form from the same numbers as the buyer's summaries. Do not send the buyer the seller's version as a substitute for the five-page buyer disclosure.",
   "example": {
     "setting": "Seller's Closing Disclosure, the seller's side of the transaction",
-    "text": "A sample seller form might show an example sale price of $430,000 and a seller credit of $6,000. Those credits and prorations should match the buyer's page 3. Example figures."
+    "text": "A sample seller form might show an example sale price of $430,000 and a seller credit of $6,000. Those credits and prorations should match the buyer's page 3. 12 CFR 1026.38 allows a separate seller's disclosure. The seller's form is not a Loan Estimate and does not restart the buyer's three-day wait. The seller does not get the buyer's APR or loan-terms pages in the separate-disclosure approach. Example figures."
   },
   "citations": [
     "reg-1026-38"
@@ -29,7 +29,7 @@
     "complianceNotes": "Produzca el formulario del vendedor a partir de los mismos números que los resúmenes del comprador. No envíe al comprador la versión del vendedor como sustituto de la divulgación de cinco páginas del comprador.",
     "example": {
       "setting": "Divulgación del cierre del vendedor, el lado del vendedor de la transacción",
-      "text": "Un formulario del vendedor de muestra podría mostrar un precio de venta de ejemplo de $430,000 y un crédito del vendedor de $6,000. Esos créditos y prorrateos deben coincidir con la página 3 del comprador. Cifras de ejemplo."
+      "text": "Un formulario del vendedor de muestra podría mostrar un precio de venta de ejemplo de $430,000 y un crédito del vendedor de $6,000. Esos créditos y prorrateos deben coincidir con la página 3 del comprador. 12 CFR 1026.38 permite una divulgación separada del vendedor. El formulario del vendedor no es una Estimación del préstamo y no reinicia la espera de tres días del comprador. El vendedor no recibe las páginas de APR ni de términos del préstamo del comprador en el enfoque de divulgación separada. Cifras de ejemplo."
     }
   }
 }

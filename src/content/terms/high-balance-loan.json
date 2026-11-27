@@ -10,7 +10,7 @@
   "complianceNotes": "Confirm the county is high-cost and the amount is inside its limit before you use high-balance pricing. Deliver it on the high-balance product codes, not the baseline codes.",
   "example": {
     "setting": "Loan amount above the baseline limit and at or under the high-cost-area limit",
-    "text": "A sample loan of an example amount between the baseline and the county cap would be high-balance only after the current FHFA table is checked. Example figures are not the cap."
+    "text": "A sample loan of an example amount between the baseline and the county cap would be high-balance only after the current FHFA table is checked. FHFA designates the counties and the limits each year. The Selling Guide states any additional eligibility or loan-level price adjustment. A loan that exceeds even the high-cost limit is jumbo. Do not print this year's high-cost maximum here. Example figures are not the cap."
   },
   "citations": [
     "fhfa-cll",
@@ -31,7 +31,7 @@
     "complianceNotes": "Confirme que el condado es de alto costo y que el monto está dentro de su límite antes de usar el precio de saldo alto. Entréguelo con los códigos de producto de saldo alto, no con los códigos base.",
     "example": {
       "setting": "Monto del préstamo por encima del límite base y igual o menor que el límite del área de alto costo",
-      "text": "Un préstamo de muestra de un monto de ejemplo entre la base y el tope del condado sería de saldo alto solo después de revisar la tabla vigente de la FHFA. Las cifras de ejemplo no son el tope. Cifras de ejemplo."
+      "text": "Un préstamo de muestra de un monto de ejemplo entre el límite de base y el tope del condado sería de saldo alto solo después de revisar la tabla vigente de la FHFA. La FHFA designa los condados y los límites cada año. La Guía de venta indica cualquier elegibilidad adicional o ajuste de precio a nivel del préstamo. Un préstamo que excede incluso el límite de alto costo es jumbo. No imprima aquí el máximo de alto costo de este año. Cifras de ejemplo, no el tope."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Give the notice on covered refinances and count the days correctly. Do not give a false cancellation right on a purchase. Do not fund early.",
   "example": {
     "setting": "Notice of Right to Cancel, present on many refinances and absent on most purchases",
-    "text": "A sample refinance signed on Monday may be cancelled until midnight Thursday if there is no federal holiday. The days are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample refinance signed on Monday may be cancelled until midnight Thursday if there is no federal holiday. 12 CFR 1026.23 states who may rescind and the three specific business days. Each owner gets the notice. A waiver is limited to a bona fide personal financial emergency. The lender should not fund a rescindable loan before the period ends. A purchase is generally exempt. The days are example figures. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1026-23"
@@ -29,7 +29,7 @@
     "complianceNotes": "Dé el aviso en los refinanciamientos cubiertos y cuente los días correctamente. No dé un falso derecho de cancelación en una compra. No desembolse antes de tiempo.",
     "example": {
       "setting": "Aviso del derecho a cancelar, presente en muchos refinanciamientos y ausente en la mayoría de las compras",
-      "text": "Un refinanciamiento de muestra firmado el lunes puede cancelarse hasta la medianoche del jueves si no hay un feriado federal. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un refinanciamiento de muestra firmado el lunes puede cancelarse hasta la medianoche del jueves si no hay un feriado federal. 12 CFR 1026.23 indica quién puede rescindir y los tres días hábiles específicos. Cada dueño recibe el aviso. Una renuncia se limita a una emergencia financiera personal de buena fe. El prestamista no debe desembolsar un préstamo rescindible antes de que termine el período. Una compra por lo general está exenta. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

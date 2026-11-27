@@ -11,10 +11,11 @@
   "complianceNotes": "Use the model notice or a notice that meets the content rules. Record delivery. Do not treat the Loan Estimate as the privacy notice.",
   "example": {
     "setting": "Initial privacy notice required by Regulation P",
-    "text": "A sample initial notice might be handed to the applicant with the example application. No price is disclosed on it. Example figures are limited to a sample delivery on day one of the file."
+    "text": "A sample initial notice might be handed to the applicant with the example application. No price is disclosed on it. Regulation P is the CFPB's privacy regulation under the Gramm-Leach-Bliley Act, 12 CFR Part 1016. The regulation covers the initial notice and, unless an exception applies, an annual notice. There is a real exception from the annual notice for some institutions that do not share outside the permitted categories and have not changed their policies. Read Part 1016 before you tell a company it must, or need not, mail a full annual notice every year. Example figures are limited to a sample delivery on day one of the file."
   },
   "citations": [
-    "reg-1016"
+    "reg-1016",
+    "usc-15-6801"
   ],
   "related": [
     "cfpb",
@@ -31,7 +32,7 @@
     "complianceNotes": "Use el aviso modelo o un aviso que cumpla las reglas de contenido. Registre la entrega. No trate la Estimación del préstamo como el aviso de privacidad.",
     "example": {
       "setting": "Aviso de privacidad inicial exigido por el Reglamento P",
-      "text": "Un aviso inicial de muestra puede entregarse al solicitante con la solicitud de ejemplo. No se divulga un precio en él. Las cifras de ejemplo se limitan a una entrega de muestra el día uno del expediente. Cifras de ejemplo."
+      "text": "Un aviso inicial de muestra podría entregarse al solicitante con la solicitud de ejemplo. No se divulga un precio en él. El Reglamento P es el reglamento de privacidad de la CFPB bajo la Ley Gramm-Leach-Bliley, 12 CFR Parte 1016. El reglamento cubre el aviso inicial y, salvo que aplique una excepción, un aviso anual. Hay una excepción real del aviso anual para algunas instituciones que no comparten fuera de las categorías permitidas y no han cambiado sus políticas. Lea la Parte 1016 antes de decirle a una empresa que debe, o que no debe, enviar un aviso anual completo cada año. Cifras de ejemplo, limitadas a una entrega de muestra el día uno del expediente."
     }
   }
 }

@@ -8,7 +8,7 @@
   "complianceNotes": "Ask the occupancy question directly and document conflicts. If the evidence says investment, price and underwrite it as investment. Do not suggest a story that makes a rental look owner-occupied.",
   "example": {
     "setting": "URLA occupancy declaration compared with other evidence in the file",
-    "text": "A sample conflict might be an example primary-residence application for a $260,000 house while the borrower already occupies a home ten miles away and has listed no sale. Example figures."
+    "text": "A sample conflict might be an example primary-residence application for a $260,000 house while the borrower already occupies a home ten miles away and has listed no sale. The application declaration and the agency guides make occupancy a condition of the product. A primary-residence price on a property that will be rented can breach the sales contract with the investor. Indicators include a nearby residence that is not being sold, a lease already signed, or mail that goes elsewhere. The lender investigates indicators. It does not coach the borrower to remove them. Example figures."
   },
   "citations": [
     "fannie-guide",
@@ -32,7 +32,7 @@
     "complianceNotes": "Haga la pregunta de ocupación directamente y documente los conflictos. Si la prueba dice inversión, cotice y suscriba como inversión. No sugiera una historia que haga que un alquiler parezca ocupado por el dueño.",
     "example": {
       "setting": "Declaración de ocupación de la URLA comparada con otra prueba del expediente",
-      "text": "Un conflicto de muestra podría ser una solicitud de residencia principal de ejemplo para una casa de $260,000 mientras el prestatario ya ocupa una vivienda a diez millas y no ha indicado una venta. Cifras de ejemplo."
+      "text": "Un conflicto de muestra podría ser una solicitud de residencia principal de ejemplo para una casa de $260,000 mientras el prestatario ya ocupa una vivienda a diez millas y no ha listado una venta. La declaración de la solicitud y las guías de las agencias hacen de la ocupación una condición del producto. Un precio de residencia principal en una propiedad que se alquilará puede incumplir el contrato de venta con el inversionista. Los indicios incluyen una residencia cercana que no se está vendiendo, un contrato de alquiler ya firmado, o correo que va a otro lugar. El prestamista investiga los indicios. No entrena al prestatario para que los quite. Cifras de ejemplo."
     }
   }
 }
