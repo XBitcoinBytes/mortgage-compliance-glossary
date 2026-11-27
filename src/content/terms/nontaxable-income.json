@@ -8,7 +8,7 @@
   "complianceNotes": "Gross up only with the guide's factor and only for income documented as nontaxable. Do not gross up wages. Keep the award letter.",
   "example": {
     "setting": "Income worksheet showing any gross-up of nontaxable income",
-    "text": "A sample nontaxable benefit of $1,000 a month might be grossed up only by the factor in the current guide. The $1,000 is an example figure. The factor is not stated here. Example figures, not a quote or a legal limit."
+    "text": "A sample nontaxable benefit of $1,000 a month might be grossed up only by the factor in the current guide. The Fannie Mae Selling Guide states when nontaxable income may be grossed up and what evidence shows it is nontaxable. Regulation B, 12 CFR 1002.6, prohibits discounting income because it comes from a public-assistance program, which is a different rule from the gross-up. Child support can be nontaxable and still needs the continuance documentation of its own section. The $1,000 is an example figure. The factor is not stated here. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "fannie-guide",
@@ -30,7 +30,7 @@
     "complianceNotes": "Aumente solo con el factor de la guía y solo para ingreso documentado como no gravable. No aumente salarios. Conserve la carta de concesión.",
     "example": {
       "setting": "Hoja de ingresos que muestra cualquier aumento del ingreso no gravable",
-      "text": "Un beneficio no gravable de muestra de $1,000 al mes podría aumentarse solo por el factor de la guía vigente. Los $1,000 son una cifra de ejemplo. El factor no se indica aquí. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un beneficio no gravable de muestra de $1,000 al mes podría aumentarse solo por el factor de la guía vigente. La Guía de venta de Fannie Mae indica cuándo el ingreso no gravable puede aumentarse y qué evidencia muestra que no es gravable. El Reglamento B, 12 CFR 1002.6, prohíbe descontar el ingreso porque proviene de un programa de asistencia pública, que es una regla distinta del aumento. La manutención de menores puede ser no gravable y todavía necesita la documentación de continuidad de su propia sección. Los $1,000 son una cifra de ejemplo. El factor no se indica aquí. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

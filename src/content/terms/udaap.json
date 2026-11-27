@@ -10,7 +10,7 @@
   "complianceNotes": "Review scripts, pricing exceptions, and fee names for UDAAP, not only for TRID tolerances. A fee called an 'optional' charge that is in fact required is a classic problem. Document the reason a consumer received a worse price.",
   "example": {
     "setting": "Complaint file and marketing review, not a line on the Loan Estimate",
-    "text": "A sample complaint might say the borrower was quoted an example rate of 6.25 percent and charged 7.00 percent at closing with no change in the file. Example figures. The issue is the unexplained change, not the rate level."
+    "text": "A sample complaint might say the borrower was quoted an example rate of 6.25 percent and charged 7.00 percent at closing with no change in the file. 12 USC 5531 authorizes the Bureau to take action against unfair, deceptive, or abusive acts or practices. 12 USC 5536 prohibits offering or providing a consumer financial product that is not in conformity with federal consumer financial law, and it reaches the UDAAP standards. Unfairness, deception, and abusiveness are defined in the statute, not in a mortgage form. A practice can be a UDAAP even when a disclosure form was issued on time. The issue is the unexplained change, not the rate level. Example figures."
   },
   "citations": [
     "usc-12-5531",
@@ -37,7 +37,7 @@
     "complianceNotes": "Revise los guiones, las excepciones de precio y los nombres de los cargos por UDAAP, no solo por las tolerancias de TRID. Un cargo llamado opcional que en realidad es obligatorio es un problema clásico. Documente la razón por la que un consumidor recibió un precio peor.",
     "example": {
       "setting": "Expediente de quejas y revisión de mercadeo, no una línea de la Estimación del préstamo",
-      "text": "Una queja de muestra puede decir que al prestatario se le cotizó una tasa de ejemplo del 6.25 por ciento y se le cobró el 7.00 por ciento en el cierre sin un cambio en el expediente. Cifras de ejemplo. El problema es el cambio no explicado, no el nivel de la tasa."
+      "text": "Una queja de muestra podría decir que al prestatario se le cotizó una tasa de ejemplo del 6.25 por ciento y se le cobró el 7.00 por ciento en el cierre sin un cambio en el expediente. 12 USC 5531 autoriza a la Oficina a actuar contra actos o prácticas injustos, engañosos o abusivos. 12 USC 5536 prohíbe ofrecer o proporcionar un producto financiero de consumo que no esté en conformidad con la ley federal de protección financiera del consumidor, y alcanza los estándares de UDAAP. La injusticia, el engaño y lo abusivo se definen en la ley, no en un formulario hipotecario. Una práctica puede ser un UDAAP incluso cuando se emitió un formulario de divulgación a tiempo. El problema es el cambio sin explicación, no el nivel de la tasa. Cifras de ejemplo."
     }
   }
 }

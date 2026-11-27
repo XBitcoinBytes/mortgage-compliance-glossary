@@ -10,7 +10,7 @@
   "complianceNotes": "State the expiration, the conditions, and that the letter is not a commitment to lend. Do not show a property address you do not have. When the address arrives, start the application log.",
   "example": {
     "setting": "Pre-approval letter in the origination file, issued before a property address exists",
-    "text": "A sample letter might say a borrower is pre-approved for an example purchase price up to $425,000, subject to the property, the appraisal, and verification of the income already collected. Example figures, not a commitment."
+    "text": "A sample letter might say a borrower is pre-approved for an example purchase price up to $425,000, subject to the property, the appraisal, and verification of the income already collected. Until there is a property address, the six-item Regulation Z application is incomplete and the Loan Estimate clock has not started. A pre-approval letter should say what was reviewed and what conditions remain, including an acceptable property and appraisal. Calling a quick payment quote a pre-approval is misleading under the advertising rules if the file was not underwritten. Example figures, not a commitment."
   },
   "citations": [
     "practice-cfpb",
@@ -36,7 +36,7 @@
     "complianceNotes": "Indique el vencimiento, las condiciones y que la carta no es un compromiso de prestar. No muestre una dirección que no tiene. Cuando llegue la dirección, inicie el registro de la solicitud.",
     "example": {
       "setting": "Carta de preaprobación en el expediente de originación, emitida antes de que exista una dirección de la propiedad",
-      "text": "Una carta de muestra puede decir que un prestatario está preaprobado para un precio de compra de ejemplo de hasta $425,000, sujeto a la propiedad, la tasación y la verificación de los ingresos ya reunidos. Cifras de ejemplo, no un compromiso."
+      "text": "Una carta de muestra puede decir que un prestatario está preaprobado para un precio de compra de ejemplo de hasta $425,000, sujeto a la propiedad, la tasación y la verificación de los ingresos ya reunidos. Hasta que haya una dirección de la propiedad, la solicitud de seis datos del Reglamento Z está incompleta y el reloj de la Estimación del préstamo no ha comenzado. Una carta de preaprobación debe decir qué se revisó y qué condiciones quedan, incluida una propiedad y una tasación aceptables. Llamar preaprobación a una cotización rápida de pago es engañoso bajo las reglas de publicidad si el expediente no fue suscrito. Cifras de ejemplo, no un compromiso."
     }
   }
 }

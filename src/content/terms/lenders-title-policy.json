@@ -11,7 +11,7 @@
   "complianceNotes": "Name the proposed insurer on the written list if the fee is shoppable. Collect the final premium before the Closing Disclosure is finalized. Do not describe this policy as owner's coverage.",
   "example": {
     "setting": "Loan Estimate, page 2, lender's title insurance line",
-    "text": "A sample lender's policy on an example $340,000 loan might be quoted at $1,280 in Section C if the borrower can shop, or in Section B and generally zero tolerance if the creditor requires its provider. Example figures."
+    "text": "A sample lender's policy on an example $340,000 loan might be quoted at $1,280 in Section C if the borrower can shop, or in Section B and generally zero tolerance if the creditor requires its provider. The charge is a settlement service on the Loan Estimate. If the consumer can shop, it is Section C and the tolerance depends on whether the provider was on the written list. If the creditor requires its provider, it is Section B and generally zero tolerance. The policy amount is typically the loan amount. Endorsements the lender requires are separate charges. Example figures."
   },
   "citations": [
     "reg-1026-37",
@@ -38,7 +38,7 @@
     "complianceNotes": "Nombre a la aseguradora propuesta en la lista escrita si el cargo se puede comparar. Recoja la prima final antes de finalizar la Divulgación del cierre. No describa esta póliza como cobertura del propietario.",
     "example": {
       "setting": "Estimación del préstamo, página 2, línea del seguro de título del prestamista",
-      "text": "Una póliza del prestamista de muestra sobre un préstamo de ejemplo de $340,000 podría cotizarse en $1,280 en la Sección C si el prestatario puede comparar, o en la Sección B y por lo general con tolerancia cero si el acreedor exige su proveedor. Cifras de ejemplo."
+      "text": "Una póliza del prestamista de muestra sobre un préstamo de ejemplo de $340,000 podría cotizarse en $1,280 en la Sección C si el prestatario puede comparar, o en la Sección B y por lo general con tolerancia cero si el acreedor exige su proveedor. El cargo es un servicio de liquidación en la Estimación del préstamo. Si el consumidor puede comparar, va en la Sección C y la tolerancia depende de si el proveedor estaba en la lista escrita. Si el acreedor exige su proveedor, va en la Sección B y por lo general tiene tolerancia cero. El monto de la póliza es por lo general el monto del préstamo. Los endosos que el prestamista exige son cargos aparte. Cifras de ejemplo."
     }
   }
 }

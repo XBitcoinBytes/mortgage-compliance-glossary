@@ -8,7 +8,7 @@
   "complianceNotes": "Document the completion date from the public record or the investor's letter, not from the borrower's memory alone. Apply the correct event type. If the period is short, do not deliver.",
   "example": {
     "setting": "Credit file, foreclosure, deed-in-lieu, or short-sale completion date",
-    "text": "A sample file might measure an example foreclosure completed five years before application and compare it with the current guide table. The five years are an example figure. Example figures, not a quote or a legal limit."
+    "text": "A sample file might measure an example foreclosure completed five years before application and compare it with the current guide table. Fannie Mae B3-5.3-07 is the conventional reference. FHA, VA, and USDA handbooks have their own waiting periods and their own definitions of the completion date. A foreclosure inside a bankruptcy can be governed by the longer applicable period. Do not collapse every loss of a home into a single seven-year story. The five years are an example figure. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "fannie-b3-5-3-07"
@@ -29,7 +29,7 @@
     "complianceNotes": "Documente la fecha de terminación a partir del registro público o de la carta del inversionista, no solo de la memoria del prestatario. Aplique el tipo correcto de evento. Si el período no se cumple, no entregue.",
     "example": {
       "setting": "Expediente de crédito, fecha de terminación de la ejecución hipotecaria, de la escritura en lugar de ejecución o de la venta en corto",
-      "text": "Un expediente de muestra puede medir una ejecución de ejemplo terminada cinco años antes de la solicitud y compararla con la tabla vigente de la guía. Los cinco años son una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un expediente de muestra puede medir una ejecución de ejemplo terminada cinco años antes de la solicitud y compararla con la tabla vigente de la guía. Fannie Mae B3-5.3-07 es la referencia convencional. Los manuales de FHA, VA y USDA tienen sus propios períodos de espera y sus propias definiciones de la fecha de terminación. Una ejecución dentro de una quiebra puede regirse por el período aplicable más largo. No reduzca toda pérdida de una vivienda a una sola historia de siete años. Los cinco años son una cifra de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

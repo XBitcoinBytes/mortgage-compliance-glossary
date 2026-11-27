@@ -8,7 +8,7 @@
   "complianceNotes": "Read the eligibility messages before telling the borrower the loan is approved. Fix what can be fixed and resubmit. If the loan remains ineligible, do not deliver it to Fannie Mae.",
   "example": {
     "setting": "DU findings, recommendation Approve/Ineligible, with the eligibility message",
-    "text": "A sample message might say the example loan amount exceeds the conforming limit for the county. The dollar limit itself must be read from FHFA, not from this example. Example figures for the message type only."
+    "text": "A sample message might say the example loan amount exceeds the conforming limit for the county. Selling Guide B3-2-06 describes the recommendation. The findings message states which eligibility rule failed, such as a product, occupancy, or loan-limit problem. Some ineligible recommendations can be resolved by correcting data or changing the structure. Others cannot be delivered to Fannie Mae at all. The lender may not ignore the ineligible flag. The dollar limit itself must be read from FHFA, not from this illustration. Example figures for the message type only."
   },
   "citations": [
     "fannie-b3-2-06"
@@ -32,7 +32,7 @@
     "complianceNotes": "Lea los mensajes de elegibilidad antes de decirle al prestatario que el préstamo está aprobado. Corrija lo que se pueda corregir y vuelva a enviar. Si el préstamo sigue no elegible, no lo entregue a Fannie Mae.",
     "example": {
       "setting": "Hallazgos de DU, recomendación Approve/Ineligible, con el mensaje de elegibilidad",
-      "text": "Un mensaje de muestra puede decir que el monto de ejemplo del préstamo excede el límite conforme del condado. El límite en dólares debe leerse en la FHFA, no en este ejemplo. Cifras de ejemplo solo para el tipo de mensaje."
+      "text": "Un mensaje de muestra puede decir que el monto de ejemplo del préstamo excede el límite conforme del condado. La Guía de venta B3-2-06 describe la recomendación. El mensaje de hallazgos indica qué regla de elegibilidad falló, como un problema de producto, de ocupación o de límite del préstamo. Algunas recomendaciones inelegibles pueden resolverse corrigiendo datos o cambiando la estructura. Otras no pueden entregarse a Fannie Mae en absoluto. El prestamista no puede ignorar la marca de inelegible. El límite en dólares debe leerse en la FHFA, no en esta ilustración. Cifras de ejemplo solo para el tipo de mensaje."
     }
   }
 }

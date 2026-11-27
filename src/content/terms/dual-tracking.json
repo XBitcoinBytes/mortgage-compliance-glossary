@@ -8,7 +8,7 @@
   "complianceNotes": "Flag the foreclosure file when an application becomes complete. Do not set a sale date inside a prohibited window. Resume only when the section allows.",
   "example": {
     "setting": "Foreclosure steps paused while a complete loss-mitigation application is pending",
-    "text": "A sample sale set for the 15th might have to be postponed because a complete application arrived on the 1st and has not been evaluated. The dates are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample sale set for the 15th might have to be postponed because a complete application arrived on the 1st and has not been evaluated. 12 CFR 1024.41 limits referrals, motions, and sales while a complete application submitted in time is pending, and during certain appeal periods. If the application is incomplete, the servicer's duty is to say what is missing. If the borrower misses the section's deadline, the foreclosure protections may not attach. Read the timing before you tell a borrower the sale cannot happen. The dates are example figures. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1024-41"
@@ -31,7 +31,7 @@
     "complianceNotes": "Marque el expediente de ejecución hipotecaria cuando una solicitud queda completa. No fije una fecha de venta dentro de una ventana prohibida. Reanude solo cuando la sección lo permite.",
     "example": {
       "setting": "Pasos de ejecución hipotecaria en pausa mientras está pendiente una solicitud completa de mitigación de pérdidas",
-      "text": "Una venta de muestra fijada para el día 15 podría tener que posponerse porque una solicitud completa llegó el día 1 y no ha sido evaluada. Las fechas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una venta de muestra fijada para el día 15 podría tener que posponerse porque una solicitud completa llegó el día 1 y no ha sido evaluada. 12 CFR 1024.41 limita las remisiones, las mociones y las ventas mientras una solicitud completa presentada a tiempo está pendiente, y durante ciertos períodos de apelación. Si la solicitud está incompleta, el deber del administrador es decir qué falta. Si el prestatario no cumple el plazo de la sección, las protecciones contra la ejecución hipotecaria pueden no aplicarse. Lea los plazos antes de decirle a un prestatario que la venta no puede ocurrir. Las fechas son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

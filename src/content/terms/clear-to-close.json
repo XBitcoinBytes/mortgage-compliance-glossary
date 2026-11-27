@@ -10,7 +10,7 @@
   "complianceNotes": "Do not schedule consummation on the clear-to-close stamp alone. Confirm the Closing Disclosure receipt date and any prior-to-funding items that remain. Tell the borrower the status in plain words, not as a guarantee of the rate.",
   "example": {
     "setting": "Internal status clear to close in the loan origination system, after conditions are cleared",
-    "text": "A sample system note might change an example file to clear to close on Tuesday, with consummation not before Friday because of the disclosure wait. The days are example figures. Example figures, not a quote or a legal limit."
+    "text": "A sample system note might change an example file to clear to close on Tuesday, with consummation not before Friday because of the disclosure wait. The status is industry file practice. The Closing Disclosure rules in 12 CFR 1026.19(f) still control when consummation may occur. A file can be clear to close and still have to wait until the third precise business day after the consumer receives the Closing Disclosure. A new condition, such as a fresh credit inquiry, can take the status away. The days are example figures. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "practice-file",
@@ -38,7 +38,7 @@
     "complianceNotes": "No programe la consumación solo con el sello de autorización para cerrar. Confirme la fecha de recepción de la Divulgación del cierre y los puntos previos al desembolso que queden. Dígale el estado al prestatario en palabras claras, no como una garantía de la tasa.",
     "example": {
       "setting": "Estado interno de autorización para cerrar en el sistema de originación, después de levantar las condiciones",
-      "text": "Una nota de sistema de muestra puede cambiar un expediente de ejemplo a autorización para cerrar el martes, con consumación no antes del viernes por la espera de la divulgación. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una nota de sistema de muestra puede cambiar un expediente de ejemplo a autorización para cerrar el martes, con consumación no antes del viernes por la espera de la divulgación. El estado es una práctica de expediente de la industria. Las reglas de la Divulgación del cierre en 12 CFR 1026.19(f) siguen controlando cuándo puede ocurrir la consumación. Un expediente puede tener autorización para cerrar y todavía tener que esperar hasta el tercer día hábil específico después de que el consumidor reciba la Divulgación del cierre. Una condición nueva, como una consulta de crédito reciente, puede quitar el estado. Los días son cifras de ejemplo. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

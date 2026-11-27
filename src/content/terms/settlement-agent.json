@@ -8,7 +8,7 @@
   "complianceNotes": "Put the real agent on page 5. Tell the borrower to verify wires. Do not accept a change of wiring instructions that arrives only by email.",
   "example": {
     "setting": "Closing Disclosure, page 5, Contact Information, settlement agent",
-    "text": "A sample page 5 might name an example settlement agent and a file number. Any phone number in a training example should be marked as an example figure, not a real office. Example figures, not a quote or a legal limit."
+    "text": "A sample page 5 might name an example settlement agent and a file number. Regulation X treats settlement services broadly in 12 CFR 1024.2. The Closing Disclosure identifies the settlement agent under 12 CFR 1026.38. Wiring instructions should be verified with the agent by a phone number you look up, because fake instructions are a common fraud. The agent follows the lender's instructions and the title commitment. Any phone number in a training example should be marked as an example figure, not a real office. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1024-2",
@@ -42,7 +42,7 @@
     "complianceNotes": "Ponga al agente real en la página 5. Dígale al prestatario que verifique las transferencias. No acepte un cambio de instrucciones de transferencia que llega solo por correo electrónico.",
     "example": {
       "setting": "Divulgación del cierre, página 5, Información de contacto, agente de liquidación",
-      "text": "Una página 5 de muestra podría nombrar un agente de liquidación de ejemplo y un número de expediente. Cualquier teléfono en un ejemplo de capacitación debe marcarse como una cifra de ejemplo, no una oficina real. Cifras de ejemplo."
+      "text": "Una página 5 de muestra podría nombrar a un agente de liquidación de ejemplo y un número de expediente. El Reglamento X trata de forma amplia los servicios de liquidación en 12 CFR 1024.2. La Divulgación del cierre identifica al agente de liquidación bajo 12 CFR 1026.38. Las instrucciones de transferencia deben verificarse con el agente en un número de teléfono que usted busque, porque las instrucciones falsas son un fraude común. El agente sigue las instrucciones del prestamista y el compromiso de título. Cualquier número de teléfono en un ejemplo de capacitación debe marcarse como una cifra de ejemplo, no una oficina real. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

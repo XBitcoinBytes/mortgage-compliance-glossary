@@ -8,7 +8,7 @@
   "complianceNotes": "If Part 314 applies, keep the written program, the risk assessment, and the oversight records. Encrypt or otherwise protect loan files and do not email full Social Security numbers as a habit.",
   "example": {
     "setting": "Written information-security program under 16 CFR Part 314",
-    "text": "A sample control might require multifactor access to a loan system used on an example portfolio of 2,000 loans. The count is an example figure, not a coverage threshold. Example figures, not a quote or a legal limit."
+    "text": "A sample control might require multifactor access to a loan system used on an example portfolio of 2,000 loans. The program must be appropriate to the institution's size and complexity and must address the elements in the current Part 314, including a qualified individual, a risk assessment, and safeguards. Mortgage lenders that are financial institutions under the rule should not look for this program in Regulation Z. Banks have separate security expectations from their prudential regulators. The count is an example figure, not a coverage threshold. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "cfr-16-314",
@@ -29,7 +29,7 @@
     "complianceNotes": "Si la Parte 314 se aplica, conserve el programa escrito, la evaluación de riesgos y los registros de supervisión. Cifre o proteja de otro modo los expedientes de préstamos y no envíe números completos de Seguro Social por correo electrónico por costumbre.",
     "example": {
       "setting": "Programa escrito de seguridad de la información según 16 CFR Parte 314",
-      "text": "Un control de muestra podría exigir acceso multifactor a un sistema de préstamos usado en una cartera de ejemplo de 2,000 préstamos. El conteo es una cifra de ejemplo, no un umbral de cobertura. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Un control de muestra podría exigir acceso multifactor a un sistema de préstamos usado en una cartera de ejemplo de 2,000 préstamos. El programa debe ser apropiado al tamaño y a la complejidad de la institución y debe cubrir los elementos de la Parte 314 vigente, incluido un individuo calificado, una evaluación de riesgos y salvaguardas. Los prestamistas hipotecarios que son instituciones financieras bajo la regla no deben buscar este programa en el Reglamento Z. Los bancos tienen expectativas de seguridad aparte de sus reguladores prudenciales. El recuento es una cifra de ejemplo, no un umbral de cobertura. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

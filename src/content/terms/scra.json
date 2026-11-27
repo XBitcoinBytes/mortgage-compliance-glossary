@@ -11,7 +11,7 @@
   "complianceNotes": "Train servicing staff to recognize an SCRA request and to cut the rate and forgive the excess, not to add it to the balance. Do not apply the Military Lending Act exemption for mortgages as a reason to ignore the SCRA.",
   "example": {
     "setting": "Servicemember request for the six-percent interest limitation and the foreclosure file",
-    "text": "A sample pre-service note at an example 7.5 percent would be reduced to 6 percent upon a valid request, and the interest above 6 percent forgiven. Example figures for the contract rate only. The 6 percent cap is the statute."
+    "text": "A sample pre-service note at an example 7.5 percent would be reduced to 6 percent upon a valid request, and the interest above 6 percent forgiven. 50 USC 3937 is the interest-rate limitation. It includes fees in the definition of interest, with the statute's exceptions, and it requires a written request and a copy of the orders. 50 USC 3953 addresses mortgages and foreclosure protections. The 6 percent figure is statutory. A mortgage made after the servicemember is already on active duty is not the pre-service debt this cap addresses. VA loan rules are a third, separate system. Example figures for the contract rate only."
   },
   "citations": [
     "usc-50-3937",
@@ -35,7 +35,7 @@
     "complianceNotes": "Capacite al personal de administración para reconocer una solicitud de la SCRA y para bajar la tasa y condonar el exceso, no para sumarlo al saldo. No aplique la exención de la Ley de Préstamos para Militares para las hipotecas como una razón para ignorar la SCRA.",
     "example": {
       "setting": "Solicitud del miembro del servicio para el límite de interés del seis por ciento y el expediente de ejecución hipotecaria",
-      "text": "Un pagaré de muestra anterior al servicio a un ejemplo del 7.5 por ciento se reduciría al 6 por ciento tras una solicitud válida, y el interés por encima del 6 por ciento se condonaría. Cifras de ejemplo solo para la tasa del contrato. El tope del 6 por ciento es la ley."
+      "text": "Un pagaré de muestra anterior al servicio a un ejemplo del 7.5 por ciento se reduciría al 6 por ciento tras una solicitud válida, y el interés por encima del 6 por ciento se condonaría. 50 USC 3937 es la limitación de la tasa de interés. Incluye cargos en la definición de interés, con las excepciones de la ley, y exige una solicitud escrita y una copia de las órdenes. 50 USC 3953 trata las hipotecas y las protecciones contra la ejecución hipotecaria. La cifra del 6 por ciento es legal. Una hipoteca otorgada después de que el miembro del servicio ya está en servicio activo no es la deuda anterior al servicio que este tope cubre. Las reglas de préstamos VA son un tercer sistema, aparte. Cifras de ejemplo solo para la tasa del contrato."
     }
   }
 }

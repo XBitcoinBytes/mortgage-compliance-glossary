@@ -8,7 +8,7 @@
   "complianceNotes": "Ask whether the consumer could understand the payment change or the penalty, and whether the company took advantage of that gap. Keep the explanation you gave. A compliant Loan Estimate does not automatically defeat an abusiveness claim, but it is important evidence.",
   "example": {
     "setting": "Product and sales review under the statutory abusiveness test",
-    "text": "A sample ARM explanation that never mentions the example payment could rise after year five would be reviewed under 5531(d). Example figures are not a payment quote. A sample starting payment of $1,800 only sets the scene."
+    "text": "A sample ARM explanation that never mentions the example payment could rise after year five would be reviewed under 5531(d). 12 USC 5531(d) states the two branches. Material interference is about understanding. Unreasonable advantage is about the consumer's situation or reliance. Mortgage examples in enforcement have included steering borrowers into loans they did not understand when the originator benefited. Do not add elements that are not in the statute. Example figures are not a payment quote. A sample starting payment of $1,800 only sets the scene."
   },
   "citations": [
     "usc-12-5531"
@@ -29,7 +29,7 @@
     "complianceNotes": "Pregunte si el consumidor podía entender el cambio del pago o la penalidad, y si la empresa se aprovechó de esa brecha. Conserve la explicación que dio. Una Estimación del préstamo que cumple no derrota automáticamente una alegación de abuso, pero es prueba importante.",
     "example": {
       "setting": "Revisión del producto y de las ventas según la prueba legal de abuso",
-      "text": "Una explicación de muestra de una ARM que nunca menciona que el pago de ejemplo podría subir después del quinto año se revisaría según 5531(d). Las cifras de ejemplo no son una cotización del pago. Un pago inicial de muestra de $1,800 solo ambienta el caso. Cifras de ejemplo."
+      "text": "Una explicación de muestra de una ARM que nunca menciona que el pago de ejemplo podría subir después del quinto año se revisaría según 5531(d). 12 USC 5531(d) establece las dos vías. La interferencia material tiene que ver con la comprensión. La ventaja irrazonable tiene que ver con la situación o la confianza del consumidor. Ejemplos hipotecarios en acciones de cumplimiento han incluido dirigir a prestatarios a préstamos que no entendían cuando el originador se beneficiaba. No agregue elementos que no estén en la ley. Las cifras de ejemplo no son una cotización del pago. Un pago inicial de muestra de $1,800 solo ambienta el caso. Cifras de ejemplo."
     }
   }
 }

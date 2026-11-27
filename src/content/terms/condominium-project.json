@@ -8,7 +8,7 @@
   "complianceNotes": "Order the project review early. Do not issue a clear to close on a condo with only the unit appraisal. If the project is ineligible, tell the borrower before they waive the contract contingency.",
   "example": {
     "setting": "Condo project review in the collateral file, separate from the unit appraisal",
-    "text": "A sample review might cover an example 40-unit project with the questionnaire and master insurance in the file. The unit count is an example figure, not an eligibility test. Example figures, not a quote or a legal limit."
+    "text": "A sample review might cover an example 40-unit project with the questionnaire and master insurance in the file. The Fannie Mae Selling Guide sets project-review methods, ineligible characteristics, and documents such as budgets, insurance, and delinquency information. Owner-occupancy and delinquency percentages are in the guide and change. Do not quote them from memory. Limited reviews and full reviews are different paths. A non-warrantable condo may still be a portfolio loan, but it is not a standard agency delivery. The unit count is an example figure, not an eligibility test. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "fannie-guide"
@@ -29,7 +29,7 @@
     "complianceNotes": "Pida la revisión del proyecto temprano. No emita una autorización para cerrar de un condominio solo con la tasación de la unidad. Si el proyecto no es elegible, dígaselo al prestatario antes de que renuncie a la contingencia del contrato.",
     "example": {
       "setting": "Revisión del proyecto de condominio en el expediente de garantía, separada de la tasación de la unidad",
-      "text": "Una revisión de muestra puede cubrir un proyecto de ejemplo de 40 unidades con el cuestionario y el seguro maestro en el expediente. El número de unidades es una cifra de ejemplo, no una prueba de elegibilidad. Cifras de ejemplo, no una cotización ni un límite legal."
+      "text": "Una revisión de muestra podría cubrir un proyecto de ejemplo de 40 unidades con el cuestionario y el seguro maestro en el expediente. La Guía de venta de Fannie Mae establece los métodos de revisión de proyectos, las características inelegibles y documentos como presupuestos, seguro e información de morosidad. Los porcentajes de ocupación por el dueño y de morosidad están en la guía y cambian. No los cite de memoria. Las revisiones limitadas y las revisiones completas son caminos distintos. Un condominio no garantizable todavía puede ser un préstamo de cartera, pero no es una entrega estándar a una agencia. El número de unidades es una cifra de ejemplo, no una prueba de elegibilidad. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

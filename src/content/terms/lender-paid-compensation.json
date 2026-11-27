@@ -8,7 +8,7 @@
   "complianceNotes": "Separate the originator's compensation calculation from the lender credit shown to the consumer. A plan that pays more when the rate is higher is a term-based plan. Document which compensation method was selected before the Loan Estimate is issued.",
   "example": {
     "setting": "Creditor compensation records; Loan Estimate, page 2, lender credits if the price includes a credit",
-    "text": "On an example loan, the creditor might pay the originator a flat $2,800 and show the consumer a lender credit of $1,500 in exchange for a higher note rate. The two numbers are not the same thing. Example figures."
+    "text": "On an example loan, the creditor might pay the originator a flat $2,800 and show the consumer a lender credit of $1,500 in exchange for a higher note rate. 12 CFR 1026.36(d) allows the creditor to pay the originator and forbids the consumer from also paying that originator on the same loan. A higher rate that produces a lender credit is a loan term. The originator's pay may not increase because that credit, or the rate that produced it, is larger. The credit itself is disclosed under 12 CFR 1026.37. The two numbers are not the same thing. Example figures."
   },
   "citations": [
     "reg-1026-36",
@@ -32,7 +32,7 @@
     "complianceNotes": "Separe el cálculo de la compensación del originador del crédito del prestamista que se muestra al consumidor. Un plan que paga más cuando la tasa es más alta está basado en un término. Documente qué método se eligió antes de emitir la Estimación del préstamo.",
     "example": {
       "setting": "Registros de compensación del acreedor; Estimación del préstamo, página 2, créditos del prestamista si el precio incluye un crédito",
-      "text": "En un préstamo de ejemplo, el acreedor podría pagar al originador $2,800 fijos y mostrar al consumidor un crédito del prestamista de $1,500 a cambio de una tasa del pagaré más alta. Los dos números no son lo mismo. Cifras de ejemplo."
+      "text": "En un préstamo de ejemplo, el acreedor podría pagar al originador $2,800 fijos y mostrar al consumidor un crédito del prestamista de $1,500 a cambio de una tasa del pagaré más alta. 12 CFR 1026.36(d) permite que el acreedor pague al originador y prohíbe que el consumidor también pague a ese originador en el mismo préstamo. Una tasa más alta que produce un crédito del prestamista es un término del préstamo. La paga del originador no puede aumentar porque ese crédito, o la tasa que lo produjo, sea más grande. El crédito en sí se divulga bajo 12 CFR 1026.37. Los dos números no son lo mismo. Cifras de ejemplo."
     }
   }
 }

@@ -8,11 +8,12 @@
   "complianceNotes": "Separate recording fees from transfer taxes on the Loan Estimate. Include recording fees in the 10 percent math. Update them if the security instrument gets longer.",
   "example": {
     "setting": "Loan Estimate, page 2, Section E, recording fees",
-    "text": "A sample recording line might be an example $150 for the deed and the deed of trust, in Section E and in the 10 percent tolerance, not the zero-tolerance group that includes transfer taxes. Example figures."
+    "text": "A sample recording line might be an example $150 for the deed and the deed of trust, in Section E and in the 10 percent tolerance, not the zero-tolerance group that includes transfer taxes. 12 CFR 1026.19(e)(3)(ii) includes recording fees in the 10 percent bucket. Transfer taxes, which are also government charges in Section E, are generally zero tolerance. Do not put both on one line and then apply one bucket to the total. The amounts come from the county or the title company and can change if the loan amount or the page count changes. Example figures."
   },
   "citations": [
     "reg-1026-19",
-    "reg-1026-37"
+    "reg-1026-37",
+    "reg-1026-19-e-3-ii"
   ],
   "related": [
     "closing-costs",
@@ -29,7 +30,7 @@
     "complianceNotes": "Separe los cargos de registro de los impuestos de transferencia en la Estimación del préstamo. Incluya los cargos de registro en la matemática del 10 por ciento. Actualícelos si el instrumento de garantía se alarga.",
     "example": {
       "setting": "Estimación del préstamo, página 2, Sección E, cargos de registro",
-      "text": "Una línea de registro de muestra podría ser un ejemplo de $150 por la escritura y el fideicomiso, en la Sección E y en la tolerancia del 10 por ciento, no en el grupo de tolerancia cero que incluye los impuestos de transferencia. Cifras de ejemplo."
+      "text": "Una línea de registro de muestra podría ser un ejemplo de $150 por la escritura y el fideicomiso, en la Sección E y en la tolerancia del 10 por ciento, no en el grupo de tolerancia cero que incluye los impuestos de transferencia. 12 CFR 1026.19(e)(3)(ii) incluye los cargos de registro en el grupo del 10 por ciento. Los impuestos de transferencia, que también son cargos gubernamentales en la Sección E, tienen por lo general tolerancia cero. No ponga ambos en una sola línea y luego aplique un solo grupo al total. Los montos vienen del condado o de la compañía de títulos y pueden cambiar si cambia el monto del préstamo o el número de páginas. Cifras de ejemplo."
     }
   }
 }

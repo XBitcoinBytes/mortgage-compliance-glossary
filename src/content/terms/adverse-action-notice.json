@@ -11,7 +11,7 @@
   "complianceNotes": "Send the notice on time, with specific reasons, not a generic code that does not match the file. Include the FCRA content when a report was used. Do not wait for the borrower to ask.",
   "example": {
     "setting": "Adverse-action notice sent after a denial or unaccepted counteroffer",
-    "text": "A sample notice might be mailed 18 days after an example completed application, citing debt ratio and credit history. The 18 days are an example figure inside the 30-day rule. Example figures, not a quote or a legal limit."
+    "text": "A sample notice might be mailed 18 days after an example completed application, citing debt ratio and credit history. The 18 days are an example figure inside the 30-day rule. 12 CFR 1002.9 states the timing and content, including counteroffers and incomplete applications. A completed application for this notice is defined in Regulation B. It is not the six TRID items. 15 USC 1681m adds the credit-score and agency content when the action is based on a consumer report. A file that goes quiet can still be an adverse action. Example figures, not a quote or a legal limit."
   },
   "citations": [
     "reg-1002-9",
@@ -40,7 +40,7 @@
     "complianceNotes": "Envíe el aviso a tiempo, con razones específicas, no un código genérico que no coincide con el expediente. Incluya el contenido de la FCRA cuando se usó un informe. No espere a que el prestatario pregunte.",
     "example": {
       "setting": "Aviso de acción adversa enviado después de una denegación o de una contraoferta no aceptada",
-      "text": "Un aviso de muestra podría enviarse por correo 18 días después de una solicitud completa de ejemplo, citando la relación de deudas y el historial de crédito. Los 18 días son una cifra de ejemplo dentro de la regla de 30 días. Cifras de ejemplo."
+      "text": "Un aviso de muestra podría enviarse por correo 18 días después de una solicitud completa de ejemplo, citando la relación de deudas y el historial de crédito. Los 18 días son una cifra de ejemplo dentro de la regla de 30 días. 12 CFR 1002.9 indica el plazo y el contenido, incluidas las contrapropuestas y las solicitudes incompletas. Una solicitud completa para este aviso se define en el Reglamento B. No son los seis datos de TRID. 15 USC 1681m agrega el contenido de la puntuación de crédito y de la agencia cuando la acción se basa en un informe del consumidor. Un expediente que queda en silencio todavía puede ser una acción adversa. Cifras de ejemplo, no una cotización ni un límite legal."
     }
   }
 }

@@ -10,7 +10,7 @@
   "complianceNotes": "Order the certificate early. Do not close a VA loan on a borrower's word that they are eligible. Match the name to the application.",
   "example": {
     "setting": "VA Certificate of Eligibility in the origination file",
-    "text": "A sample certificate might list an example entitlement status of available. Any dollar amount on a real certificate controls over a training example. Example figures are not printed as a current entitlement."
+    "text": "A sample certificate might list an example entitlement status of available. Chapter 2 of VA Pamphlet 26-7 explains how to obtain the certificate and what it tells the lender. Service records, a surviving-spouse claim, or a restoration request can be part of the file. A certificate does not replace residual-income underwriting or the occupancy rule. Any dollar amount on a real certificate controls over a training example. Example figures are not printed as a current entitlement."
   },
   "citations": [
     "va-pamphlet"
@@ -33,7 +33,7 @@
     "complianceNotes": "Pida el certificado temprano. No cierre un préstamo VA con la palabra del prestatario de que es elegible. Haga coincidir el nombre con la solicitud.",
     "example": {
       "setting": "Certificado de elegibilidad de VA en el expediente de originación",
-      "text": "Un certificado de muestra podría listar un estado de derecho de ejemplo de disponible. Cualquier monto en dólares de un certificado real manda sobre un ejemplo de capacitación. Las cifras de ejemplo no se imprimen como un derecho vigente. Cifras de ejemplo."
+      "text": "Un certificado de muestra podría enumerar un estado de derecho de ejemplo de disponible. El Capítulo 2 del Folleto VA 26-7 explica cómo obtener el certificado y lo que le indica al prestamista. Los registros de servicio, una reclamación de cónyuge sobreviviente o una solicitud de restablecimiento pueden formar parte del expediente. Un certificado no sustituye la suscripción por ingreso residual ni la regla de ocupación. Cualquier monto en dólares de un certificado real prevalece sobre un ejemplo de capacitación. Cifras de ejemplo no se imprimen como un derecho vigente."
     }
   }
 }

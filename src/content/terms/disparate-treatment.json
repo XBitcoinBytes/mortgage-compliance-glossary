@@ -8,7 +8,7 @@
   "complianceNotes": "Give similarly situated applicants the same assistance and the same exception criteria. If you deny one file for a large deposit and approve another, the difference needs a real reason in the file.",
   "example": {
     "setting": "Comparative file review of similarly situated applicants",
-    "text": "A sample comparison might show two example applications with the same debt ratio, only one of which received coaching on a gift letter. Example figures are not needed beyond a sample ratio of 40 percent used for both."
+    "text": "A sample comparison might show two example applications with the same debt ratio, only one of which received coaching on a gift letter. Regulation B, 12 CFR 1002.4, and the Fair Housing Act both reach disparate treatment. Evidence can be emails, pricing exceptions, or a pattern in the files. A creditor's explanation must be the true reason and must not itself be discriminatory. Comparative file review is the usual exam technique. Example figures are not needed beyond a sample ratio of 40 percent used for both."
   },
   "citations": [
     "reg-1002-4",
@@ -31,7 +31,7 @@
     "complianceNotes": "Dé a los solicitantes en situación similar la misma ayuda y los mismos criterios de excepción. Si niega un expediente por un depósito grande y aprueba otro, la diferencia necesita una razón real en el expediente.",
     "example": {
       "setting": "Revisión comparativa de expedientes de solicitantes en situación similar",
-      "text": "Una comparación de muestra puede mostrar dos solicitudes de ejemplo con la misma relación de deudas, y solo una recibió ayuda con una carta de regalo. Las cifras de ejemplo no hacen falta más allá de una relación de muestra del 40 por ciento usada para ambas. Cifras de ejemplo."
+      "text": "Una comparación de muestra puede mostrar dos solicitudes de ejemplo con la misma relación de deudas, y solo una recibió ayuda con una carta de regalo. El Reglamento B, 12 CFR 1002.4, y la Ley de Vivienda Justa cubren el trato dispar. La evidencia puede ser correos, excepciones de precio o un patrón en los expedientes. La explicación del acreedor debe ser la razón verdadera y no debe ser en sí discriminatoria. La revisión comparativa de expedientes es la técnica habitual de examen. Las cifras de ejemplo no hacen falta más allá de una relación de muestra del 40 por ciento usada para ambas. Cifras de ejemplo."
     }
   }
 }
